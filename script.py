@@ -50,7 +50,7 @@ try:
                 jobs.append(job_data)
                 elem.clear()
 
-                if len(jobs) >= 1000:
+                if len(jobs) >= 500:
                     json_path = os.path.join(json_folder, f"part_{file_count}.json")
                     print(f"✅ Gerando {json_path} com {len(jobs)} registros.")
                     with open(json_path, "w", encoding="utf-8") as json_file:
