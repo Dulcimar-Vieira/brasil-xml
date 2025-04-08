@@ -1,61 +1,41 @@
-import os
 import json
+import os
 
-# Caminhos
-json_folder = "json_parts"
-merged_file = "merged.json"
+# Caminho da pasta com os arquivos .json
+pasta = 'json_parts'
 
-# Verificar se a pasta existe
-if not os.path.exists(json_folder):
-    print(f"❌ Pasta '{json_folder}' não encontrada.")
-    exit(1)
+# Listar todos os arquivos da pasta que comecem com 'part_' e terminem com '.json'
+arquivos = sorted([
+    f for f in os.listdir(pasta)
+    if f.startswith('part_') and f.endswith('.json')
+])
 
-# Coletar arquivos part_XXX.json em ordem
-json_files = sorted(
-    [f for f in os.listdir(json_folder) if f.startswith("part_") and f.endswith(".json")],
-    key=lambda x: int(x.split("_")[1].split(".")[0])
-)
+print(f"🔍 Arquivos encontrados: {arquivos}")
 
-if not json_files:
-    print("❌ Nenhum arquivo JSON encontrado.")
-    exit(1)
+dados_totais = []
+erros = 0
 
-print(f"🔍 Arquivos encontrados: {json_files}")
-
-all_jobs = []
-falhas = []
-
-# Processar arquivos
-for filename in json_files:
-    caminho = os.path.join(json_folder, filename)
+# Ler e adicionar dados de cada arquivo
+for arquivo in arquivos:
+    caminho_completo = os.path.join(pasta, arquivo)
     try:
-        with open(caminho, "r", encoding="utf-8") as f:
+        with open(caminho_completo, 'r', encoding='utf-8') as f:
             dados = json.load(f)
             if isinstance(dados, list):
-                all_jobs.extend(dados)
-                print(f"✅ {filename}: {len(dados)} registros adicionados.")
+                dados_totais.extend(dados)
             else:
-                print(f"⚠️ {filename}: formato inválido, não é uma lista.")
-                falhas.append(filename)
+                print(f"⚠️ {arquivo} não contém uma lista.")
     except Exception as e:
-        print(f"❌ Erro ao ler {filename}: {e}")
-        falhas.append(filename)
+        erros += 1
+        print(f"❌ Erro ao processar {arquivo}: {e}")
 
-# Tentar salvar mesmo com falhas
-if all_jobs:
-    try:
-        with open(merged_file, "w", encoding="utf-8") as f:
-            json.dump(all_jobs, f, ensure_ascii=False, indent=2)
-        print(f"✅ merged.json criado com {len(all_jobs)} registros.")
-    except Exception as e:
-        print(f"❌ Erro ao salvar merged.json: {e}")
-        exit(1)
+# Salvar os dados no arquivo final
+if dados_totais:
+    with open('merged.json', 'w', encoding='utf-8') as f:
+        json.dump(dados_totais, f, ensure_ascii=False, indent=2)
+    print(f"✅ Arquivo 'merged.json' gerado com {len(dados_totais)} registros.")
 else:
-    print("⚠️ Nenhum dado válido para salvar.")
-    exit(1)
+    print("⚠️ Nenhum dado válido encontrado para gerar o 'merged.json'.")
 
-# Mostrar resumo de falhas
-if falhas:
-    print("⚠️ Arquivos com erro ou formato inválido:")
-    for f in falhas:
-        print(f"  - {f}")
+if erros > 0:
+    print(f"⚠️ {erros} arquivo(s) com erro foram ignorados.")
