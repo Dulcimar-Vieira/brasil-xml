@@ -1,16 +1,13 @@
 import os
 import json
 
-# Caminhos
 json_folder = "json_parts"
 merged_file = "merged.json"
 
-# Verificar se a pasta existe
 if not os.path.exists(json_folder):
     print(f"❌ Pasta '{json_folder}' não encontrada.")
     exit(1)
 
-# Listar e ordenar os arquivos part_1.json, part_2.json, etc.
 json_files = sorted(
     [f for f in os.listdir(json_folder) if f.startswith("part_") and f.endswith(".json")],
     key=lambda x: int(x.split("_")[1].split(".")[0])
@@ -22,10 +19,8 @@ if not json_files:
 
 print(f"🔍 Arquivos encontrados: {json_files}")
 
-# Lista para acumular todos os dados
 all_jobs = []
 
-# Mesclar os dados
 for filename in json_files:
     file_path = os.path.join(json_folder, filename)
     try:
@@ -35,11 +30,14 @@ for filename in json_files:
                 all_jobs.extend(jobs)
                 print(f"✅ {filename}: {len(jobs)} registros adicionados.")
             else:
-                print(f"⚠️ {filename}: formato inesperado.")
+                print(f"⚠️ {filename}: formato inesperado (esperado lista).")
     except Exception as e:
         print(f"⚠️ Erro ao ler {filename}: {e}")
 
-# Salvar o resultado final
+if not all_jobs:
+    print("❌ Nenhum dado válido para salvar.")
+    exit(1)
+
 try:
     with open(merged_file, "w", encoding="utf-8") as f:
         json.dump(all_jobs, f, ensure_ascii=False, indent=2)
