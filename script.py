@@ -9,7 +9,7 @@ from datetime import datetime
 # URL do feed
 feed_url = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
 
-# Criar pasta para os arquivos JSON
+# Pasta onde os arquivos serão salvos
 json_folder = "json_parts"
 os.makedirs(json_folder, exist_ok=True)
 
@@ -18,9 +18,15 @@ for f in os.listdir(json_folder):
     os.remove(os.path.join(json_folder, f))
 
 file_count = 1
-response = requests.get(feed_url, stream=True)
 
-if response.status_code == 200:
+try:
+    response = requests.get(feed_url, stream=True, timeout=120)
+    response.raise_for_status()
+except requests.RequestException as e:
+    print(f"❌ Erro na requisição: {e}")
+    exit(1)
+
+try:
     with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
         jobs = []
         for event, elem in ET.iterparse(f, events=("end",)):
@@ -45,23 +51,22 @@ if response.status_code == 200:
                 jobs.append(job_data)
                 elem.clear()
 
-                # Salvar a cada 1000 registros
                 if len(jobs) >= 1000:
                     json_path = os.path.join(json_folder, f"part_{file_count}.json")
+                    print(f"✅ Gerando arquivo {json_path} com {len(jobs)} registros.")
                     with open(json_path, "w", encoding="utf-8") as json_file:
                         json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-                    print(f"Arquivo salvo: {json_path}")
                     jobs = []
                     file_count += 1
 
-        # Salvar o restante
         if jobs:
             json_path = os.path.join(json_folder, f"part_{file_count}.json")
+            print(f"✅ Gerando arquivo final {json_path} com {len(jobs)} registros.")
             with open(json_path, "w", encoding="utf-8") as json_file:
                 json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-            print(f"Arquivo final salvo: {json_path}")
 
-    print(f"JSONs gerados: {os.listdir(json_folder)}")
+    print(f"📦 JSONs gerados: {os.listdir(json_folder)}")
 
-else:
-    print("Erro ao baixar o feed:", response.status_code)
+except Exception as e:
+    print(f"❌ Erro ao processar o XML: {e}")
+    exit(1)
