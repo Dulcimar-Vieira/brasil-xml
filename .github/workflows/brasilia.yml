@@ -42,18 +42,22 @@ jobs:
 
       - name: Baixar e Processar Feed XML
         run: |
+          echo "📥 Iniciando script.py..."
           python script.py || { echo "❌ Erro no script.py"; exit 1; }
 
       - name: Mesclar arquivos JSON
         run: |
+          echo "🧩 Iniciando merge_json.py..."
           python merge_json.py || { echo "❌ Erro no merge_json.py"; exit 1; }
 
       - name: Verificar arquivos antes do commit
         run: |
-          echo "📁 json_parts:"
+          echo "📁 Conteúdo da pasta json_parts:"
           ls -lh json_parts/ || echo "⚠️ Pasta vazia!"
-          echo "📄 merged.json:"
+          echo "📄 Verificando merged.json:"
           ls -lh merged.json || echo "⚠️ Arquivo não gerado!"
+          echo "🔍 Linhas em merged.json:"
+          wc -l merged.json || echo "⚠️ Não foi possível contar linhas."
 
       - name: Configurar Git
         run: |
