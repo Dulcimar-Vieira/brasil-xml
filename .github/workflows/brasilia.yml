@@ -34,6 +34,7 @@ jobs:
 
       - name: Limpar arquivos antigos
         run: |
+          echo "🧹 Limpando arquivos antigos..."
           rm -f json_parts/*.json
           rm -f merged.json
 
@@ -56,11 +57,11 @@ jobs:
           echo "🔍 Linhas em merged.json:"
           wc -l merged.json || echo "⚠️ Não foi possível contar linhas."
 
-      - name: Verificar existência do merged.json
+      - name: Verificar existência dos arquivos antes do commit
         run: |
-          echo "📁 Verificando arquivos no diretório atual:"
+          echo "📦 Arquivos na raiz:"
           ls -lh
-          echo "📁 Verificando arquivos na pasta json_parts:"
+          echo "📦 Arquivos em json_parts/"
           ls -lh json_parts || echo "⚠️ Pasta json_parts vazia!"
 
       - name: Configurar Git
@@ -71,16 +72,15 @@ jobs:
       - name: Commit e Push dos Arquivos JSON
         run: |
           timestamp=$(date)
-          
-          echo "🔍 Verificando arquivos antes de adicionar ao git..."
-          ls -lh || echo "⚠️ Nenhum arquivo na raiz!"
-          
+          echo "📝 Commit iniciado em $timestamp"
+
           if [ -f "merged.json" ]; then
             git add -f merged.json
+            echo "✅ merged.json adicionado ao git."
           else
             echo "⚠️ merged.json não encontrado!"
           fi
 
-          git add -f json_parts/
+          git add -f json_parts/ || echo "⚠️ json_parts não encontrada"
           git commit -m "🔄 Atualização automática dos arquivos JSON - $timestamp" || echo "⚠️ Nada para commitar"
           git push || echo "⚠️ Nenhuma alteração para enviar"
