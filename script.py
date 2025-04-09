@@ -19,34 +19,28 @@ file_count = 1
 response = requests.get(feed_url, stream=True)
 
 if response.status_code == 200:
+    print("📥 Baixando feed...")
     with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
         jobs = []
         for event, elem in ET.iterparse(f, events=("end",)):
             if elem.tag == "job":
                 title = elem.findtext("title", "").strip()
+                location_elem = elem.find("locations/location")
 
-                # 🔍 Filtrar apenas vagas de Jovem Aprendiz
-                if "jovem aprendiz" in title.lower() or "aprendiz" in title.lower():
-                    location_elem = elem.find("locations/location")
-                    if location_elem is not None:
-                        city = location_elem.findtext("city", "").strip()
-                        state = location_elem.findtext("state", "").strip()
-                    else:
-                        city = ""
-                        state = ""
+                city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
+                state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
 
-                    job_data = {
-                        "title": title,
-                        "description": elem.findtext("description", "").strip(),
-                        "company": elem.findtext("company/name", "").strip(),
-                        "city": city,
-                        "state": state,
-                        "url": elem.findtext("urlDeeplink", "").strip(),
-                        "tipo": elem.findtext("jobType", "").strip(),
-                    }
+                job_data = {
+                    "title": title,
+                    "description": elem.findtext("description", "").strip(),
+                    "company": elem.findtext("company/name", "").strip(),
+                    "city": city,
+                    "state": state,
+                    "url": elem.findtext("urlDeeplink", "").strip(),
+                    "tipo": elem.findtext("jobType", "").strip(),
+                }
 
-                    jobs.append(job_data)
-
+                jobs.append(job_data)
                 elem.clear()
 
                 # Salvar em arquivos de 1000 registros
@@ -54,18 +48,18 @@ if response.status_code == 200:
                     json_path = os.path.join(json_folder, f"part_{file_count}.json")
                     with open(json_path, "w", encoding="utf-8") as json_file:
                         json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-                    print(f"Arquivo salvo: {json_path}")
+                    print(f"✅ Gerando {json_path} com 1000 registros.")
                     jobs = []
                     file_count += 1
 
-        # Salvar os últimos registros restantes
+        # Salvar registros restantes
         if jobs:
             json_path = os.path.join(json_folder, f"part_{file_count}.json")
             with open(json_path, "w", encoding="utf-8") as json_file:
                 json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-            print(f"Arquivo final salvo: {json_path}")
+            print(f"✅ Gerando {json_path} com {len(jobs)} registros.")
 
-    print(f"JSONs gerados: {os.listdir(json_folder)}")
+    print(f"📦 JSONs gerados: {os.listdir(json_folder)}")
 
 else:
-    print("Erro ao baixar o feed:", response.status_code)
+    print("❌ Erro ao baixar o feed:", response.status_code)
