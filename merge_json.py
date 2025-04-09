@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Caminhos
 pasta = 'json_parts'
-merged_file = 'merged.json'
+arquivo_saida = 'merged.json'
 
 # Coletar arquivos válidos
 arquivos = sorted([
@@ -12,7 +12,7 @@ arquivos = sorted([
     if f.startswith('part_') and f.endswith('.json')
 ], key=lambda x: int(x.split('_')[1].split('.')[0]))
 
-print(f"🔍 Arquivos encontrados: {arquivos}")
+print(f"🔍 {len(arquivos)} arquivos encontrados em '{pasta}'.")
 
 dados_totais = []
 erros = 0
@@ -37,12 +37,13 @@ if dados_totais:
         "total_vagas": len(dados_totais),
         "vagas": dados_totais
     }
-    with open(merged_file, 'w', encoding='utf-8') as f:
+    with open(arquivo_saida, 'w', encoding='utf-8') as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2)
-    print(f"✅ Arquivo '{merged_file}' gerado com {len(dados_totais)} vagas.")
-    print(f"📄 Tamanho final: {os.path.getsize(merged_file) / (1024 * 1024):.2f} MB")
+    tamanho_mb = os.path.getsize(arquivo_saida) / (1024 * 1024)
+    print(f"✅ '{arquivo_saida}' gerado com {len(dados_totais)} vagas.")
+    print(f"📄 Tamanho do arquivo final: {tamanho_mb:.2f} MB")
 else:
-    print("⚠️ Nenhum dado válido encontrado. merged.json não foi criado.")
+    print("⚠️ Nenhuma vaga válida encontrada. Arquivo não gerado.")
 
 if erros > 0:
-    print(f"⚠️ {erros} arquivo(s) apresentaram erro e foram ignorados.")
+    print(f"⚠️ {erros} arquivo(s) apresentaram erro durante a leitura.")
