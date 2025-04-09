@@ -2,7 +2,7 @@ name: Processar Feed XML
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Executa a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
