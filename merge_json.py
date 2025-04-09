@@ -47,3 +47,5 @@ else:
 
 if erros > 0:
     print(f"⚠️ {erros} arquivo(s) apresentaram erro durante a leitura.")
+print(f"✅ Gerado {count} arquivos JSON na pasta json_parts.")
+print(f"✅ Arquivo merged.json salvo com sucesso com {len(todas_vagas)} vagas.")
