@@ -2,11 +2,13 @@ import os
 import json
 from datetime import datetime
 
-# Caminhos
 pasta = 'json_parts'
 arquivo_saida = 'merged.json'
 
-# Coletar arquivos válidos
+if not os.path.exists(pasta):
+    print(f"❌ Pasta '{pasta}' não encontrada.")
+    exit(1)
+
 arquivos = sorted([
     f for f in os.listdir(pasta)
     if f.startswith('part_') and f.endswith('.json')
