@@ -1,48 +1,71 @@
+import requests
+import gzip
+import xml.etree.ElementTree as ET
+import io
 import json
 import os
 
-pasta = 'json_parts'
-arquivos = sorted([
-    f for f in os.listdir(pasta)
-    if f.startswith('part_') and f.endswith('.json')
-], key=lambda x: int(x.split('_')[1].split('.')[0]))
+# URL do feed XML.gz
+feed_url = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
 
-print(f"🔍 {len(arquivos)} arquivos encontrados em '{pasta}'.")
+# Criar pasta para os arquivos JSON
+json_folder = "json_parts"
+os.makedirs(json_folder, exist_ok=True)
 
-dados_totais = []
-total_registros = 0
-erros = 0
+# Contador de arquivos
+file_count = 1
+jobs = []
 
-for arquivo in arquivos:
-    caminho = os.path.join(pasta, arquivo)
-    try:
-        with open(caminho, 'r', encoding='utf-8') as f:
-            dados = json.load(f)
-            if isinstance(dados, list):
-                dados_totais.extend(dados)
-                total_registros += len(dados)
-                print(f"✅ {arquivo}: {len(dados)} registros adicionados.")
-            else:
-                print(f"⚠️ {arquivo} não contém uma lista.")
-    except Exception as e:
-        erros += 1
-        print(f"❌ Erro ao processar {arquivo}: {e}")
+print("📥 Baixando feed do WhatJobs...")
+response = requests.get(feed_url, stream=True)
 
-# Salvar todos os dados em merged.json
-if dados_totais:
-    try:
-        with open('merged.json', 'w', encoding='utf-8') as f:
-            json.dump(dados_totais, f, ensure_ascii=False, indent=2)
-        print(f"✅ merged.json criado com {total_registros} registros.")
-        print(f"📄 Tamanho do arquivo: {os.path.getsize('merged.json') / (1024*1024):.2f} MB")
-    except Exception as e:
-        print(f"❌ Erro ao salvar merged.json: {e}")
+if response.status_code == 200:
+    with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
+        for event, elem in ET.iterparse(f, events=("end",)):
+            if elem.tag == "job":
+                # Extração dos dados
+                title = elem.findtext("title", "").strip()
+                description = elem.findtext("description", "").strip()
+                company = elem.findtext("company/name", "").strip()
+                job_type = elem.findtext("jobType", "").strip()
+                url = elem.findtext("urlDeeplink", "").strip()
+
+                location_elem = elem.find("locations/location")
+                city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
+                state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
+
+                job_data = {
+                    "title": title,
+                    "description": description,
+                    "company": company,
+                    "city": city,
+                    "state": state,
+                    "tipo": job_type,
+                    "url": url
+                }
+
+                jobs.append(job_data)
+                elem.clear()
+
+                # Salva lote com 1000 vagas
+                if len(jobs) >= 1000:
+                    if file_count > 100:
+                        print("⛔ Limite de 100 arquivos atingido. Encerrando processamento.")
+                        break
+                    json_path = os.path.join(json_folder, f"part_{file_count}.json")
+                    with open(json_path, "w", encoding="utf-8") as json_file:
+                        json.dump(jobs, json_file, ensure_ascii=False, indent=2)
+                    print(f"✅ Gerado {json_path} com 1000 registros.")
+                    jobs = []
+                    file_count += 1
+
+        # Salvar o restante (menos de 1000)
+        if jobs and file_count <= 100:
+            json_path = os.path.join(json_folder, f"part_{file_count}.json")
+            with open(json_path, "w", encoding="utf-8") as json_file:
+                json.dump(jobs, json_file, ensure_ascii=False, indent=2)
+            print(f"✅ Gerado {json_path} com {len(jobs)} registros finais.")
+
+    print(f"📦 Total de arquivos gerados: {file_count}")
 else:
-    print("⚠️ Nenhum dado válido para salvar em merged.json.")
-
-if erros > 0:
-    print(f"⚠️ {erros} arquivo(s) apresentaram erro.")
-print(f"✅ Total de partes geradas: {parte_atual}")  # ou use len(lista) // 1000 se não tiver variável de controle
-print(f"📁 Arquivos gerados na pasta json_parts:")
-for f in os.listdir("json_parts"):
-    print(" -", f)
+    print(f"❌ Erro ao baixar o feed: {response.status_code}")
