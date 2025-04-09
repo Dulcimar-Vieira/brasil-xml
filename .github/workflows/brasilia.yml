@@ -6,7 +6,7 @@ on:
   workflow_dispatch:  # Permite rodar manualmente
 
 permissions:
-  contents: write  # Permite fazer commit e push no repositório
+  contents: write  # Permite fazer push automático
 
 jobs:
   process-feed:
@@ -16,26 +16,45 @@ jobs:
       - name: Checkout do Repositório
         uses: actions/checkout@v4
 
+      - name: Configurar cache do pip
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Instalar Dependências
-        run: pip install requests
+        run: pip install -r requirements.txt
 
       - name: Garantir pasta json_parts existe
         run: |
           mkdir -p json_parts
           touch json_parts/.gitkeep
 
-      - name: Baixar e Processar Feed XML
+      - name: Limpar arquivos antigos
         run: |
-          python script.py || { echo "Erro ao executar script.py"; exit 1; }
+          rm -f json_parts/*.json
+          rm -f merged.json
 
-      - name: Mesclar arquivos JSON em merged.json
+      - name: Executar script.py
         run: |
-          python merge_json.py || { echo "Erro ao executar merge_json.py"; exit 1; }
+          echo "📥 Iniciando script.py..."
+          python script.py || { echo "❌ Erro no script.py"; exit 1; }
 
-      - name: Verificar arquivos antes do commit
+      - name: Executar merge_json.py
         run: |
-          ls -lh json_parts/ || echo "A pasta json_parts está vazia!"
-          ls -lh merged.json || echo "merged.json não foi gerado!"
+          echo "🧩 Iniciando merge_json.py..."
+          python merge_json.py || { echo "❌ Erro no merge_json.py"; exit 1; }
+
+      - name: Verificar arquivos gerados
+        run: |
+          echo "📁 Conteúdo da pasta json_parts:"
+          ls -lh json_parts/ || echo "⚠️ Pasta vazia!"
+          echo "📄 Verificando merged.json:"
+          ls -lh merged.json || echo "⚠️ Arquivo não gerado!"
+          echo "🔍 Linhas em merged.json:"
+          wc -l merged.json || echo "⚠️ Não foi possível contar linhas."
 
       - name: Configurar Git
         run: |
@@ -44,13 +63,8 @@ jobs:
 
       - name: Commit e Push dos Arquivos JSON
         run: |
-          cd $GITHUB_WORKSPACE
           git add -f json_parts/
           git add -f merged.json
-          git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
-          git push || echo "Nenhuma alteração para enviar"
-
-      - name: Verificar arquivos após o commit
-        run: |
-          ls -lh json_parts/
-          ls -lh merged.json
+          timestamp=$(date)
+          git commit -m "🔄 Atualização automática dos arquivos JSON - $timestamp" || echo "⚠️ Nada para commitar"
+          git push || echo "⚠️ Nenhuma alteração para enviar"
