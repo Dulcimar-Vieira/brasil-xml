@@ -42,3 +42,7 @@ else:
 
 if erros > 0:
     print(f"⚠️ {erros} arquivo(s) apresentaram erro.")
+print(f"✅ Total de partes geradas: {parte_atual}")  # ou use len(lista) // 1000 se não tiver variável de controle
+print(f"📁 Arquivos gerados na pasta json_parts:")
+for f in os.listdir("json_parts"):
+    print(" -", f)
