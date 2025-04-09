@@ -1,10 +1,7 @@
 import json
 import os
 
-# Caminho da pasta com os arquivos .json
 pasta = 'json_parts'
-
-# Listar todos os arquivos da pasta que comecem com 'part_' e terminem com '.json'
 arquivos = sorted([
     f for f in os.listdir(pasta)
     if f.startswith('part_') and f.endswith('.json')
@@ -15,7 +12,6 @@ print(f"🔍 Arquivos encontrados: {arquivos}")
 dados_totais = []
 erros = 0
 
-# Ler e adicionar dados de cada arquivo
 for arquivo in arquivos:
     caminho_completo = os.path.join(pasta, arquivo)
     try:
@@ -29,7 +25,6 @@ for arquivo in arquivos:
         erros += 1
         print(f"❌ Erro ao processar {arquivo}: {e}")
 
-# Salvar os dados no arquivo final
 if dados_totais:
     with open('merged.json', 'w', encoding='utf-8') as f:
         json.dump(dados_totais, f, ensure_ascii=False, indent=2)
