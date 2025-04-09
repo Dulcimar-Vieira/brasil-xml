@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-*.log
-*.tmp
-*.bak
-merged.json
-json_parts/*.json
-!json_parts/.gitkeep
