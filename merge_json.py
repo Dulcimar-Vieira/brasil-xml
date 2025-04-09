@@ -54,4 +54,7 @@ output = {
 with open(merged_file, "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"✅ merged.json criado com {len(all_jobs)} vagas.")
+
+print(f"Total de arquivos mesclados: {len(json_files)}")
+print(f"Total de vagas finais: {len(all_jobs)}")
+print(f"✅ merged.json criado com sucesso!")
