@@ -55,14 +55,14 @@ if response.status_code == 200:
                     jobs.append(job_data)
                     elem.clear()
 
-                    if len(jobs) >= 1000:
+                    if len(jobs) >= 5000:
                         if file_count > 45:
                             print("⛔ Limite de 45 arquivos atingido.")
                             break
                         json_path = os.path.join(json_folder, f"part_{file_count}.json")
                         with open(json_path, "w", encoding="utf-8") as json_file:
                             json.dump(jobs, json_file, ensure_ascii=False, indent=2)
-                        print(f"✅ Gerado {json_path} com 1000 registros.")
+                        print(f"✅ Gerado {json_path} com 5000 registros.")
                         jobs = []
                         file_count += 1
 
