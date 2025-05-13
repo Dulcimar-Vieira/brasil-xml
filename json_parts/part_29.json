@@ -1,230 +1,5 @@
 [
   {
-    "title": "Desenvolvedor fullstack senior",
-    "description": "<p>Estamos em busca de um(a) Desenvolvedor(a) Fullstack Sênior para integrar nosso time de alta performance. O profissional será responsável por desenvolver e manter APIs robustas e escaláveis, migrar sistemas legados para microserviços, e trabalhar com integrações de bancos de dados relacionais e não relacionais. Além disso, será envolvido em processos de ETL com Python, implementação de sistemas de filas com BullMQ e caching com Redis. Se você é apaixonado(a) por inovação e tecnologia, essa é a oportunidade ideal! </p><br/><p><b>Responsabilidades </b> </p><ul><li>Desenvolver e manter APIs robustas e escaláveis para suportar os sistemas legados e novos sistemas; </li><li>Garantir a performance, segurança e escalabilidade dos serviços backend; </li><li>Implementar e otimizar o API Gateway para integração de serviços; </li><li>Migrar sistemas legados para uma arquitetura moderna de microserviços; </li><li>Integrar serviços backend com bancos de dados relacionais e não relacionais; </li><li>Suportar processos de ETL (Extração, Transformação e Carga) utilizando Python; </li><li>Implementar e gerenciar sistemas de filas como BullMQ ou similares para processamento assíncrono; </li><li>Utilizar Redis ou tecnologias similares para caching e suporte a sistemas de filas; </li><li>Garantir a consistência e integridade dos dados trafegados entre os sistemas; </li><li>Monitorar e otimizar a performance dos serviços em produção; </li><li>Documentar algoritmos e processos de desenvolvimento; </li><li>Mentorar e apoiar o desenvolvimento de novos colaboradores. </li> </ul><p><b>Requisitos </b> </p><ul><li>Conhecimentos sólidos em Node.js com Express e/ou Nest.js; </li><li>Experiência com arquitetura de microserviços e API Gateway, preferencialmente Krakend; </li><li>Conhecimentos em bancos de dados relacionais (MySQL, SQL Server, PostgreSQL) e não relacionais (MongoDB); </li><li>Conhecimentos em Python para automação e ETL; </li><li>Experiência com sistemas de filas como BullMQ ou similares; </li><li>Experiência com Redis ou tecnologias similares para caching; </li><li>Experiência com ferramentas de CI/CD (Continuous Integration/Continuous Deployment); </li><li>Familiaridade com sistemas de controle de versão, como Git e Github Flow; </li><li>Conhecimentos em segurança de aplicações e proteção de dados; </li><li>Experiência em monitoramento e otimização de performance de APIs. </li> </ul><p><b>Diferencial </b> </p><ul><li>Conhecimentos em frameworks de front-end como Next.js para colaboração com a equipe de front-end; </li><li>Experiência com outras linguagens de programação, como Go e C++; </li><li>Conhecimento em containers e orquestração (Docker, Kubernetes); </li><li>Familiaridade com metodologias ágeis e ferramentas como Jira. </li> </ul><p><b>Benefícios </b> </p><ul><li>Cartão Flexível de R$800/mês para usar como e onde preferir; </li><li>Aulas de inglês em grupo para impulsionar seu desenvolvimento; </li><li>Auxílio home office ou equipamento para melhorar seu espaço de trabalho; </li><li>Gympass para cuidar da saúde mental e física; </li><li>Reembolso de cursos e especializações além de acesso a plataformas de aprendizado. </li> </ul> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2048963__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-fullstack-senior&location=Rio-de-Janeiro&geoID=19"
-  },
-  {
-    "title": "Desenvolvedor a full stack sr java",
-    "description": "<p>Somos ávidos por tecnologia, criatividade e desafios. </p> <p>Se você gosta de desafios, aprendizado constante e valoriza as conexões pessoais, junte-se a nós! </p> <p><b>Valorizamos a diversidade </b> e acreditamos que ela é fundamental para a inovação e entregas de valor aos nossos clientes. Todas as nossas vagas são destinadas a todas as pessoas, com ou sem deficiência, independentemente de idade, gênero, orientação sexual, etnia, religião ou qualquer outra característica. Se você se identifica com a posição, venha fazer parte do nosso time! </p> <p><b>O QUE BUSCAMOS? </b> </p> <p>Buscamos Devs Full Stack (Java + Angular ou React), em níveis de carreira sênior, que queiram trabalhar conosco em um ambiente descontraído e animado, com aprendizado diário no desenvolvimento de grandes projetos, junto a grandes clientes nacionais e internacionais. Temos escritórios em Maringá, São Paulo e Chicago (EUA), mas a nossa atuação é remota: por aqui preferimos chamar de anywhere office. </p> <p><b>O QUE É NECESSÁRIO PARA A POSIÇÃO? </b> </p> <ul> <li>Experiência em desenvolvimento back-end utilizando linguagem Java (Spring framework, JSF, JSP, Quarkus, Thymeleaf, JAX-RS, gRPC, Hibernate, MyBatis, JPA) </li> <li>Experiência em desenvolvimento front-end utilizando Angular e/ou React </li> <li>Experiência com banco de dados Oracle (PL/SQL) </li> <li>Sólidos conhecimentos de Orientação a objetos </li> <li>Clean Code </li> <li>Design Patterns </li> <li>Experiência com Testes Automatizados </li> <li>Disponibilidade e interesse em atuar com sustentação de sistemas legados </li>  </ul> <p><b>O QUE SERIA UM DIFERENCIAL? </b> </p> <ul> <li>Conhecimento em desenvolvimento Ágil </li>  </ul> <p><b>ETAPAS DO PROCESSO </b> </p> <ol> <li>Fit Cultural </li> <li>Desafio técnico </li> <li>Entrevista técnica </li> <li>Bate-papo com o cliente </li> <li>Proposta </li>  </ol> <p><b>VEM SER OBJECTIVE! </b> </p> <p>Somos formados por uma equipe de criadores, fanáticos por código, métodos ágeis, movidos pelo aprendizado e focados em compartilhar conhecimento. Vemos a tecnologia como liberdade e poder de transformação. Gostamos de questionar, aprender e encontrar caminhos inovadores, sempre baseados em dados. </p> <p>Respeitamos as diferenças e acreditamos que pensamentos, culturas e perspectivas distintas resultam em soluções melhores e aprendizado contínuo. E em meio aos desafios, com métricas e excelentes resultados, gostamos de nos divertir. </p> <p>Com unidades em São Paulo, Maringá, Chicago e Portugal, estamos sempre em busca de talentos que queiram fazer parte e crescer com a gente! </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "",
-    "state": "",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2048965__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-a-full&location="
-  },
-  {
-    "title": "Consultor de vendas manttovany loja de shopping",
-    "description": "<p>Olá! Estamos buscando um novo membro para nossa equipe de vendas.<br/><br/>Esta é uma oportunidade para começar sua carreira como consultor de vendas na loja que tem as melhores marcas de moda do Brasil. Você terá a responsabilidade de atender clientes em nossa loja, apresentando nossas novas coleções e recomendando produtos de acordo com os gostos e estilos de cada um. Além disso, seu principal objetivo será alcançar as metas de vendas estabelecidas, por meio de ótimo atendimento e aconselhamento personalizado.<br/><br/><b>Como consultor júnior, suas principais atribuições serão: </b><br/> </p><ol><li>Recepcionar clientes de forma calorosa e amigável; </li><li>Demonstrar amplo conhecimento sobre nossa linha de produtos; </li><li>Oferecer diferentes opções e sugestões para atender às necessidades de cada cliente; </li><li>Cumprir as metas de vendas estabelecidas; </li><li>Manter a loja organizada e limpa; </li><li>Participar ativamente das reuniões de equipe. </li> </ol><br/><p>Estamos procurando um candidato com espírito de equipe, simpatia no atendimento e disposição para aprender. <b>Desejáveis: </b><br/> </p><ol><li>Ter concluído o ensino médio; </li><li>Disponibilidade para trabalhar final de semana e feriados, de acordo com as necessidades da loja; </li><li>Habilitações básicas de atendimento ao público e vendas; </li><li>Domínio de Pacote Office. </li> </ol><br/><p><b>Benefícios: </b><br/> </p><ol><li>Salário Fixo; </li><li>Vale-transporte; </li><li>Remuneração Variável; </li><li>Uniforme. </li> </ol> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Boa Vista",
-    "state": "Roraima",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2048967__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-vendas&location=Boa-Vista&geoID=1182"
-  },
-  {
-    "title": "Especialista tecnico redes lan ddi",
-    "description": "<p><b>Responsabilidades: </b> </p><ol><li>Executar a configuração do monitoramento de eventos. </li><li>Executar limites aprovados pela BASF e requisitos de criação de incidentes. </li><li>Incidente proativo na Tech Mahindra Systems. </li><li>Coordenar diretamente com o usuário final ou digitalização em equipes regionais, equipes de serviço e contatos do local para triagem. </li><li>Resolução remota de tíquetes de incidentes de ponta a ponta. </li><li>Coordenação com equipes de engenharia de campo, incluindo treinamento e acesso necessários. </li><li>Coordenação com equipes OEM TAC. </li><li>Coordenação com a equipe de recebíveis da BASF Shipping. </li><li>Gerenciamento de estoque de reposição local/regional. </li><li>Resolução automática de tíquetes de incidentes. </li><li>Atualização da CMDB e ferramentas de gerenciamento de ativos. </li><li>Participar do MIM e definir e executar Solução Alternativa/Correção. </li><li>Realizar demais responsabilidades conforme definido no processo de Gerenciamento Normal de Incidentes. </li> </ol><br/><p><b>Experiência Prévia: </b> </p><ol><li>Suporte técnico remoto de redes e seus elementos. </li><li>Suporte remoto a equipes de campo para solução de problemas. </li><li>Controle de sobressalentes e levantamento de patrimônio de rede. </li><li>Bom nível de comunicação entre todos os níveis hierárquicos. </li><li>Conhecimento técnico de redes CISCO, arquitetura, configuração, integração, solução de problemas e controle de SLA em ambiente de rede ativa. </li><li>Coleta de KPI e participação em reuniões periódicas com suporte técnico ao Regional Manager. </li> </ol><br/><p><b>Informações Adicionais: </b> </p><ol><li>Inglês avançado. </li><li>Certificações CISCO. </li><li>Experiência prévia com aplicação de acesso remoto a máquinas de colaboradores em sites. </li><li>Inglês: Intermediário. </li> </ol> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2048978__1953_b4fd12553ef8690f7f86723fdb8f1dd0?utm_source=1953&utm_medium=feed&keyword=Especialista-tecnico-redes&location=São-Paulo&geoID=25"
-  },
-  {
-    "title": "Analista fiscal pj mei",
-    "description": "<p>Objetivo: Apoiar na implantação de novo ERP. </p><p>Atividades: </p><p>Análise e apuração dos tributos ICMS, ICMS ST, ICMS DIFAL, FOT, ISS, IRRF, CSRF, INSS, FUNRURAL, PIS, COFINS; </p><p>Entrega das obrigações acessórias (EFD ICMS/IPI, EFD CONTRIBUIÇÕES, EFD REINF, DECLAN, DOT, DIRF, DCTF); </p><p>Parametrização de cadastro tributário; </p><p>Escrituração de documentos fiscais. </p><br><p>Formação em ciências contábeis ou direito; </p><p>Experiência comprovada como Analista Fiscal (atuação em supermercados será um diferencial); </p><p>Conhecimento da legislação fiscal (Federal, RJ e ES); </p><p>Excel intermediário (com VBA será diferencial); </p><p>Capacidade analítica e atenção aos detalhes; </p><p>Boa comunicação e habilidades interpessoais. </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2048979__1953_b453a9c76e9d45d8d96e05a77120c952?utm_source=1953&utm_medium=feed&keyword=Analista-fiscal-pj&location=Rio-de-Janeiro&geoID=19"
-  },
-  {
-    "title": "Separador de Mercadorias",
-    "description": "<p>- Realizar a separação de mercadorias;<br/>- Armazenagem de novos recebimentos;<br/>- Paletização de produtos;<br/>- Expedição de pedidos;<br/>- Embalamento de pedidos de clientes;<br/>- Trabalho com uso de coletor. </p><h3>Responsabilidades </h3><ol><li>Pontualidade </li><li>Organização </li><li>Vale assiduidade </li><li>Alimentação no Local </li><li>Seguro de vida </li><li>Plano de saúde </li> </ol><h3>Sobre a Empresa </h3><p>Empresa 100% familiar, o Angeloni foi fundado em maio de 1958, pelos irmãos Antenor e Arnaldo, a partir de uma pequena fiambreria em Criciúma, no sul de Santa Catarina. Durante as mais de cinco décadas seguintes, a Rede dedicou-se a desbravar novos mercados e a fortalecer o conceito de bem-servir, estabelecendo premissas modernas e arrojadas, que muito contribuíram para que o Angeloni se transformasse em um modelo na área de Supermercados. </p> #J-18808-Ljbffr",
-    "company": "SUPERMERCADOS ANGELONI",
-    "city": "Tijucas",
-    "state": "Santa Catarina",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2048987__1953?utm_source=1953&utm_medium=feed&keyword=Separador-de-Mercadorias&location=Tijucas&geoID=9116"
-  },
-  {
-    "title": "Agente de Negócios",
-    "description": "<p><b>Sobre o Bradesco </b> </p><p>O Bradesco é um dos maiores grupos financeiros do Brasil, com uma história marcada pelo pioneirismo e inovação. Por meio da nossa carteira amplamente diversificada de produtos financeiros, serviços bancários e de seguros contribuímos com a realização das pessoas e o crescimento sustentável de empresas e sociedade. Venha fazer parte do nosso ecossistema financeiro e impactar a experiência de milhões de pessoas! </p><p>Saiba mais em   </p><p><b>Responsabilidades e atribuições </b> </p><p>Temos oportunidades para você iniciar sua carreira na rede de agências! Com o cargo de Agentes de Negócios você terá a missão de encantar os clientes e não clientes com um atendimento diferenciado. </p><p><b>Requisitos e Qualificações </b> </p><p>O que você precisa ter ou saber? </p><ol><li>Graduação completa ou em curso </li> </ol><p>Será um diferencial se você tiver: </p><ol><li>CPA 10 </li> </ol><p><b>O que nós oferecemos </b> </p><p>No Bradesco valorizamos a saúde e bem-estar, oferecendo um extenso portfólio de benefícios a todas nossas pessoas funcionárias. </p><ol><li>PLR ou Bônus: Conforme a elegibilidade de cargo* </li><li>Convênio Médico </li><li>Convênio Odontológico </li><li>Seguro de Vida </li><li>Vale Alimentação </li><li>Vale Refeição </li><li>Total Pass </li><li>13º Cesta Alimentação </li><li>Vale Transporte (adesão opcional) </li><li>Descontos em produtos e serviços em empresas parceiras </li><li>Previdência Privada (adesão opcional, com participação financeira da Organização Bradesco) </li><li>Viva Bem Bradesco: programa de saúde, bem-estar e qualidade de vida </li><li>Unibrad: Universidade Corporativa Bradesco </li><li>Isenção de Tarifas: condições especiais em diversos produtos e serviços </li><li>Auxílio Creche ou Babá </li><li>Licença Paternidade estendida de 20 dias </li><li>Licença Maternidade de 180 dias, acompanhamento assistencial da gestação até o pós-parto </li> </ol><p><b>Etapas do nosso processo seletivo: </b> </p><ol><li>Inscrição online </li><li>Análise de perfil </li><li>Avaliações online </li><li>Vídeo entrevista </li><li>Processo admissional </li> </ol><p><b>Atenção: </b> algumas etapas são eliminatórias, os(as) candidatos(as) recebem comunicações via e-mail sobre o andamento do seu processo. </p> #J-18808-Ljbffr",
-    "company": "Banco Bradesco",
-    "city": "Sertanópolis",
-    "state": "Paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2048994__1953?utm_source=1953&utm_medium=feed&keyword=Agente-de-Neg%C3%B3cios&location=Sertanópolis&geoID=8752"
-  },
-  {
-    "title": "Analista de marketing pleno home office pj",
-    "description": "<p>Sobre a empresa:<br>Somos uma empresa em expansão, com sede em Maringá, e estamos em busca de um profissional qualificado para fortalecer nossa equipe de marketing. Trabalhamos com o modelo 100% remoto, promovendo inovação, resultados e excelência. </p><p>O que esperamos de você:<br>Você será peça-chave no desenvolvimento e execução de estratégias de marketing digital que impactem diretamente nossos resultados. Buscamos alguém criativo, proativo e com perfil analítico. </p><p>Principais Responsabilidades:<br>Criação de Sites: Desenvolvimento de sites modernos, funcionais e otimizados.<br>Planejamento de Conteúdo: Estratégias de conteúdo alinhadas à marca e ao público.<br>Design Visual e Vídeos: Criação de artes impactantes e edição de vídeos animados e institucionais.<br>Gestão de Campanhas: Planejamento, execução e análise de campanhas no Meta Ads, Google Ads, LinkedIn Ads e outras plataformas.<br>Desenvolvimento de Estratégias: Estruturar funis de vendas, automação de e-mails e processos de captação/retenção de clientes.<br>Análise de Métricas: Monitoramento de KPIs, diagnóstico de melhorias e plano de ação baseado em dados.<br>Materiais Promocionais: Produção de materiais criativos e alinhados com a identidade da marca. </p><br><p>Requisitos Obrigatórios:<br>Experiência comprovada em marketing digital, criação de conteúdo e design.<br>Conhecimento avançado em plataformas de anúncios e análise de métricas.<br>Habilidade com funis de vendas, e-mail marketing e automação.<br>Perfil analítico, detalhista e focado em resultados.<br>Capacidade de autogestão e organização. </p><br><p>Diferenciais:<br>Portfólio robusto demonstrando suas habilidades e resultados.<br>Experiência em empresas de tecnologia, startups ou SaaS.<br>Por que se juntar a nós?<br>Se você busca um ambiente dinâmico, inovador e focado em resultados, aqui é o seu lugar! Trabalhe remotamente, contribua para o crescimento de uma empresa em expansão e seja reconhecido pelo impacto que gera. </p><p>Como se candidatar:<br>Envie seu portfólio e currículo para (inserir e-mail). Venha fazer parte de uma equipe comprometida com inovação e excelência no marketing! </p><p>O que oferecemos: </p><p>Remuneração: R$ 3.000,00 a R$ 3.500,00 + R$ 500,00 de ajuda de custo.<br>Bonificação: Premiação variável baseada em resultados e desempenho.<br>Modelo de contrato: PJ (Pessoa Jurídica).<br>Obs.: É necessário possuir notebook próprio. </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Maringá",
-    "state": "Paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2048999__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-marketing&location=Maringá&geoID=5194"
-  },
-  {
-    "title": "Consultor de projetos em cx salesforce",
-    "description": "<p>E aí, tudo azul? </p><p>Somos a locadora do futuro e aceleramos em oferecer uma experiência incrível, 100% digital, sustentada pelo uso sem freios de tecnologia e amor aos nossos Turbilovers (sim! Nós abrimos carros pelo app, isso é sobre tecnologia). </p><p>Estamos em busca de uma pessoa para a posição de <b>Consultor de Projetos em CX </b>, com foco em <b>SalesForce </b>. </p><p>Os desafios que irá encontrar na sua corrida diária serão: </p><ul><li>Planejar, coordenar e executar projetos de transformação digital focados em experiência do cliente nos canais de atendimento Turbi, utilizando Salesforce como ferramenta central; </li><li>Atuar como especialista em Salesforce, desde a implementação, manutenção e automação de atendimento ao cliente, com foco em Service Cloud; </li><li>Avaliar e mapear processos internos do cliente para propor melhorias no atendimento, automação e fluxo de informações através do Salesforce e demais ferramentas de atendimento; </li><li>Criar relatórios e dashboards em Salesforce para monitoramento da performance da jornada da operação e jornada de CX. </li> </ul><p><b>Sem esses itens não conseguimos rodar: </b><br/><br/><b>Hard Skills: </b> </p><ul><li>Conhecimento avançado na plataforma Salesforce, preferencialmente com certificações como Salesforce Administrator, Salesforce Consultant, ou similares; </li><li>Vivência em projetos de transformação digital com foco em Customer Experience (CX); </li><li>Conhecimento avançado em integração de sistemas e automação de processos com Salesforce; </li><li>Experiência prévia em projetos de consultoria em Salesforce; </li><li>Capacidade de gestão de projetos, com entendimento de metodologias ágeis (Scrum, Kanban, etc.); </li><li>Entendimento profundo de métricas de atendimento: TMO, Nível de Serviço, CSAT, TEF, etc; </li><li>Desejável conhecimento de SQL, Tableau, Google Tools e Excel. </li> </ul><p><b>Soft Skills: </b> </p><ul><li>Pensamento analítico: tomada de decisão baseada em dados; </li><li>Capacidade de trabalhar em colaboração com demais times: trabalhar em conjunto com as equipes de operação de CX, tecnologia e dados; </li><li>Bom relacionamento e visão de negócio na relação com fornecedores externos. </li> </ul><p><b>O que a Turbi te oferece? </b> </p><ul><li>Modelo de contratação: PJ - Competitivo com o mercado; </li><li>Plano de Saúde Sulamérica; </li><li>Plano Odontológico Bradesco; </li><li>Gympass; </li><li>TurbiFree 1k mensal; </li><li>Férias remuneradas (30 dias) após 12 meses; </li><li>DayOff de aniversário. </li> </ul><p>Na Turbi Tower, você encontrará proximidade entre os times e descompressão, um ambiente agradável e confortável para te receber sempre que quiser e precisar, ambiente dinâmico, promissor e desafiador, muita liberdade e autonomia em seu dia. </p><p>Vamos juntos(as), transformar a mobilidade urbana? </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049000__1953_e725db623d68ba8b3e8054b685b314ac?utm_source=1953&utm_medium=feed&keyword=Consultor-de-projetos&location=São-Paulo&geoID=25"
-  },
-  {
-    "title": "Gestor comercial presencial londrina pr",
-    "description": "<p>Uma agência de viagens especializada em oferecer experiências de alto padrão está em busca de um Gestor Comercial comprometido e ambicioso, com paixão por viagens. O ambiente é dinâmico, com foco em metas e atendimento ao cliente. Se você tem habilidades comerciais, é proativo e busca crescimento profissional, essa vaga pode ser ideal para você! </p><br/><p>Como Gestor Comercial, você será responsável pela liderança de uma equipe comercial formada por vendedores presenciais e remotos, garantindo que as metas sejam alcançadas e que a equipe esteja em constante desenvolvimento. A posição exige fortes habilidades de gestão, capacidade de formar líderes e uma abordagem estratégica para monitorar e melhorar a performance do time. Além disso, você será responsável por criar e ministrar treinamentos, acompanhar o progresso de cada vendedor e, ocasionalmente, realizar vendas de alto valor. </p><br/><h3>RESPONSABILIDADES </h3><ol><li>Gerenciar uma equipe de vendedores presenciais e uma equipe remota, monitorando suas atividades e desempenho. </li><li>Implementar e gerir ferramentas que façam a gestão da equipe remota. </li><li>Definir e acompanhar indicadores de metas, com foco em comportamento, desempenho e resultados. </li><li>Desenvolver e implementar treinamentos regulares, além de criar materiais de suporte para o desenvolvimento da equipe. </li><li>Realizar acompanhamento constante, promovendo feedbacks e impulsionando o desenvolvimento profissional dos vendedores. </li><li>Incentivar um ambiente de trabalho colaborativo, pautado no respeito, ética e sigilo profissional. </li><li>Atuar no desenvolvimento de líderes dentro da equipe, promovendo talentos e preparando sucessores. </li><li>Eventualmente, participar diretamente do processo de vendas, garantindo o fechamento de negócios estratégicos. </li><li>Manter o compromisso com as metas de vendas e de desenvolvimento da equipe, alinhando os objetivos comerciais com a estratégia da empresa. </li><li>Realizar treinamento do time, tanto trazendo o de fora como, focando em soft e hard skills. </li><li>Elaborar e executar ações de campanhas de vendas, como email marketing, lives, disparos em massa em redes de WhatsApp. </li><li>Engajar os vendedores a terem uma participação ativa nas mídias sociais através de stories e publicações. </li><li>Buscar inovações tecnológicas para otimizar tempo e performance do time. </li> </ol><br/><h3>REQUISITOS </h3><ol><li>Experiência comprovada em gestão de equipes de vendas. </li><li>Forte capacidade de liderança e desenvolvimento de equipes, com experiência na formação de líderes. </li><li>Conhecimento em indicadores de performance (KPIs) e estratégias de gerenciamento de metas. </li><li>Excelentes habilidades de comunicação e negociação. </li><li>Capacidade de elaborar e ministrar treinamentos para equipes comerciais. </li><li>Proatividade, ética e habilidade para lidar com sigilo profissional. </li> </ol><br/><h3>DESEJÁVEL </h3><ol><li>Ensino superior completo em Administração, Gestão Comercial, Marketing ou áreas correlatas. </li><li>Especialização ou cursos em gestão de pessoas, liderança ou coaching será considerado um diferencial. </li><li>Experiência em vendas de produtos/serviços de alto valor é desejável. </li> </ol> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Londrina",
-    "state": "Paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049017__1953?utm_source=1953&utm_medium=feed&keyword=Gestor-comercial-presencial&location=Londrina&geoID=4910"
-  },
-  {
-    "title": "Backend developer python pleno e senior",
-    "description": "<p>Share People Hub in partnership with ABI Growth Group | AB InBev, search for a Backend Developer (Python), to work in remote model in Campinas/SP.<br/> </p><p><b>About AB InBev </b> </p><p>AB InBev is the leading global brewer and one of the worlds top 5 consumer product companies. With over 500 beer brands, we're number one or two in many of the worlds top beer markets, including North America, Latin America, Europe, Asia, and Africa. </p><p><b>About ABI Growth Group </b> </p><p>ABIs Growth Division is the center of innovation and tech development within ABI, which is driving ABIs growth by developing innovations for the core beer business and creating new hyper-growth tech businesses. </p><p>ABI Growth includes the following business lines: BEES (our business-to-business e-commerce and SaaS business, also focused on new technologies), TaDa and Ze Delivery (our direct-to-consumer e-commerce businesses), and several other high-tech divisions, including fintech and venture capital. </p><p><b>What you'll do </b> </p><ul><li>Be part of a cross-functional team, directly contributing to feature development and maintenance of a global product. </li><li>Advocate for the user experience when communicating with product, design, and tech. </li><li>Follow best development practices to achieve continuous improvement. </li><li>Provide the team with a quality strategy that supports the team's delivery goals. </li><li>Be constantly challenged to create world-class solutions. </li> </ul><p><b>What you'll need </b> </p><ul><li>University degree in courses related to computing such as Computer Engineering, Computer Science, Information Systems, and Systems Analysis and Development. </li><li>Solid fundamentals in object-oriented design, data structures, algorithms, and problem solving. </li><li>Be proficient in Python programming language and its main frameworks. </li><li>Experience in Systems Architectural styles (Monolith, Plugin, SOA, Microservices, Event-driven). </li><li>Experience in Architecture concepts (Software design, hexagonal architecture, onion, clean architecture). </li><li>Experience in API and capabilities. </li><li>Experience in Cloud platforms and main providers. </li><li>Experience in SQL and NoSQL databases. </li><li>Experience in IAC Technologies. </li><li>Experience in System Modeling (desirable experience on tactical DDD). </li><li>Experience in Monitoring Tools, Metrics, and Observability. </li><li>Experience in Agile Framework. </li><li>Experience in DevOps culture, automation (CI/CD), and main tools. </li><li>Knowledge in Quality (stress tests, load, TDD, BDD). </li> </ul><p><b>What We Offer: </b> </p><ul><li>Performance based bonus* </li><li>Attendance bonus* </li><li>Private pension plan </li><li>Meal Allowance </li><li>Casual office and dress code </li><li>Days off* </li><li>Health, dental, and life insurance </li><li>Medicines discounts </li><li>WellHub partnership </li><li>Childcare subsidies </li><li>Discounts on Ambev products* </li><li>Club Ben partnership </li><li>Scholarship* </li><li>School materials assurance </li><li>Language and training platforms </li><li>Transport allowance </li> </ul><p>*Rules applied </p><p><b>Equal Opportunity & Affirmative Action: </b> </p><p>We are proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, color, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other applicable legally protected characteristics. </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "",
-    "state": "",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049020__1953_7bd20c8979d7a7ea0d9b423ff6d03b9f?utm_source=1953&utm_medium=feed&keyword=Backend-developer-python&location="
-  },
-  {
-    "title": "Product ml ai engineer",
-    "description": "<p>We are seeking an exceptional Machine Learning (ML) Engineer to join us in shaping the future of Generative Artificial Intelligence (GenAI). As a ML Engineer, you will be an integral part of our Product Technology group, focusing on the development and deployment of generative AI models. You will collaborate closely with data scientists, software engineers, and product managers to design, implement, and optimize machine learning models that power our AI-driven products. This role offers an exciting opportunity to work with state-of-the-art technologies and make a tangible impact on the future of GenAI. </p><p><b>Responsibilities: </b> </p><ol><li><b>Model Development & Optimization: </b> Design, develop, and train machine learning algorithms and models, with a focus on GenAI. Experiment with and fine-tune models to achieve optimal performance for specific applications and use cases. </li><li><b>Data Pipeline Management: </b> Build and maintain scalable data pipelines that support the training and deployment of machine learning models. Ensure data quality and integrity throughout the model development lifecycle. </li><li><b>Integration & Deployment: </b> Work closely with software engineers to integrate machine learning models into production environments. Optimize models for real-time inference, ensuring low-latency and high-throughput performance. </li><li><b>Collaboration & Innovation: </b> Collaborate with cross-functional teams to understand product requirements and translate them into technical specifications. Be the subject matter expert and stay up-to-date with the latest research in GenAI and ML, and apply new techniques to improve our products. </li><li><b>Testing & Validation: </b> Develop and implement robust testing frameworks to validate model performance and reliability. Continuously monitor and refine models in production to maintain accuracy and efficiency. </li><li>Participate in code reviews, contribute to open-source projects, and mentor junior engineers. </li> </ol><p><b>Required Qualifications: </b> </p><ol><li>Professional experience: 2+ years in developing and implementing AI/ML models and algorithms at production level. </li><li>Education: BSc or MSc degree in Computer Science, Data Science/Machine Learning, or a related field. </li> </ol><p><b>Preferred Qualifications: </b> </p><ol><li><b>Technology stack: </b> Theoretical foundation in deep learning, traditional machine learning, probability and statistics, natural language processing, computer vision, data wrangling and preparation, and model evaluation and interpretation. </li><li><b>Cloud Platforms: </b> AWS, Azure, GCP </li><li><b>Development: </b> Python, Julia, Go, PyTorch, Scikit-learn, Keras, CI/CD pipelines, and version control. </li><li><b>MLOps: </b> Practices and tools for model deployment and monitoring. </li><li><b>Databases: </b> PostgreSQL, MySQL, MongoDB, Redis. </li><li><b>Container/Orchestration: </b> Docker, Kubernetes, Docker Swarm. </li><li>Masters or PhD in Computer Science or related technical fields. </li> </ol><p><b>Professional Attributes: </b> </p><ol><li><b>Problem Solving: </b> Ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence. </li><li><b>Collaboration and Communication: </b> Proficiency in working cross-functionally, communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives. </li><li><b>Project Management and Prioritization: </b> Demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals. </li><li><b>Critical Thinking: </b> Ability to carefully evaluate assumptions, question established methodologies, challenge own biases, and maintain skepticism when interpreting results. </li><li><b>Curiosity and Continuous Learning: </b> Ability to stay curious about advances in related fields and constantly seek opportunities to expand knowledge base. </li><li><b>Emotional Intelligence and Intellectual Humility: </b> Capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embrace uncertainty, acknowledge mistakes, and value others' contributions. </li> </ol><p>By joining our team, you become part of a community that embraces diversity, inclusiveness, and lifelong learning. We nurture curiosity and creativity, encouraging exploration beyond conventional wisdom. Through mentorship, knowledge exchange, and constructive feedback, we cultivate an environment that supports both personal and professional development. </p><p><b>Benefits: </b> </p><ul><li>Medical insurance (SulAmérica) - adding dependents will incur an additional charge; </li><li>Meal Voucher credited at Flash Card; </li><li>Life Insurance; </li><li>Stock Options. </li> </ul><p>We will be happy to look at your application! </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "",
-    "state": "",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049028__1953_739a57b0dea87c3c612a82df9ebca99b?utm_source=1953&utm_medium=feed&keyword=Product-ml-ai&location="
-  },
-  {
-    "title": "Desenvolvedor back end pleno",
-    "description": "<p>Somos uma empresa formada por especialistas em comunicação, inteligência de dados e desenvolvedores altamente qualificados. Todos focados em chegar na melhor solução para sua empresa. </p><p>Estamos em busca de um <b>Desenvolvedor Back-end Pleno </b> para compor nosso time e atuar no desenvolvimento de soluções baseadas em Inteligência Artificial. O foco será na criação e manutenção de arquiteturas escaláveis, com forte utilização de Python e integração de modelos de IA, incluindo GenAI. </p><br/><p><b>Requisitos: </b> </p><ul><li>Experiência sólida em desenvolvimento back-end com Python (Django, Flask ou FastAPI); </li><li>Experiência em design e consumo de APIs RESTful; </li><li>Conhecimento em bancos de dados relacionais (PostgreSQL, MySQL) e não-relacionais (MongoDB, Redis); </li><li>Familiaridade com boas práticas de DevOps e integração contínua (CI/CD); </li><li>Experiência com serviços de nuvem, especialmente Azure; </li><li>Conhecimento em manipulação e deploy de modelos de IA/machine learning; </li><li>Inglês técnico para leitura e escrita. </li> </ul><p><b>Responsabilidades: </b> </p><ul><li>Projetar, desenvolver e manter APIs e serviços back-end escaláveis para aplicações baseadas em IA; </li><li>Integrar e otimizar modelos de IA em pipelines de produção; </li><li>Trabalhar em conjunto com os times de front-end e ciência de dados para implementar soluções robustas e eficientes; </li><li>Garantir a segurança, desempenho e confiabilidade das aplicações; </li><li>Implementar e monitorar sistemas de versionamento e deploy contínuo (CI/CD); </li><li>Documentar soluções técnicas e realizar revisões de código. </li> </ul><p><b>Diferenciais: </b> </p><ul><li>Experiência com GenAI e bibliotecas como Transformers (Hugging Face), TensorFlow ou PyTorch; </li><li>Conhecimento em contêineres e orquestração (Docker, Kubernetes); </li><li>Experiência com ambientes serverless (Azure Functions, AWS Lambda); </li><li>Certificações relacionadas a nuvem ou IA; </li><li>Familiaridade com metodologias ágeis (Scrum, Kanban). </li> </ul><p><b>Benefícios: </b> </p><ul><li>Vale Refeição ou Alimentação: R$1.000,00; </li><li>Plano de Saúde: Bradesco (integralmente pago pela empresa para o colaborador); </li><li>Plano Odontológico: Bradesco (com desconto em folha de aprox. R$ 14,47); </li><li>Vale Transporte: conforme regras CLT; </li><li>R$ 200,00 de Auxílio Home-Office; </li><li>Programa Aprenda Mais: reembolso parcial de cursos e certificações; </li><li>Gift - No mês de aniversário você pode escolher um “day off”; </li><li>Bonificação de final de ano orientada a metas definidas anualmente pela empresa e conforme regras de elegibilidade. </li> </ul><p>Oportunidade de fazer parte de uma cultura inclusiva e colaborativa!<br/>Todos podem ser quem realmente são. </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049034__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-back-end&location=Rio-de-Janeiro&geoID=19"
-  },
-  {
-    "title": "Consultor de Vendas - Freguesia do ó - SP",
-    "description": "<p>Local: Região da Freguesia do Ó, São Paulo<br/>Empresa: Maior cartão de descontos do Brasil. Oferece benefícios em saúde, educação, lazer, cashback e descontos em compras. </p><h3>Responsabilidades: </h3><ol><li>Realizar a venda de cartões de desconto, apresentando aos clientes as vantagens e benefícios oferecidos pela empresa. </li><li>Manter um relacionamento próximo com os clientes, auxiliando-os a tirar o melhor proveito do produto. </li><li>Atingir metas mensais de vendas, com comissão que pode ultrapassar os R$6.000,00, conforme a performance. </li> </ol> #J-18808-Ljbffr",
-    "company": "Winnin",
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049048__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=São-Paulo&geoID=25"
-  },
-  {
-    "title": "Auxiliar de armazem turno noite em frederico westphalen",
-    "description": "<p>Atribuições e Responsabilidades: </p><ul><li>Efetuar a separação cuidadosa dos produtos no armazém da Revenda; </li><li>Promover a montagem das cargas e a organização do estoque conforme procedimento padrão; </li><li>Executar atividades afins, atendendo solicitações de superiores; </li><li>Cumprir rigorosamente todos os procedimentos, normas e especificações da empresa e do cliente; </li><li>Utilizar corretamente uniformes e equipamentos de proteção disponibilizados pela empresa; </li><li>Comprometer-se com as metas operacionais definidas em conjunto com o cliente, DPO e Programa de Excelência; </li><li>Demonstrar comportamento pessoal e profissional compatíveis com a função; </li><li>Zelar diariamente pela apresentação pessoal de acordo com as exigências da empresa e do cliente. </li> </ul><p>Horário: 18:30-22h e das 23h -03:30 de segunda à sexta-feira e sábado das 13:30 às 17:30. </p><p>Mínimos Requisitos: </p><ul><li>Meio de deslocamento próprio; </li><li>Ensino Fundamental; </li><li>Aptidão Física; </li> </ul><p>Benefícios: </p><ul><li>Prêmio Pontualidade; </li><li>Item de Performance; </li><li>Vale Alimentação; </li><li>Janta; </li><li>Seguro de Vida; </li><li>Unimed (50%); </li><li>Plano Odontológico; </li> </ul> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Frederico Westphalen",
-    "state": "Rio Grande do Sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049052__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-armazem&location=Frederico-Westphalen&geoID=3298"
-  },
-  {
-    "title": "Pessoa Coordenadora de RH",
-    "description": "<h3>Job description </h3><p>Estamos em busca de uma <strong>PESSOA COORDENADORA DE RH </strong> para atuar em nosso time de <strong>PESSOAS & CULTURA </strong> de <strong>CultSP Pro </strong>. </p><br/><h3>Main responsibilities </h3><p><strong>Como será o seu dia a dia: </strong> </p><ul><li>Definir estratégias e direcionar os profissionais responsáveis pelas frentes de aquisição de talentos, treinamento, desenvolvimento, remuneração e comunicação interna; </li><li>Atuar como Business Partner das lideranças, fortalecendo a cultura organizacional a fim de desenvolver uma estrutura funcional e fornecer subsídios para as tomadas de decisão estratégicas relacionadas ao capital humano da organização; </li><li>Garantir através de boas práticas, a conformidade das ações da área de RH, de acordo com a legislação trabalhista vigente em parceria com o Departamento Pessoal; </li><li>Desenvolver e implementar projetos inerentes à área como: Avaliação de desempenho, plano de sucessão, trilha de carreira, pesquisa de clima, entre outros; </li><li>Garantir a manutenção do plano de cargos e salários; </li><li>Realizar a prospecção e gestão do orçamento da área de RH; </li><li>Produzir relatórios gerenciais da área a fim de fornecer subsídios à gerência; </li><li>Implementar e coordenar indicadores da área; </li><li>Gerir as metas contratuais sob a responsabilidade da área de RH; </li><li>Propor e elaborar estudos de custo de pessoal a fim de apoiar nas tomadas de decisão em relação à abertura de novas posições, movimentações e promoções; </li><li>Realizar gestão da área de RH atuando no projeto correspondente; </li><li>Acompanhamento e conferência do fechamento dos processos de folha de pagamento e benefícios; </li><li>Atuar como parceiro estratégico da diretoria e/ou líderes, dando suporte nas tomadas de decisões que envolvam a Administração de Pessoal da organização; </li><li>Garantir através de boas práticas, a conformidade das ações de contratação de pessoal, de acordo com a legislação trabalhista vigente; </li><li>Gerir o custo de pessoal e prospectar orçamento de headcount do projeto do IDG. </li> </ul><br/><h3>Requirements and skills </h3><p><strong>O que é necessário para esta posição: </strong> </p><ul><li>Ensino superior completo em Psicologia, Administração de Empresas, Gestão de Recursos Humanos, ou afins; </li><li>Experiência Generalista na área de Recursos Humanos; </li><li>Conhecimento em implantação de sistema de folha de pagamento e legislação trabalhista. </li> </ul><p><strong>Será um diferencial se você tiver: </strong> </p><ul><li>Vivência com processos de remuneração – cargos e salários. </li> </ul><br/><h3>Additional information </h3><p><strong>Nossos benefícios: </strong> </p><ul><li><strong>Vale-Refeição e Vale-Alimentação: </strong> Disponibilizamos o cartão flexível <strong>Ticket Flex </strong>, podendo ser utilizado para as funções alimentação e refeição em qualquer estabelecimento com a bandeira Ticket; </li><li><strong>Vale transporte: </strong> De acordo com as regras da CLT; </li><li><strong>Day off de aniversário: </strong> Uma folga para você comemorar o seu dia; </li><li><strong>Assistência médica: </strong> com cobertura nacional da SulAmérica; </li><li><strong>Assistência odontológica Amil: </strong> Com ampla cobertura nacional, a adesão do plano é opcional; </li><li><strong>Gympass: </strong> Plataforma que oferece diversas redes de academias, estúdios e aplicativos de bem-estar; </li><li><strong>Seguro de Vida Prudential: </strong> Proteção extra para sua família; </li><li><strong>Vale Cesta de Natal: </strong> Valor creditado em um cartão presente para um Natal ainda mais acolhedor; </li><li><strong>Acesso aos nossos Museus: </strong> Acesso gratuito aos nossos equipamentos culturais para você e sua família/amigos. </li> </ul> #J-18808-Ljbffr",
-    "company": "IDG - Instituto de Desenvolvimento e Gestão",
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049095__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-Coordenadora-de&location=São-Paulo&geoID=25"
-  },
-  {
-    "title": "Controller de Gestão Industrial III - Carambeí - PR",
-    "description": "<h3>Controller de Gestão Industrial III - Carambeí - PR </h3><p><strong><em>Venha fazer parte da empresa número 1 de lácteos do Brasil!!! </em> </strong> </p><p>O Grupo Lactalis é líder mundial no mercado de Lácteos. Nossos produtos estão presentes em 88 países com 270 fábricas e quase 100 mil colaboradores movidos pela missão de levar ao mundo o melhor do leite através de marcas como: Parmalat, Président, Batavo, Poços de Caldas, Itambé, Elegê, Chamyto, Chan Delle, Chambinho e Nutrifont. </p><p>Toda a condução do nosso trabalho tem base em valores históricos: <strong>Ambição </strong>, <strong>Engajamento </strong> e <strong>Simplicidade </strong>. Acreditamos em uma atuação global, sem perder o foco do desempenho individual e local. Sabemos que o desenvolvimento do negócio é resultado do sucesso dos nossos colaboradores e valorizamos a demonstração do espírito empreendedor e do brilho nos olhos. O engajamento, o comprometimento e a acessibilidade são atitudes vividas por nós, todos os dias. <em>Temos todos uma paixão em comum:  </em><strong><em>o amor pelo leite </em> </strong>. </p><p>Estamos em busca de uma pessoa para ocupar a posição de <strong>Controller de Gestão Industrial III - Carambeí - PR. </strong> </p><ol><li>Preparação de informações para análise de rentabilidade e performance operacional; </li><li>Conceituar e executar análises para identificar oportunidades de melhoria da rentabilidade industrial; </li><li>Análise e aperfeiçoamento de alocações de gastos e perdas; </li><li>Consolidação e conciliação de DRE em formato analítico, conforme metodologia do grupo; </li><li>Suporte às solicitações de análises e oportunidades solicitadas pelo Gerente Industrial; </li><li>Excel Avançado: Domínio de planilhas e ferramentas avançadas do Excel para análises financeiras detalhadas; </li><li>Sistemas de Gestão Financeira: Familiaridade com softwares de gestão financeira e contábil, como ERP (Enterprise Resource Planning); </li><li>Análise de Dados: Capacidade de interpretar e analisar dados financeiros, elaborando relatórios gerenciais precisos; </li><li>Atuação anterior como Controller de Gestão Industrial; </li><li>Formação completa em Administração, Ciências Contábeis, Engenharia de Produção ou Alimentos. </li> </ol> #J-18808-Ljbffr",
-    "company": "Lactalis Group",
-    "city": "Carambeí",
-    "state": "Paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049133__1953_af8a647894557bf813df5aed534a7e28?utm_source=1953&utm_medium=feed&keyword=Controller-de-Gest%C3%A3o&location=Carambeí&geoID=1956"
-  },
-  {
-    "title": "Consultor de vendas bc fertilis brasil sorriso ou lucas do rio verde mato grosso",
-    "description": "<p><b>Sobre a Empresa: </b> </p><p>Com presença em 29 países e mais de 50 produtos inovadores em nosso portfólio, a BC Fertilis se destaca na produção de biotecnologia nutricional, adjuvantes, bioestimulantes e muito mais. A empresa, que tem expandido sua capacidade de produção para 8 milhões de litros por ano, é dedicada a melhorar o rendimento e a qualidade das colheitas globalmente. Nossa filial brasileira, estabelecida em Pinhais-PR, visa atender às necessidades do agronegócio brasileiro e internacionalizar nossa oferta de produtos. </p><p><br/><b>Principais Atividades ou Funções: </b> </p><ol><li>Analisar e identificar clientes potenciais usando inteligência de mercado; </li><li>Realizar vendas do portfólio de produtos Fertilis, promovendo as melhores práticas de manejo agrícola; </li><li>Acompanhar todo o processo de vendas, desde o pedido até o pós-venda, garantindo a satisfação do cliente; </li><li>Conduzir vistorias técnicas e elaborar laudos detalhados; </li><li>Identificar novas áreas para a aplicação dos produtos Fertilis; </li><li>Contribuir para a inovação e aprimoramento dos produtos Fertilis; </li><li>Prestar assistência técnica especializada aos clientes; </li><li>Organizar e coordenar eventos técnicos para apresentar e demonstrar os produtos. </li> </ol><p><br/><b>Requisitos: </b> </p><ol><li>Formação superior completa em Agronomia ou áreas afins; </li><li>Experiência comprovada em vendas técnicas; </li><li>Conhecimento em práticas de manejo agrícola, especialmente para culturas como soja, milho, algodão e outras; </li><li>Compreensão profunda de Nutrição Foliar; </li><li>Domínio do pacote Office; </li><li>Habilitação categoria B e disponibilidade para viagens frequentes (BR 163); </li><li>Carteira de clientes na região será considerado um diferencial. </li> </ol><p><br/><b>Remuneração e Benefícios: </b><br/>- Contratação CLT: Salário fixo + premiação por cumprimento de metas de vendas (grande potencial de ganhos);<br/>- Plano de Saúde e Seguro de Vida;<br/>- Vale Refeição/Alimentação;<br/>- Veículo corporativo, combustível e despesas de viagem;<br/>- Celular e Notebook fornecidos. </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Sorriso",
-    "state": "Mato Grosso",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049183__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-vendas&location=Sorriso&geoID=8854"
-  },
-  {
-    "title": "Bc analista desenvolvedor node angular fullstack senior darwin",
-    "description": "<p>Ouvir, criar e inspirar a transformação digital dos nossos clientes é o que nos motiva. </p><p>De pessoas para pessoas </p><p>Acreditamos que, mais do que tecnologia, a transformação digital é sobre como as pessoas conduzem as mudanças nas empresas. E por entender isso, o fator humano é o que nos faz evoluir e modernizar processos. </p><p>Não é somente mais uma oportunidade... e sim um convite para você fazer parte dessa história. </p><p>Na iblue Consulting você vai trabalhar com uma equipe multidisciplinar, que é responsável por alavancar o crescimento do negócio através das nossas pessoas. </p><p>Buscamos profissionais com os seguintes valores que corroboram com os nossos valores: </p><ol><li>Cuidado com as pessoas </li><li>Responsabilidade </li><li>Excelência e Resultados </li><li>Cliente no centro </li> </ol><p>Estamos em busca de um <b>DESENVOLVEDOR FULLSTACK - SÊNIOR </b> com expertise acima de 6 anos em desenvolvimento NodeJS e Angular, que seja apaixonado por inovação e que esteja comprometido com a entrega de soluções de alta qualidade. Se você tem experiência em metodologias ágeis, qualidade de código e se identifica com valores como colaboração e comprometimento, essa oportunidade é para você! </p><p><b>Principais Responsabilidades: </b> </p><ul><li>Experiência sólida na área de desenvolvimento. </li><li>Experiência em Banco de Dados estruturado MySQL; </li><li>Metodologia de desenvolvimento ágil (Scrum / Kanban). </li><li>Conhecimento de recursos AWS. </li> </ul><p><b>Requisitos e Qualificações: </b> </p><ul><li>Node.js </li><li>Angular </li><li>Banco de dados: MySQL </li><li>Conhecimento de recursos AWS </li> </ul><p><b>Habilidades comportamentais obrigatórias: </b> </p><ul><li>Capacidade de trabalhar de forma colaborativa com equipes multifuncionais. </li><li>Excelente capacidade de comunicação e habilidades na resolução de problemas. </li> </ul> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Rio de Janeiro",
-    "state": "Rio de Janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049185__1953?utm_source=1953&utm_medium=feed&keyword=Bc-analista-desenvolvedor&location=Rio-de-Janeiro&geoID=19"
-  },
-  {
-    "title": "Desenvolvedor back end",
-    "description": "<p><b>Responsabilidades: </b> </p><ol><li>Desenvolver e implementar soluções de software de alta qualidade, utilizando as melhores práticas de engenharia de software; </li><li>Participar da análise de requisitos, design de arquitetura e implementação de novos recursos e funcionalidades; </li><li>Colaborar com a equipe de desenvolvimento na identificação e resolução de problemas técnicos; </li><li>Realizar testes unitários e de integração, garantindo a entrega de produtos confiáveis e eficientes; </li><li>Documentar o código-fonte e as soluções desenvolvidas, facilitando a manutenção e a escalabilidade dos sistemas; </li><li>Acompanhar as tendências e inovações tecnológicas, propondo melhorias e atualizações para os sistemas existentes. </li> </ol><br/><p><b>Requisitos: </b> </p><ol><li>Experiência comprovada no desenvolvimento de aplicações web e desktop; </li><li>Conhecimento sólido em frameworks e bibliotecas como Spring, Django, .NET Core ou Laravel; </li><li>Familiaridade com bancos de dados relacionais (SQL) e não relacionais (NoSQL); </li><li>Domínio de técnicas de versionamento de código, como Git; </li><li>Habilidade de trabalhar em equipe, comunicar-se efetivamente e solucionar problemas de forma colaborativa; </li><li>Formação superior completa em Ciência da Computação, Engenharia de Software ou áreas afins. </li> </ol><br/><p><b>Benefícios: </b> VR, VT, Gympass, Plano de Saúde, Plano Odonto, PLR </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Sete Lagoas",
-    "state": "Minas Gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049194__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-back-end&location=Sete-Lagoas&geoID=8764"
-  },
-  {
-    "title": "Pessoa executiva de contas senior",
-    "description": "<p>Como é o ambiente de trabalho?<br/> </p><ul><li>Possibilidade de trabalhar e ter contato com alguns dos maiores projetos de engenharia e ciências de dados em execução no país; </li><li>Ser parte ativa da jornada de uma empresa que, de fato, veio para mudar os paradigmas da Engenharia e Analytics. </li> </ul><br/><p><b>Responsabilidades da Oportunidade </b><br/>Qual perfil nós buscamos?<br/><br/>Na Dadosfera, os nossos projetos são elaborados de acordo com a necessidade de cada cliente de maneira customizada, proporcionando assim o verdadeiro IMPACTO por onde passamos.<br/><br/>Como Pessoa Executiva de Contas Sênior, você será responsável pela abertura e fechamento de novos negócios, construindo relacionamento, promovendo uma experiência incrível para nossos leads, oferecendo soluções que guiem nossos clientes a alcançarem seus resultados utilizando dados.<br/><br/><b>RESPONSABILIDADES E ATRIBUIÇÕES </b><br/><br/>Como será o seu dia a dia:<br/> </p><ul><li>Conversão de novos clientes; </li><li>Atuar como Hunter e Farmer para atrair e reter clientes; </li><li>Atuar em contas de pequeno, médio e grande porte; </li><li>Desenvolver e implementar estratégias comerciais de acordo com as metas e objetivos da empresa; </li><li>Mapear desafios de cada cliente na carteira (evolução, melhoria, correção etc.) e identificar qual produto, solução ou serviço da Dadosfera que poderá atender ao seu cenário; </li><li>Executar e gerenciar atividades de acompanhamento e atualização de CRM; </li><li>Estabelecer um relacionamento próximo à equipe de Tech da Dadosfera para obter os melhores direcionamentos das soluções do ponto de vista de tecnologia direcionado a vendas, produtos e área comercial. </li> </ul><br/><p><b>Requisitos </b><br/>O que precisamos que você tenha:<br/> </p><ul><li>Graduação completa ou em andamento em Tecnologia da Informação, Engenharias, Administração ou áreas correlatas; </li><li>Experiência como Executivo (a) de Contas; </li><li>Excelentes habilidades de comunicação interpessoal, verbal e escrita; </li><li>Domínio do Pacote Office, ferramentas ERP e CRM; </li><li>Disponibilidade para viagens, caso necessário; </li><li>Experiência na área de gestão de contas; </li><li>Capacidade de trabalhar de forma independente ou em equipe, em um ambiente ágil e dinâmico; </li><li>Habilidades analíticas e de resolução de problemas; </li><li>Conhecimento técnico básico em dados; </li><li>Compreensão das tendências de mercado, indústrias e dos princípios de experiência do cliente. </li> </ul><p><b>Soft Skills </b><br/> </p><ul><li>Independência; </li><li>Orientação a resultado; </li><li>Boa capacidade de relacionamento e comunicação; </li><li>Colaboração com os stakeholders; </li><li>Hands-on; </li><li>Proatividade. </li> </ul><p><b>Será um diferencial se você tiver: </b> </p><ul><li>Experiência em empresas de tecnologia SAAS; </li><li>Inglês fluente para realizar vendas para clientes do exterior; </li><li>Experiência em vendas de soluções de plataformas digitais ou serviços de consultoria. </li> </ul><p>E o que acha de ser contratado pela Dadosfera e ainda ganhar R$ 10.000,00? Como uma empresa que prioriza #data para embasar suas decisões, é fundamental para nós garantir que os candidatos selecionados demonstrem habilidades técnicas relevantes. Por isso, nosso processo seletivo inclui alguns testes, que são muito importantes para nós. Para incentivar e reconhecer o comprometimento dos candidatos, oferecemos uma bonificação especial: após a pessoa candidata ser contratada pelo Case Técnico enviado, quando o colaborador completar três meses na empresa, o colaborador receberá um bônus de R$ 5.000,00, e mais R$ 5.000,00 após completar seis meses. Este incentivo reflete não apenas nosso compromisso com a qualidade e precisão, mas também o valor que atribuímos desde o início à contribuição dos membros de nossa equipe. </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Belo Horizonte",
-    "state": "Minas Gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049205__1953_231d5564a02b453c5a5b2547602de1ff?utm_source=1953&utm_medium=feed&keyword=Pessoa-executiva-de&location=Belo-Horizonte&geoID=1086"
-  },
-  {
-    "title": "Angariador",
-    "description": "*  ** **Cargo/Função:*****  ** **Localização:** Juveve,***  ** **Salário:** R$ 2.000,00 a R$ 2.500,00***  ** **Empresa:** Confidencial**Descrição Geral****Empresa localizada na cidade de curitiba/pr do ramo imobiliária, com 25 funcionários, contrata vendedor externo****Requisitos****Ensino médio completo, desejavel superior na área comercial; prestativo, veículo próprio.********Ensino Médio Completo****Benefícios****Auxilio combustível + comissões****<br>#J-18808-Ljbffr",
-    "company": "Magius Metalurgica Industrial LTDA",
-    "city": "Curitiba",
-    "state": "Paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049207__1953?utm_source=1953&utm_medium=feed&keyword=Angariador&location=Curitiba&geoID=2691"
-  },
-  {
-    "title": "Auxiliar de injecao",
-    "description": "<p><b>Auxiliar de Injeção </b> - Distrito de Alvorada/RS </p><p><b>Atividades: </b> </p><ol><li>Seguir a ficha de processo de produção; </li><li>Retirar canais de injeção e rebarba de acordo com a peça padrão; </li><li>Examinar as peças a cada ciclo conforme descrito na ficha de processo; </li><li>Separar as peças com defeitos; </li><li>Acondicionar as peças aprovadas em caixas ou em sacos. </li> </ol><p><b>Requisitos: </b> </p><ol><li>Ensino Fundamental; </li><li>Um ano de experiência em máquinas injetoras. </li> </ol><p><b>Jornada de trabalho: </b> Segunda a sexta das 21:00 às 08:00 - Eventualmente trabalhamos aos sábados, pago como hora extra. </p><p><b>Salário Inicial: </b> R$ 1.740,94 + Adicional Noturno + Horas extras. </p><p><b>Benefícios: </b> Auxílio Alimentação, Prêmio Assiduidade, Refeitório no local, Vale transporte. </p><p>Envie seu currículo para o e-mail: </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Alvorada",
-    "state": "Rio Grande do Sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049216__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-injecao&location=Alvorada&geoID=38634"
-  },
-  {
-    "title": "Analista de desenvolvimento aplicativos web jr pcd",
-    "description": "<p>Seja Analista de Desenvolvimento Aplicativos Web Jr PCD na BOSCH </p><ul><li>CLT | Júnior | Remoto | PCD </li><li>Vaga exclusiva para pessoas com deficiência! </li> </ul><h3>Qualificações: </h3><ul><li>Familiaridade com linguagens de programação Back-end (PHP, Python) e Front-end (React/Typescript). </li><li>Conhecimento básico em banco de dados SQL. </li><li>Experiência com Orientação a Objetos. </li><li>Inglês técnico para comunicação escrita e verbal. </li><li>Familiaridade com os princípios SOLID para desenvolvimento de software. </li><li>Conhecimento de versionamento de código (GIT). </li><li>Experiência com desenvolvimento de aplicativos iOS, mesmo que em projetos pessoais ou acadêmicos. </li> </ul><h3>Principais Atividades: </h3><p>Nessa posição, você terá a chance de: </p><ul><li>Aprender e colaborar na interpretação de requisitos e diagramas, transformando-os em soluções funcionais para usuários ao redor do mundo. </li><li>Desenvolver suas habilidades em todas as etapas do ciclo de desenvolvimento de aplicações web, desde a programação até os testes e a implantação, em um ambiente multicultural. </li><li>Trabalhar com tecnologias Back-end como PHP (Laravel) e Python, e Front-end como React/Typescript, expandindo seus conhecimentos em desenvolvimento web. </li><li>Aprender e colaborar na criação de aplicativos iOS intuitivos e inovadores. </li><li>Aprimorar suas habilidades em banco de dados relacionais, modelagem SQL e APIs RESTful. </li><li>Conhecer e utilizar ferramentas essenciais como Azure DevOps e metodologias ágeis de desenvolvimento. </li><li>Interagir com pessoas de diferentes países e culturas, expandindo seus horizontes e aprimorando suas habilidades de comunicação internacional. </li> </ul><h3>Informações Adicionais: </h3><ul><li>Mandatório: Inglês técnico para comunicação escrita e verbal. </li><li>Diferencial: Inglês fluente. </li> </ul> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "",
-    "state": "",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049217__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-desenvolvimento&location="
-  },
-  {
-    "title": "Auxiliar de estoque belem pa",
-    "description": "<p><u>AUXILIAR DE ESTOQUE BELÉM/ PA </u> </p><p><b>Sobre a Comolatti: </b><br/>Referência nacional no aftermarket da indústria automotiva brasileira, o Grupo Comolatti possui uma trajetória de mais de 65 anos de tradição. Com profundo conhecimento em diversos setores, desde a distribuição de autopeças, a comercialização de veículos até a alta gastronomia e o setor imobiliário, o grupo se destaca pela sua dedicação, integridade, comprometimento e espírito empreendedor. </p><p><b>Principais Responsabilidades: </b> </p><ol><li>Recebimento e Conferência de Mercadorias: Conferir as peças recebidas, de acordo com as notas fiscais para garantir que estejam corretas. Inspecionar as peças quanto a danos ou defeitos. </li><li>Armazenamento e Organização: Manter o estoque limpo e organizado, seguindo as práticas de armazenamento recomendadas. </li><li>Controle de Inventário: Atualizar os registros de estoque e sistemas de gestão com informações sobre entradas e saídas de produtos. </li><li>Separar e embalar autopeças conforme os pedidos recebidos. </li><li>Preparar os pedidos para envio, incluindo a etiquetagem e documentação necessária. </li><li>Manter registros detalhados sobre a movimentação de estoque, incluindo entradas, saídas e devoluções. </li><li>Reportar discrepâncias ou problemas no estoque para o supervisor. </li><li>Seguir as normas de segurança no manuseio e armazenamento de autopeças. </li><li>Apoio ao Setor de Vendas e Atendimento ao Cliente: Dar suporte à equipe de vendas na localização e fornecimento de peças para atender a pedidos especiais. </li><li>Processar devoluções de peças e realizar o controle de peças retornadas. </li> </ol><p><b>Requisitos: </b> </p><ul><li>Formação no Ensino Médio completo ou cursando Superior em Administração, Gestão Comercial ou áreas relacionadas; </li><li>Conhecimento técnico sobre autopeças será considerado um diferencial. </li> </ul><p><b>Sobre a vaga: </b> </p><ul><li>Localização: BELÉM </li><li>Modelo: Presencial; </li><li>Contratação: CLT por tempo indeterminado; </li><li>Segunda a sexta, horário a combinar com 01h12 de intervalo; </li><li>Benefícios: VR, Previdência Privada, Seguro de Vida, Assistência odontológica, Assistência médica, Vale-transporte, Participação nos Lucros e Resultados (PLR); </li><li>Sistema de comissões motivador, baseado em metas alcançadas; </li><li>Esta vaga é aberta a todos os candidatos, incluindo pessoas com deficiência. </li> </ul><p><b>Como se Candidatar: </b><br/>Buscamos talentos diversos para compor nosso time. Se você se identifica com nossos valores e está pronto para fazer a diferença, inscreva-se! </p> #J-18808-Ljbffr",
-    "company": "NetVagas",
-    "city": "Belém",
-    "state": "Pará",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049219__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-estoque&location=Belém&geoID=1072"
-  },
-  {
     "title": "Analista de m a e fp a ii",
     "description": "<p>A Accesstage é uma TechFin e aqui você encontra uma cultura forte! </p><p>Respiramos esses valores no nosso dia a dia e temos oportunidades incríveis para você fazer parte do nosso time. </p><p>Olha só a proposta que temos para você: </p><h3>Analista de M&A e FP&A II </h3><p>Realizar o planejamento e gestão orçamentária da Companhia. </p><p>Realizar o fechamento gerencial da Companhia e de suas investidas, além de entender eventuais desvios em relação ao orçado. </p><p>Mensuração e acompanhamento dos principais KPIs (SaaS) da Companhia. </p><p>Elaborar as apresentações de resultados para apresentação ao time de executivos. </p><p>Atuar como Business Partner, auxiliando as áreas clientes e empresas do portfólio de investidas em análises do dia a dia. </p><h3>Requisitos: </h3><ol><li>Profissional com forte conhecimento financeiro e sólida vivência profissional na área de FP&A. </li><li>Profundo conhecimento com a estruturação de P&L e análise das peças financeiras (DRE, Balanço e Fluxo de Caixa). </li><li>Capacidade de extrair conclusões de grande base de dados, além de habilidade para construir modelos e materiais executivos. </li> </ol><h3>Diferencial: </h3><ol><li>Experiência com M&A. </li><li>Conhecimento em SQL e Python e ferramentas de BI. </li> </ol><h3>MODELO DE CONTRATAÇÃO: </h3><p>(Contratação CLT) + Benefícios: </p><p>Aqui temos a meritocracia na veia. Se liga nos nossos benefícios: </p><ol><li>Assistência Médica </li><li>Assistência Odontológica </li><li>Seguro de vida </li><li>Vale Refeição </li><li>Vale Alimentação </li><li>Parceria com o site de descontos </li><li>Descontos em universidades </li><li>Desconto Farmácia </li><li>Day Off </li><li>Auxílio Trabalho Remoto </li><li>Auxílio Creche </li><li>PLR </li> </ol><p>Atuação em modelo híbrido na região da Av. Paulista SP. </p><p>E ai, se identificou com esse desafio? Então faça parte da nossa equipe. </p><p>Compartilhe seu conhecimento com a gente e venha nos ajudar a impulsionar a prosperidade financeira das organizações, que é a nossa missão. </p><p>Vamos trilhar juntos a nossa jornada de sucesso? </p> #J-18808-Ljbffr",
     "company": "NetVagas",
@@ -510,7 +285,7 @@
     "city": "Fortaleza",
     "state": "Região Nordeste",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049663__1953_412ec2ec5e6f01f8c7885a79a8594884?utm_source=1953&utm_medium=feed&keyword=Analista-de-copywriting&location=Fortaleza&geoID=3263"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2049663__1953_5143af957ce31b7841717e5e9d1d835e?utm_source=1953&utm_medium=feed&keyword=Analista-de-copywriting&location=Fortaleza&geoID=3263"
   },
   {
     "title": "Consultor a de vendas clinica particular barra da tijuca rj",
@@ -663,7 +438,7 @@
     "city": "São Paulo",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2049857__1953_3ca68de6c582d043a5231e644f6770d8?utm_source=1953&utm_medium=feed&keyword=Consultor-sap-abap&location=São-Paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2049857__1953_6babc37edd2d6cccd438fec2535d41aa?utm_source=1953&utm_medium=feed&keyword=Consultor-sap-abap&location=São-Paulo&geoID=25"
   },
   {
     "title": "Vaga de atendimento dp sao benedito",
@@ -852,7 +627,7 @@
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2050472__1953_041b5bd4b6120c9148fd503418194e3f?utm_source=1953&utm_medium=feed&keyword=Designer-s%C3%AAnior&location=Rio-de-Janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2050472__1953_8f85a43d2f27f68356b52790dcf7122a?utm_source=1953&utm_medium=feed&keyword=Designer-s%C3%AAnior&location=Rio-de-Janeiro&geoID=19"
   },
   {
     "title": "Operador de Cobrança - RCH / ADMISSÃO EM 06/01",
@@ -933,7 +708,7 @@
     "city": "Curitiba",
     "state": "Paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2050684__1953_8b9fb907f1f0abd4641c11d793ac7d4c?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-producao&location=Curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2050684__1953_6fe8f0a94b8b03aac6a8ae3f7f344680?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-producao&location=Curitiba&geoID=2691"
   },
   {
     "title": "Fadb inspetor de end",
@@ -1086,7 +861,7 @@
     "city": "Belo Horizonte",
     "state": "Minas Gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2050889__1953_87c8788966dfa878d6911aae72dfd94f?utm_source=1953&utm_medium=feed&keyword=Fisioterapeuta-instituto-trata&location=Belo-Horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2050889__1953_a97b14eb20066789f5743592df16ffde?utm_source=1953&utm_medium=feed&keyword=Fisioterapeuta-instituto-trata&location=Belo-Horizonte&geoID=1086"
   },
   {
     "title": "Vendedor outlet premium itupeva",
@@ -1446,7 +1221,7 @@
     "city": "São Paulo",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2051576__1953_18808a3ef922b3b709003bf88e8afdbb?utm_source=1953&utm_medium=feed&keyword=Digital-analytics&location=São-Paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2051576__1953_927c8321010173bf27749702b475813b?utm_source=1953&utm_medium=feed&keyword=Digital-analytics&location=São-Paulo&geoID=25"
   },
   {
     "title": "Auxiliar de escritorio",
@@ -2130,7 +1905,7 @@
     "city": "Belém",
     "state": "Pará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2053249__1953_e54367622fccfc6dea4661cf62f7ebc7?utm_source=1953&utm_medium=feed&keyword=Promotor-a-de&location=Belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2053249__1953_ae50690ea26eec446c6b4fb74067276b?utm_source=1953&utm_medium=feed&keyword=Promotor-a-de&location=Belém&geoID=1072"
   },
   {
     "title": "Operador de Supermercado - Coelho da Rocha",
@@ -2328,7 +2103,7 @@
     "city": "Cachoeiro de Itapemirim",
     "state": "Espírito Santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2053542__1953_e021db6fca5f4eaff0b155287c968a3f?utm_source=1953&utm_medium=feed&keyword=Motorista-entregador&location=Cachoeiro-de-Itapemirim&geoID=1541"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2053542__1953_48490e554eb749a104f58f4c15ecc915?utm_source=1953&utm_medium=feed&keyword=Motorista-entregador&location=Cachoeiro-de-Itapemirim&geoID=1541"
   },
   {
     "title": "Analista de dados senior",
@@ -2688,7 +2463,7 @@
     "city": "Florianópolis",
     "state": "Santa Catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2054023__1953_c98c38ce50afaedef84e272f020f7193?utm_source=1953&utm_medium=feed&keyword=Assistente-de-operacoes&location=Florianópolis&geoID=3237"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2054023__1953_511da889af8d9a7faec18fe21bcf539e?utm_source=1953&utm_medium=feed&keyword=Assistente-de-operacoes&location=Florianópolis&geoID=3237"
   },
   {
     "title": "Vendedor interno zona oeste",
@@ -2913,7 +2688,7 @@
     "city": "Mineiros",
     "state": "Goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2054845__1953_f07be432b463c8c3e268da09fe0571f6?utm_source=1953&utm_medium=feed&keyword=Professor-de-Ensino&location=Mineiros&geoID=5374"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2054845__1953_48c4b314b41676048e0d7de40befa6c4?utm_source=1953&utm_medium=feed&keyword=Professor-de-Ensino&location=Mineiros&geoID=5374"
   },
   {
     "title": "Assistente Administrativo",
@@ -3498,7 +3273,7 @@
     "city": "Cariacica",
     "state": "Espírito Santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2055962__1953_f56f27602d7fb58bb6e6a743d72d626f?utm_source=1953&utm_medium=feed&keyword=Fiscal-de-Loja&location=Cariacica&geoID=1992"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2055962__1953_aa1eedb535b06d4c614f06ee9c8e0a21?utm_source=1953&utm_medium=feed&keyword=Fiscal-de-Loja&location=Cariacica&geoID=1992"
   },
   {
     "title": "Estagiário de engenharia",
@@ -3534,7 +3309,7 @@
     "city": "Cuiabá",
     "state": "Mato Grosso",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2056021__1953_ee5cb2f58bce1a3cced953b15e0d3d69?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Vendas&location=Cuiabá&geoID=2659"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2056021__1953_03b2b57a6e1e4ef388d8ddeef56c6d99?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Vendas&location=Cuiabá&geoID=2659"
   },
   {
     "title": "Chef para Albania",
@@ -3831,7 +3606,7 @@
     "city": "Belo Horizonte",
     "state": "Minas Gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2056571__1953_0da45da271ad2dbb63197967f6034b4c?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Belo-Horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2056571__1953_1754a15a7c644e519025709a5cde7aa4?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Belo-Horizonte&geoID=1086"
   },
   {
     "title": "Profissional especialista capao da canoa",
@@ -4056,7 +3831,7 @@
     "city": "Vitória",
     "state": "Espírito Santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2057128__1953_5c53befe98da58b950d02ef6e826e52d?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-encarregado&location=Vitória&geoID=9692"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2057128__1953_e54a139baacf5e08237a7a01add7905a?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-encarregado&location=Vitória&geoID=9692"
   },
   {
     "title": "Vendedor interno zona leste",
@@ -4344,7 +4119,7 @@
     "city": "Betim",
     "state": "Minas Gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2057840__1953_6e8609f40be60eeeaf3683d1e01012bc?utm_source=1953&utm_medium=feed&keyword=Analista-de-engenharia&location=Betim&geoID=1130"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2057840__1953_6c1c33195a7ff641d98d4a66a49b7268?utm_source=1953&utm_medium=feed&keyword=Analista-de-engenharia&location=Betim&geoID=1130"
   },
   {
     "title": "Assistente de vendas posto de combustivel aguia",
@@ -4578,7 +4353,7 @@
     "city": "Fortaleza",
     "state": "Região Nordeste",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2058137__1953_79e574e3c46f4ec524c9c359997f18c7?utm_source=1953&utm_medium=feed&keyword=Analista-de-recursos&location=Fortaleza&geoID=3263"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2058137__1953_5ca187a7d2bcc36b4e08817de698b6f5?utm_source=1953&utm_medium=feed&keyword=Analista-de-recursos&location=Fortaleza&geoID=3263"
   },
   {
     "title": "Trainee mottu sao paulo praia grande",
@@ -4659,7 +4434,7 @@
     "city": "Brasília",
     "state": "Distrito Federal",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2058317__1953_4a75f6bc0481503291cfbc1e45f81d4a?utm_source=1953&utm_medium=feed&keyword=Analista-de-Requisitos&location=Brasília&geoID=1366"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2058317__1953_cc04614344d3642f2d8687079838dfbe?utm_source=1953&utm_medium=feed&keyword=Analista-de-Requisitos&location=Brasília&geoID=1366"
   },
   {
     "title": "BANCO DE TALENTOS l MOBILIDADE l AGENTE DE ATENDIMENTO E SEGURANÇA",
@@ -4713,7 +4488,7 @@
     "city": "Maringá",
     "state": "Paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2058549__1953_e3cbf80abf3d38d1c2ee72e822d49a80?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Franquias&location=Maringá&geoID=5194"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2058549__1953_8e9d00945f091d38a82c8fcc93dbe20e?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Franquias&location=Maringá&geoID=5194"
   },
   {
     "title": "Operador de Vendas e Serviços - Temporário",
@@ -4920,7 +4695,7 @@
     "city": "Campinas",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2059173__1953_c4b66125b408524503641b56268f7bf3?utm_source=1953&utm_medium=feed&keyword=Controlador-de-Acesso&location=Campinas&geoID=1713"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2059173__1953_3bcda255ebf8d3eb6ef1f5279565aba7?utm_source=1953&utm_medium=feed&keyword=Controlador-de-Acesso&location=Campinas&geoID=1713"
   },
   {
     "title": "TÉCNICO EM CARNES (BANCO DE TALENTOS)",
@@ -5226,7 +5001,7 @@
     "city": "Uberlândia",
     "state": "Minas Gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2060196__1953_fc624529c8f062800a56de782d40aae5?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-cozinha&location=Uberlândia&geoID=9327"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2060196__1953_0cca8f754160806c795af9d40f78eda5?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-cozinha&location=Uberlândia&geoID=9327"
   },
   {
     "title": "Eletromecanico i",
@@ -5262,7 +5037,7 @@
     "city": "Manaus",
     "state": "Pernambuco",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2060210__1953_3e8c247ddb463b57f140b35b3ba0d39b?utm_source=1953&utm_medium=feed&keyword=Bdr-pre-vendas&location=Manaus"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2060210__1953_47afad8d3cff705a495da4c8c8f52d94?utm_source=1953&utm_medium=feed&keyword=Bdr-pre-vendas&location=Manaus"
   },
   {
     "title": "Trainee mottu amazonas manaus",
@@ -5433,7 +5208,7 @@
     "city": "Campo Grande",
     "state": "Mato Grosso do Sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2060633__1953_2880f411b3e064f464497ea33f48b461?utm_source=1953&utm_medium=feed&keyword=Trainee-mottu-mato&location=Campo-Grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2060633__1953_ffc4d5c4a163ce877dde663f4314154b?utm_source=1953&utm_medium=feed&keyword=Trainee-mottu-mato&location=Campo-Grande&geoID=1749"
   },
   {
     "title": "Marketing Specialist - Kings League Brazil",
@@ -6009,7 +5784,7 @@
     "city": "São Paulo",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2061593__1953_79773877a0229bc34701d6a9cc600efd?utm_source=1953&utm_medium=feed&keyword=Redator-jornalista-seo&location=São-Paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2061593__1953_b3a0219d0172d5036f2c90381910579b?utm_source=1953&utm_medium=feed&keyword=Redator-jornalista-seo&location=São-Paulo&geoID=25"
   },
   {
     "title": "Assistente financeiro i",
@@ -6189,7 +5964,7 @@
     "city": "Timóteo",
     "state": "Minas Gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2061987__1953_395d2f5d91a0cc4f48f2b13efc85faaf?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno-timoteo&location=Timóteo&geoID=9133"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2061987__1953_5b38336aeda338d9c19d7b96daa1810d?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno-timoteo&location=Timóteo&geoID=9133"
   },
   {
     "title": "PROMOTOR DE CARTÕES",
@@ -6243,7 +6018,7 @@
     "city": "Limeira",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2062134__1953_683f4ffa9c9c608bbdff4e0de4ef6c40?utm_source=1953&utm_medium=feed&keyword=Motorista&location=Limeira&geoID=4875"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2062134__1953_b760d98954369f4891a18c7844a9bf4e?utm_source=1953&utm_medium=feed&keyword=Motorista&location=Limeira&geoID=4875"
   },
   {
     "title": "Técnico de Limpeza",
@@ -6378,7 +6153,7 @@
     "city": "Santa Cruz do Rio Pardo",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2062684__1953_27977bb3922c458f112544076ed777bd?utm_source=1953&utm_medium=feed&keyword=T%C3%89CNICO-DE-ENFERMAGEM&location=Santa-Cruz-do-Rio-Pardo&geoID=7613"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2062684__1953_cf6c45b238de88e52d4423c4ae651084?utm_source=1953&utm_medium=feed&keyword=T%C3%89CNICO-DE-ENFERMAGEM&location=Santa-Cruz-do-Rio-Pardo&geoID=7613"
   },
   {
     "title": "Analista de Suporte Técnico",
@@ -6774,7 +6549,7 @@
     "city": "Campinas",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2063955__1953_ddd9adda1ce2bf3ef6a5a405990f260c?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno-jr&location=Campinas&geoID=1713"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2063955__1953_2b1d63456cfb0aafc16a9aeb3513c15d?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno-jr&location=Campinas&geoID=1713"
   },
   {
     "title": "Subgerente de loja outlet premium itupeva",
@@ -7170,7 +6945,7 @@
     "city": "São Paulo",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2065173__1953_e047f87ca87dc2df9b177c0cd0aa0df7?utm_source=1953&utm_medium=feed&keyword=Head-de-Opera%C3%A7%C3%B5es&location=São-Paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2065173__1953_53603c9460fd53beaf5c63bbadb6db02?utm_source=1953&utm_medium=feed&keyword=Head-de-Opera%C3%A7%C3%B5es&location=São-Paulo&geoID=25"
   },
   {
     "title": "Analista de sucesso do cliente junior",
@@ -7557,7 +7332,7 @@
     "city": "Pinhais",
     "state": "Paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2065572__1953_5c6bfee2084ee47a7f2903c99f02abd5?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo-presencial&location=Pinhais&geoID=6622"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2065572__1953_fd5a3e29d4389953177a206afef6680e?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo-presencial&location=Pinhais&geoID=6622"
   },
   {
     "title": "Copywriter para Mídias Sociais",
@@ -7971,7 +7746,7 @@
     "city": "Campos dos Goytacazes",
     "state": "Rio de Janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2067439__1953_7ca01d2a5934419bbfc93522e6270a2b?utm_source=1953&utm_medium=feed&keyword=Executivo-de-Vendas&location=Campos-dos-Goytacazes&geoID=38829"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2067439__1953_62f9ab55c613e797ac7fe10ef4dd83b7?utm_source=1953&utm_medium=feed&keyword=Executivo-de-Vendas&location=Campos-dos-Goytacazes&geoID=38829"
   },
   {
     "title": "Fisioterapeuta",
@@ -8187,7 +7962,7 @@
     "city": "São José do Rio Preto",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2068901__1953_34cbc3bc9033fb1a4205ec8a5a9f27d7?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Neg%C3%B3cios&location=São-José-do-Rio-Preto&geoID=8311"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2068901__1953_6db8c8fc9bcb9a175aaced29071e54e8?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Neg%C3%B3cios&location=São-José-do-Rio-Preto&geoID=8311"
   },
   {
     "title": "Trade Finance Professional",
@@ -8844,7 +8619,7 @@
     "city": "Itajaí",
     "state": "Santa Catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2072999__1953_fd3e1489d5c7ce12b86f6e8418bf3ebf?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Administrativo&location=Itajaí&geoID=4130"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2072999__1953_afbd3e058fde250cece94fd8473bac1d?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Administrativo&location=Itajaí&geoID=4130"
   },
   {
     "title": "Encarregado  Assistente - Frios Takahashi",
@@ -8871,7 +8646,7 @@
     "city": "Joinville",
     "state": "Santa Catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2073018__1953_f53a4a36b6a7a2cc48ec297179859995?utm_source=1953&utm_medium=feed&keyword=Assistente-Comercial&location=Joinville&geoID=4554"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073018__1953_3e9d9132df8e7c895fcb21941439503d?utm_source=1953&utm_medium=feed&keyword=Assistente-Comercial&location=Joinville&geoID=4554"
   },
   {
     "title": "Atendente de açougue",
@@ -8907,7 +8682,7 @@
     "city": "Palmeira",
     "state": "Paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2073109__1953_a4d0760300acfceee44ddc6cc8496b7b?utm_source=1953&utm_medium=feed&keyword=Professor-de-Biologia&location=Palmeira&geoID=6166"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073109__1953_e829455f7ab2843ab178b935780a8900?utm_source=1953&utm_medium=feed&keyword=Professor-de-Biologia&location=Palmeira&geoID=6166"
   },
   {
     "title": "Ajudante de Armazenamento",
@@ -8916,7 +8691,7 @@
     "city": "Rio de Janeiro",
     "state": "Rio de Janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2073141__1953_45f9557450d06e527b1c9a93ddd4da28?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-Armazenamento&location=Rio-de-Janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073141__1953_8ae161742f6f861595f43157f1267be2?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-Armazenamento&location=Rio-de-Janeiro&geoID=19"
   },
   {
     "title": "Ajudante de Armazenamento",
@@ -8979,7 +8754,7 @@
     "city": "Jundiaí",
     "state": "São Paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_2073271__1953_06c52cb32b71bff03c12f35ec86a2f43?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Comercial&location=Jundiaí&geoID=4621"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073271__1953_17182c5926731e4a157fb502667e707b?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Comercial&location=Jundiaí&geoID=4621"
   },
   {
     "title": "Auxiliar de Televendas",
@@ -8998,5 +8773,230 @@
     "state": "Santa Catarina",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___70_2073360__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Contabilidade&location=Joinville&geoID=4554"
+  },
+  {
+    "title": "Vendedor Externo - Concórdia-SC",
+    "description": "<p><b>Vaga: </b> Vendedor Externo - Energia Solar<br/><b>Local de Trabalho: </b> Concórdia - SC (Região)<br/><b>Modalidade de Trabalho: </b> Externa (Visitas aos clientes) </p><br/><h3>Responsabilidades e Atribuições: </h3><ol><li><b>Vendas e Negociação: </b> Identificar as necessidades dos clientes, apresentar soluções em energia solar e fechar contratos, com foco na satisfação do cliente e no alcance das metas de vendas. </li><li><b>Prospectar Clientes: </b> Desenvolver um pipeline robusto de leads, qualificar e prospectar novos clientes através de pesquisa, networking e visitas externas. </li><li><b>Relacionamento com Clientes: </b> Estabelecer e manter relacionamentos de longo prazo com os clientes, atuando como consultor e parceiro estratégico para ajudá-los a encontrar a melhor solução em energia solar. </li><li><b>Trabalho Autônomo: </b> Gerenciar seu próprio tempo e atividades de forma eficaz, cumprindo as metas de vendas estabelecidas e alcançando resultados. </li> </ol><br/><h3>Requisitos: </h3><p>Não exigimos experiência prévia em vendas de energia solar, pois oferecemos o treinamento necessário. Habilidades essenciais incluem: </p><ol><li>Foco no atendimento ao cliente e boa comunicação. </li><li>Proatividade, comprometimento e autodisciplina para trabalhar de forma autônoma. </li><li>Capacidade de negociar e fechar contratos. </li><li>Desejo de aprender e se desenvolver na área de energia solar. </li> </ol><br/><h3>Benefícios: </h3><ul><li>Ajuda de Custo de R$ 2000,00 </li><li>Comissão de 3% </li><li>Treinamento completo na área de Energia Solar. </li><li>Oportunidade de crescimento e desenvolvimento profissional. </li><li>Excelente ambiente de trabalho e suporte da equipe. </li> </ul><br/><p>Se você está localizado(a) próximo a Concórdia - SC e deseja fazer parte de um time dinâmico e promissor, envie seu currículo ou entre em contato pelo WhatsApp: 47 99915-7062 ou por e-mail:   </p> #J-18808-Ljbffr",
+    "company": "RHF Talentos Piçarras Estação SC",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073401__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-Externo&location=São-Paulo&geoID=25"
+  },
+  {
+    "title": "Assistente Comercial",
+    "description": "<h3>Nome da empresa disponível para cadastrados. </h3><h3>Avante recursos humanos está com 1 vaga(s) para assistente comercial em Curitiba/PR. </h3><p><b>Salário: </b> R$ 2.000,00 + comissão + VR (R$30,00) + VT + seguro de vida + premiação. </p><h3>Requisitos: </h3><ol><li>Ensino médio completo </li><li>Experiência na área comercial </li><li>Experiência com atendimento ao cliente </li> </ol><p>Cadastre-se como empresa ou autônomo, publique sua vaga e contrate hoje mesmo! </p> #J-18808-Ljbffr",
+    "company": "Avante Recursos Humanos",
+    "city": "Curitiba",
+    "state": "Paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073451__1953_29dc664887ae2694f6cfe8634a72e02f?utm_source=1953&utm_medium=feed&keyword=Assistente-Comercial&location=Curitiba&geoID=2691"
+  },
+  {
+    "title": "PROMOTOR (A) DE VENDAS - REPUBLICA",
+    "description": "<h3>Job description </h3><p>Interação com clientes, conhecimento do que está oferecendo, persistência e buscar atingir metas são quesitos essenciais para quem busca atuar como crediarista de produtos financeiros. </p><p>E aí, gostou da oportunidade? Não perca tempo! Venha trabalhar conosco. </p><br/><h3>Main responsibilities </h3><ul><li>Vendas de Serviços Financeiros da Administrador CREDIFFATO, incluindo Cartões de Crédito, Seguro, Empréstimos, Saque, Conta Digital. </li><li>Venda consultiva e prospectada constantemente nas lojas Super Muffato e/ou Max Atacadista. </li> </ul><br/><h3>Requirements and skills </h3><ul><li>Ensino médio completo; </li><li>Experiência na função será considerada um diferencial; </li><li>Atender o cliente conforme os padrões de atendimento exigidos pela empresa; </li><li>Cumprir os procedimentos operacionais exigidos do cargo; </li><li>Pró-atividade; </li><li>Boa comunicação; </li><li>Comprometimento; </li><li>Trabalho em equipe; </li><li>Relacionamento interpessoal. </li> </ul><br/><h3>Additional information </h3><ul><li>Alimentação; </li><li>Descontos em empresas parceiras; </li><li>Cartão convênio; </li><li>Treinamentos e formações pela nossa Universidade corporativa - Uniffato; </li><li>Oportunidades de carreira. </li> </ul> #J-18808-Ljbffr",
+    "company": "Grupo Muffato",
+    "city": "Foz do Iguaçu",
+    "state": "Paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073689__1953?utm_source=1953&utm_medium=feed&keyword=PROMOTOR-DE&location=Foz-do-Iguaçu&geoID=3275"
+  },
+  {
+    "title": "AJUDANTE I - FERMENTAÇÃO",
+    "description": "<p>Realizar descarreamento de malte derivados de sacarias, manusear e abrir sacarias de malte em transporte para silos. Auxiliar os operadores na operação. Auxiliar nas áreas de produção (dosagens de insumos), organizar e limpar o local de trabalho e áreas de circulação, seguindo os objetivos de 5S. Limpar e conservar a área. Realizar a sinergia entre setores operacionais, mediante orientação do gestor da área. </p> #J-18808-Ljbffr",
+    "company": "Cervejaria Germânia",
+    "city": "Vinhedo",
+    "state": "São Paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073859__1953?utm_source=1953&utm_medium=feed&keyword=AJUDANTE-I&location=Vinhedo&geoID=9666"
+  },
+  {
+    "title": "Analista de Contabilidade",
+    "description": "<h3>Nome da empresa disponível para cadastrados. </h3><h3>Empresa de grande porte do ramo de logística e transportes contrata analista contábil pleno na região de Barueri Alphaville (presencial). </h3><h3>Atividades a serem desenvolvidas: </h3><ol><li>Revisar conciliações contábeis </li><li>Conciliar contas contábeis complexas (por exemplo: obrigações trabalhistas e tributárias, contas a receber) </li><li>Monitorar checklist das atividades </li><li>Identificar e reportar pontos críticos de fechamento mensal </li><li>Desenvolver e acompanhar indicadores operacionais da área </li><li>Revisão de relatórios periódicos </li><li>Preenchimento de DFP e ITR no ENET (CMV) </li> </ol><h3>Requisitos da vaga: </h3><ol><li>Superior completo em Ciências Contábeis </li><li>Habilidades em análises financeiras </li><li>Capacidade no acompanhamento de processos </li><li>Conhecimento no pacote Office + Excel intermediário </li> </ol><h3>Experiências desejáveis (não obrigatórias): </h3><ol><li>Conhecimento no ERP Totvs Protheus </li><li>Conhecimento teórico e prático de aplicação dos pronunciamentos emitidos pelo CPC/IFRS, destacando-se o CPC 06 - Arrendamento mercantil </li><li>Preparação de demonstrações financeiras e relatórios contábeis </li><li>Consolidação contábil e conhecimentos em coligadas </li> </ol> #J-18808-Ljbffr",
+    "company": "Empresa de grande porte do ramo de logística e transportes",
+    "city": "",
+    "state": "",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2073959__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Contabilidade&location="
+  },
+  {
+    "title": "Professor de Ensino Fundamental",
+    "description": "<h3><strong>Vaga: Vaga de professor de ensino fundamental em Fortaleza/CE </strong> </h3><h3><strong>Empresa localizada na cidade de Fortaleza/CE do ramo Educação, contrata professor de ensino fundamental. </strong> </h3><p><strong>Atribuições: </strong> </p><ol><li>Ministrar aulas. </li><li>Acompanhar o desempenho individual dos alunos. </li><li>Conhecimento em ferramentas digitais. </li> </ol><p><strong>Requisitos: </strong> </p><ol><li>Graduação em Pedagogia. </li><li>Experiência inicial. </li> </ol><p>Torne seu <strong>currículo irresistível </strong> aos olhos dos recrutadores. </p> #J-18808-Ljbffr",
+    "company": "Mundo Criativo",
+    "city": "Fortaleza",
+    "state": "Região Nordeste",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074029__1953?utm_source=1953&utm_medium=feed&keyword=Professor-de-Ensino&location=Fortaleza&geoID=3263"
+  },
+  {
+    "title": "Farmacêutico",
+    "description": "<h3>Nome da empresa disponível para cadastrados. </h3><h3>Requisitos: </h3><ol><li>Formação completa em farmácia </li><li>Conselho ativo </li><li>Atuação em lojas farmacêuticas </li><li>Disponibilidade de horário </li><li>Habilidade em vendas e indicações de medicamentos. </li> </ol><h3>Atribuições: </h3><ol><li>Orientar os clientes sobre o uso adequado de medicamentos </li><li>Atender e resolver dúvidas dos clientes de forma clara e eficiente </li><li>Cumprir as normas e regulamentos da vigilância sanitária e da legislação farmacêutica </li><li>Dentre outras atividades pertinentes a função. </li> </ol><p>Vagas extensivas a candidatos pcds. Grupo modena & silva. </p> #J-18808-Ljbffr",
+    "company": "GRUPO MODENA & SILVA",
+    "city": "Porto Velho",
+    "state": "Rondônia",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074041__1953?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico&location=Porto-Velho&geoID=6931"
+  },
+  {
+    "title": "Auxiliar de mecânico automóveis - Fiat Curitiba (Tarumã)/PR",
+    "description": "<p>• Experiência e ou formação na área de mecânica automobilística cursando e ou concluído; </p><p>• Vivência e ou experiência em serviços de geometria e balanceamento; </p><p>• Cursos técnicos adicionais; </p><p>• Conhecimento de processos técnicos; </p><p>• Conhecimento em computação; </p><p>• Fácil acesso à região; </p><br/><p>• Boa Comunicação; </p><p>• Cordialidade; </p><p>• Proativo; </p><p>• Trabalho em equipe; </p><br/><p>Salário compatível com o mercado; </p><p>Vale alimentação ou refeição; </p><p>Convênio médico Unimed; </p><h3>Envie sua candidatura (*Envio do Currículo é obrigatório) </h3> #J-18808-Ljbffr",
+    "company": "Viaporto",
+    "city": "Curitiba",
+    "state": "Paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074043__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-mec%C3%A2nico&location=Curitiba&geoID=2691"
+  },
+  {
+    "title": "ENSACADOR/SERVIÇOS GERAIS",
+    "description": "<p><strong>REQUISITOS: </strong> Necessário experiência com serviço pesado. </p><p><strong>Responsabilidades: </strong> </p><ol><li>Moer milho; </li><li>Ensacar; </li><li>Empilhar a produção; </li><li>Carrear caminhão com os itens produzidos; </li><li>Descarregar caminhão com os produtos que chegam ensacados e a granel. </li> </ol><p><strong>Tipo de contratação: </strong> Efetivo / CLT </p><p><strong>Quantidade: </strong> 1 </p><p><strong>Observação: </strong> Divulgado na Entrevista. </p> #J-18808-Ljbffr",
+    "company": "Clial Recursos Humanos Ltda - Me",
+    "city": "Sete Lagoas",
+    "state": "Minas Gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074208__1953?utm_source=1953&utm_medium=feed&keyword=ENSACADOR-SERVI%C3%87OS-GERAIS&location=Sete-Lagoas&geoID=8764"
+  },
+  {
+    "title": "Operador de Injetora de Plástico",
+    "description": "<h3><strong>Vaga: Operador de Injetora de Plástico em Franca/SP </strong> </h3><p><strong>Atribuições: </strong> </p><h3><strong>Descrição do Cargo: </strong> </h3><p>Operador de injetora rotativa e pigmentador de materiais micro expandido e T.R para solados. Contrata-se para início imediato. </p><p><strong>Observação: </strong> Algumas empresas anunciam uma vaga como <strong>“confidencial” </strong> quando o processo é sigiloso e a empresa vai substituir um colaborador. Mas você pode candidatar-se tranquilamente e com segurança, pois ao avançar no processo você saberá qual é a empresa. </p> #J-18808-Ljbffr",
+    "company": "topsola.br",
+    "city": "Franca",
+    "state": "São Paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074212__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-Injetora&location=Franca&geoID=3279"
+  },
+  {
+    "title": "Conferente de Mercadoria",
+    "description": "<h3>Vaga de Conferente de Estoque em Guarulhos / SP </h3><p><b>Nome da empresa: </b> disponível para cadastrados. </p><p><b>Salário: </b> R$ 2.076,00 </p><p><b>Benefícios: </b> VT + VA (R$ 21,80/dia) + cesta básica. </p><p><b>Horário: </b> segunda a sexta (todos os horários). </p><p><b>Importante: </b> 20% adicional noturno e disponibilidade para hora extra. </p><p><b>Local: </b> Guarulhos - SP </p><p>Cadastre-se como empresa ou autônomo e publique sua vaga! </p> #J-18808-Ljbffr",
+    "company": "Etel Empregos",
+    "city": "",
+    "state": "",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074236__1953?utm_source=1953&utm_medium=feed&keyword=Conferente-de-Mercadoria&location="
+  },
+  {
+    "title": "Auxiliar de Obras",
+    "description": "<h3><strong>Vaga: Auxiliar de Obras em Aracruz/ES </strong> </h3><h3><strong>Empresa localizada na cidade de Aracruz/ES do ramo Construção, contrata Auxiliar de Obras. </strong> </h3><p><strong>Atribuições: </strong> </p><ol><li>Atividades relacionadas a obras de terraplenagem; </li><li>Carregamento e descarregamento de material; </li><li>Limpeza em geral; </li><li>Cavação; </li><li>Espalhamento de material; </li><li>Auxílio ao profissional e operador em geral. </li> </ol> #J-18808-Ljbffr",
+    "company": "Maria Julia Construtora Ltdda",
+    "city": "Aracruz",
+    "state": "Espírito Santo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074255__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Obras&location=Aracruz&geoID=546"
+  },
+  {
+    "title": "Auxiliar de Telemarketing",
+    "description": "<h3>Nome da empresa disponível para cadastrados. </h3><h3>Responsabilidades e atribuições </h3><ol><li>Realizar atendimento receptivo via canal telefônico entre cliente e empresa </li><li>Orientação ao usuário </li><li>Registro das informações prestadas </li><li>Consulta a sistemas </li><li>Geração de ocorrências e designações a outros níveis </li> </ol><h3>Requisitos e qualificações </h3><ol><li>Ensino médio completo </li><li>Capacidade de se comunicar e se expressar corretamente em linguagem oral e escrita </li><li>Conhecimentos básicos em microinformática </li><li>Habilidades técnicas e/ou comportamentais para realizar adequadamente o atendimento </li> </ol> #J-18808-Ljbffr",
+    "company": "Montreal",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074274__1953_7c6786bb7bd338d1341a492e498dda2a?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Telemarketing&location=Rio-de-Janeiro&geoID=19"
+  },
+  {
+    "title": "Corretor de Imóveis",
+    "description": "<h3>VAGA DE Corretor de Imóveis EM Goiânia / GO </h3><h3>Nome da empresa disponível para cadastrados. </h3><h3>Cresça no mercado imobiliário e transforme sua carreira! </h3><p><b>Comissionamento: </b> de 2 a 2,5%<br/><b>Ganhos: </b> ilimitados<br/><b>Plano de carreira </b><br/><b>Leads: </b> primários e qualificados<br/><b>Plantões: </b> físicos nas melhores incorporadoras<br/><b>Experiência: </b> Não é necessário ter experiência. </p><p>Venha fazer parte de um time focado em alta performance e desenvolvimento de pessoas! </p><p>Torne seu <strong>currículo irresistível </strong> aos olhos dos recrutadores! </p> #J-18808-Ljbffr",
+    "company": "HOME CLASS",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074338__1953?utm_source=1953&utm_medium=feed&keyword=Corretor-de-Im%C3%B3veis&location=Goiânia&geoID=3432"
+  },
+  {
+    "title": "Professor de Geografia | Piraí do Sul e Castro",
+    "description": "<h3>Job description </h3><p><strong>(Vaga para Banco de Talentos) </strong> </p><p><strong> Seja parte de uma nova era na educação pública! </strong> </p><p>Na Tom Educação, acreditamos que a chave para transformar o futuro está em uma educação pública de qualidade. Nossa missão é desenvolver uma comunidade visceralmente comprometida para que todos os estudantes possam construir e alcançar seus sonhos. </p><p>Como professor, você será parte essencial dessa missão, atuando diretamente com alunos do ensino básico para desenvolver habilidades de vida. Se você é apaixonado por ensinar e quer impactar vidas, essa vaga é para você! </p><p><strong>Venha fazer parte do Tom Educação e ajude a transformar vidas e o futuro da educação pública! </strong> </p><br/><h3>Main responsibilities </h3><ul><li>Planejar e ministrar aulas que motivem e engajem os alunos. </li><li>Adaptar o conteúdo para atender às diferentes necessidades das turmas. </li><li>Avaliar o desempenho dos alunos por meio de provas, trabalhos e atividades. </li><li>Acompanhar o progresso individual dos estudantes. </li><li>Criar um ambiente de aprendizagem seguro e estimulante. </li><li>Promover o desenvolvimento do pensamento crítico. </li><li>Colaborar com a equipe pedagógica e gestão escolar para garantir a qualidade do ensino. </li> </ul><br/><h3>Requirements and skills </h3><ul><li>Licenciatura Plena em Geografia; OU </li><li>Bacharelado em Geografia; OU </li><li>Licenciatura Plena em História ou Sociologia </li><li>Conhecimento profundo do conteúdo a ser ministrado. </li><li>Habilidade para adaptar métodos de ensino a diferentes perfis de alunos. </li><li>Compromisso com o desenvolvimento educacional dos estudantes. </li><li>Boa comunicação e capacidade de trabalho em equipe. </li><li>Dedicação ao ensino em ambientes da rede pública. </li> </ul><p><strong>Diferenciais: </strong> Experiência prévia como professor titular no ensino fundamental ou médio. </p><br/><h3>Additional information </h3><p>Remuneração + Benefícios (Flexível) - de acordo com a tabela de remuneração abaixo: </p><p><strong>A distribuição de horas-aula será feita de acordo com a Normativa Nº 12/2023, da SEED/PR. </strong> </p><p>Regime de contratação CLT </p> #J-18808-Ljbffr",
+    "company": "Tom Educação",
+    "city": "Piraí do Sul",
+    "state": "Paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074347__1953?utm_source=1953&utm_medium=feed&keyword=Professor-de-Geografia&location=Piraí-do-Sul&geoID=6678"
+  },
+  {
+    "title": "Assistente de Qualidade",
+    "description": "<h3>Nome da empresa disponível para cadastrados. </h3><h3>Vaga de Assistente de Control Desk </h3><p>A vaga de assistente de control desk requer ensino superior em andamento em estatística, sistemas de informação, ciência de dados, engenharia de produção, processos gerenciais, administração ou áreas correlatas. É necessário conhecimento em pacote Office e em KPIs. </p><h3>Benefícios </h3><ul><li>Day off no dia do seu aniversário </li><li>Gympass </li><li>Cartão iFood com cupons de desconto no app </li><li>Convênio SESC </li><li>Descontos em cursos técnicos, graduação e pós-graduação </li><li>Convênio com clínica SIM </li><li>Desconto em restaurantes do centro de Fortaleza </li><li>Avus (plataforma de acesso a consultas) </li> </ul> #J-18808-Ljbffr",
+    "company": "Activox BPO Solutions",
+    "city": "Fortaleza",
+    "state": "Região Nordeste",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074353__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Qualidade&location=Fortaleza&geoID=3263"
+  },
+  {
+    "title": "Assistente de Departamento Pessoal",
+    "description": "<h3>Nome da empresa disponível para cadastrados. </h3><h3>Telefone da empresa disponível para cadastrados. </h3><h3>Requisitos: </h3><p>Cursando ou formado em ciências contábeis, direito ou gestão de recursos humanos. Experiência com processo previdenciário, processos trabalhistas, homologação de rescisão. </p><h3>Funções: </h3><ol><li>Contratos </li><li>Guias sindicais </li><li>Gerenciamento do departamento </li><li>Processos </li><li>Admissão </li><li>Fiscalização </li> </ol><h3>Salário: </h3><p>R$2.200,00 do 1º ao 3º mês, R$2.500,00 a partir do 4º mês. </p><h3>Benefícios: </h3><ol><li>Vale transporte </li><li>Vale alimentação </li><li>Convênio Santa Marta </li><li>Convênio SESC </li><li>Seguro de vida </li><li>Plano de carreira </li><li>Comissão de captação de cliente </li><li>50% de estudos formação educacional </li> </ol><h3>Carga horária: </h3><p>Segunda à sexta das 08h às 18h12 com 01h24 de almoço. </p> #J-18808-Ljbffr",
+    "company": "O RECRUTADOR",
+    "city": "Goiânia",
+    "state": "Goiás",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074357__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=Goiânia&geoID=3432"
+  },
+  {
+    "title": "Atendente",
+    "description": "<h3>Nome da empresa disponível para cadastrados. </h3><h3>Atividades: </h3><ol><li>Manter a praça de alimentação limpa e organizada </li><li>Recolher bandejas, talheres e pratos </li><li>Manter as ilhas de recolhimento organizadas e limpas </li><li>Circular em todo o perímetro certificando que as mesas estão limpas e organizadas </li><li>Executar outras atividades correlatas. </li> </ol><h3>Requisitos: </h3><ol><li>Ensino fundamental </li><li>Experiência com limpeza </li><li>Disponibilidade para trabalhar em escala 6x1 </li> </ol><h3>Benefícios: </h3><ol><li>Plano de saúde 100% pago pela empresa </li><li>Plano odontológico 100% pago pela empresa </li><li>Vale alimentação </li><li>Vale transporte ou credencial do estacionamento </li><li>Seguro de vida </li><li>Assessoria de corrida </li><li>Descontos em lojas do shopping </li><li>Descontos em faculdades parceiras. </li> </ol> #J-18808-Ljbffr",
+    "company": "RioMar Fortaleza",
+    "city": "Fortaleza",
+    "state": "Região Nordeste",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074373__1953?utm_source=1953&utm_medium=feed&keyword=Atendente&location=Fortaleza&geoID=3263"
+  },
+  {
+    "title": "Professor de Ciências | Palmeira",
+    "description": "<h3>Job description </h3><p><strong>(Vaga para Banco de Talentos) </strong> </p><p><strong> Seja parte de uma nova era na educação pública! </strong>  </p><p>Na Tom Educação, acreditamos que a chave para transformar o futuro está em uma educação pública de qualidade. Nossa missão é desenvolver uma comunidade visceralmente comprometida para que todos os estudantes possam construir e alcançar seus sonhos. </p><p>Como professor, você será parte essencial dessa missão, atuando diretamente com alunos do ensino básico para desenvolver habilidades de vida. Se você é apaixonado por ensinar e quer impactar vidas, essa vaga é para você! </p><p><strong>Venha fazer parte do Tom Educação e ajude a transformar vidas e o futuro da educação pública! </strong> </p><br/><h3>Main responsibilities </h3><ul><li>Planejar e ministrar aulas que motivem e engajem os alunos. </li><li>Adaptar o conteúdo para atender às diferentes necessidades das turmas. </li><li>Avaliar o desempenho dos alunos por meio de provas, trabalhos e atividades. </li><li>Acompanhar o progresso individual dos estudantes. </li><li>Criar um ambiente de aprendizagem seguro e estimulante. </li><li>Promover o desenvolvimento do pensamento crítico. </li><li>Colaborar com a equipe pedagógica e gestão escolar para garantir a qualidade do ensino. </li> </ul><h3>Requirements and skills </h3><ul><li>Licenciatura Plena em Ciências; OU </li><li>Bacharelado em Ciências Biológicas; OU </li><li>Licenciatura Plena em Ciências Biológicas. </li><li>Conhecimento profundo do conteúdo a ser ministrado. </li><li>Habilidade para adaptar métodos de ensino a diferentes perfis de alunos. </li><li>Compromisso com o desenvolvimento educacional dos estudantes. </li><li>Boa comunicação e capacidade de trabalho em equipe. </li><li>Dedicação ao ensino em ambientes da rede pública. </li> </ul><p><strong>Diferenciais:  </strong>Experiência prévia como professor titular no ensino fundamental ou médio. </p><h3>Additional information </h3><p>Remuneração + Benefícios (Flexível) - de acordo com a tabela de remuneração abaixo: </p><p><strong>A distribuição de horas-aula será feita de acordo com a Normativa Nº 12/2023, da SEED/PR. </strong> </p><p>Regime de contratação CLT </p><h3>Perguntas Frequentes do Processo Seletivo </h3><p><strong>1. Quem pode se inscrever no processo seletivo? </strong> </p><p>Qualquer pessoa que atenda aos requisitos mínimos descritos na página da vaga na Gupy pode se inscrever. Verifique a seção \"Requisitos\" da vaga para a qual você está aplicando para garantir a sua compatibilidade com a vaga. </p><p><strong>2. Como faço para me inscrever? </strong> </p><p>As inscrições são realizadas online. Basta acessar  , preencher o formulário e enviar os documentos solicitados. Após a inscrição, você receberá um e-mail de confirmação. </p><p><strong>3. Quais documentos são necessários para a inscrição? </strong> </p><p>Os documentos exigidos podem variar de acordo com o cargo, mas geralmente giram em torno do currículo atualizado. Caso você receba uma oferta de contratação, outros documentos serão solicitados. </p><p><strong>4. Há uma taxa de inscrição? </strong> </p><p>Não, a inscrição no processo seletivo é totalmente gratuita. </p><p><strong>5. Qual é o prazo final para inscrição? </strong> </p><p>As inscrições estão abertas até o dia 31/01/2025. Inscreva-se o quanto antes para garantir a sua participação. </p><p><strong>6. Como será o processo de seleção? </strong> </p><p>O processo seletivo é composto por várias etapas, incluindo: </p><ul><li>Análise curricular; </li><li>Prova Específica; </li><li>Aula-Teste; </li><li>Entrevistas com o time de Pessoas&Cultura da Tom Educação e com colaboradores da escola em que você irá trabalhar. </li> </ul><p><strong>7. Quando os resultados serão divulgados? </strong> </p><p>Os resultados das diferentes etapas do processo seletivo serão enviados por e-mail. Acompanhe o calendário na página da Gupy para as datas. </p><p><strong>8. Posso corrigir ou atualizar minha inscrição após enviá-la? </strong> </p><p>Sim, você pode atualizar seus dados antes do prazo final de inscrição, acessando sua conta no site e fazendo as alterações necessárias diretamente no site  . </p><p><strong>9. Como posso acompanhar o status da minha inscrição? </strong> </p><p>Você pode acompanhar o status de sua inscrição e do processo seletivo na área \"Minha Inscrição\" no nosso site  , onde estarão as atualizações sobre cada etapa. </p><p><strong>10. O que devo fazer se não receber o e-mail de confirmação da inscrição? </strong> </p><p>Verifique sua caixa de spam ou lixo eletrônico. Caso o e-mail não esteja lá, entre em contato com a equipe de suporte pelo e-mail   ou pelo telefone 41 997086940. </p><p><strong>11. Há vagas para pessoas com deficiência (PCD)? </strong> </p><p>Sim, o processo seletivo conta com vagas destinadas a pessoas com deficiência (PCD). </p><p><strong>12. Qual é a duração do processo seletivo? </strong> </p><p>O processo seletivo pode variar em duração, mas normalmente leva entre 20 a 60 dias, desde o início das inscrições até a divulgação do resultado final. Confira o andamento em seu e-mail ou no nosso site  . </p><p><strong>13. Onde posso encontrar mais informações sobre os cargos disponíveis? </strong> </p><p>Todas as informações sobre as vagas, incluindo requisitos e responsabilidades, estão detalhadas na página do processo seletivo, disponível no nosso site  . </p><p><strong>14. E se eu tiver mais dúvidas? </strong> </p><p>Caso tenha outras perguntas, você pode entrar em contato com nossa equipe pelo e-mail   ou pelo telefone 41 9262-8806. </p> #J-18808-Ljbffr",
+    "company": "Tom Educação",
+    "city": "Palmeira",
+    "state": "Paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074420__1953_85e2a03fe3ce2b242277e282185b4393?utm_source=1953&utm_medium=feed&keyword=Professor-de-Ci%C3%AAncias&location=Palmeira&geoID=6166"
+  },
+  {
+    "title": "Professor de História | Palmeira",
+    "description": "<h3>Job description </h3><p><strong>Seja parte de uma nova era na educação pública! </strong> </p><p>Na Tom Educação, acreditamos que a chave para transformar o futuro está em uma educação pública de qualidade. Nossa missão é desenvolver uma comunidade visceralmente comprometida para que todos os estudantes possam construir e alcançar seus sonhos. </p><p>Como professor, você será parte essencial dessa missão, atuando diretamente com alunos do ensino básico para desenvolver habilidades de vida. Se você é apaixonado por ensinar e quer impactar vidas, essa vaga é para você! </p><p><strong>Venha fazer parte do Tom Educação e ajude a transformar vidas e o futuro da educação pública! </strong> </p><h3>Main responsibilities </h3><ul><li>Planejar e ministrar aulas que motivem e engajem os alunos. </li><li>Adaptar o conteúdo para atender às diferentes necessidades das turmas. </li><li>Avaliar o desempenho dos alunos por meio de provas, trabalhos e atividades. </li><li>Acompanhar o progresso individual dos estudantes. </li><li>Criar um ambiente de aprendizagem seguro e estimulante. </li><li>Promover o desenvolvimento do pensamento crítico. </li><li>Colaborar com a equipe pedagógica e gestão escolar para garantir a qualidade do ensino. </li> </ul><h3>Requirements and skills </h3><ul><li>Licenciatura Plena em História; </li><li>OU Bacharelado em História; </li><li>OU Licenciatura Plena em Filosofia ou Geografia ou Sociologia. </li><li>Conhecimento profundo do conteúdo a ser ministrado. </li><li>Habilidade para adaptar métodos de ensino a diferentes perfis de alunos. </li><li>Compromisso com o desenvolvimento educacional dos estudantes. </li><li>Boa comunicação e capacidade de trabalho em equipe. </li><li>Dedicação ao ensino em ambientes da rede pública. </li> </ul><p><strong>Diferenciais: </strong> Experiência prévia como professor titular no ensino fundamental ou médio. </p><h3>Additional information </h3><p>Remuneração + Benefícios (Flexível) - de acordo com a tabela de remuneração abaixo: </p><p><strong>A distribuição de horas-aula será feita de acordo com a Normativa Nº 12/2023, da SEED/PR. </strong> </p><p>Regime de contrato CLT </p> #J-18808-Ljbffr",
+    "company": "Tom Educação",
+    "city": "Palmeira",
+    "state": "Paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074461__1953?utm_source=1953&utm_medium=feed&keyword=Professor-de-Hist%C3%B3ria&location=Palmeira&geoID=6166"
+  },
+  {
+    "title": "Fiscal de Loja - Temporário",
+    "description": "<p><b>Sobre a vaga: </b><br/>Trabalhamos para você ser mais você em todos os momentos, começando pela sua carreira. Se você se identifica conosco e procura uma empresa, acima de tudo, apaixonada por pessoas,<br/>#VemPraCeA! </p><p><b>Principais atribuições: </b> </p><ol><li>Atuação com Prevenção de Perdas; </li><li>Execução dos processos e procedimentos preventivos; </li><li>Análise de Perdas: conceitos e técnicas relacionadas à investigação de problemas operacionais e análise de resultados. </li> </ol><p><b>Requisitos Obrigatórios: </b> </p><ol><li>Atuar de forma analítica e preventiva; </li><li>Formação Acadêmica: necessário ter ensino médio completo; </li><li>Experiência como Fiscal de Loja; </li><li>Vivência em varejo é um diferencial. </li> </ol><p><b>Benefícios: </b> </p><ol><li>Desconto de 20% nos produtos C&A; </li><li>Restaurante interno ou vale-refeição. </li> </ol><p>A C&A é uma das maiores redes de varejo de moda no mundo. De origem holandesa, foi fundada em 1841 pelos irmãos Clemens e August, cuja união das iniciais de seus nomes resultou na marca C&A. </p><p>Nessa trajetória de sucesso, em 1976 foi inaugurada a primeira loja no Brasil, no Shopping Ibirapuera, em São Paulo. Atualmente, a C&A está presente em todos os estados do território nacional com mais de 330 lojas. </p><p>Por aqui, acreditamos que nós podemos impactar positivamente as pessoas para que sejam o que desejam ser por meio da moda. Cada associada e associado traz consigo a alegria, a vibração e a energia para transformar o varejo e a moda no Brasil. </p><p>Além disso, há experiências que só a C&A pode oferecer: ambiente leve, informal e divertido; valores e compromissos inegociáveis para a sociedade; desenvolvimento profissional no varejo; e conexão com uma marca de renome e que entrega resultados consistentes. </p><p>Nós vestimos as mudanças! Esse é o nosso DNA! </p> #J-18808-Ljbffr",
+    "company": "C&A Brasil",
+    "city": "Barueri",
+    "state": "São Paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074463__1953_6ce21648d15c7ad28ff96f31d15f7be6?utm_source=1953&utm_medium=feed&keyword=Fiscal-de-Loja&location=Barueri&geoID=1016"
+  },
+  {
+    "title": "Ajudante de Obras",
+    "description": "<h3>Vaga: Servente de Obras em Anápolis / GO </h3><h3>Nome da empresa disponível para cadastrados. </h3><h3>Descrição da Vaga </h3><p>Servente de obras para construção civil em Anápolis - GO. Salário de até R$2.315,50 + 7% de assiduidade + cartão alimentação (R$ 250,00) + ajuda de custo ou vale transporte + refeição + seguro de vida. Início imediato: dezembro/2024. </p><h3>Requisitos </h3><p>É necessário ter experiência na área e disposição para trabalho em equipe. </p><h3>Como se Candidatar </h3><p>Envie seu currículo através do nosso site. </p> #J-18808-Ljbffr",
+    "company": "Mind Connect",
+    "city": "Anápolis",
+    "state": "Goiás",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074485__1953?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-Obras&location=Anápolis&geoID=404"
+  },
+  {
+    "title": "Auxiliar de Limpeza- Osasco - 1.590,00 + Benefícios - 5 x 2",
+    "description": "<p>São Paulo - SP </p><h3>Detalhes da Vaga </h3><ul><li><b>Cargo: </b> Auxiliar de Limpeza </li><li><b>Horário: </b> Manhã e Tarde </li><li><b>Escala: </b> 6 x 1 </li><li><b>Salário: </b> R$ 1.590,00 + VR R$ 19,77 ao dia trabalhado + VA R$ 137,00 ao mês no valor da cesta + Seguro de Vida </li> </ul><h3>Como se Candidatar </h3><p>Para se candidatar, enviar mensagem no número (11) 94757-7920 e pedir para falar com Rebeca. </p><h3>Sobre a Empresa </h3><p>Com mais de 15 anos de atuação, somos uma empresa especializada na área de terceirização e serviços de mão de obra qualificada, consolidando-se como uma das maiores referências do mercado. Esse reconhecimento se tornou real por meio de parcerias sólidas com clientes e funcionários que acreditam nos valores e princípios da DL GREEN. </p><p>Harmonia com a legalidade brasileira, compromisso com funcionários e aposta pela sustentabilidade são os pilares que sustentam o sucesso da empresa na prestação de serviços aos clientes. </p> #J-18808-Ljbffr",
+    "company": "DL Green - Terceirização",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074498__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Limpeza&location=São-Paulo&geoID=25"
+  },
+  {
+    "title": "Ajudante Geral",
+    "description": "<h3>Vaga: Ajudante de Serviços Gerais em Marabá / PA </h3><h3>Nome da empresa disponível para cadastrados. </h3><p><b>Requisitos: </b> </p><ol><li>Experiência anterior em serviços gerais. </li><li>Conhecimento básico de manutenção de áreas comuns. </li><li>Habilidade para limpeza e organização. </li> </ol><p><b>Oferecemos: </b> </p><ol><li>Salário compatível com a função. </li><li>Benefícios: vale transporte. </li> </ol><p><b>Responsabilidades: </b> </p><ol><li>Realizar a limpeza e manutenção de áreas comuns. </li><li>Organizar e zelar pelos materiais de trabalho. </li><li>Executar outras tarefas necessárias conforme necessidade. </li> </ol> #J-18808-Ljbffr",
+    "company": "Floricultura Bambu",
+    "city": "Marabá",
+    "state": "Pará",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074582__1953_b26db53ce70cb39a435f60174f487567?utm_source=1953&utm_medium=feed&keyword=Ajudante-Geral&location=Marabá&geoID=5105"
+  },
+  {
+    "title": "Conferente de Mercadoria",
+    "description": "<h3>Vaga de Conferente de Estoque em Conselheiro Lafaiete / MG </h3><h3>Nome da empresa disponível para cadastrados. </h3><h3>Requisitos: </h3><ol><li>Ensino médio completo </li><li>Experiência em cargo de liderança </li><li>Disponibilidade de horário </li><li>Pacote Office intermediário </li><li>Disciplina no cumprimento da rotina </li> </ol><h3>Benefícios: </h3><ol><li>Salário fixo + variável </li><li>Plano de saúde </li><li>Plano odontológico </li><li>Ticket alimentação </li><li>Seguro de vida </li><li>Day off (dia de folga no aniversário) </li> </ol><p>A vaga é para banco de currículos. </p> #J-18808-Ljbffr",
+    "company": "Farid Distribuidora",
+    "city": "Conselheiro Lafaiete",
+    "state": "Minas Gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_2074615__1953_956430eccb1c56d3c72bcebc8e190b1c?utm_source=1953&utm_medium=feed&keyword=Conferente-de-Mercadoria&location=Conselheiro-Lafaiete&geoID=2447"
   }
 ]
