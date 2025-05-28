@@ -66,7 +66,7 @@ if response.status_code == 200:
                         jobs = []
                         file_count += 1
 
-            if jobs and file_count <= 50:
+            if jobs and file_count <= 25:
                 json_path = os.path.join(json_folder, f"part_{file_count}.json")
                 with open(json_path, "w", encoding="utf-8") as json_file:
                     json.dump(jobs, json_file, ensure_ascii=False, indent=2)
