@@ -56,8 +56,8 @@ if response.status_code == 200:
                     elem.clear()
 
                     if len(jobs) >= 1000:
-                        if file_count > 45:
-                            print("⛔ Limite de 45 arquivos atingido.")
+                        if file_count > 25:
+                            print("⛔ Limite de 25 arquivos atingido.")
                             break
                         json_path = os.path.join(json_folder, f"part_{file_count}.json")
                         with open(json_path, "w", encoding="utf-8") as json_file:
