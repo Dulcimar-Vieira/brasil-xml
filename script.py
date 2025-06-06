@@ -38,6 +38,15 @@ if response.status_code == 200:
                     city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
                     state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
 
+                    # ❌ Ignorar se cidade ou estado estiverem vazios
+                    if not city or not state:
+                        elem.clear()
+                        continue
+
+                    # ✅ Preencher company como "Confidencial" se estiver vazio
+                    if not company:
+                        company = "Confidencial"
+
                     if not title or not url:
                         elem.clear()
                         continue
