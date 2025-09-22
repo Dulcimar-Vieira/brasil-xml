@@ -1,32 +1,5 @@
 [
   {
-    "title": "Desenvolvedor Java",
-    "description": "<p><b> Desenvolvedor Java Pleno  </b> <p><b> Requisitos para Vaga:  </b> </p><ul><li> Formação de nível superior na área de informática <b> concluída  </b> ou pós-graduação em TI com duração mínima de 360 horas;  </li><li> Sólida experiência e desempenhando funções de desenvolvimento de aplicações web utilizando tecnologias JAVA, e como Desenvolvedor Pleno;  </li><li> Experiência nas seguintes tecnologias e processos:  </li><li> Java EE (EJB E JPA);  </li><li> Angular <b>(Cliente - versões de 10 e 17) </b> ;  </li><li> AngularJS - <b> imprescindível  </b> </li><li> REST;  </li><li> Hibernate;  </li><li> SGBD Oracle;  </li><li> JBoss AMQ;  </li><li> Testes unitários;  </li><li> Jenkins (Geração/Automatização de builds);  </li><li> Sonar (Validação de builds);  </li><li> Controle de versões com GIT;  </li> </ul> <p><b> Desejável conhecimentos:  </b> </p><ul><li> Liquibase;  </li><li> OpenShift;  </li><li> Elasticsearch;  </li><li> Quarkus;  </li><li> Prompts - Inteligência Artificial.  </li> </ul>  </p>",
-    "company": "Stefanini Brasil",
-    "city": "Brasil",
-    "state": "Brasil",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2465192__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=Brasil&geoID=15674"
-  },
-  {
-    "title": "Consultor Genesys Cloud",
-    "description": "<p><b> Requirements:  </b> <ul><li> Advanced English  </li> </ul> <ul><li> Good understanding of SIP Protocols, Genesys Framework and Architecture  </li><li> Reporting components like CCPulse/Pulse, ICON, Infomart and CXInsights  </li><li> Good troubleshooting experience in Genesys infrastructure.  </li><li> Good understanding of the following Genesys Products  </li><li> Design call-Flow Architect/ Script/ Data Actions/ Data table  </li><li> Integration with Salesforce, Genesys API’s , PCI PAL, GenAI  </li><li> Knowledge about Genesys Cloud Components like Google CCAI chat bot, predictive engagement.  </li><li> Trunks, E1/ T1(CAS, CCS), SIP etc.,  </li><li> Gateway protocols: SIP and MGCP  </li><li> Good ITIL Knowledge – Incident, Change & Configuration Management  </li> </ul>  </p>",
-    "company": "HCLTech",
-    "city": "Brasil",
-    "state": "Brasil",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2465200__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-Genesys-Cloud&location=Brasil&geoID=15674"
-  },
-  {
-    "title": "Suporte de sistema",
-    "description": "<p><b> Descrição da Empresa  </b> Sugerimos que insira os detalhes aqui. <p><b> Descrição do Cargo  </b> Estamos procurando um profissional de Suporte de Sistema para se juntar à nossa equipe em Içara, SC. As responsabilidades diárias incluem fornecer suporte técnico aos usuários, realizar a administração de sistemas, solucionar problemas e colaborar com a equipe para garantir a eficiência operacional. Este é um cargo de tempo integral e requer presença no local.  </p><p><b> Qualificações  </b> </p><ul><li><b> Suporte Técnico e Administração de Sistemas:  </b> Necessário possuir experiência em fornecer suporte técnico e administrar sistemas de TI.  </li><li> Ter formação na área  </li><li><b> Habilidades Analíticas e de Solução de Problemas:  </b> Habilidades analíticas e capacidade de solucionar problemas complexos de maneira eficiente são essenciais.  </li><li><b> Comunicação:  </b> Excelentes habilidades de comunicação verbal e escrita para interagir com usuários e equipes internas.  </li><li> Além das habilidades acima, serão considerados diferenciais a formação em Ciências da Computação, Engenharia de Software ou áreas afins, bem como certificações técnicas relevantes.  </li> </ul> </p>",
-    "company": "Hard Shop Informática",
-    "city": "Içara",
-    "state": "Criciúma (microrregião)",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2465233__1953?utm_source=1953&utm_medium=feed&keyword=Suporte-de-sistema&location=Içara&geoID=3785"
-  },
-  {
     "title": "Engenheiro Eletricista Sênior para Comissionamento de Obras",
     "description": "<p><b> Responsabilidades  </b><p> Coordenar a equipe de engenheiros de comissionamento.  </p><p> Inspecionar em campo equipamentos e instalações, com a finalidade de verificar a conformidade aos projetos e especificações.  </p><p> Realizar inspeções e testes em fábrica dos equipamentos que serão instalados.  </p><p> Realizar testes elétricos, interpretar os resultados e gerar relatórios com avaliação e recomendações. Exemplo de testes: isolação elétrica, qualidade de energia, termografias, torqueamento, etc.  </p><p> Elaborar e controlar listas de pendências e correções necessárias na obra.  </p> <p><b> Qualificações  </b> </p><p> Formação em Engenharia Elétrica Plena, com CREA ativo.  </p><p> Conhecimentos de normas ABNT pertinentes, bem como IEEE, NETA, ANSI e IEC.  </p><p> Domínio falado e escrito da língua inglesa.  </p><p> Experiência mínima comprovada de 5 anos em comissionamento e inspeções de instalações elétricas.  </p><p> Conhecimento de instalações de missão crítica.  </p><p> Domínio do funcionamento e testes de geradores, transformadores, painéis elétricos, UPSs, ATSs e STSs.  </p> </p>",
     "company": "B2DC Engenharia",
@@ -8998,5 +8971,32 @@
     "state": "São Paulo (microrregião)",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___3390_2470404__1953?utm_source=1953&utm_medium=feed&keyword=Enfermeiro-Auditor&location=São-Paulo&geoID=8414"
+  },
+  {
+    "title": "Parceiro em Design",
+    "description": "<p><b> Na Twist, tudo tem um toque a mais — <em> with a twist  </em>! </b><p> Somos movidos por criatividade, inovação e o desejo constante de surpreender. Cada projeto é pensado com um olhar único, atento às tendências mais atuais de tecnologia, interatividade e comportamento do consumidor.  </p><p> Estamos em busca de uma pessoa criativa, com perfil proativo e colaborativo, para atuar de forma presencial em projetos da Twist. Se você valoriza parcerias profissionais sólidas, tem boa comunicação, lida bem com prazos e gosta de pensar fora da caixa, queremos te conhecer! </p> <p><b> Atividades esperadas:  </b> </p><p> Desenvolvimento de artes e KVs (identidades visuais) com alto padrão de qualidade.  </p><p> Criação de conceitos visuais em parceria com outros profissionais envolvidos nos projetos.  </p><p> Participação ativa no processo criativo, com troca de ideias e sugestões de melhoria.  </p> <p><b> Requisitos técnicos e comportamentais:  </b> </p><p> Experiência comprovada em design gráfico ou direção de arte.  </p><p> Domínio do pacote Adobe, especialmente Illustrator e Photoshop.  </p><p> Criatividade, agilidade e atenção aos detalhes.  </p><p> Capacidade de gerenciar diferentes demandas em paralelo.  </p><p> Boa comunicação, senso de colaboração e organização.  </p><p> Senso estético apurado e zelo com a finalização das peças.  </p><p> Visão estratégica e propositiva, além da execução técnica.  </p><p> Interesse em contribuir com soluções inovadoras, que fujam do lugar comum.  </p> <p><b> Diferenciais valorizados:  </b> </p><p> Conhecimentos em HTML/CSS  </p><p> Experiência com WordPress  </p><p> Familiaridade com UX/UI (Figma ou Adobe XD) </p><p> Edição de vídeo  </p><p> Ilustração (vetorial ou com brush) </p><p> Motion design (After Effects) </p> <p><b> Formação:  </b> </p><p> Graduação em Design, Publicidade ou experiência equivalente na área.  </p> <p><b> Outras informações:  </b> </p><p><b> Modelo de atuação:  </b> Prestação de serviços (Pessoa Jurídica) </p><p><b> Formato:  </b> 100% Presencial  </p><p> Faixa de <b> remuneração  </b> a combinar, conforme experiência e alinhamento com as demandas do projeto.  </p> </p>",
+    "company": "Twist",
+    "city": "São Paulo",
+    "state": "São Paulo (microrregião)",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___3390_2470407__1953?utm_source=1953&utm_medium=feed&keyword=Parceiro-em-Design&location=São-Paulo&geoID=8414"
+  },
+  {
+    "title": "Desenvolvedor(a) Back End / C# .Net #1903",
+    "description": "<p><b> Desenvolvedor(a) Back End / C# .Net #1903 </b> <p>> Modalidade de Atuação: Híbrido (2x por semana presencial) </p><p>> Local: Sorocaba, SP  </p><p>> Horário de Trabalho: Comercial  </p>  <p><b> Descrição das Atividades:  </b> </p> <p>￭ Auxiliar na correção de bugs e desenvolvimento de novos recursos para aplicativos corporativos baseados em nuvem.  </p><p>￭ Colaborar com partes interessadas para reunir requisitos, projetar e implementar soluções de software de alta qualidade.  </p><p>￭ Conduzir revisões de código e análises de sistemas para identificação de melhorias.  </p><p>￭ Auxiliar na seleção de ferramentas, tecnologias e bibliotecas para o desenvolvimento.  </p><p>￭ Desenvolver e manter documentação técnica.  </p><p>￭ Atualizar-se com tecnologias emergentes e melhores práticas do setor.  </p><p>￭ Atuar de forma independente, com supervisão mínima.  </p><p>￭ Ter disponibilidade para aprender sobre dados agrícolas / ISO agrícolas.  </p>  <p><b> Requisitos:  </b> </p> <p>￭ Experiência comprovada com C#/.NET.  </p><p>￭ Experiência com tecnologias de nuvem (preferencialmente Azure ou AWS).  </p><p>￭ Experiência com sistemas de controle de versão (preferencialmente Azure DevOps/Git).  </p><p>￭ Experiência com bancos de dados SQL e relacionais (preferencialmente SQL Server).  </p><p>￭ Conhecimento em ferramentas e práticas de CI/CD.  </p><p>￭ Experiência com APIs REST e tecnologias web.  </p><p>￭ Vivência com frameworks de testes unitários (NUnit, XUnit ou MSTest).  </p><p>￭ Experiência em ambiente de equipe.  </p><p>￭ Desejável: experiência com indústria automotiva e/ou agrícola.  </p><p>￭ Inglês Avançado.  </p>  </p>",
+    "company": "Formel D Group",
+    "city": "Sorocaba",
+    "state": "Sorocaba (microrregião)",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___3390_2470409__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Back-End&location=Sorocaba&geoID=8852"
+  },
+  {
+    "title": "Analista Fiscal",
+    "description": "<p><b> Vaga – Analista fiscal  </b>  <p><em> Sobre nós  </em> </p> <p> A Hy Brazil atua há mais de 20 anos no setor de energia, iniciando no segmento de construção civil e, passando atuar no desenvolvimento de projetos, licenciamento, geração, operação, manutenção e comercialização de energia.  </p><p> Com mais de 70 usinas em operação comercial em seu portfólio, somando mais de 200 MW instalados, trabalhamos de forma verticalizada desde o licenciamento até a operação em projetos hidrelétricos, solares e eólicos.  </p><p> Realizamos a gestão de mais de 10.000 unidades consumidoras em geração distribuída, concentradas em 9 distribuidoras nos estados de MG, SP, RJ, GO, MT, BA, TO, PE e CE.  </p> <p><em> Sobre a vaga  </em> </p>  <p><b> O que você fará  </b> </p><ul><li> Apuração e recolhimento mensal de ISS próprio e retido, ICMS, bem como de tributos federais retidos.  </li><li> Realização de conciliações fiscais e análise de créditos/débitos tributários.  </li><li> Elaboração, revisão e entrega das obrigações acessórias (SPED Fiscal, EFD  </li><li> Contribuições, DCTF, REINF, GIA, ISSQN, entre outras).  </li><li> Acompanhamento de legislações tributárias municipais, estaduais e federais, assegurando atualização constante.  </li><li> Suporte em fiscalizações, auditorias externas e internas.  </li><li> Apoio na elaboração de planejamentos tributários e identificação de oportunidades de otimização fiscal.  </li><li> Interface com contabilidade, financeiro, jurídico e demais áreas relacionadas.  </li> </ul>  <p><b> O que é necessário  </b> </p><ul><li> Formação: Graduação completa em Ciências Contábeis, Administração, Economia ou áreas correlatas.  </li><li> Experiência: Mínimo de 5 a 7 anos em rotinas fiscais, com forte atuação em ISS, ICMS, ICMS-ST e impostos federais retidos.  </li><li> Saber trabalhar em equipe, senso de dono.  </li><li> Conhecimento em legislação tributária vigente (municipal, estadual e federal);  </li><li> Domínio em apuração e escrituração fiscal digital (SPED, EFD, REINF etc.);  </li><li> Conhecimento em sistemas integrados ERP (SAP, Oracle, Totvs ou similares);  </li><li> Excel avançado  </li> </ul>  <p><b> Desejável  </b> </p><ul><li> Pós-graduação ou especialização em Gestão Tributária ou Direito Tributário;  </li><li> Experiência em empresas de grande porte ou multinacionais;  </li><li> Vivência em projetos de melhoria de processos e automação fiscal.  </li> </ul>  <p><b> O que oferecemos  </b> </p><ul><li> Plano saúde nacional  </li><li> Assistência odontológica  </li><li> Seguro de vida  </li><li> Vale Alimentação ou Refeição  </li><li> Gympass  </li><li> PLR  </li><li> Auxílio mobilidade  </li> </ul>  </p>",
+    "company": "Hy Brazil Energia",
+    "city": "Belo Horizonte",
+    "state": "Belo Horizonte (microrregião)",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___3390_2470410__1953?utm_source=1953&utm_medium=feed&keyword=Analista-Fiscal&location=Belo-Horizonte&geoID=1086"
   }
 ]
