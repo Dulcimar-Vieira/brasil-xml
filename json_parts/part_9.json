@@ -1,5 +1,32 @@
 [
   {
+    "title": "Desenvolvedor Full Stack Pl",
+    "description": "<p>Desde 2014 na pista, acelerando no segmento de tecnologia com foco em inovação automotiva, somos especialistas no setor e temos como combustível a paixão pela cultura do automóvel. Nossa missão é entregar a melhor e mais segura experiência, tanto para o motorista que busca soluções rápidas após um imprevisto no carro, quanto para as oficinas que encontram na nossa plataforma uma rota certeira para conquistar novos clientes. Nossos pilotos são movidos a inovação e adrenalina. Aqui, ninguém freia diante do comum, e com nosso motor turbo, seguimos todos na mesma pista, acelerando rumo a resultados extraordinários. Estamos aqui para transformar, evoluir e deixar nossa marca na estrada. Acha que criatividade, inovação e mobilidade podem nos levar mais longe? Então, venha fazer parte da nossa viagem – aqui, o único combustível ruim é o da concorrência! </p><p><br></p><p><br></p><p><b>Responsabilidades: </b> </p><p><br></p><ul><li>Desenvolver e manter aplicações web utilizando tecnologias .NET (C#, ASP.NET Core, Web API). </li><li>Criar e integrar interfaces responsivas com frameworks modernos como Angular, React ou Vue.js. </li><li>Participar da análise, arquitetura e design de soluções técnicas escaláveis e seguras. </li><li>Realizar testes automatizados (unitários e integrados) para garantir a qualidade do código. </li><li>Colaborar com equipes multidisciplinares (UX/UI, QA, Produto) para entrega de soluções completas. </li><li>Atuar na manutenção e evolução de sistemas legados, promovendo refatorações quando necessário. </li><li>Garantir boas práticas de versionamento de código (Git), integração contínua e entrega contínua (CI/CD). </li><li>Participar de code reviews e contribuir para a melhoria contínua dos processos de desenvolvimento. </li><li>Documentar funcionalidades, APIs e decisões técnicas de forma clara e acessível. </li> </ul><p><br></p><p><br></p><p><b>Requisitos: </b> </p><p><br></p><ul><li>Experiência comprovada com desenvolvimento em <b>.NET (C#, ASP.NET Core) </b>. </li><li>Conhecimento sólido em <b>JavaScript </b>, <b>HTML5 </b>, <b>CSS3 </b> e frameworks modernos como <b>Angular </b>, <b>React </b> ou <b>Vue.js </b>. </li><li>Experiência com <b>APIs RESTful </b>, integração de serviços e consumo de dados. </li><li>Familiaridade com <b>bancos de dados relacionais </b> (SQL Server, PostgreSQL) e <b>não relacionais </b> (MongoDB, Redis). </li><li>Prática com <b>versionamento  </b>utilizando <b>Git </b>. </li><li>Experiência com <b>Entity Framework Core </b> ou outras ferramentas ORM. </li><li>Conhecimento em <b>práticas de testes automatizados </b> (unitários, integrados). </li><li>Vivência com <b>metodologias ágeis </b> (Scrum, Kanban). </li><li>Capacidade de escrever código limpo, reutilizável e bem documentado. </li><li>Boa comunicação e trabalho em equipe. </li> </ul><p><br></p><p><b>Será um diferencial:  </b> </p><p><br></p><ul><li>Experiência com <b>Azure </b>, <b>AWS </b> ou outro provedor de cloud computing. </li><li>Familiaridade com ferramentas de <b>monitoramento e logging </b> (ex: ELK Stack, Prometheus, Grafana). </li><li>Experiência com <b>arquitetura de microsserviços </b>. </li><li>Conhecimento em <b>Design Patterns </b> e princípios SOLID. </li><li>Experiência com <b>CI/CD pipelines </b> utilizando ferramentas como Azure DevOps, GitHub Actions ou GitLab CI. </li><li>Certificações Microsoft ou outras relacionadas à área de desenvolvimento. </li> </ul>",
+    "company": "Car10 - Uma empresa Webmotors",
+    "city": "sumaré",
+    "state": "sp",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11411191__1953_53c4037e5654960c1870de8c34c355a6?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=sumaré&geoID=8878"
+  },
+  {
+    "title": "Senior AI Engineer (Python / Node.js)",
+    "description": "<p>We are seeking a remote, full-time <b>Senior AI Engineer  </b>with 5+ years of software and AI/ML engineering experience. Candidates must have a strong background in Python and either Golang, Node.js, or Java expertise, with a strong desire to adopt Golang as the primary back-end technology.  </p><p>In this position, you will be at the heart of the client's product innovation, responsible for designing, implementing, and operationalizing AI-native services that transform the utility sector. This role combines applied AI/ML expertise with strong back-end engineering skills, ensuring the client's agentic systems are not only functional but scalable, secure, and production-ready. </p><p>As a key member of our engineering team, you will report directly to the CTO and operate within small, agile teams alongside software engineers, security experts, and product managers. You will own the full lifecycle of AI services from data ingestion and model training to real-time deployment and monitoring while continuously adapting to evolving requirements in a fast-moving, high-stakes industry. </p><p>Our client is building an AI-centric operating system for utilities. It harnesses AI at the enterprise level to better orchestrate customer delight, facilitate power optimization, improve the health of the grid, and unlock flexibility at scale. Funded by a strategic industry partner and one of the founders at Groupon, the client is poised to transform how utilities run and how customers experience energy. </p><p><br></p><p><b>Responsibilities </b> </p><ul><li><b>AI Systems Development </b>: Architect, fine-tune, and deploy AI agents purpose-built for utility use cases, including predictive operations, customer engagement, and energy optimization </li><li><b>Back-End Integration </b>: Build APIs, microservices, and orchestration frameworks that seamlessly connect AI models with enterprise systems and grid-level data flows </li><li><b>Pipeline Ownership </b>: Design and manage the complete AI pipeline ingestion, embeddings, retrieval, evaluation, and continuous deployment, ensuring reliability and scalability </li><li><b>AI Risk Mitigation </b>: Address vulnerabilities unique to AI, such as model drift, bias exploitation, adversarial robustness, and hallucination control with sensitivity to regulated environments </li><li><b>Cross-Functional Collaboration </b>: Partner with software engineers, data specialists, and security teams to integrate AI capabilities into the broader client OS, embedding AI by design into every product release </li><li><b>Speed of Delivery </b>: Operate with urgency, delivering breakthroughs in code and AI services on cycles measured in weeks, not quarters. </li> </ul><p><br></p><p><b>Required Experience </b> </p><ul><li>Excellent English communication skills </li><li>5+ years of applied ML/AI engineering experience, ideally with exposure to enterprise/mission-critical systems.  </li><li>Strong proficiency in Python and either Golang, Node.js, or Java (non-Golang developers will learn and adopt Golang on the job) </li><li>Expertise with ML/LLM frameworks, such as PyTorch, TensorFlow, LangChain, or equivalent </li><li>Experience with vector databases, orchestration frameworks, and modern MLOps practices. </li><li>Track record of deploying AI services in production </li><li>Strong grounding in cloud-native architectures (AWS, GCP, Azure) </li><li>Analytical, collaborative, and comfortable with ambiguity.  </li><li>Ability to thrive in small, high-velocity teams, balancing experimentation with production rigor </li> </ul><p><br></p><p><b>Desired Experience </b> </p><ul><li>University degree or relevant industry experience </li><li>Experience working on ERP systems or within the power utilities industry </li> </ul><p><br></p><p><b>Additional Information </b> </p><ul><li>Enjoy a fun, fast-growing entrepreneurial company </li><li>Be part of a highly collaborative learning culture, share knowledge, be inclusive, learn, and grow together. Embrace teamwork! </li><li>Knowing your ideas are heard and matter, think big! </li><li>You get to own your job and be recognized for your contributions </li><li>Work with innovative and creative people </li><li>Making mistakes is human. Let's learn from them. Be transparent! </li><li>We recognize you as an individual, with no presumptions or judgment. Be the extraordinary you! </li><li>15 days Paid Time Off (PTO), one floating day, three sick days, and designated national holidays </li><li>Start: ASAP </li> </ul>",
+    "company": "Velozient",
+    "city": "campo grande",
+    "state": "ms",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11411295__1953?utm_source=1953&utm_medium=feed&keyword=Senior-AI-Engineer&location=campo-grande&geoID=1749"
+  },
+  {
+    "title": "Senior AI Engineer (Python / Node.js)",
+    "description": "<p>We are seeking a remote, full-time <b>Senior AI Engineer  </b>with 5+ years of software and AI/ML engineering experience. Candidates must have a strong background in Python and either Golang, Node.js, or Java expertise, with a strong desire to adopt Golang as the primary back-end technology.  </p><p>In this position, you will be at the heart of the client's product innovation, responsible for designing, implementing, and operationalizing AI-native services that transform the utility sector. This role combines applied AI/ML expertise with strong back-end engineering skills, ensuring the client's agentic systems are not only functional but scalable, secure, and production-ready. </p><p>As a key member of our engineering team, you will report directly to the CTO and operate within small, agile teams alongside software engineers, security experts, and product managers. You will own the full lifecycle of AI services from data ingestion and model training to real-time deployment and monitoring while continuously adapting to evolving requirements in a fast-moving, high-stakes industry. </p><p>Our client is building an AI-centric operating system for utilities. It harnesses AI at the enterprise level to better orchestrate customer delight, facilitate power optimization, improve the health of the grid, and unlock flexibility at scale. Funded by a strategic industry partner and one of the founders at Groupon, the client is poised to transform how utilities run and how customers experience energy. </p><p><br></p><p><b>Responsibilities </b> </p><ul><li><b>AI Systems Development </b>: Architect, fine-tune, and deploy AI agents purpose-built for utility use cases, including predictive operations, customer engagement, and energy optimization </li><li><b>Back-End Integration </b>: Build APIs, microservices, and orchestration frameworks that seamlessly connect AI models with enterprise systems and grid-level data flows </li><li><b>Pipeline Ownership </b>: Design and manage the complete AI pipeline ingestion, embeddings, retrieval, evaluation, and continuous deployment, ensuring reliability and scalability </li><li><b>AI Risk Mitigation </b>: Address vulnerabilities unique to AI, such as model drift, bias exploitation, adversarial robustness, and hallucination control with sensitivity to regulated environments </li><li><b>Cross-Functional Collaboration </b>: Partner with software engineers, data specialists, and security teams to integrate AI capabilities into the broader client OS, embedding AI by design into every product release </li><li><b>Speed of Delivery </b>: Operate with urgency, delivering breakthroughs in code and AI services on cycles measured in weeks, not quarters. </li> </ul><p><br></p><p><b>Required Experience </b> </p><ul><li>Excellent English communication skills </li><li>5+ years of applied ML/AI engineering experience, ideally with exposure to enterprise/mission-critical systems.  </li><li>Strong proficiency in Python and either Golang, Node.js, or Java (non-Golang developers will learn and adopt Golang on the job) </li><li>Expertise with ML/LLM frameworks, such as PyTorch, TensorFlow, LangChain, or equivalent </li><li>Experience with vector databases, orchestration frameworks, and modern MLOps practices. </li><li>Track record of deploying AI services in production </li><li>Strong grounding in cloud-native architectures (AWS, GCP, Azure) </li><li>Analytical, collaborative, and comfortable with ambiguity.  </li><li>Ability to thrive in small, high-velocity teams, balancing experimentation with production rigor </li> </ul><p><br></p><p><b>Desired Experience </b> </p><ul><li>University degree or relevant industry experience </li><li>Experience working on ERP systems or within the power utilities industry </li> </ul><p><br></p><p><b>Additional Information </b> </p><ul><li>Enjoy a fun, fast-growing entrepreneurial company </li><li>Be part of a highly collaborative learning culture, share knowledge, be inclusive, learn, and grow together. Embrace teamwork! </li><li>Knowing your ideas are heard and matter, think big! </li><li>You get to own your job and be recognized for your contributions </li><li>Work with innovative and creative people </li><li>Making mistakes is human. Let's learn from them. Be transparent! </li><li>We recognize you as an individual, with no presumptions or judgment. Be the extraordinary you! </li><li>15 days Paid Time Off (PTO), one floating day, three sick days, and designated national holidays </li><li>Start: ASAP </li> </ul>",
+    "company": "Velozient",
+    "city": "cachoeirinha",
+    "state": "rs",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11411301__1953?utm_source=1953&utm_medium=feed&keyword=Senior-AI-Engineer&location=cachoeirinha&geoID=1539"
+  },
+  {
     "title": "Senior AI Engineer (Python / Node.js)",
     "description": "<p>We are seeking a remote, full-time <b>Senior AI Engineer  </b>with 5+ years of software and AI/ML engineering experience. Candidates must have a strong background in Python and either Golang, Node.js, or Java expertise, with a strong desire to adopt Golang as the primary back-end technology.  </p><p>In this position, you will be at the heart of the client's product innovation, responsible for designing, implementing, and operationalizing AI-native services that transform the utility sector. This role combines applied AI/ML expertise with strong back-end engineering skills, ensuring the client's agentic systems are not only functional but scalable, secure, and production-ready. </p><p>As a key member of our engineering team, you will report directly to the CTO and operate within small, agile teams alongside software engineers, security experts, and product managers. You will own the full lifecycle of AI services from data ingestion and model training to real-time deployment and monitoring while continuously adapting to evolving requirements in a fast-moving, high-stakes industry. </p><p>Our client is building an AI-centric operating system for utilities. It harnesses AI at the enterprise level to better orchestrate customer delight, facilitate power optimization, improve the health of the grid, and unlock flexibility at scale. Funded by a strategic industry partner and one of the founders at Groupon, the client is poised to transform how utilities run and how customers experience energy. </p><p><br></p><p><b>Responsibilities </b> </p><ul><li><b>AI Systems Development </b>: Architect, fine-tune, and deploy AI agents purpose-built for utility use cases, including predictive operations, customer engagement, and energy optimization </li><li><b>Back-End Integration </b>: Build APIs, microservices, and orchestration frameworks that seamlessly connect AI models with enterprise systems and grid-level data flows </li><li><b>Pipeline Ownership </b>: Design and manage the complete AI pipeline ingestion, embeddings, retrieval, evaluation, and continuous deployment, ensuring reliability and scalability </li><li><b>AI Risk Mitigation </b>: Address vulnerabilities unique to AI, such as model drift, bias exploitation, adversarial robustness, and hallucination control with sensitivity to regulated environments </li><li><b>Cross-Functional Collaboration </b>: Partner with software engineers, data specialists, and security teams to integrate AI capabilities into the broader client OS, embedding AI by design into every product release </li><li><b>Speed of Delivery </b>: Operate with urgency, delivering breakthroughs in code and AI services on cycles measured in weeks, not quarters. </li> </ul><p><br></p><p><b>Required Experience </b> </p><ul><li>Excellent English communication skills </li><li>5+ years of applied ML/AI engineering experience, ideally with exposure to enterprise/mission-critical systems.  </li><li>Strong proficiency in Python and either Golang, Node.js, or Java (non-Golang developers will learn and adopt Golang on the job) </li><li>Expertise with ML/LLM frameworks, such as PyTorch, TensorFlow, LangChain, or equivalent </li><li>Experience with vector databases, orchestration frameworks, and modern MLOps practices. </li><li>Track record of deploying AI services in production </li><li>Strong grounding in cloud-native architectures (AWS, GCP, Azure) </li><li>Analytical, collaborative, and comfortable with ambiguity.  </li><li>Ability to thrive in small, high-velocity teams, balancing experimentation with production rigor </li> </ul><p><br></p><p><b>Desired Experience </b> </p><ul><li>University degree or relevant industry experience </li><li>Experience working on ERP systems or within the power utilities industry </li> </ul><p><br></p><p><b>Additional Information </b> </p><ul><li>Enjoy a fun, fast-growing entrepreneurial company </li><li>Be part of a highly collaborative learning culture, share knowledge, be inclusive, learn, and grow together. Embrace teamwork! </li><li>Knowing your ideas are heard and matter, think big! </li><li>You get to own your job and be recognized for your contributions </li><li>Work with innovative and creative people </li><li>Making mistakes is human. Let's learn from them. Be transparent! </li><li>We recognize you as an individual, with no presumptions or judgment. Be the extraordinary you! </li><li>15 days Paid Time Off (PTO), one floating day, three sick days, and designated national holidays </li><li>Start: ASAP </li> </ul>",
     "company": "Velozient",
@@ -51,7 +78,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11412785__1953_00fe0bb2503f9ef29d0d35ec550478e1?utm_source=1953&utm_medium=feed&keyword=Business-Developer-for&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11412785__1953_6db8e99e2edbd8a2302992b41b32b83d?utm_source=1953&utm_medium=feed&keyword=Business-Developer-for&location=sumaré&geoID=8878"
   },
   {
     "title": "Consultor de Investimentos WS - Parceiros XP | Rio Grande do Sul",
@@ -168,7 +195,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419069__1953_d04f83414a6b4fd95896611689d1ee81?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419069__1953_5720d82cb1464b4592941d50ef7203a1?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=campo-grande&geoID=1749"
   },
   {
     "title": "Senior Backend Engineer - Ruby on Rails (remoto)",
@@ -177,7 +204,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419075__1953_2d421fe2943a5e7a446dd6c5c4452201?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419075__1953_fa2769a402d5218e1fda2f565a3efc13?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Senior Backend Engineer - Ruby on Rails (remoto)",
@@ -186,7 +213,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419085__1953_5b02f1bd3ab36eb57230532aee1d0915?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419085__1953_e05f8269b2d62479cc0bfe310fc4485e?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=belém&geoID=1072"
   },
   {
     "title": "Senior Backend Engineer - Ruby on Rails (remoto)",
@@ -204,7 +231,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419599__1953_a10d10cd69774581d62b70e7a0bfa0b7?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419599__1953_fbc7d28ea89abb5b86a5f3989e4dc17c?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=campo-grande&geoID=1749"
   },
   {
     "title": "Cientista de dados",
@@ -213,7 +240,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419605__1953_fac9356d0eb25edba967d2e6fb6e9afc?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419605__1953_a5312cc94f8284eec7c5e0dd3132aea5?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Cientista de dados",
@@ -222,7 +249,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419615__1953_8e3582da066c1708003025481f6d16a4?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11419615__1953_a70ff83e084efca312ff15e19e222e89?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=belém&geoID=1072"
   },
   {
     "title": "Cientista de dados",
@@ -276,7 +303,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11420128__1953_b01ebd6817e0f12de60f82b8fd5c7000?utm_source=1953&utm_medium=feed&keyword=Windfarm-Controller-Commissioner&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11420128__1953_17f8ddf79a063451cb97f054f7c4f3be?utm_source=1953&utm_medium=feed&keyword=Windfarm-Controller-Commissioner&location=campo-grande&geoID=1749"
   },
   {
     "title": "Windfarm Controller Commissioner",
@@ -285,7 +312,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11420134__1953_51f090a54fc000795301fb1da55df713?utm_source=1953&utm_medium=feed&keyword=Windfarm-Controller-Commissioner&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11420134__1953_d28cba8368ad1a293ad63eb0bd4634d1?utm_source=1953&utm_medium=feed&keyword=Windfarm-Controller-Commissioner&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Windfarm Controller Commissioner",
@@ -339,7 +366,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11421072__1953_520fbb951973837626705c42f2934ca1?utm_source=1953&utm_medium=feed&keyword=Business-Analyst-TAX&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11421072__1953_d607e5a149e805752c93bb65d092e5fd?utm_source=1953&utm_medium=feed&keyword=Business-Analyst-TAX&location=sumaré&geoID=8878"
   },
   {
     "title": "Senior SRE (Site Reliability Engineer)",
@@ -411,7 +438,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11422955__1953_8248ff0cac97f6831f1a9c09ffa7c9bb?utm_source=1953&utm_medium=feed&keyword=Regional-Data-Visualization&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11422955__1953_39d0d178c759c38367c57b977b228ccb?utm_source=1953&utm_medium=feed&keyword=Regional-Data-Visualization&location=sumaré&geoID=8878"
   },
   {
     "title": "Revenue Operations Specialist",
@@ -483,7 +510,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11425323__1953_14cbe62abc7b0a413e5e7d216112a3c4?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-de-Neg%C3%B3cios&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11425323__1953_debc9966457cc6fe6cacd6f6407c3b2d?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-de-Neg%C3%B3cios&location=sumaré&geoID=8878"
   },
   {
     "title": "Profissional Product Designer – Sênior",
@@ -672,7 +699,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11428362__1953_19ab74bb0c983a2cb7a1870972d5a958?utm_source=1953&utm_medium=feed&keyword=UX-Writer&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11428362__1953_cc4fa9c2a3375a1badb17a41524a55b8?utm_source=1953&utm_medium=feed&keyword=UX-Writer&location=campo-grande&geoID=1749"
   },
   {
     "title": "UX Writer - Remoto (Exclusiva PCD)",
@@ -681,7 +708,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11428368__1953_43bf4a05d52d0c43e951e75d859178b7?utm_source=1953&utm_medium=feed&keyword=UX-Writer&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11428368__1953_0c2ede3b9fc873cf9d0339c125c81492?utm_source=1953&utm_medium=feed&keyword=UX-Writer&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "UX Writer - Remoto (Exclusiva PCD)",
@@ -690,7 +717,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11428378__1953_e76682e96b657e428474acdfd94bbf47?utm_source=1953&utm_medium=feed&keyword=UX-Writer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11428378__1953_fee0c94ca2a7457e6f087e7bdc8cf7ae?utm_source=1953&utm_medium=feed&keyword=UX-Writer&location=belém&geoID=1072"
   },
   {
     "title": "UX Writer - Remoto (Exclusiva PCD)",
@@ -744,7 +771,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11429678__1953_145879580c15c11ba6d67e3d79973f13?utm_source=1953&utm_medium=feed&keyword=Engenheiro-El%C3%A9trico-Pleno&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11429678__1953_5e5fd6803a5fef1a43c297b4ee048582?utm_source=1953&utm_medium=feed&keyword=Engenheiro-El%C3%A9trico-Pleno&location=campo-grande&geoID=1749"
   },
   {
     "title": "Engenheiro Elétrico Pleno",
@@ -753,7 +780,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11429684__1953_252800b225d645f7a6dfb6875ad2d91a?utm_source=1953&utm_medium=feed&keyword=Engenheiro-El%C3%A9trico-Pleno&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11429684__1953_6b6693c9a2987d122e771a40ab9bebc3?utm_source=1953&utm_medium=feed&keyword=Engenheiro-El%C3%A9trico-Pleno&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Engenheiro Elétrico Pleno",
@@ -762,7 +789,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11429694__1953_d7a36b730fa7a060c6ea5e3509bf8173?utm_source=1953&utm_medium=feed&keyword=Engenheiro-El%C3%A9trico-Pleno&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11429694__1953_25c7252a17dfb5704e9e6f049edcb6c6?utm_source=1953&utm_medium=feed&keyword=Engenheiro-El%C3%A9trico-Pleno&location=belém&geoID=1072"
   },
   {
     "title": "Engenheiro Elétrico Pleno",
@@ -816,7 +843,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11430736__1953_ff56b637c17b0d3e6d832793213385e1?utm_source=1953&utm_medium=feed&keyword=Profissional-Desenvolvedor-Java&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11430736__1953_c33283044dc836da2cb29f9fe8fc0b2f?utm_source=1953&utm_medium=feed&keyword=Profissional-Desenvolvedor-Java&location=campo-grande&geoID=1749"
   },
   {
     "title": "Profissional Desenvolvedor Java Pleno/Sênior",
@@ -825,7 +852,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11430742__1953_51ee92f3aa62de68fdc4be0f099a113d?utm_source=1953&utm_medium=feed&keyword=Profissional-Desenvolvedor-Java&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11430742__1953_e558f4f82c4b6bc809df38e53cd87fbd?utm_source=1953&utm_medium=feed&keyword=Profissional-Desenvolvedor-Java&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Profissional Desenvolvedor Java Pleno/Sênior",
@@ -834,7 +861,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11430752__1953_f36d9224040638c68f9a64d7ac2719d8?utm_source=1953&utm_medium=feed&keyword=Profissional-Desenvolvedor-Java&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11430752__1953_9fbdeda7c9af1eb578bb7a9ac80254ac?utm_source=1953&utm_medium=feed&keyword=Profissional-Desenvolvedor-Java&location=belém&geoID=1072"
   },
   {
     "title": "Profissional Desenvolvedor Java Pleno/Sênior",
@@ -888,7 +915,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11431281__1953_2c3936c9eb4e3d2828ae50ba5d9e49c9?utm_source=1953&utm_medium=feed&keyword=PRODUCT-DESIGN-MANAGER&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11431281__1953_4888faa8b4f317bc52873e5c00c0007d?utm_source=1953&utm_medium=feed&keyword=PRODUCT-DESIGN-MANAGER&location=campo-grande&geoID=1749"
   },
   {
     "title": "PRODUCT DESIGN MANAGER",
@@ -897,7 +924,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11431287__1953_5f97bd4715e74a9944914a838a10e684?utm_source=1953&utm_medium=feed&keyword=PRODUCT-DESIGN-MANAGER&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11431287__1953_9d4916b03e3e08a8d3bbb372bdba2a98?utm_source=1953&utm_medium=feed&keyword=PRODUCT-DESIGN-MANAGER&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "PRODUCT DESIGN MANAGER",
@@ -906,7 +933,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11431297__1953_3e02f81db781f9be630a8c420d5ad035?utm_source=1953&utm_medium=feed&keyword=PRODUCT-DESIGN-MANAGER&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11431297__1953_94a7bff0e617cb8d75f410bcca2b52f5?utm_source=1953&utm_medium=feed&keyword=PRODUCT-DESIGN-MANAGER&location=belém&geoID=1072"
   },
   {
     "title": "PRODUCT DESIGN MANAGER",
@@ -951,7 +978,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11431976__1953_eedfc3a0d30b64c6e4df76cc6f550dfd?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11431976__1953_3c9f6f5045b5af76f3b16c9c986df52f?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=sumaré&geoID=8878"
   },
   {
     "title": "Java Software Engineer (Relocation to Portugal)",
@@ -1023,7 +1050,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11433834__1953_2c60586ff3cceef41556dbfeb4c59ec9?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Backed-Go&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11433834__1953_bbb7ea42d6f30d5f88f9836a19d4f5ae?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Backed-Go&location=sumaré&geoID=8878"
   },
   {
     "title": "Backend Developer Pleno",
@@ -1095,7 +1122,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11435152__1953_966e6aa70bda52dd8ef50bce38157b7e?utm_source=1953&utm_medium=feed&keyword=Especialista-em-SRE&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11435152__1953_3381e97ace37a4c6abf5693d40ac38d5?utm_source=1953&utm_medium=feed&keyword=Especialista-em-SRE&location=sumaré&geoID=8878"
   },
   {
     "title": "Acquisition Editor, Life Science",
@@ -1167,7 +1194,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11436728__1953_83265fb3453acf9a6bcd7b12f7230cda?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-React&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11436728__1953_8284a9ea1a74b70c0c08c5c6ee53db1e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-React&location=sumaré&geoID=8878"
   },
   {
     "title": "Desenvolvedor iOS Pleno / Sênior",
@@ -1302,7 +1329,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11440560__1953_96780305ed46e3495664a5d5b3f818c3?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11440560__1953_1ae8051fe39856dc33efac9ad795a1d0?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=belém&geoID=1072"
   },
   {
     "title": "Full Stack Engineer (Remote, $110K USD)",
@@ -1356,7 +1383,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11441862__1953_12d5653bbb1056d708a83c12669fb765?utm_source=1953&utm_medium=feed&keyword=Pessoa-Analista-de&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11441862__1953_83918e4b9d8c28a06679cccc5e6f85f6?utm_source=1953&utm_medium=feed&keyword=Pessoa-Analista-de&location=campo-grande&geoID=1749"
   },
   {
     "title": "Pessoa Analista de Desenvolvimento de Sistemas Sênior Full-Stack",
@@ -1365,7 +1392,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11441868__1953_509fb5d35f635d66ce76903647594d9f?utm_source=1953&utm_medium=feed&keyword=Pessoa-Analista-de&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11441868__1953_434709adb295887e3c140e6d124c1ac0?utm_source=1953&utm_medium=feed&keyword=Pessoa-Analista-de&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Pessoa Analista de Desenvolvimento de Sistemas Sênior Full-Stack",
@@ -1374,7 +1401,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11441878__1953_b02babe4af98da04d3e7e190018b9abe?utm_source=1953&utm_medium=feed&keyword=Pessoa-Analista-de&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11441878__1953_d7c400f934fec70f7dbdbc7083f6bcba?utm_source=1953&utm_medium=feed&keyword=Pessoa-Analista-de&location=belém&geoID=1072"
   },
   {
     "title": "Pessoa Analista de Desenvolvimento de Sistemas Sênior Full-Stack",
@@ -1428,7 +1455,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11442393__1953_0bdc4eed1677ee566c843ea8ca719c47?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Designer&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11442393__1953_25d415775db17551726a1defd28c9497?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Designer&location=campo-grande&geoID=1749"
   },
   {
     "title": "Senior Product Designer (UI/UX)",
@@ -1437,7 +1464,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11442399__1953_ea778cc6562fc3e0cffd43d10590b132?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Designer&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11442399__1953_d346495a9a8e4340ac1c91612e5df926?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Designer&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Senior Product Designer (UI/UX)",
@@ -1446,7 +1473,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11442409__1953_8ad5bfe510b8a1dec15ca360bda1b1cb?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Designer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11442409__1953_4eead38e1da6b35d1401c7ffb39f09c4?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Designer&location=belém&geoID=1072"
   },
   {
     "title": "Senior Product Designer (UI/UX)",
@@ -1500,7 +1527,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11443448__1953_c998ba9b7fc6521e08896143fc605bd6?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Citrix&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11443448__1953_2aedab6331f30132981f76cfe481681b?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Citrix&location=campo-grande&geoID=1749"
   },
   {
     "title": "Especialista em Citrix",
@@ -1509,7 +1536,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11443454__1953_89c2dc1af01271e6a46fded5e3438e99?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Citrix&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11443454__1953_4bd09dc2027ed883fe7b77fb2f7feb5a?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Citrix&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Especialista em Citrix",
@@ -1518,7 +1545,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11443464__1953_336cb2298b22e070102fda73a82b19d3?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Citrix&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11443464__1953_80560611d45ab88c01784e187201a0e2?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Citrix&location=belém&geoID=1072"
   },
   {
     "title": "Especialista em Citrix",
@@ -1563,7 +1590,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11444719__1953_0a7e6e5a4de27da160eeceef8a5d2979?utm_source=1953&utm_medium=feed&keyword=Analista-Ci%C3%AAncia-da&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11444719__1953_e0a71d22f34e218202976bce549d8b82?utm_source=1953&utm_medium=feed&keyword=Analista-Ci%C3%AAncia-da&location=sumaré&geoID=8878"
   },
   {
     "title": "Architect",
@@ -1635,7 +1662,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11445504__1953_884ca9d450ce4d5b8d0503ab7143a6d5?utm_source=1953&utm_medium=feed&keyword=Staff-Frontend-Engineer&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11445504__1953_d782d9395ffd5587b60e89c104b6851b?utm_source=1953&utm_medium=feed&keyword=Staff-Frontend-Engineer&location=sumaré&geoID=8878"
   },
   {
     "title": "DDI Network Engineer (LATAM)",
@@ -1707,7 +1734,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11446845__1953_658f567e6951fb334eb170e07dbe9996?utm_source=1953&utm_medium=feed&keyword=Arquiteto-Tech-Lead&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11446845__1953_073dd754817c13992df2dc7f7ed0a94f?utm_source=1953&utm_medium=feed&keyword=Arquiteto-Tech-Lead&location=sumaré&geoID=8878"
   },
   {
     "title": "Senior Site Reliability Engineer",
@@ -1842,7 +1869,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11450934__1953_8a8f2e01118aead41e30820049747322?utm_source=1953&utm_medium=feed&keyword=Backend-Developer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11450934__1953_6a14230060d29dbd3db2635b61344d44?utm_source=1953&utm_medium=feed&keyword=Backend-Developer&location=belém&geoID=1072"
   },
   {
     "title": "Backend Developer | WhatsApp Cloud API",
@@ -1905,7 +1932,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11452512__1953_d4e493dbb7a6ef86801a291e6ba0d0da?utm_source=1953&utm_medium=feed&keyword=MAWM-Specialist-Label&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11452512__1953_23bb0bef7a2a17a68a325354f009577f?utm_source=1953&utm_medium=feed&keyword=MAWM-Specialist-Label&location=campo-grande&geoID=1749"
   },
   {
     "title": "MAWM Specialist (Label Design)",
@@ -1914,7 +1941,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11452518__1953_2ac3dec2dacbf1a98401777821485686?utm_source=1953&utm_medium=feed&keyword=MAWM-Specialist-Label&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11452518__1953_04f7be41a6f6e6f879363402d5387c00?utm_source=1953&utm_medium=feed&keyword=MAWM-Specialist-Label&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "MAWM Specialist (Label Design)",
@@ -1923,7 +1950,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11452528__1953_77baeca9505249932944c16127fd1005?utm_source=1953&utm_medium=feed&keyword=MAWM-Specialist-Label&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11452528__1953_03a233f5d75af1c8334f7be5201b659f?utm_source=1953&utm_medium=feed&keyword=MAWM-Specialist-Label&location=belém&geoID=1072"
   },
   {
     "title": "MAWM Specialist (Label Design)",
@@ -1977,7 +2004,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453317__1953_252d583a84b95c2048468acd43e70d3e?utm_source=1953&utm_medium=feed&keyword=Financial-Institutions-Partnership&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453317__1953_40ca072530f01d3620450057ee30f53e?utm_source=1953&utm_medium=feed&keyword=Financial-Institutions-Partnership&location=campo-grande&geoID=1749"
   },
   {
     "title": "Financial Institutions Partnership Director",
@@ -1986,7 +2013,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453323__1953_422df909714633f525c24396dc367f24?utm_source=1953&utm_medium=feed&keyword=Financial-Institutions-Partnership&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453323__1953_5bfbb30d89bccd341bfddb2923a4a462?utm_source=1953&utm_medium=feed&keyword=Financial-Institutions-Partnership&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Financial Institutions Partnership Director",
@@ -1995,7 +2022,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453333__1953_3ba9544c9216a82a3583972a262721cd?utm_source=1953&utm_medium=feed&keyword=Financial-Institutions-Partnership&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453333__1953_6874c500328b87a9ac84a4af1f5ea0d8?utm_source=1953&utm_medium=feed&keyword=Financial-Institutions-Partnership&location=belém&geoID=1072"
   },
   {
     "title": "Financial Institutions Partnership Director",
@@ -2049,7 +2076,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453845__1953_bd154351fb129abacbb00ac63b57e664?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453845__1953_c203857eea09da83774f87d37c3ddf9f?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=campo-grande&geoID=1749"
   },
   {
     "title": "Executivo de vendas",
@@ -2058,7 +2085,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453851__1953_82d5352257aef5741ecbad8227e8c9b2?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453851__1953_e5a5bf8211227cd3d2c05dcd2887bcf3?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Executivo de vendas",
@@ -2067,7 +2094,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453861__1953_ba18912783199f085bc1dce2d0344337?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11453861__1953_e3867955d47d35bc311d94b094152543?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=belém&geoID=1072"
   },
   {
     "title": "Executivo de vendas",
@@ -2121,7 +2148,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11455432__1953_3fb083060f7573b4e4b5121d26e3f9ac?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-SD&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11455432__1953_f78298c2437dd2db9f8c5a8d6627f7d5?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-SD&location=campo-grande&geoID=1749"
   },
   {
     "title": "Consultor(a) SAP SD Sênior",
@@ -2130,7 +2157,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11455438__1953_ffef255c9e59f5b927f9ec5ca76fbeb7?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-SD&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11455438__1953_86ace068dfdcf49a32c2db7be730bc33?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-SD&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Consultor(a) SAP SD Sênior",
@@ -2184,7 +2211,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11457469__1953_7905163b356a994f565ea2012a9208db?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Investimentos&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11457469__1953_a002bd1151b60ab23b8a4468081df8ca?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Investimentos&location=sumaré&geoID=8878"
   },
   {
     "title": "Sustainability Professionals (Paid Consultancy Opportunity)",
@@ -2256,7 +2283,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11459589__1953_26ba35de9d0f8d0f2da15acd8bcb5319?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Back-End&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11459589__1953_7a5a68e62f7427e20a4ab32b9455c739?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Back-End&location=sumaré&geoID=8878"
   },
   {
     "title": "Tableau Cloud Specialist",
@@ -2328,7 +2355,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11461469__1953_de65a0ee1701b5f09e0c6b99111d331e?utm_source=1953&utm_medium=feed&keyword=Consultor-S%C3%AAnior-Bloomreach&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11461469__1953_54b54432dc2aa55d798e05132dd8b00e?utm_source=1953&utm_medium=feed&keyword=Consultor-S%C3%AAnior-Bloomreach&location=sumaré&geoID=8878"
   },
   {
     "title": "Sales Specialist",
@@ -2454,7 +2481,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11463972__1953_5f7184cb6b60f758cba939fc6c43c5dc?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11463972__1953_4ff779026ce6b704afda2815c07b09d9?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=campo-grande&geoID=1749"
   },
   {
     "title": "Staff Software Engineer",
@@ -2463,7 +2490,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11463978__1953_da8a306b795c972b2e516202a7faac7c?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11463978__1953_92f97a3831bfb722a0bcc5dc441e86f3?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Staff Software Engineer",
@@ -2472,7 +2499,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11463988__1953_4872d8d7e1b19a6ad1b30812b76e9560?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11463988__1953_b7c77ae9425ab8069e5e95ab5b287034?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=belém&geoID=1072"
   },
   {
     "title": "Staff Software Engineer",
@@ -2526,7 +2553,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466082__1953_cd92f613b4dd188e244b9690e04df6fb?utm_source=1953&utm_medium=feed&keyword=Senior-Machine-Learning&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466082__1953_ea0fdd6b42185a590b7b322920ceecc0?utm_source=1953&utm_medium=feed&keyword=Senior-Machine-Learning&location=campo-grande&geoID=1749"
   },
   {
     "title": "Senior Machine Learning Engineer",
@@ -2535,7 +2562,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466088__1953_c2ea88bfe7c596207281c1b3f03b9556?utm_source=1953&utm_medium=feed&keyword=Senior-Machine-Learning&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466088__1953_aad03ce077c586719b29991cfccdfc97?utm_source=1953&utm_medium=feed&keyword=Senior-Machine-Learning&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Senior Machine Learning Engineer",
@@ -2544,7 +2571,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466098__1953_86fcb16baf3240738cb010963f7d75f0?utm_source=1953&utm_medium=feed&keyword=Senior-Machine-Learning&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466098__1953_b34134d6d446359662763af87d2e2388?utm_source=1953&utm_medium=feed&keyword=Senior-Machine-Learning&location=belém&geoID=1072"
   },
   {
     "title": "Senior Machine Learning Engineer",
@@ -2598,7 +2625,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466878__1953_290020d6fad3a74d1372acf28ce6479e?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466878__1953_42978a125ac6a2c9f25cb1671cb70bb2?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=campo-grande&geoID=1749"
   },
   {
     "title": "Business Development Manager (LATAM)",
@@ -2607,7 +2634,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466884__1953_ff991d4df6892a8a62573e5728b7d4e6?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466884__1953_1686eb6c3309269826d749df8bc46032?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Business Development Manager (LATAM)",
@@ -2616,7 +2643,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466894__1953_1b9d9e3d3900e9fd683f0232e8f0e2fd?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11466894__1953_eb27af5c124a5948ae0a2462a1d6f98c?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=belém&geoID=1072"
   },
   {
     "title": "Business Development Manager (LATAM)",
@@ -2670,7 +2697,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11467933__1953_695760b62503bb8ae6aa0d6dadc9937f?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Manuten%C3%A7%C3%A3o&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11467933__1953_9d565df5f735a91d3fa929cd8bcaa822?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Manuten%C3%A7%C3%A3o&location=campo-grande&geoID=1749"
   },
   {
     "title": "Técnico de Manutenção de Máquinas - MT",
@@ -2679,7 +2706,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11467939__1953_5959407469a6e23e19852f58cdb8c67e?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Manuten%C3%A7%C3%A3o&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11467939__1953_f34d7fe8d0f5a63db00ba82e6b3c72d0?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Manuten%C3%A7%C3%A3o&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Técnico de Manutenção de Máquinas - MT",
@@ -2733,7 +2760,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11468618__1953_d24f2622c064bd9631b246c96f7730ca?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Python&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11468618__1953_173e1430245c661522c1212571fe858f?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Python&location=sumaré&geoID=8878"
   },
   {
     "title": "Human Resources Manager (Middle level)",
@@ -2805,7 +2832,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11469674__1953_8b252fd8b044b973658375891d7c7cbc?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-IA&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11469674__1953_f4b8474dcc7c8f7dfc3d3c4e4f38a742?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-IA&location=sumaré&geoID=8878"
   },
   {
     "title": "Procurement Operations Analyst - IT",
@@ -2877,7 +2904,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11470735__1953_585fb0dd3ca34a7b0496924f38f6b902?utm_source=1953&utm_medium=feed&keyword=SR-Desenvolvimento-Java&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11470735__1953_f1617a0567db5b60d7fcd846da0f5caa?utm_source=1953&utm_medium=feed&keyword=SR-Desenvolvimento-Java&location=sumaré&geoID=8878"
   },
   {
     "title": "Lead SAP MM/EWM",
@@ -2949,7 +2976,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11472589__1953_cd57bee02a974fb0cadafb1f57aa99a0?utm_source=1953&utm_medium=feed&keyword=Analista-de-FinOps&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11472589__1953_fbd2e4d7f6f0d40a9714ff0751a93f0f?utm_source=1953&utm_medium=feed&keyword=Analista-de-FinOps&location=sumaré&geoID=8878"
   },
   {
     "title": "Cloud Operations Engineer Pleno (AWS)",
@@ -3138,7 +3165,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11476668__1953_7093fb784dc113a7308f660c90a4b151?utm_source=1953&utm_medium=feed&keyword=Profissional-Design&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11476668__1953_f2db85df5084bcbc793d75480c8f443b?utm_source=1953&utm_medium=feed&keyword=Profissional-Design&location=campo-grande&geoID=1749"
   },
   {
     "title": "Profissional Design.",
@@ -3147,7 +3174,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11476674__1953_b218b35d56c0ea5f6d9a89aeb8b6c86f?utm_source=1953&utm_medium=feed&keyword=Profissional-Design&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11476674__1953_d5294acfe869ab1fe6275ce1da5925ca?utm_source=1953&utm_medium=feed&keyword=Profissional-Design&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Profissional Design.",
@@ -3156,7 +3183,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11476684__1953_eeb0be83aa929700fd86fb95364cae6a?utm_source=1953&utm_medium=feed&keyword=Profissional-Design&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11476684__1953_640f39e04e78a0d948e70342148a8d31?utm_source=1953&utm_medium=feed&keyword=Profissional-Design&location=belém&geoID=1072"
   },
   {
     "title": "Profissional Design.",
@@ -3210,7 +3237,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11478268__1953_f917bd36fc3bd44c7a77e8697d98c214?utm_source=1953&utm_medium=feed&keyword=Analista-SAP-BI&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11478268__1953_16ae398a713d4e7faa081c309bfc71a3?utm_source=1953&utm_medium=feed&keyword=Analista-SAP-BI&location=campo-grande&geoID=1749"
   },
   {
     "title": "Analista SAP BI Sênior",
@@ -3219,7 +3246,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11478274__1953_fb056f4881825602680371a34be40e4c?utm_source=1953&utm_medium=feed&keyword=Analista-SAP-BI&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11478274__1953_8e79b03a7d4ae958a2bc69da9f399e5a?utm_source=1953&utm_medium=feed&keyword=Analista-SAP-BI&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Analista SAP BI Sênior",
@@ -3228,7 +3255,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11478284__1953_b6068d198d3ee331b2da20c54321a47f?utm_source=1953&utm_medium=feed&keyword=Analista-SAP-BI&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11478284__1953_59312adee5f92fa3ca77fd48aff7d9e2?utm_source=1953&utm_medium=feed&keyword=Analista-SAP-BI&location=belém&geoID=1072"
   },
   {
     "title": "Analista SAP BI Sênior",
@@ -3282,7 +3309,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11479330__1953_0a2646f378c2910ba7fa772d25eab161?utm_source=1953&utm_medium=feed&keyword=Scrum-Master-SAP&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11479330__1953_f98eea0678e56b53cd7b497a6d3f48ba?utm_source=1953&utm_medium=feed&keyword=Scrum-Master-SAP&location=campo-grande&geoID=1749"
   },
   {
     "title": "Scrum Master (SAP)",
@@ -3291,7 +3318,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11479336__1953_2b35512aabbacf070246d3fc9af2479a?utm_source=1953&utm_medium=feed&keyword=Scrum-Master-SAP&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11479336__1953_29f460d2628eda71c61c02c1b2e7cf40?utm_source=1953&utm_medium=feed&keyword=Scrum-Master-SAP&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Scrum Master (SAP)",
@@ -3345,7 +3372,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11479749__1953_30586029238e0d98e6a9385d5b48a16e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Java&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11479749__1953_e8a37eee357a2b0e33ee7c89612c5022?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Java&location=sumaré&geoID=8878"
   },
   {
     "title": "Oficial Quarto de Náutica",
@@ -3417,7 +3444,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11481597__1953_ec1afee9fbb7405b56e6c51d02fe3f10?utm_source=1953&utm_medium=feed&keyword=Fullstack-Developer-JR&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11481597__1953_e5423904cf249d89597a2bd41fa7e60f?utm_source=1953&utm_medium=feed&keyword=Fullstack-Developer-JR&location=sumaré&geoID=8878"
   },
   {
     "title": "Front-end Developer (AI programs - React)",
@@ -3489,7 +3516,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11482652__1953_3d9d65493c2c8bcfb1114cae7f9aa074?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-NET-S%C3%AAnior&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11482652__1953_5f0cbb7e8a54dcdaf5583208101f196a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-NET-S%C3%AAnior&location=sumaré&geoID=8878"
   },
   {
     "title": "Senior Platform Engineer",
@@ -3561,7 +3588,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11485038__1953_684dc9f2f008416f2525a4d362bc3b35?utm_source=1953&utm_medium=feed&keyword=UX-Wordpress-Elementor&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11485038__1953_78af089a16d17c718bbd7412000e4cf6?utm_source=1953&utm_medium=feed&keyword=UX-Wordpress-Elementor&location=sumaré&geoID=8878"
   },
   {
     "title": "Tech Lead React Native",
@@ -3678,7 +3705,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11487564__1953_5012c6b8195d75dcce4782df214067e0?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11487564__1953_cc72c30da7a15a224d159fc8bc7274bf?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=campo-grande&geoID=1749"
   },
   {
     "title": "Desenvolvedor full stack",
@@ -3687,7 +3714,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11487570__1953_cd31346ca45702877c2006e2096784a0?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11487570__1953_73f6ad7163effcf1da46475f0bcc1bc8?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Desenvolvedor full stack",
@@ -3696,7 +3723,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11487580__1953_c146f7382c85f9817bec19f11a61ee10?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11487580__1953_b49811966247537a7c612acb7fcd33a5?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=belém&geoID=1072"
   },
   {
     "title": "Desenvolvedor full stack",
@@ -3750,7 +3777,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11490501__1953_ed994daeb9508178e8091abdf09360af?utm_source=1953&utm_medium=feed&keyword=Engenheiro-IA&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11490501__1953_a78317a4f75ff4e2f6ad393c91d0454b?utm_source=1953&utm_medium=feed&keyword=Engenheiro-IA&location=campo-grande&geoID=1749"
   },
   {
     "title": "Engenheiro IA",
@@ -3759,7 +3786,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11490507__1953_00cdf3d20d63c0ceb690ef91d6a30960?utm_source=1953&utm_medium=feed&keyword=Engenheiro-IA&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11490507__1953_cd1e9c2d946302c4efb4800f510b2dfa?utm_source=1953&utm_medium=feed&keyword=Engenheiro-IA&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Engenheiro IA",
@@ -3768,7 +3795,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11490517__1953_104994e4a5c9f089dd42b6ff6fd1347c?utm_source=1953&utm_medium=feed&keyword=Engenheiro-IA&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11490517__1953_507160a5561990a90ac3c8376b367849?utm_source=1953&utm_medium=feed&keyword=Engenheiro-IA&location=belém&geoID=1072"
   },
   {
     "title": "Engenheiro IA",
@@ -3822,7 +3849,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11492344__1953_d5b9014691b6857288a9bc86a49ddb57?utm_source=1953&utm_medium=feed&keyword=Senior-Player-Support&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11492344__1953_f401360eaaf54d57678f30ad11c775c0?utm_source=1953&utm_medium=feed&keyword=Senior-Player-Support&location=campo-grande&geoID=1749"
   },
   {
     "title": "Senior Player Support Specialist",
@@ -3831,7 +3858,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11492350__1953_825b760527043f94ad0b0ddd36dd80f9?utm_source=1953&utm_medium=feed&keyword=Senior-Player-Support&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11492350__1953_93453bbe4ba80baeee05cedb0e90116a?utm_source=1953&utm_medium=feed&keyword=Senior-Player-Support&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Senior Player Support Specialist",
@@ -3840,7 +3867,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11492360__1953_daf98da2615f60a846afc7a107e7207f?utm_source=1953&utm_medium=feed&keyword=Senior-Player-Support&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11492360__1953_c38edc6d370092b1371ef6c85e221069?utm_source=1953&utm_medium=feed&keyword=Senior-Player-Support&location=belém&geoID=1072"
   },
   {
     "title": "Senior Player Support Specialist",
@@ -3885,7 +3912,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11494635__1953_eabc21a39259620670e2389f826a4a62?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11494635__1953_ca89fc5c672be26d7d7bd4ad693bd907?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=sumaré&geoID=8878"
   },
   {
     "title": "Coordenador de Customer Success",
@@ -3957,7 +3984,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11495984__1953_dcda2c19b12fda82d8c59ab49a897761?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-BI-S%C3%AAnior&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11495984__1953_5d03a820caf7f2b13260cbfc0fb06863?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-BI-S%C3%AAnior&location=sumaré&geoID=8878"
   },
   {
     "title": "Representante executivo de vendas",
@@ -4029,7 +4056,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11496770__1953_efd5b05d7fee8321a0a7107bfc77cd59?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11496770__1953_80aae351d30c597319abcd41929838cd?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=sumaré&geoID=8878"
   },
   {
     "title": "Desenvolvedor FullStackPleno(Angular/Java) | Aceitação PJ | Vaga Afirmativa para Pessoa com Deficiência",
@@ -4182,7 +4209,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11501147__1953_b7df784a68c18a2e1b21267cad04a419?utm_source=1953&utm_medium=feed&keyword=Closer-de-alta&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11501147__1953_a12ec454bdab5c945f800b8fd3270674?utm_source=1953&utm_medium=feed&keyword=Closer-de-alta&location=campo-grande&geoID=1749"
   },
   {
     "title": "Closer de alta performance",
@@ -4191,7 +4218,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11501153__1953_ed065455eda1aca83024155ae8f5e3fe?utm_source=1953&utm_medium=feed&keyword=Closer-de-alta&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11501153__1953_767a9ec18d34c34570ca1196735bc34c?utm_source=1953&utm_medium=feed&keyword=Closer-de-alta&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Closer de alta performance",
@@ -4200,7 +4227,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11501163__1953_a97745119d73f91226b09d3280fbad42?utm_source=1953&utm_medium=feed&keyword=Closer-de-alta&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11501163__1953_1ebc93381d001df1a832b30618e5cbe1?utm_source=1953&utm_medium=feed&keyword=Closer-de-alta&location=belém&geoID=1072"
   },
   {
     "title": "Closer de alta performance",
@@ -4254,7 +4281,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11503022__1953_a66c18b54133addc53eaf2c0741085ae?utm_source=1953&utm_medium=feed&keyword=Contrata%C3%A7%C3%A3o-de-Social&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11503022__1953_a73c6825fb03ae6805a4f1bedcaf942e?utm_source=1953&utm_medium=feed&keyword=Contrata%C3%A7%C3%A3o-de-Social&location=campo-grande&geoID=1749"
   },
   {
     "title": "Contratação de Social Media com Habilidades de Design e Redação",
@@ -4263,7 +4290,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11503028__1953_c7f51648f1d4f384616f0f9012564334?utm_source=1953&utm_medium=feed&keyword=Contrata%C3%A7%C3%A3o-de-Social&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11503028__1953_3e9c8303698539a5d284eacf92a95053?utm_source=1953&utm_medium=feed&keyword=Contrata%C3%A7%C3%A3o-de-Social&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Contratação de Social Media com Habilidades de Design e Redação",
@@ -4272,7 +4299,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11503038__1953_727fbd01ba856872b74edf0e8ae4e497?utm_source=1953&utm_medium=feed&keyword=Contrata%C3%A7%C3%A3o-de-Social&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11503038__1953_fb07dda4a285572ca05bce88647cdc9b?utm_source=1953&utm_medium=feed&keyword=Contrata%C3%A7%C3%A3o-de-Social&location=belém&geoID=1072"
   },
   {
     "title": "Contratação de Social Media com Habilidades de Design e Redação",
@@ -4326,7 +4353,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11507009__1953_17ca96857efe02737b5b58aa83db655c?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11507009__1953_e8ded70703a467f1a493b1cdda1d62e9?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=campo-grande&geoID=1749"
   },
   {
     "title": "Tech Lead | Data Engineering",
@@ -4335,7 +4362,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11507015__1953_121461eba830401016233ba6940b241e?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11507015__1953_c905d418d53b85855fa9f550442e59be?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Tech Lead | Data Engineering",
@@ -4389,7 +4416,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11507987__1953_2740e1d27ec46b27280ea3f3d113d509?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Software&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11507987__1953_337d10f10be1143b13d7c5386410d384?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Software&location=sumaré&geoID=8878"
   },
   {
     "title": "Desenvolvedor(a) Salesforce Pleno",
@@ -4461,7 +4488,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11509578__1953_96d72d68fead3888dabfb6cdb025e75d?utm_source=1953&utm_medium=feed&keyword=UX-Researcher&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11509578__1953_d3ca746a9f1bd45e65e40960f55d8e15?utm_source=1953&utm_medium=feed&keyword=UX-Researcher&location=sumaré&geoID=8878"
   },
   {
     "title": "Pessoa Desenvolvedora Especialista Java",
@@ -4533,7 +4560,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11511684__1953_69c730badb730127fcf758ed5e42fc5b?utm_source=1953&utm_medium=feed&keyword=Analista-de-aEEG&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11511684__1953_1e9140a479745bac5715c696ab4b2977?utm_source=1953&utm_medium=feed&keyword=Analista-de-aEEG&location=sumaré&geoID=8878"
   },
   {
     "title": "Estágio - Auxiliar Comercial & Administrativo",
@@ -4668,7 +4695,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11515254__1953_e7d103b1986986c3cd1514feb667923a?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11515254__1953_800576955664020f56a92cbacb2d972d?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=belém&geoID=1072"
   },
   {
     "title": "Engenheiro de Dados GCP Pleno",
@@ -4722,7 +4749,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11515767__1953_27faee93028cbda8d62ea45094da4152?utm_source=1953&utm_medium=feed&keyword=Senior-Python-Developer&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11515767__1953_56c7aa68365043331e91e8a5fb8dab89?utm_source=1953&utm_medium=feed&keyword=Senior-Python-Developer&location=campo-grande&geoID=1749"
   },
   {
     "title": "Senior Python Developer",
@@ -4731,7 +4758,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11515773__1953_b045b2dd3bc5655b6366d619f542748e?utm_source=1953&utm_medium=feed&keyword=Senior-Python-Developer&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11515773__1953_d1ca631014ffca996baf295fa5afbe75?utm_source=1953&utm_medium=feed&keyword=Senior-Python-Developer&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Senior Python Developer",
@@ -4740,7 +4767,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11515783__1953_3df4bf95e6b1ef3463a56a3b1e8113aa?utm_source=1953&utm_medium=feed&keyword=Senior-Python-Developer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11515783__1953_820d3d0cbcec37edb53099fcbf7c1506?utm_source=1953&utm_medium=feed&keyword=Senior-Python-Developer&location=belém&geoID=1072"
   },
   {
     "title": "Senior Python Developer",
@@ -4794,7 +4821,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11518170__1953_c7a8012a7c99bed36b28a5fcc3fae78c?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11518170__1953_2d5b1fdc5b96d6f093199aa5b39cc326?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=campo-grande&geoID=1749"
   },
   {
     "title": "Engenheiro de Dados Snowflake Sênior",
@@ -4803,7 +4830,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11518176__1953_ecce0d01624b486214b685897c2d8cd3?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11518176__1953_02ae449d2067a24da05ebe6f28d0b2b9?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Engenheiro de Dados Snowflake Sênior",
@@ -4812,7 +4839,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11518186__1953_766da396a94bf25fa2c68216081a28f6?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11518186__1953_27709c189c0c6ba5318185e3ae1307b7?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=belém&geoID=1072"
   },
   {
     "title": "Engenheiro de Dados Snowflake Sênior",
@@ -4929,7 +4956,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11522327__1953_0382f16f9a138134a15d66b784417e37?utm_source=1953&utm_medium=feed&keyword=Gerente-de-projetos&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11522327__1953_7ef0fd5409ae521f66356f2efa65b918?utm_source=1953&utm_medium=feed&keyword=Gerente-de-projetos&location=sumaré&geoID=8878"
   },
   {
     "title": "Desenvolvedor full stack",
@@ -5001,7 +5028,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11526317__1953_9831c68a5062f39fe97cf6801faf5e3d?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-React-Native&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11526317__1953_415a732dcf8f96b2aee0322a380f713b?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-React-Native&location=sumaré&geoID=8878"
   },
   {
     "title": "Analista de Desenvolvimento de Produtos Sênior",
@@ -5118,7 +5145,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11530697__1953_629e53e26ae8af78fff004bc04ccbf5f?utm_source=1953&utm_medium=feed&keyword=PESSOA-DESENVOLVEDORA-BACKEND&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11530697__1953_9068e679831a2833ea74d0704a109238?utm_source=1953&utm_medium=feed&keyword=PESSOA-DESENVOLVEDORA-BACKEND&location=campo-grande&geoID=1749"
   },
   {
     "title": "PESSOA DESENVOLVEDORA BACKEND (JAVA/KOTLIN) PLENO - REMOTO",
@@ -5127,7 +5154,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11530703__1953_cac44ed686cf814bc5e354c33cc24fed?utm_source=1953&utm_medium=feed&keyword=PESSOA-DESENVOLVEDORA-BACKEND&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11530703__1953_e7e85c7d722f663464e188c7d3f230d8?utm_source=1953&utm_medium=feed&keyword=PESSOA-DESENVOLVEDORA-BACKEND&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "PESSOA DESENVOLVEDORA BACKEND (JAVA/KOTLIN) PLENO - REMOTO",
@@ -5136,7 +5163,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11530713__1953_64f42613143aabe9656f5848f1076c57?utm_source=1953&utm_medium=feed&keyword=PESSOA-DESENVOLVEDORA-BACKEND&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11530713__1953_f194f227a5de7b1b137b40e16cbb64a6?utm_source=1953&utm_medium=feed&keyword=PESSOA-DESENVOLVEDORA-BACKEND&location=belém&geoID=1072"
   },
   {
     "title": "PESSOA DESENVOLVEDORA BACKEND (JAVA/KOTLIN) PLENO - REMOTO",
@@ -5190,7 +5217,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11532830__1953_3f60db54cc52c713bae4571a2e3921c2?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11532830__1953_c108a079fe9382ac7b70db5ffa997471?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno&location=campo-grande&geoID=1749"
   },
   {
     "title": "Vendedor(a) interno",
@@ -5199,7 +5226,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11532836__1953_1ba10d548de202481abae8adfb5284b6?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11532836__1953_ac2a0073005a30446804e0def8989136?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Vendedor(a) interno",
@@ -5208,7 +5235,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11532846__1953_a4db98e7056fbf9051a70edd2be3f5e2?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11532846__1953_fc6682c4e99c826d4d914912ca577f42?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno&location=belém&geoID=1072"
   },
   {
     "title": "Vendedor(a) interno",
@@ -5262,7 +5289,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11533620__1953_85a983c429ef28514d33cee71ca2ead0?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11533620__1953_825769ddf55d23a3a17c86ae8dc25168?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=campo-grande&geoID=1749"
   },
   {
     "title": "Consultor ORACLE Cloud Finance Consultant - A2C",
@@ -5271,7 +5298,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11533626__1953_656a685df6b2bf491724b53ffb57b924?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11533626__1953_8694050de80951f9d9979281617098d4?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Consultor ORACLE Cloud Finance Consultant - A2C",
@@ -5280,7 +5307,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11533636__1953_20aaa0ab173153eb55310602fad1a74a?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11533636__1953_e12c9eb252ba9abe7716eeed790f4f78?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=belém&geoID=1072"
   },
   {
     "title": "Consultor ORACLE Cloud Finance Consultant - A2C",
@@ -5334,7 +5361,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11534673__1953_bdb6d089768e7807d2b1a19b9baced76?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11534673__1953_aa79bd200fe420535770c0ee65386c0e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=campo-grande&geoID=1749"
   },
   {
     "title": "Desenvolvedor Java",
@@ -5343,7 +5370,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11534679__1953_8ff21dee7a293acc91dcd2558468656a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11534679__1953_ca89906f1d06069bb74f91ecb107b51c?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Desenvolvedor Java",
@@ -5397,7 +5424,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11535098__1953_39a85223b2383378028ab3d7ed97e21d?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11535098__1953_f2b0f3f2b2cd86c45c19218fadcbb67d?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=sumaré&geoID=8878"
   },
   {
     "title": "Profissional Back End – Java SR",
@@ -5469,7 +5496,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11540428__1953_bd32933e6ba7641d50bde7ce42ee533e?utm_source=1953&utm_medium=feed&keyword=ServiceNow-Developer&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11540428__1953_130af353453a0b3c6403a610c72bb96a?utm_source=1953&utm_medium=feed&keyword=ServiceNow-Developer&location=sumaré&geoID=8878"
   },
   {
     "title": "Desenvolvedor(a) Backend Sênior",
@@ -5658,7 +5685,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11544770__1953_1f4992e4430643e619bdac0d47ea2cd2?utm_source=1953&utm_medium=feed&keyword=Consulting-Partner&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11544770__1953_149d7a03992a5f3489cfa2e085f66dd2?utm_source=1953&utm_medium=feed&keyword=Consulting-Partner&location=campo-grande&geoID=1749"
   },
   {
     "title": "Consulting Partner",
@@ -5667,7 +5694,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11544776__1953_965ddeb9930d172685ae99283dbf708a?utm_source=1953&utm_medium=feed&keyword=Consulting-Partner&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11544776__1953_cc1230791e35634d249abfea1ba9bf76?utm_source=1953&utm_medium=feed&keyword=Consulting-Partner&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Consulting Partner",
@@ -5676,7 +5703,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11544786__1953_f0fd47745f702c252d0c2e61898cbc1f?utm_source=1953&utm_medium=feed&keyword=Consulting-Partner&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11544786__1953_5269a9b6efa2187b39aaee6c77964699?utm_source=1953&utm_medium=feed&keyword=Consulting-Partner&location=belém&geoID=1072"
   },
   {
     "title": "Consulting Partner",
@@ -5730,7 +5757,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11546080__1953_e2f3752bef1158e34a37e0129d84d276?utm_source=1953&utm_medium=feed&keyword=IT-Application-Support&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11546080__1953_fb0745e7de1f61e32a8181594a08b897?utm_source=1953&utm_medium=feed&keyword=IT-Application-Support&location=campo-grande&geoID=1749"
   },
   {
     "title": "IT Application Support Analyst",
@@ -5739,7 +5766,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11546086__1953_44f2479ab388bf2e5a96b98b3ce50d56?utm_source=1953&utm_medium=feed&keyword=IT-Application-Support&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11546086__1953_69f6a5b52213af1557fa171fef0855a1?utm_source=1953&utm_medium=feed&keyword=IT-Application-Support&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "IT Application Support Analyst",
@@ -5748,7 +5775,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11546096__1953_92788917fcdf4969c5617cf05625df86?utm_source=1953&utm_medium=feed&keyword=IT-Application-Support&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11546096__1953_9caec74f655b43b4801abf8076fe8c96?utm_source=1953&utm_medium=feed&keyword=IT-Application-Support&location=belém&geoID=1072"
   },
   {
     "title": "IT Application Support Analyst",
@@ -5802,7 +5829,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11547148__1953_e144dee8311dec1bec55709ae171e905?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11547148__1953_ee6a26b64510b0d13a81a9c0df7779ba?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=campo-grande&geoID=1749"
   },
   {
     "title": "Pessoa Engenheira de Inteligência Artificial - Sênior",
@@ -5811,7 +5838,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11547154__1953_f059d401787637d6ac1c620ac340156c?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11547154__1953_57b5c0ea26b2e572c440c3a2608706c6?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Pessoa Engenheira de Inteligência Artificial - Sênior",
@@ -5820,7 +5847,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11547164__1953_a23bdb794f8b515600c7c77c414995b4?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11547164__1953_04c816a1fd89666a97fad7cf918cfdfb?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=belém&geoID=1072"
   },
   {
     "title": "Pessoa Engenheira de Inteligência Artificial - Sênior",
@@ -5874,7 +5901,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11548462__1953_981aa9714299dc13739394ceba129bf2?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11548462__1953_e0febcd1e0b141750199c37e1effdadf?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=campo-grande&geoID=1749"
   },
   {
     "title": "Consultor ORACLE Cloud Finance Consultant - P2P",
@@ -5883,7 +5910,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11548468__1953_dcd347684b0dff0af286ddc911757c13?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11548468__1953_28d9c0e94dd237ae0b82daddcf4c7996?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Consultor ORACLE Cloud Finance Consultant - P2P",
@@ -5892,7 +5919,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11548478__1953_3ad420c4e5a38e44825d882330a9ba01?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11548478__1953_be9aa7e28e1689b86282c7472e515d07?utm_source=1953&utm_medium=feed&keyword=Consultor-ORACLE-Cloud&location=belém&geoID=1072"
   },
   {
     "title": "Consultor ORACLE Cloud Finance Consultant - P2P",
@@ -5937,7 +5964,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11551055__1953_4347fde0e86dcb548814309232b22605?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11551055__1953_e922812c621df9f71604db7db8361688?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=sumaré&geoID=8878"
   },
   {
     "title": "Software Engineer III - Mobile",
@@ -6009,7 +6036,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11553979__1953_6f47328dffa6f75e2d4f149fe149ac21?utm_source=1953&utm_medium=feed&keyword=Senior-Infrastructure-Linux&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11553979__1953_e88372c03a99440b38926a64e83c7904?utm_source=1953&utm_medium=feed&keyword=Senior-Infrastructure-Linux&location=sumaré&geoID=8878"
   },
   {
     "title": "Especialista Microsoft AD (Integrações por API) - Sênior",
@@ -6180,7 +6207,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11558322__1953_74fcfd8aee97018a7df4ddef31acd752?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11558322__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=belém&geoID=1072"
   },
   {
     "title": "Senior Full Stack Developer (Angular / .NET / SQL)",
@@ -6234,7 +6261,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11559636__1953_27aa932fe99b5c29879d3d21e85d1330?utm_source=1953&utm_medium=feed&keyword=Technical-Services-Manager&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11559636__1953_c96d0f2568e858de6269469ad64866bd?utm_source=1953&utm_medium=feed&keyword=Technical-Services-Manager&location=campo-grande&geoID=1749"
   },
   {
     "title": "Technical Services Manager (SAP ECS)",
@@ -6243,7 +6270,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11559642__1953_2989d662073693c346abefd96394a172?utm_source=1953&utm_medium=feed&keyword=Technical-Services-Manager&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11559642__1953_e5c35fa1894fbe5242db9ccf7ae2ce93?utm_source=1953&utm_medium=feed&keyword=Technical-Services-Manager&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Technical Services Manager (SAP ECS)",
@@ -6252,7 +6279,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11559652__1953_b9bd5591257bc1ffd66862fbfb6bf006?utm_source=1953&utm_medium=feed&keyword=Technical-Services-Manager&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11559652__1953_0d581aa9775c9b897d0c28acff8e9eea?utm_source=1953&utm_medium=feed&keyword=Technical-Services-Manager&location=belém&geoID=1072"
   },
   {
     "title": "Technical Services Manager (SAP ECS)",
@@ -6306,7 +6333,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11563591__1953_1e2305ef01b87d7251ecd96c49010d6b?utm_source=1953&utm_medium=feed&keyword=FBS-HR-Jr&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11563591__1953_928b712f8971bf0955463e7b286e0217?utm_source=1953&utm_medium=feed&keyword=FBS-HR-Jr&location=campo-grande&geoID=1749"
   },
   {
     "title": "FBS HR Jr Analyst",
@@ -6315,7 +6342,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11563597__1953_470274362e5d794f5bea24ea491dcb06?utm_source=1953&utm_medium=feed&keyword=FBS-HR-Jr&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11563597__1953_e30de6626bb841e2201d28ff83e7fd91?utm_source=1953&utm_medium=feed&keyword=FBS-HR-Jr&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "FBS HR Jr Analyst",
@@ -6324,7 +6351,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11563607__1953_ba0aa10e6f817014c367a3d827f04d30?utm_source=1953&utm_medium=feed&keyword=FBS-HR-Jr&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11563607__1953_7e64fd274ec2bbea5327599e456bc857?utm_source=1953&utm_medium=feed&keyword=FBS-HR-Jr&location=belém&geoID=1072"
   },
   {
     "title": "FBS HR Jr Analyst",
@@ -6378,7 +6405,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11564375__1953_2debec216e603c0fa616e1966fc061d2?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11564375__1953_32e3b9a007ff742e6eac8af3de6de231?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=campo-grande&geoID=1749"
   },
   {
     "title": "Senior Full Stack Software Engineer",
@@ -6387,7 +6414,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11564381__1953_cd40bab6e012e0231d86801e02bc6df3?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11564381__1953_d4cf69f65317519c3ef3520144cc5d08?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Senior Full Stack Software Engineer",
@@ -6396,7 +6423,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11564391__1953_457810a41be6679c6732abd4e34c4782?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11564391__1953_fba48ec14a3eacb4bea799f125b6d3e9?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=belém&geoID=1072"
   },
   {
     "title": "Senior Full Stack Software Engineer",
@@ -6450,7 +6477,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11565941__1953_faf4efc329d0e96caea6fd723838631f?utm_source=1953&utm_medium=feed&keyword=Senior-UI-Designer&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11565941__1953_a64db4c94d267cca026e97ebae09d739?utm_source=1953&utm_medium=feed&keyword=Senior-UI-Designer&location=campo-grande&geoID=1749"
   },
   {
     "title": "Senior UI Designer - Part time",
@@ -6459,7 +6486,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11565947__1953_b732c77a55f483cb14424f749e368d19?utm_source=1953&utm_medium=feed&keyword=Senior-UI-Designer&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11565947__1953_2720b869d6516b46f923465d22c766a6?utm_source=1953&utm_medium=feed&keyword=Senior-UI-Designer&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Senior UI Designer - Part time",
@@ -6468,7 +6495,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11565957__1953_c234e3b2ce231d8051563a5628f8a7ef?utm_source=1953&utm_medium=feed&keyword=Senior-UI-Designer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11565957__1953_8bc1b6f8abb02797deca2b73feccbdbc?utm_source=1953&utm_medium=feed&keyword=Senior-UI-Designer&location=belém&geoID=1072"
   },
   {
     "title": "Senior UI Designer - Part time",
@@ -6513,7 +6540,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11567155__1953_9f756bbbf5c683c94dc8c8358d56631a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-S%C3%AAnior-%2B&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11567155__1953_f58c6728b238d914a36a73669b498a98?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-S%C3%AAnior-%2B&location=sumaré&geoID=8878"
   },
   {
     "title": "FBS Associate Business Analyst",
@@ -6585,7 +6612,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11575941__1953_d597da1efcbd2a87a8496b78ffc4596a?utm_source=1953&utm_medium=feed&keyword=SAP-ECC-ABAP&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11575941__1953_10a8a0c676459836f0705b594835afff?utm_source=1953&utm_medium=feed&keyword=SAP-ECC-ABAP&location=sumaré&geoID=8878"
   },
   {
     "title": "SR Engenharia de Dados",
@@ -6774,7 +6801,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11579784__1953_32d03b75a4133d820306721e163adac7?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11579784__1953_5016bfc0edbe33c3c4d897ace8afce74?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=campo-grande&geoID=1749"
   },
   {
     "title": "Profissional Back End – C++ e Python SR",
@@ -6783,7 +6810,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11579790__1953_861ad6cbb4e143044edc79fc6492305d?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11579790__1953_67ac49720b2b4309d6f51907fbf2b8c7?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Profissional Back End – C++ e Python SR",
@@ -6792,7 +6819,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11579800__1953_6858d279cdcd5709df252ebb929ffc0c?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11579800__1953_6c58d74f1ce91b092a9e31efd60742f9?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=belém&geoID=1072"
   },
   {
     "title": "Profissional Back End – C++ e Python SR",
@@ -6846,7 +6873,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11582835__1953_1a3f1671990a8fca5a337071659923b5?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11582835__1953_4beae3f2dfada3beceabc3f1f8ef99d8?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=campo-grande&geoID=1749"
   },
   {
     "title": "Profissional Back End – Python com AWS SR",
@@ -6855,7 +6882,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11582841__1953_55fc45113c0641656f6d36ac36395d9a?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11582841__1953_3137174885a4c069418f07524f2292bd?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Profissional Back End – Python com AWS SR",
@@ -6864,7 +6891,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11582851__1953_8ea010e7241dcfba68c9a810853082eb?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11582851__1953_91445f0c03b0cbad92092c4a43da4d5a?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=belém&geoID=1072"
   },
   {
     "title": "Profissional Back End – Python com AWS SR",
@@ -6981,7 +7008,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11584905__1953_6e2b613fb0f868cd4a3ae5b2e9f110d7?utm_source=1953&utm_medium=feed&keyword=Machine-Learning-Engineer&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11584905__1953_20fe34e1f7a67aa26572dcfe1997d5e7?utm_source=1953&utm_medium=feed&keyword=Machine-Learning-Engineer&location=sumaré&geoID=8878"
   },
   {
     "title": "Guidewire Developer (Relocation to Portugal)",
@@ -7053,7 +7080,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11592869__1953_4ab8fee4d0a049dc52dd02e27dcb5faa?utm_source=1953&utm_medium=feed&keyword=Account-Manager-Enterprise&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11592869__1953_f5b66e2f2ec80ba9b7305748db347c93?utm_source=1953&utm_medium=feed&keyword=Account-Manager-Enterprise&location=sumaré&geoID=8878"
   },
   {
     "title": "Technical Sourcing Specialist",
@@ -7251,7 +7278,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11596960__1953_9485d963af8b7a6baadf66ae1ed5c540?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11596960__1953_a49a2fc9a6b1a87f07bc7179bf061adc?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=campo-grande&geoID=1749"
   },
   {
     "title": "DevOps Engineer",
@@ -7260,7 +7287,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11596966__1953_23cfc0c018c485ca7937c05354742ef1?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11596966__1953_0951bfe6814f68c88156ea7a02df9bd7?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "DevOps Engineer",
@@ -7269,7 +7296,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11596976__1953_b352900099fa5508c0bd69031fb389bd?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11596976__1953_dfe7fc5c98460277952dc5148f24247c?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=belém&geoID=1072"
   },
   {
     "title": "DevOps Engineer",
@@ -7323,7 +7350,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11597747__1953_7ba35fa452cdaaaf2c563e107258fbb0?utm_source=1953&utm_medium=feed&keyword=Scrum-master&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11597747__1953_756c2ae6bd9eab4a9b3ec9b404aff0bd?utm_source=1953&utm_medium=feed&keyword=Scrum-master&location=campo-grande&geoID=1749"
   },
   {
     "title": "Scrum master",
@@ -7332,7 +7359,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11597753__1953_467447f78415daef9962643f464e82b4?utm_source=1953&utm_medium=feed&keyword=Scrum-master&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11597753__1953_a7ddcaad8849eee3f767dd46b7a06fdc?utm_source=1953&utm_medium=feed&keyword=Scrum-master&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Scrum master",
@@ -7341,7 +7368,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11597763__1953_1c509e5430d352b4e91a0dc6813411df?utm_source=1953&utm_medium=feed&keyword=Scrum-master&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11597763__1953_caee487eeaa198a014f614e5d6b9de6d?utm_source=1953&utm_medium=feed&keyword=Scrum-master&location=belém&geoID=1072"
   },
   {
     "title": "Scrum master",
@@ -7395,7 +7422,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11599617__1953_dcec5e11432ef1e62e7a52e03aecc520?utm_source=1953&utm_medium=feed&keyword=MS-Dynamics-Consultant&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11599617__1953_1fd49c6f3b05bfa8ea94a61f05817803?utm_source=1953&utm_medium=feed&keyword=MS-Dynamics-Consultant&location=campo-grande&geoID=1749"
   },
   {
     "title": "MS Dynamics Consultant",
@@ -7404,7 +7431,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11599623__1953_ed06f04cc2cf21ee9179f3ca6d8deefb?utm_source=1953&utm_medium=feed&keyword=MS-Dynamics-Consultant&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11599623__1953_ea063345a8f49b7f7ea6fe9347a684e2?utm_source=1953&utm_medium=feed&keyword=MS-Dynamics-Consultant&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "MS Dynamics Consultant",
@@ -7413,7 +7440,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11599633__1953_998895edec9561263b0802bc99c876ed?utm_source=1953&utm_medium=feed&keyword=MS-Dynamics-Consultant&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11599633__1953_64d1b45b57666dd789040e6c0f5dbf56?utm_source=1953&utm_medium=feed&keyword=MS-Dynamics-Consultant&location=belém&geoID=1072"
   },
   {
     "title": "MS Dynamics Consultant",
@@ -7467,7 +7494,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11600950__1953_fa6af05f09ec3242a4780372ea16853e?utm_source=1953&utm_medium=feed&keyword=Regional-Workforce-Administration&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11600950__1953_64ee7d324d5bcae100bf47afb65b1a7c?utm_source=1953&utm_medium=feed&keyword=Regional-Workforce-Administration&location=campo-grande&geoID=1749"
   },
   {
     "title": "Regional Workforce Administration Manager",
@@ -7476,7 +7503,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11600956__1953_e81781d2ec33e3be40aabac8f9079bf8?utm_source=1953&utm_medium=feed&keyword=Regional-Workforce-Administration&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11600956__1953_3411fd5ad5d4996de7848fc06be4eac6?utm_source=1953&utm_medium=feed&keyword=Regional-Workforce-Administration&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Regional Workforce Administration Manager",
@@ -7530,7 +7557,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11604269__1953_88d2c74859545a4ba7156a33e4a7413c?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11604269__1953_c3354e5f5678b090c2f997f281380621?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=sumaré&geoID=8878"
   },
   {
     "title": "Cloud Native Developer",
@@ -7602,7 +7629,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11606391__1953_7ac5b4dbafdef92a1f8a99c1e8d07317?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Tecnologia&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11606391__1953_24cac5f64d178a64d6651f264ae9a943?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Tecnologia&location=sumaré&geoID=8878"
   },
   {
     "title": "Arquiteto de Soluções- Oracle",
@@ -7674,7 +7701,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11608239__1953_52941fcd309f96bf740970717b88c63a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-C&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11608239__1953_4a1497204dea518af1bcd38901573ee1?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-C&location=sumaré&geoID=8878"
   },
   {
     "title": "Desenvolvedor Back-End Java Sr",
@@ -7746,7 +7773,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11610336__1953_70bcfafe51bf7e112de32152e7f81e6e?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11610336__1953_0eac099b5977d926845f46ae7686e706?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=sumaré&geoID=8878"
   },
   {
     "title": "Senior Backend (Node+Python) Engineer",
@@ -7863,7 +7890,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11614685__1953_9920bafa21805f7bdb13a98306f1ee24?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack-Flutter&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11614685__1953_166ad3259bc56e342cdef1bd68fe08a1?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack-Flutter&location=campo-grande&geoID=1749"
   },
   {
     "title": "Senior Full-Stack (Flutter + NestJS) Engineer",
@@ -7872,7 +7899,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11614691__1953_3bcbbca8dd9ca576704466158358c4a0?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack-Flutter&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11614691__1953_d61a92f83575d409e9961efedfe3b349?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack-Flutter&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Senior Full-Stack (Flutter + NestJS) Engineer",
@@ -7881,7 +7908,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11614701__1953_658a3d2a36399f182aacb2d539c1d996?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack-Flutter&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11614701__1953_e4da3a92906a674e6d5de6bd61c72d93?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack-Flutter&location=belém&geoID=1072"
   },
   {
     "title": "Senior Full-Stack (Flutter + NestJS) Engineer",
@@ -7935,7 +7962,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11617119__1953_69e79ff931d6de34b96c1348a06d545c?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Java&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11617119__1953_94c4612fee2f9f3a18e54978ef311934?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Java&location=campo-grande&geoID=1749"
   },
   {
     "title": "Desenvolvimento Java & Kotlin - 128233",
@@ -7944,7 +7971,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11617125__1953_4997c864e922a82996fbbcce5e360f8f?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Java&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11617125__1953_400bec9e6eb81a60788de6da1f76c150?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Java&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Desenvolvimento Java & Kotlin - 128233",
@@ -7953,7 +7980,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11617135__1953_f6f444bab78cb29986183fee2a8ee378?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Java&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11617135__1953_24d0abaae94e03644c1962192f5fe8ad?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Java&location=belém&geoID=1072"
   },
   {
     "title": "Desenvolvimento Java & Kotlin - 128233",
@@ -8007,7 +8034,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11618987__1953_5913d33fb6b1119ebc6c336c6b65bd16?utm_source=1953&utm_medium=feed&keyword=Recruitment-Consultant&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11618987__1953_b7a4e731d08dcd10a9127279665a77d7?utm_source=1953&utm_medium=feed&keyword=Recruitment-Consultant&location=campo-grande&geoID=1749"
   },
   {
     "title": "Recruitment Consultant",
@@ -8016,7 +8043,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11618993__1953_0e93b96f585b69f18340dc7744b782ad?utm_source=1953&utm_medium=feed&keyword=Recruitment-Consultant&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11618993__1953_f2e2c8ba215f855208ef97cad7981ff0?utm_source=1953&utm_medium=feed&keyword=Recruitment-Consultant&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Recruitment Consultant",
@@ -8070,7 +8097,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11621025__1953_e8b1e5e85d8082981a7aa45be0f72d51?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11621025__1953_0fad9b494987f177e39fa9c9f9681a5f?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=sumaré&geoID=8878"
   },
   {
     "title": "SRE Analyst",
@@ -8142,7 +8169,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11624747__1953_7be71f89f41ff630045e372ef850954d?utm_source=1953&utm_medium=feed&keyword=Fullstack-Engineer&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11624747__1953_c898820bdda49e90ab2b90eef808c3d9?utm_source=1953&utm_medium=feed&keyword=Fullstack-Engineer&location=sumaré&geoID=8878"
   },
   {
     "title": "Advogado(a) SR - Compliance e Investigações internas",
@@ -8214,7 +8241,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11626060__1953_c54637918c4cc80233ae3dc0081360ee?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Python-React&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11626060__1953_f3eb910ed3750dbcb52562c3a2180d09?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Python-React&location=sumaré&geoID=8878"
   },
   {
     "title": "Scrum Master - Remoto (Vaga Afirmativa PCD)",
@@ -8349,7 +8376,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11630432__1953_cf7769a23607c78522701f165a5d8276?utm_source=1953&utm_medium=feed&keyword=Analista-de-Customer&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11630432__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Customer&location=belém&geoID=1072"
   },
   {
     "title": "Analista de Customer Success",
@@ -8403,7 +8430,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11634754__1953_5e81b32b4badd73ff0892fdbb4e33575?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Back-end&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11634754__1953_4105304f0e9b798f55eecc532d536632?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Back-end&location=campo-grande&geoID=1749"
   },
   {
     "title": "Desenvolvedor de Back-end (Python)",
@@ -8412,7 +8439,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11634760__1953_915be9c7b745315e2aa9c95806027b9e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Back-end&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11634760__1953_9554c9ee05f01f377d9efd868542664e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Back-end&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Desenvolvedor de Back-end (Python)",
@@ -8421,7 +8448,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11634770__1953_2949ce58a0173a9c3b3ccfde8cb7c4a1?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Back-end&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11634770__1953_6a2492101cb38fe7cd0d11e781be6170?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Back-end&location=belém&geoID=1072"
   },
   {
     "title": "Desenvolvedor de Back-end (Python)",
@@ -8538,7 +8565,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11646336__1953_c90c7d11448f35fe923ec4dbdd37aa2a?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Performance&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11646336__1953_e3edca88bc6dc13652a1dd67630159fc?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Performance&location=sumaré&geoID=8878"
   },
   {
     "title": "Brazilian Portuguese Translator",
@@ -8610,7 +8637,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11650593__1953_51d4e0fcf8c789652ddd9c3dbd179098?utm_source=1953&utm_medium=feed&keyword=Private-Banker&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11650593__1953_f659522787f039ea7c42c34eeee86724?utm_source=1953&utm_medium=feed&keyword=Private-Banker&location=sumaré&geoID=8878"
   },
   {
     "title": "ANALISTA DE OPERACOES DE CONTRATOS JR",
@@ -8682,7 +8709,7 @@
     "city": "sumaré",
     "state": "sp",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11652723__1953_573ef2bcc279c3e0e1d1add4f472791a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-backend-pleno&location=sumaré&geoID=8878"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11652723__1953_1b7b750db4276f1ee26dfe2b6d9fe9fd?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-backend-pleno&location=sumaré&geoID=8878"
   },
   {
     "title": "Software Engineer Sênior - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8871,7 +8898,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659170__1953_396e89a5533c57b3e12b4fe9a35fcf93?utm_source=1953&utm_medium=feed&keyword=Case-Manager-Project&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659170__1953_a682aa6be57058f5c8b4c8c32636ef03?utm_source=1953&utm_medium=feed&keyword=Case-Manager-Project&location=campo-grande&geoID=1749"
   },
   {
     "title": "Case Manager (Project Manager)",
@@ -8880,7 +8907,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659176__1953_f5cf391cb1fe978cb3066dabd9d115bd?utm_source=1953&utm_medium=feed&keyword=Case-Manager-Project&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659176__1953_a3baa66b56cd35b991649d2f4b27dd83?utm_source=1953&utm_medium=feed&keyword=Case-Manager-Project&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Case Manager (Project Manager)",
@@ -8889,7 +8916,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659186__1953_d6a82806675cab40244c1995cb482c43?utm_source=1953&utm_medium=feed&keyword=Case-Manager-Project&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659186__1953_7348a2304165f7b2507a667f7b2a714f?utm_source=1953&utm_medium=feed&keyword=Case-Manager-Project&location=belém&geoID=1072"
   },
   {
     "title": "Case Manager (Project Manager)",
@@ -8943,7 +8970,7 @@
     "city": "campo grande",
     "state": "ms",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659695__1953_af5e9b2f187d842848a7f9658ec9f624?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=campo-grande&geoID=1749"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659695__1953_15bff5f82a90fa84a6e20992f6bb388f?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=campo-grande&geoID=1749"
   },
   {
     "title": "Software Engineer Sênior",
@@ -8952,7 +8979,7 @@
     "city": "cachoeirinha",
     "state": "rs",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659701__1953_80990f11ede2652aa58cefcd80827fba?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=cachoeirinha&geoID=1539"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659701__1953_724a0d446c38be69d235a9aa5c6dfb4c?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=cachoeirinha&geoID=1539"
   },
   {
     "title": "Software Engineer Sênior",
@@ -8961,7 +8988,7 @@
     "city": "belém",
     "state": "pa",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659711__1953_2218d9efdfe7bf781dd136961d83f34b?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659711__1953_f01d89665cbc5750f937394a9d229661?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=belém&geoID=1072"
   },
   {
     "title": "Software Engineer Sênior",
@@ -8971,32 +8998,5 @@
     "state": "sp",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___1953_11659854__1953?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=sumaré&geoID=8878"
-  },
-  {
-    "title": "Consultor Fiori-CDS View Sênior",
-    "description": "<p><b>Estamos em busca de um(a) Consultor(a) Fiori-CDS View Sênior para integrar nosso time de inovação e transformação digital! </b> </p><p><b>Requisitos: </b> </p><ul><li><b>5+ anos de experiência </b> em projetos SAP S/4 Hana; </li><li>Expertise no desenvolvimento de aplicações <b>CDS View </b> em <b>Eclipse </b>; </li><li>Conhecimento avançado em <b>Fiori </b> para criação de interfaces modernas e intuitivas; </li><li>Vivência em projetos de <b>migração SAP </b> e <b>Rollout </b>; </li><li>Inglês <b>intermediário </b> e espanhol <b>básico </b> (para atuação em projetos globais); </li><li>Capacidade de atuar em equipes multidisciplinares e com metodologias ágeis. </li> </ul><p><b>Diferenciais: </b> </p><ul><li>Experiência com <b>OData </b> e integração de serviços; </li><li>Conhecimento em <b>UI5 </b> e boas práticas de design para Fiori; </li><li>Certificações SAP em Fiori, CDS View ou S/4 Hana. </li> </ul><p><br></p><p><b>Tempo de Alocação: </b> previsão de 6 meses de atuação </p><p><b>Tipo de Alocação: </b> Remoto </p><p><b>Horário de Trabalho: </b> De segunda a sexta-feira, das 09hs00 às 18hs00 </p><p><br></p><p>A Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante. </p><p>Independentemente da sua ,etnia, idade, gênero, orientação sexual, deficiência, credo ou convicção política, o que importa são as suas competências e habilidades para fazer acontecer. </p><p><br></p><p>Os Softtekians são seres humanos talentosos e auto-determinados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!! </p><p><br></p><p>Quer saber mais? Acesse: </p> <p><br></p><p><b>Sobre a Softtek: </b> </p><p>Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore. </p><p><br></p><p>Para obter mais informações sobre o que fazemos, quem somos e oportunidades de carreira, visite  </p><p>Siga-nos @Softtek no Twitter e seja nosso fã no Facebook  </p><p><br></p><p>Caso se candidate para essa vaga seus dados ficarão armazenados em nosso banco de dados, atendendo a privacidade de dados conforme à Lei Geral de Proteção de Dados, lei nº 13.709/2018. </p><p>Caso não tenha interesse em manter suas informações pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para   </p><ul><li>Dúvidas também podem ser enviadas ao e-mail   e   </li> </ul>",
-    "company": "Softtek",
-    "city": "campo grande",
-    "state": "ms",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659956__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-Fiori-CDS-View&location=campo-grande&geoID=1749"
-  },
-  {
-    "title": "Consultor Fiori-CDS View Sênior",
-    "description": "<p><b>Estamos em busca de um(a) Consultor(a) Fiori-CDS View Sênior para integrar nosso time de inovação e transformação digital! </b> </p><p><b>Requisitos: </b> </p><ul><li><b>5+ anos de experiência </b> em projetos SAP S/4 Hana; </li><li>Expertise no desenvolvimento de aplicações <b>CDS View </b> em <b>Eclipse </b>; </li><li>Conhecimento avançado em <b>Fiori </b> para criação de interfaces modernas e intuitivas; </li><li>Vivência em projetos de <b>migração SAP </b> e <b>Rollout </b>; </li><li>Inglês <b>intermediário </b> e espanhol <b>básico </b> (para atuação em projetos globais); </li><li>Capacidade de atuar em equipes multidisciplinares e com metodologias ágeis. </li> </ul><p><b>Diferenciais: </b> </p><ul><li>Experiência com <b>OData </b> e integração de serviços; </li><li>Conhecimento em <b>UI5 </b> e boas práticas de design para Fiori; </li><li>Certificações SAP em Fiori, CDS View ou S/4 Hana. </li> </ul><p><br></p><p><b>Tempo de Alocação: </b> previsão de 6 meses de atuação </p><p><b>Tipo de Alocação: </b> Remoto </p><p><b>Horário de Trabalho: </b> De segunda a sexta-feira, das 09hs00 às 18hs00 </p><p><br></p><p>A Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante. </p><p>Independentemente da sua ,etnia, idade, gênero, orientação sexual, deficiência, credo ou convicção política, o que importa são as suas competências e habilidades para fazer acontecer. </p><p><br></p><p>Os Softtekians são seres humanos talentosos e auto-determinados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!! </p><p><br></p><p>Quer saber mais? Acesse: </p> <p><br></p><p><b>Sobre a Softtek: </b> </p><p>Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore. </p><p><br></p><p>Para obter mais informações sobre o que fazemos, quem somos e oportunidades de carreira, visite  </p><p>Siga-nos @Softtek no Twitter e seja nosso fã no Facebook  </p><p><br></p><p>Caso se candidate para essa vaga seus dados ficarão armazenados em nosso banco de dados, atendendo a privacidade de dados conforme à Lei Geral de Proteção de Dados, lei nº 13.709/2018. </p><p>Caso não tenha interesse em manter suas informações pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para   </p><ul><li>Dúvidas também podem ser enviadas ao e-mail   e   </li> </ul>",
-    "company": "Softtek",
-    "city": "cachoeirinha",
-    "state": "rs",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659962__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-Fiori-CDS-View&location=cachoeirinha&geoID=1539"
-  },
-  {
-    "title": "Consultor Fiori-CDS View Sênior",
-    "description": "<p><b>Estamos em busca de um(a) Consultor(a) Fiori-CDS View Sênior para integrar nosso time de inovação e transformação digital! </b> </p><p><b>Requisitos: </b> </p><ul><li><b>5+ anos de experiência </b> em projetos SAP S/4 Hana; </li><li>Expertise no desenvolvimento de aplicações <b>CDS View </b> em <b>Eclipse </b>; </li><li>Conhecimento avançado em <b>Fiori </b> para criação de interfaces modernas e intuitivas; </li><li>Vivência em projetos de <b>migração SAP </b> e <b>Rollout </b>; </li><li>Inglês <b>intermediário </b> e espanhol <b>básico </b> (para atuação em projetos globais); </li><li>Capacidade de atuar em equipes multidisciplinares e com metodologias ágeis. </li> </ul><p><b>Diferenciais: </b> </p><ul><li>Experiência com <b>OData </b> e integração de serviços; </li><li>Conhecimento em <b>UI5 </b> e boas práticas de design para Fiori; </li><li>Certificações SAP em Fiori, CDS View ou S/4 Hana. </li> </ul><p><br></p><p><b>Tempo de Alocação: </b> previsão de 6 meses de atuação </p><p><b>Tipo de Alocação: </b> Remoto </p><p><b>Horário de Trabalho: </b> De segunda a sexta-feira, das 09hs00 às 18hs00 </p><p><br></p><p>A Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante. </p><p>Independentemente da sua ,etnia, idade, gênero, orientação sexual, deficiência, credo ou convicção política, o que importa são as suas competências e habilidades para fazer acontecer. </p><p><br></p><p>Os Softtekians são seres humanos talentosos e auto-determinados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!! </p><p><br></p><p>Quer saber mais? Acesse: </p> <p><br></p><p><b>Sobre a Softtek: </b> </p><p>Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore. </p><p><br></p><p>Para obter mais informações sobre o que fazemos, quem somos e oportunidades de carreira, visite  </p><p>Siga-nos @Softtek no Twitter e seja nosso fã no Facebook  </p><p><br></p><p>Caso se candidate para essa vaga seus dados ficarão armazenados em nosso banco de dados, atendendo a privacidade de dados conforme à Lei Geral de Proteção de Dados, lei nº 13.709/2018. </p><p>Caso não tenha interesse em manter suas informações pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para   </p><ul><li>Dúvidas também podem ser enviadas ao e-mail   e   </li> </ul>",
-    "company": "Softtek",
-    "city": "belém",
-    "state": "pa",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___1953_11659972__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-Fiori-CDS-View&location=belém&geoID=1072"
   }
 ]
