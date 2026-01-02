@@ -1,59 +1,5 @@
 [
   {
-    "title": "Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Enginee </b>r who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Extensive experience (5+ years) working as a Data Engineer, with a strong focus on AWS technologies and serverless architectures; </p><p>- Experience working as a Data Engineer, with focus on Azure is valuable; </p><p>- In-depth knowledge of AWS services such as S3, Lambda, Glue, Athena, Redshift, and DynamoDB, and their capabilities for building scalable data processing systems; </p><p>- Proven expertise in designing and implementing AWS serverless architectures for large-scale data processing and storage; </p><p>- Strong programming skills in languages like Python, Java, or Scala, along with experience using SQL for data manipulation and querying; </p><p>- Hands-on experience with data integration and ETL tools, such as AWS Glue or Apache Spark, for transforming and processing data; </p><p>- English </p><p> Familiarity with data modeling techniques and data warehousing concepts, including star and snowflake schemas; </p><p>- Solid understanding of data security, access control, and compliance requirements in a data-driven environment; </p><p>- Experience with data visualization tools (e.g., Tableau, Power BI) and the ability to collaborate with analysts and data scientists to deliver actionable insights; </p><p>- Strong problem-solving and analytical skills, with a detail-oriented approach to ensure data accuracy and integrity; </p><p>- Excellent communication and collaboration skills, with the ability to work effectively in a cross-functional team environment </p><p><b>Key responsibilities: </b> </p><p>Design and implement an AWS Serverless DataLake architecture to efficiently handle large volumes of data and support various data processing workflows; </p><p>- Develop data ingestion pipelines and data integration processes, ensuring the smooth and reliable transfer of data from various sources into the DataLake; </p><p>- Implement data transformation and data enrichment processes using AWS Lambda, Glue, or similar serverless technologies to ensure data quality and consistency; </p><p>- Collaborate with data scientists and analysts to understand their data requirements and design appropriate data models and schemas in the DataLake; </p><p>- Optimize data storage and retrieval mechanisms, leveraging AWS services such as S3, Athena, Redshift, or DynamoDB, to provide high-performance access to the data; </p><p>- Monitor and troubleshoot the DataLake infrastructure, identifying and resolving performance bottlenecks, data processing errors, and other issues; </p><p>- Continuously evaluate new AWS services and technologies to enhance the DataLake architecture, improve data processing efficiency, and drive innovation; </p><p>- Mentor and provide technical guidance to junior data engineers, fostering their growth and ensuring adherence to best practices; </p><p>- Collaborate with cross-functional teams to understand business requirements, prioritize tasks, and deliver high-quality solutions within defined timelines </p><p>Data lake, aws, spark, python </p><p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:   </b> </p>",
-    "company": "Tata Consultancy Services",
-    "city": "piracicaba",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_721930__1953?utm_source=1953&utm_medium=feed&keyword=Data-Engineer&location=piracicaba&geoID=6672"
-  },
-  {
-    "title": "Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Enginee </b>r who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Extensive experience (5+ years) working as a Data Engineer, with a strong focus on AWS technologies and serverless architectures; </p><p>- Experience working as a Data Engineer, with focus on Azure is valuable; </p><p>- In-depth knowledge of AWS services such as S3, Lambda, Glue, Athena, Redshift, and DynamoDB, and their capabilities for building scalable data processing systems; </p><p>- Proven expertise in designing and implementing AWS serverless architectures for large-scale data processing and storage; </p><p>- Strong programming skills in languages like Python, Java, or Scala, along with experience using SQL for data manipulation and querying; </p><p>- Hands-on experience with data integration and ETL tools, such as AWS Glue or Apache Spark, for transforming and processing data; </p><p>- English </p><p> Familiarity with data modeling techniques and data warehousing concepts, including star and snowflake schemas; </p><p>- Solid understanding of data security, access control, and compliance requirements in a data-driven environment; </p><p>- Experience with data visualization tools (e.g., Tableau, Power BI) and the ability to collaborate with analysts and data scientists to deliver actionable insights; </p><p>- Strong problem-solving and analytical skills, with a detail-oriented approach to ensure data accuracy and integrity; </p><p>- Excellent communication and collaboration skills, with the ability to work effectively in a cross-functional team environment </p><p><b>Key responsibilities: </b> </p><p>Design and implement an AWS Serverless DataLake architecture to efficiently handle large volumes of data and support various data processing workflows; </p><p>- Develop data ingestion pipelines and data integration processes, ensuring the smooth and reliable transfer of data from various sources into the DataLake; </p><p>- Implement data transformation and data enrichment processes using AWS Lambda, Glue, or similar serverless technologies to ensure data quality and consistency; </p><p>- Collaborate with data scientists and analysts to understand their data requirements and design appropriate data models and schemas in the DataLake; </p><p>- Optimize data storage and retrieval mechanisms, leveraging AWS services such as S3, Athena, Redshift, or DynamoDB, to provide high-performance access to the data; </p><p>- Monitor and troubleshoot the DataLake infrastructure, identifying and resolving performance bottlenecks, data processing errors, and other issues; </p><p>- Continuously evaluate new AWS services and technologies to enhance the DataLake architecture, improve data processing efficiency, and drive innovation; </p><p>- Mentor and provide technical guidance to junior data engineers, fostering their growth and ensuring adherence to best practices; </p><p>- Collaborate with cross-functional teams to understand business requirements, prioritize tasks, and deliver high-quality solutions within defined timelines </p><p>Data lake, aws, spark, python </p><p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:   </b> </p>",
-    "company": "Tata Consultancy Services",
-    "city": "bento gonçalves",
-    "state": "estado do rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_721931__1953?utm_source=1953&utm_medium=feed&keyword=Data-Engineer&location=bento-gonçalves&geoID=1109"
-  },
-  {
-    "title": "Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Enginee </b>r who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Extensive experience (5+ years) working as a Data Engineer, with a strong focus on AWS technologies and serverless architectures; </p><p>- Experience working as a Data Engineer, with focus on Azure is valuable; </p><p>- In-depth knowledge of AWS services such as S3, Lambda, Glue, Athena, Redshift, and DynamoDB, and their capabilities for building scalable data processing systems; </p><p>- Proven expertise in designing and implementing AWS serverless architectures for large-scale data processing and storage; </p><p>- Strong programming skills in languages like Python, Java, or Scala, along with experience using SQL for data manipulation and querying; </p><p>- Hands-on experience with data integration and ETL tools, such as AWS Glue or Apache Spark, for transforming and processing data; </p><p>- English </p><p> Familiarity with data modeling techniques and data warehousing concepts, including star and snowflake schemas; </p><p>- Solid understanding of data security, access control, and compliance requirements in a data-driven environment; </p><p>- Experience with data visualization tools (e.g., Tableau, Power BI) and the ability to collaborate with analysts and data scientists to deliver actionable insights; </p><p>- Strong problem-solving and analytical skills, with a detail-oriented approach to ensure data accuracy and integrity; </p><p>- Excellent communication and collaboration skills, with the ability to work effectively in a cross-functional team environment </p><p><b>Key responsibilities: </b> </p><p>Design and implement an AWS Serverless DataLake architecture to efficiently handle large volumes of data and support various data processing workflows; </p><p>- Develop data ingestion pipelines and data integration processes, ensuring the smooth and reliable transfer of data from various sources into the DataLake; </p><p>- Implement data transformation and data enrichment processes using AWS Lambda, Glue, or similar serverless technologies to ensure data quality and consistency; </p><p>- Collaborate with data scientists and analysts to understand their data requirements and design appropriate data models and schemas in the DataLake; </p><p>- Optimize data storage and retrieval mechanisms, leveraging AWS services such as S3, Athena, Redshift, or DynamoDB, to provide high-performance access to the data; </p><p>- Monitor and troubleshoot the DataLake infrastructure, identifying and resolving performance bottlenecks, data processing errors, and other issues; </p><p>- Continuously evaluate new AWS services and technologies to enhance the DataLake architecture, improve data processing efficiency, and drive innovation; </p><p>- Mentor and provide technical guidance to junior data engineers, fostering their growth and ensuring adherence to best practices; </p><p>- Collaborate with cross-functional teams to understand business requirements, prioritize tasks, and deliver high-quality solutions within defined timelines </p><p>Data lake, aws, spark, python </p><p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:   </b> </p>",
-    "company": "Tata Consultancy Services",
-    "city": "americana",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_721932__1953?utm_source=1953&utm_medium=feed&keyword=Data-Engineer&location=americana&geoID=375"
-  },
-  {
-    "title": "Pessoa Cientista de Dados - Vaga afirmativa para mulheres cis e trans",
-    "description": "<p><b>A vaga atual é para o escritório do Brasil e trabalhamos em um modelo Free Office.  </b> </p><p><b>Quem somos: </b> </p><p>Nós da Artefact LatAm acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact! </p><p><b>Quais serão suas responsabilidades: </b> </p> <p>Você se juntará à nossa equipe de Dados e Consultoria, que ajuda os clientes a transformar e melhorar sua estratégia de dados aplicando análises avançadas para gerar insights que criam valor de negócio a partir de big data e inteligência artificial. </p><ul><li><b>Inovar </b>. Você trabalhará com sua equipe, composta por consultores, cientistas de dados, e engenheiros, para identificar as necessidades dos clientes e definir soluções inovadoras. </li><li><b>Aprender e Compartilhar.  </b>Você trabalhará em uma equipe colaborativa que promove o compartilhamento de conhecimento. Você aprenderá com outras pessoas, compartilhará conhecimento e ficará a par das novidades/atualizações do setor. </li><li><b>Desenvolver.  </b>Você participará da solução do início ao fim. Com o auxílio de cientistas seniores você gerenciará a concepção e a implementação, além de otimizar o desempenho e a escalabilidade. </li><li><b>Atuar </b> em toda a cadeia de valor dos projetos (coleta e tratamento de dados, análise exploratória de dados, aplicação de modelos de aprendizado de máquina, produtização de modelos) </li><li><b>Popularizar </b> termos técnicos ou soluções para perfis mais orientados a negócios, pode trabalhar em uma equipe com perfis muito diversificados </li><li><b>Priorizar </b> suas tarefas, respeitar prazos e se levantar a mão em caso de riscos ou problemas </li> </ul><p><b>O que nós estamos procurando: </b> </p><p>Ter cursado um curso de graduação em ciência de dados, aprendizado de máquina, matemática, ciência da computação, estatística, engenharia, economia ou uma área relacionada. </p><ul><li><b>Desejável  </b>um primeiro conhecimento em estatística e programação (Python/R). </li><li><b>Curiosidade: </b> você está sempre buscando soluções inovadoras para seus clientes, você está envolvido em toda a cadeia de valor </li><li><b>Colaboração </b>: o compartilhamento de conhecimento é essencial para você e você participa ativamente da difusão de informações dentro da Artefact </li><li><b>Empreendedorismo </b>: você traz soluções, novas ideias, inovações </li> </ul> <p><b>O que oferecemos:<br></b> </p><ul><li>VR/VT </li><li>Free office (trabalhe de casa ou de onde quiser!) </li><li>Gympass </li><li>Seguros: Vida, saúde e odontológico </li><li>Encontros Bimestrais (Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour! </li><li>Woba (pode marcar para trabalhar em coworking onde quiser!) </li><li>Avaliações semestrais (com oportunidade de promoção) </li> </ul><p><b>Por que você deveria se juntar a nós:<br></b> </p><ul><li>Artefact é o lugar para estar: venha e construa o futuro da área de dados. </li><li>Progresso: cada dia oferece novos desafios e novas oportunidades de aprender. </li><li>Cultura: Empatia e Colaboração está no nosso DNA. </li><li>Empreendedorismo: você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria! </li> </ul> <p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "canoas",
-    "state": "estado do rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_721933__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=canoas&geoID=1851"
-  },
-  {
-    "title": "Pessoa Cientista de Dados - Vaga afirmativa para mulheres cis e trans",
-    "description": "<p><b>A vaga atual é para o escritório do Brasil e trabalhamos em um modelo Free Office.  </b> </p><p><b>Quem somos: </b> </p><p>Nós da Artefact LatAm acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact! </p><p><b>Quais serão suas responsabilidades: </b> </p> <p>Você se juntará à nossa equipe de Dados e Consultoria, que ajuda os clientes a transformar e melhorar sua estratégia de dados aplicando análises avançadas para gerar insights que criam valor de negócio a partir de big data e inteligência artificial. </p><ul><li><b>Inovar </b>. Você trabalhará com sua equipe, composta por consultores, cientistas de dados, e engenheiros, para identificar as necessidades dos clientes e definir soluções inovadoras. </li><li><b>Aprender e Compartilhar.  </b>Você trabalhará em uma equipe colaborativa que promove o compartilhamento de conhecimento. Você aprenderá com outras pessoas, compartilhará conhecimento e ficará a par das novidades/atualizações do setor. </li><li><b>Desenvolver.  </b>Você participará da solução do início ao fim. Com o auxílio de cientistas seniores você gerenciará a concepção e a implementação, além de otimizar o desempenho e a escalabilidade. </li><li><b>Atuar </b> em toda a cadeia de valor dos projetos (coleta e tratamento de dados, análise exploratória de dados, aplicação de modelos de aprendizado de máquina, produtização de modelos) </li><li><b>Popularizar </b> termos técnicos ou soluções para perfis mais orientados a negócios, pode trabalhar em uma equipe com perfis muito diversificados </li><li><b>Priorizar </b> suas tarefas, respeitar prazos e se levantar a mão em caso de riscos ou problemas </li> </ul><p><b>O que nós estamos procurando: </b> </p><p>Ter cursado um curso de graduação em ciência de dados, aprendizado de máquina, matemática, ciência da computação, estatística, engenharia, economia ou uma área relacionada. </p><ul><li><b>Desejável  </b>um primeiro conhecimento em estatística e programação (Python/R). </li><li><b>Curiosidade: </b> você está sempre buscando soluções inovadoras para seus clientes, você está envolvido em toda a cadeia de valor </li><li><b>Colaboração </b>: o compartilhamento de conhecimento é essencial para você e você participa ativamente da difusão de informações dentro da Artefact </li><li><b>Empreendedorismo </b>: você traz soluções, novas ideias, inovações </li> </ul> <p><b>O que oferecemos:<br></b> </p><ul><li>VR/VT </li><li>Free office (trabalhe de casa ou de onde quiser!) </li><li>Gympass </li><li>Seguros: Vida, saúde e odontológico </li><li>Encontros Bimestrais (Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour! </li><li>Woba (pode marcar para trabalhar em coworking onde quiser!) </li><li>Avaliações semestrais (com oportunidade de promoção) </li> </ul><p><b>Por que você deveria se juntar a nós:<br></b> </p><ul><li>Artefact é o lugar para estar: venha e construa o futuro da área de dados. </li><li>Progresso: cada dia oferece novos desafios e novas oportunidades de aprender. </li><li>Cultura: Empatia e Colaboração está no nosso DNA. </li><li>Empreendedorismo: você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria! </li> </ul> <p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "camboriú",
-    "state": "estado de santa catarina",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_721934__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=camboriú&geoID=1669"
-  },
-  {
-    "title": "Pessoa Cientista de Dados - Vaga afirmativa para mulheres cis e trans",
-    "description": "<p><b>A vaga atual é para o escritório do Brasil e trabalhamos em um modelo Free Office.  </b> </p><p><b>Quem somos: </b> </p><p>Nós da Artefact LatAm acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact! </p><p><b>Quais serão suas responsabilidades: </b> </p> <p>Você se juntará à nossa equipe de Dados e Consultoria, que ajuda os clientes a transformar e melhorar sua estratégia de dados aplicando análises avançadas para gerar insights que criam valor de negócio a partir de big data e inteligência artificial. </p><ul><li><b>Inovar </b>. Você trabalhará com sua equipe, composta por consultores, cientistas de dados, e engenheiros, para identificar as necessidades dos clientes e definir soluções inovadoras. </li><li><b>Aprender e Compartilhar.  </b>Você trabalhará em uma equipe colaborativa que promove o compartilhamento de conhecimento. Você aprenderá com outras pessoas, compartilhará conhecimento e ficará a par das novidades/atualizações do setor. </li><li><b>Desenvolver.  </b>Você participará da solução do início ao fim. Com o auxílio de cientistas seniores você gerenciará a concepção e a implementação, além de otimizar o desempenho e a escalabilidade. </li><li><b>Atuar </b> em toda a cadeia de valor dos projetos (coleta e tratamento de dados, análise exploratória de dados, aplicação de modelos de aprendizado de máquina, produtização de modelos) </li><li><b>Popularizar </b> termos técnicos ou soluções para perfis mais orientados a negócios, pode trabalhar em uma equipe com perfis muito diversificados </li><li><b>Priorizar </b> suas tarefas, respeitar prazos e se levantar a mão em caso de riscos ou problemas </li> </ul><p><b>O que nós estamos procurando: </b> </p><p>Ter cursado um curso de graduação em ciência de dados, aprendizado de máquina, matemática, ciência da computação, estatística, engenharia, economia ou uma área relacionada. </p><ul><li><b>Desejável  </b>um primeiro conhecimento em estatística e programação (Python/R). </li><li><b>Curiosidade: </b> você está sempre buscando soluções inovadoras para seus clientes, você está envolvido em toda a cadeia de valor </li><li><b>Colaboração </b>: o compartilhamento de conhecimento é essencial para você e você participa ativamente da difusão de informações dentro da Artefact </li><li><b>Empreendedorismo </b>: você traz soluções, novas ideias, inovações </li> </ul> <p><b>O que oferecemos:<br></b> </p><ul><li>VR/VT </li><li>Free office (trabalhe de casa ou de onde quiser!) </li><li>Gympass </li><li>Seguros: Vida, saúde e odontológico </li><li>Encontros Bimestrais (Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour! </li><li>Woba (pode marcar para trabalhar em coworking onde quiser!) </li><li>Avaliações semestrais (com oportunidade de promoção) </li> </ul><p><b>Por que você deveria se juntar a nós:<br></b> </p><ul><li>Artefact é o lugar para estar: venha e construa o futuro da área de dados. </li><li>Progresso: cada dia oferece novos desafios e novas oportunidades de aprender. </li><li>Cultura: Empatia e Colaboração está no nosso DNA. </li><li>Empreendedorismo: você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria! </li> </ul> <p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "linhares",
-    "state": "estado do espírito santo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_721935__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=linhares&geoID=4893"
-  },
-  {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para mulheres cis e trans",
     "description": "<p><b>A vaga atual é para o escritório do Brasil e trabalhamos em um modelo Free Office.  </b> </p><p><b>Quem somos: </b> </p><p>Nós da Artefact LatAm acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact! </p><p><b>Quais serão suas responsabilidades: </b> </p> <p>Você se juntará à nossa equipe de Dados e Consultoria, que ajuda os clientes a transformar e melhorar sua estratégia de dados aplicando análises avançadas para gerar insights que criam valor de negócio a partir de big data e inteligência artificial. </p><ul><li><b>Inovar </b>. Você trabalhará com sua equipe, composta por consultores, cientistas de dados, e engenheiros, para identificar as necessidades dos clientes e definir soluções inovadoras. </li><li><b>Aprender e Compartilhar.  </b>Você trabalhará em uma equipe colaborativa que promove o compartilhamento de conhecimento. Você aprenderá com outras pessoas, compartilhará conhecimento e ficará a par das novidades/atualizações do setor. </li><li><b>Desenvolver.  </b>Você participará da solução do início ao fim. Com o auxílio de cientistas seniores você gerenciará a concepção e a implementação, além de otimizar o desempenho e a escalabilidade. </li><li><b>Atuar </b> em toda a cadeia de valor dos projetos (coleta e tratamento de dados, análise exploratória de dados, aplicação de modelos de aprendizado de máquina, produtização de modelos) </li><li><b>Popularizar </b> termos técnicos ou soluções para perfis mais orientados a negócios, pode trabalhar em uma equipe com perfis muito diversificados </li><li><b>Priorizar </b> suas tarefas, respeitar prazos e se levantar a mão em caso de riscos ou problemas </li> </ul><p><b>O que nós estamos procurando: </b> </p><p>Ter cursado um curso de graduação em ciência de dados, aprendizado de máquina, matemática, ciência da computação, estatística, engenharia, economia ou uma área relacionada. </p><ul><li><b>Desejável  </b>um primeiro conhecimento em estatística e programação (Python/R). </li><li><b>Curiosidade: </b> você está sempre buscando soluções inovadoras para seus clientes, você está envolvido em toda a cadeia de valor </li><li><b>Colaboração </b>: o compartilhamento de conhecimento é essencial para você e você participa ativamente da difusão de informações dentro da Artefact </li><li><b>Empreendedorismo </b>: você traz soluções, novas ideias, inovações </li> </ul> <p><b>O que oferecemos:<br></b> </p><ul><li>VR/VT </li><li>Free office (trabalhe de casa ou de onde quiser!) </li><li>Gympass </li><li>Seguros: Vida, saúde e odontológico </li><li>Encontros Bimestrais (Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour! </li><li>Woba (pode marcar para trabalhar em coworking onde quiser!) </li><li>Avaliações semestrais (com oportunidade de promoção) </li> </ul><p><b>Por que você deveria se juntar a nós:<br></b> </p><ul><li>Artefact é o lugar para estar: venha e construa o futuro da área de dados. </li><li>Progresso: cada dia oferece novos desafios e novas oportunidades de aprender. </li><li>Cultura: Empatia e Colaboração está no nosso DNA. </li><li>Empreendedorismo: você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria! </li> </ul> <p><b>Junte-se a nós! </b> </p>",
     "company": "Artefact",
@@ -591,7 +537,7 @@
     "city": "rondonópolis",
     "state": "estado de mato grosso",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727159__1953_c889f704faf405763abb5ce1da56567e?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=rondonópolis&geoID=7437"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727159__1953_11caaad4c159494c4f10f5f829ec3e69?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=rondonópolis&geoID=7437"
   },
   {
     "title": "Recruiter I",
@@ -600,7 +546,7 @@
     "city": "rio das ostras",
     "state": "estado do rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727160__1953_14b81d856ca14e91e787cfd4cc54933a?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=rio-das-ostras&geoID=7321"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727160__1953_dc2079892e20a0ad5d37f1439e89989e?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=rio-das-ostras&geoID=7321"
   },
   {
     "title": "Recruiter I",
@@ -609,7 +555,7 @@
     "city": "quatro barras",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727161__1953_f91dee1c3504223decde304b3fbbb20f?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=quatro-barras&geoID=7071"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727161__1953_b4d3a7dc453f7c6a95b4adaed794fa67?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=quatro-barras&geoID=7071"
   },
   {
     "title": "Recruiter I",
@@ -618,7 +564,7 @@
     "city": "ribeirão pires",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727162__1953_240cc4c92943904204600757a48e4d2d?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=ribeirão-pires&geoID=7262"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727162__1953_255c07c747331b2203159d22a1ed8501?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=ribeirão-pires&geoID=7262"
   },
   {
     "title": "Recruiter I",
@@ -627,7 +573,7 @@
     "city": "curitiba",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727163__1953_2e35f1f44428a8eed2066968e0cd5b7c?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727163__1953_ef645b9bb91ecc0ea69ec8a3ce5ae0ef?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=curitiba&geoID=2691"
   },
   {
     "title": "Recruiter I",
@@ -636,7 +582,7 @@
     "city": "pindamonhangaba",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727164__1953_3378d2af738a9ae115f1dc2981c9af2f?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=pindamonhangaba&geoID=6611"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727164__1953_cd30012bd97a261c116854e82b5945e4?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=pindamonhangaba&geoID=6611"
   },
   {
     "title": "Recruiter I",
@@ -645,7 +591,7 @@
     "city": "agudos",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727165__1953_5677123f4b67b70bc49dc022408cd247?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=agudos&geoID=159"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727165__1953_14255390ace3cb560997ebf5701e92fa?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=agudos&geoID=159"
   },
   {
     "title": "PS Systems Engineer",
@@ -654,7 +600,7 @@
     "city": "gramado",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727469__1953_0eef476c274988c734e3afc075b5356c?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=gramado&geoID=3477"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727469__1953_8c42224da07cd34c6f48c924ba8de4f1?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=gramado&geoID=3477"
   },
   {
     "title": "PS Systems Engineer",
@@ -663,7 +609,7 @@
     "city": "varginha",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727470__1953_b5dd3aab8d28beffd2b75e867d1e6d3c?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=varginha&geoID=9469"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727470__1953_04a4792a15ee0fee7129403b9a8205dd?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=varginha&geoID=9469"
   },
   {
     "title": "PS Systems Engineer",
@@ -672,7 +618,7 @@
     "city": "agudos",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727471__1953_8a13b7d77b8c9e32ad5d4627960b1731?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=agudos&geoID=159"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727471__1953_37d92cb99001d2e3369bda7b4b007282?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=agudos&geoID=159"
   },
   {
     "title": "PS Systems Engineer",
@@ -681,7 +627,7 @@
     "city": "itu",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727472__1953_b3a2c2ebe56605fb9244d7160b8bcd0f?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=itu&geoID=4297"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727472__1953_7c654ded7b5328d901160406654dd04c?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=itu&geoID=4297"
   },
   {
     "title": "PS Systems Engineer",
@@ -690,7 +636,7 @@
     "city": "caxias do sul",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727473__1953_0ed30ff55921969c2860a1d81b4226f3?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=caxias-do-sul&geoID=2154"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727473__1953_ea5bd5efe711efec349797c0bc107123?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=caxias-do-sul&geoID=2154"
   },
   {
     "title": "PS Systems Engineer",
@@ -699,7 +645,7 @@
     "city": "pato branco",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727474__1953_f5c8ee2d1ee248fa230797cbea21375c?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=pato-branco&geoID=6360"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727474__1953_b15f67575506ebaf546f7a4c31dfdc7d?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=pato-branco&geoID=6360"
   },
   {
     "title": "PS Systems Engineer",
@@ -708,7 +654,7 @@
     "city": "pindamonhangaba",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727475__1953_768d56089a04effdb1a6f85fd7ae91ac?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=pindamonhangaba&geoID=6611"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727475__1953_38c0f3ab2a6f3e5cef3d4f201974beaa?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=pindamonhangaba&geoID=6611"
   },
   {
     "title": "PS Systems Engineer",
@@ -717,7 +663,7 @@
     "city": "boituva",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727476__1953_a09fbc71829aa31acbe78d07265eb90b?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=boituva&geoID=1222"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727476__1953_5e157477b3203aa7776fffbc2269a2d0?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=boituva&geoID=1222"
   },
   {
     "title": "PS Systems Engineer",
@@ -726,7 +672,7 @@
     "city": "são caetano do sul",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727477__1953_ebefe1a86879da2e9f209171212a8b79?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=são-caetano-do-sul&geoID=7997"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727477__1953_cfea0ece7a012bcbb1b70100c528b6e6?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=são-caetano-do-sul&geoID=7997"
   },
   {
     "title": "PS Systems Engineer",
@@ -735,7 +681,7 @@
     "city": "barretos",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727478__1953_2861f82c1dc6f6ad36448fdddbb270d7?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=barretos&geoID=994"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727478__1953_5503e4f31d73bef34a4edf6366711b9c?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=barretos&geoID=994"
   },
   {
     "title": "PS Systems Engineer",
@@ -744,7 +690,7 @@
     "city": "indaiatuba",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727479__1953_6ae7f32f5a3c3ed71c094f2c3d1fa790?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=indaiatuba&geoID=3903"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727479__1953_7568237145d913152aac5d940963d632?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=indaiatuba&geoID=3903"
   },
   {
     "title": "PS Systems Engineer",
@@ -753,7 +699,7 @@
     "city": "resende",
     "state": "estado do rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_727481__1953_9192ac4ac7dcf9d75164de1a27391821?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=resende&geoID=7184"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_727481__1953_23bb96545fe1bbb354f839dd8363b277?utm_source=1953&utm_medium=feed&keyword=PS-Systems-Engineer&location=resende&geoID=7184"
   },
   {
     "title": "PS Systems Engineer",
@@ -5091,7 +5037,7 @@
     "city": "guaíba",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735127__1953_345e6deed61d933fe1e38e591922956e?utm_source=1953&utm_medium=feed&keyword=Growth-Business-Development&location=guaíba&geoID=3512"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735127__1953_0316aa4f24b0c693c8083439cf6d7fbe?utm_source=1953&utm_medium=feed&keyword=Growth-Business-Development&location=guaíba&geoID=3512"
   },
   {
     "title": "Growth Business Development (Brazil) | Part-time",
@@ -5100,7 +5046,7 @@
     "city": "montes claros",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735128__1953_e00bafa2fa39dd5e5ce0f940c9c6ebc4?utm_source=1953&utm_medium=feed&keyword=Growth-Business-Development&location=montes-claros&geoID=5536"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735128__1953_95ed612b9aa4ea9fe5b11e69e61f91b0?utm_source=1953&utm_medium=feed&keyword=Growth-Business-Development&location=montes-claros&geoID=5536"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5109,7 +5055,7 @@
     "city": "viamão",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735130__1953_650fbd52818fa4214f14ee8bb2d94e6e?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=viamão&geoID=9550"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735130__1953_63d27ab6b6366e13451c2ec60cdedfb4?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=viamão&geoID=9550"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5118,7 +5064,7 @@
     "city": "americana",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735131__1953_1748bf5ee4181e94a5abeadefc851547?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=americana&geoID=375"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735131__1953_bbc8daf3228f1c229c59ed2c0026f921?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=americana&geoID=375"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5127,7 +5073,7 @@
     "city": "cuiabá",
     "state": "estado de mato grosso",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735132__1953_b5ca06c372bc6f98bdd6c03bb0113eee?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=cuiabá&geoID=2659"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735132__1953_4080fb8caa4bccbffbc7107e47c58003?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=cuiabá&geoID=2659"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5136,7 +5082,7 @@
     "city": "são josé",
     "state": "estado de santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735133__1953_61c308f36ec520a8b40dd95f081ac4ac?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=são-josé&geoID=8232"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735133__1953_637254c705f8fd47d56156ca41aa7771?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=são-josé&geoID=8232"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5145,7 +5091,7 @@
     "city": "marília",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735135__1953_3ae60488a0bbc8368e11823e99d24d53?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=marília&geoID=5190"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735135__1953_f9bf4b4b3beb766055bee72aaf96d800?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=marília&geoID=5190"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5154,7 +5100,7 @@
     "city": "teresina",
     "state": "estado do piauí",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735136__1953_bbb58375c14f23849153467e05323d98?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=teresina&geoID=9077"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735136__1953_4a1146c74633b1e6175baa72564663bf?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=teresina&geoID=9077"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5163,7 +5109,7 @@
     "city": "francisco beltrão",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735139__1953_bb6aa2c3ce67f7b9507e85dd201396cd?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=francisco-beltrão&geoID=3285"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735139__1953_896bfcafdda2b54f2c007f5b0f9db66d?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=francisco-beltrão&geoID=3285"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5172,7 +5118,7 @@
     "city": "colombo",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735140__1953_061e3f6d5e39d8a8ec7a6f0b742faf25?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=colombo&geoID=2332"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735140__1953_b3f04be632356c6cc679c5fb5e277d77?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=colombo&geoID=2332"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5181,7 +5127,7 @@
     "city": "araucária",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735141__1953_fcf2f17446c8ee4fedb96d61cc673859?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=araucária&geoID=620"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735141__1953_f0b9b4624e30003737ebc992679a0f23?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=araucária&geoID=620"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5190,7 +5136,7 @@
     "city": "cotia",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735142__1953_88f36d1bf59c91f16596e6a41c8160a3?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=cotia&geoID=2564"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735142__1953_107643f4f1f8172218ec1f854dce44e5?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=cotia&geoID=2564"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5199,7 +5145,7 @@
     "city": "nova iguaçu",
     "state": "estado do rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735143__1953_f2b3c90d966eaf2baf55cae9b154e9f2?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=nova-iguaçu&geoID=5838"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735143__1953_d4d636d502fe6eb123a581203ab9631d?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=nova-iguaçu&geoID=5838"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5208,7 +5154,7 @@
     "city": "farroupilha",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735144__1953_c9f205f4ae0b8a1a6fe43c115fa9154c?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=farroupilha&geoID=3105"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735144__1953_a2027f0e7db1bffe150d0fc759b8c549?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=farroupilha&geoID=3105"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5217,7 +5163,7 @@
     "city": "juiz de fora",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735145__1953_e8809d4bdf9ba3ef88de35e0d85ad0d5?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=juiz-de-fora&geoID=4608"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735145__1953_956014cb3ec0eed272be251b9ac8e273?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=juiz-de-fora&geoID=4608"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5226,7 +5172,7 @@
     "city": "barretos",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735146__1953_73cfb5216e24e5647765e42abf98185a?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=barretos&geoID=994"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735146__1953_629dfe5f5fe4f0ec528b9f4ae255ddf7?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=barretos&geoID=994"
   },
   {
     "title": "Engenheiro de vendas",
@@ -5235,7 +5181,7 @@
     "city": "ijuí",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735150__1953_0fdd44b1fee9062e07c4d8f7a217c14b?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=ijuí&geoID=3849"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735150__1953_b056fde192bdafd0af5e4ca18509a6b5?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=ijuí&geoID=3849"
   },
   {
     "title": "Growth Business Development (Brazil) | Part-time",
@@ -5244,7 +5190,7 @@
     "city": "viamão",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735390__1953_db7de1e91940f5e5a896e09248281ab8?utm_source=1953&utm_medium=feed&keyword=Growth-Business-Development&location=viamão&geoID=9550"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735390__1953_2676e9a7075610c16767d19e428d8ee5?utm_source=1953&utm_medium=feed&keyword=Growth-Business-Development&location=viamão&geoID=9550"
   },
   {
     "title": "Growth Business Development (Brazil) | Part-time",
@@ -5253,7 +5199,7 @@
     "city": "jaraguá do sul",
     "state": "estado de santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_735397__1953_6345fa284e2e714791f7f0d9166e5038?utm_source=1953&utm_medium=feed&keyword=Growth-Business-Development&location=jaraguá-do-sul&geoID=4452"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_735397__1953_8f91e56612cfd8e31fc28125a294c31c?utm_source=1953&utm_medium=feed&keyword=Growth-Business-Development&location=jaraguá-do-sul&geoID=4452"
   },
   {
     "title": "Growth Business Development (Brazil) | Part-time",
@@ -8998,5 +8944,59 @@
     "state": "estado do rio grande do sul",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_745957__1953?utm_source=1953&utm_medium=feed&keyword=Analista-fiscal&location=estado-do-rio-grande-do-sul"
+  },
+  {
+    "title": "Analista de contabilidade sênior",
+    "description": "<p><b>Sobre nós </b> </p><p><br></p><p>Somos a Forvis Mazars, com mais de 80 anos de expertise global e mais de 20 anos de presença no Brasil. Presente em mais de 100 países, nossos colaboradores estão a postos para apoiar sua empresa com serviços de Auditoria, Consultoria e BPO reconhecidos pelo mercado no Brasil e no mundo. </p><p><br></p><p><b>Como é atuar conosco </b> </p><p><br></p><p>Por meio da nossa área de Alocação de Talentos, você poderá colocar sua experiência em prática em contextos empresariais variados, contribuindo com nosso padrão de excelência em distintas operações e segmentos. </p><p><br></p> <p>Ao ser alocado em uma de nossas demandas externas, você terá a oportunidade de atuar em ambientes dinâmicos e desafiadores, colaborando diretamente para o sucesso de nossos clientes. Essa contribuição proporciona vivência prática e aprendizado constante. E, você contará com o acompanhamento próximo da equipe Forvis Mazars, garantindo alinhamento ao longo de toda a sua atuação. </p><p><br></p><p><b> Responsabilidades e Atribuições </b> </p><p><br></p><ul><li>Realizar rotinas de fechamento contábil mensal, assegurando a acurácia das informações e cumprimento dos prazos internos. </li><li>Executar análises, conciliações e reconciliações das contas patrimoniais e de resultado, garantindo compliance com normas contábeis (BR GAAP). </li><li>Atuar ativamente na gestão de Ativo Fixo, incluindo registro, baixas, reavaliações, depreciações e conciliações. </li><li>Elaborar e analisar a DFC – Demonstração de Fluxo de Caixa, garantindo consistência entre os dados contábeis, gerenciais e projeções financeiras. </li><li>Preparar e revisar relatórios, análises e documentos contábeis para auditorias internas e externas. </li><li>Acompanhar e sustentar processos de controles internos da área contábil, identificando riscos e propondo melhorias. </li><li>Suportar demandas pontuais da controladoria, como análises de variações, indicadores e preparação de material gerencial. </li><li>Apoiar a integração de informações contábeis entre áreas correlatas (fiscal, financeiro, contas a pagar, contas a receber). </li><li>Contribuir com visão analítica e consultiva para otimização de processos e melhoria contínua da área. </li> </ul><p><br></p><p><b>Requisitos e Qualificações </b> </p><p><br></p><ul><li>Formação completa em Ciências Contábeis </li><li>Conhecimento sólido em Ativo  </li><li>Vivência com elaboração e análise de DFC (Fluxo de Caixa Direto e/ou Indireto). </li><li>Domínio de rotinas de fechamento contábil e conciliações. </li><li>Capacidade analítica apurada, com visão crítica e foco em identificação de inconsistências. </li><li>Conhecimento intermediário/avançado em Excel. </li><li>Perfil organizado, detalhista, com boa comunicação e habilidade para atuar de forma consultiva. </li> </ul><p><br></p><p><b>O que esperamos de você </b> </p><p><br></p><ul><li>Comprometimento com prazos, entregas e qualidade do trabalho; </li><li>Capacidade de adaptação a diferentes ambientes e rotinas corporativas; </li><li>Proatividade na resolução de problemas e execução das atividades; </li><li>Boa comunicação e relacionamento interpessoal; </li><li>Responsabilidade, organização e adaptabilidade; </li><li>Disposição para colaborar com diferentes equipes e projetos; </li> </ul><p><br></p><p><b>Benefícios </b> </p><p><br></p><ul><li>Rede de academias; </li><li>Canal de apoio psicológico; </li><li>Vale Refeição/Alimentação; </li><li>Vale Transporte; </li><li>Assistência Médica; </li><li>Assistência Odontológica; </li><li>Seguro de vida. </li> </ul>",
+    "company": "Forvis Mazars no Brasil",
+    "city": "são paulo",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_746073__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-contabilidade&location=são-paulo&geoID=8414"
+  },
+  {
+    "title": "Engenheiro de controle de instrumentação",
+    "description": "<p>We are a leading provider of energy efficient, innovative equipment, instrumentation, and process control systems to the global mining industry. With companies in Brazil, Chile, Mexico, and South Africa, Woodgrove has built a reputation based on quality, performance, and safety. The company is entrepreneurial, dynamic and our team are driven to succeed. We are looking for like-minded individuals that want to be part of a transformational busines </p><p><br></p><p><b>Role Summary  </b> </p><p>This role is for a position within the Instrumentation and Control department that works with mine sites around the world (both remotely and on site). We deploy and integrate optimization solutions. This role is ideal for someone who has a passion to engineer real-world solutions.  </p><p><br></p><p><b>All resumes must be submitted in english. </b> </p><p><br></p><p><b>Responsibilities </b> </p><ul><li>Design and engineering of instrumentation and control systems  </li><li>Design, sizing, and selection of instruments (valves, flow meters, pressure transmitter, etc.)  </li><li>Design and drafting of P&ID's  </li><li>On-site commissioning  </li><li>Remote support of mineral processing plants  </li><li>Producing technical documentation (e.g. functional descriptions, instrument lists, instrument datasheets, reports, specifications, drawings)  </li><li>Conducting feasibility studies (with focus on instrumentation and control, operations optimization)  </li><li>Conducting data and control loop analysis  </li><li>R&D initiatives for developing innovative solutions for the mineral processing industry  </li> </ul><p><br></p><p><b>Job Qualifications </b> </p><ul><li>Bachelor's degree or Diploma in Electrical/Instrumentation/Control Engineering, or a related field </li><li>Experiênce within the process industry </li><li>Excellent written and oral communication skills. </li><li>Knowledge and Experience working with AutoCAD Plant 3d (P&ID) or similar design software packages. </li><li>Knowledge and Experience working with control systems (ABB, DeltaV, Siemens, Rockwell, Schneider, Honeywell, etc.) and/or loop tuning; </li><li><b>English: Conversation level </b> </li> </ul>",
+    "company": "Woodgrove Technologies Inc.",
+    "city": "belo horizonte",
+    "state": "estado de minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_746189__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-controle&location=belo-horizonte&geoID=1086"
+  },
+  {
+    "title": "Client Services, Interpretation (Language Services | Research | Due Diligence | Remote)",
+    "description": "<p><b>About Us </b> </p><p>Cadence ( is a language services firm servicing the due diligence industry. We started in Beijing in 2014 and the types of clients we serve are expert networks, investment firms, consulting firms and market research firms. We are a remote-first company whose staff is located across multiple countries. Each individual is functionally aligned to one of three time zones (APAC, EMEA, Americas). We strive to promote internally whenever possible, so this is a limited opportunity to join a company that values ambitious and efficient professionals keen to develop their career. </p><p><br></p><p><b>Key Responsibilities </b> </p><p>You are a project manager for our interpretation team. Your job title would be Associate on our Client Service team. The full career track associated with this role can be seen on our careers page. </p><p><br></p><p>You'll play a key role in ensuring clients' interpretation and market research needs are met with precision and efficiency. Your responsibilities will centre around three core areas: project management, client communication, and ad-hoc recruitment of specialized language professionals. As you master these core functions, opportunities may arise for managing more complex projects, assuming enhanced client-facing roles, and collaborating with Client Service Managers on strategic planning, furthering your growth within the Client Services team. </p><p><br></p><p>Our interpretation team covers both remote projects and on-site projects. </p><p><br></p><p><b>Note - this role is to manage interpretation projects, not to actually interpret on behalf of clients. </b> </p><p><br></p><p><br></p><p><b>The Job </b> </p><p><br></p><p>You will manage multiple projects per day. </p><p><br></p><p>Projects can begin and end on the same day (”I need an interpreter for a call at 8pm tonight”). </p><p><br></p><p>Or they can span several weeks (”I am hosting three focus groups in three Chinese cities and need moderators to facilitate the focus groups and translate the output into English”). </p><p><br></p><p>Here’s how you will interact with a project: </p><p><br></p><p>Scoping </p><ul><li>You will speak with clients via email, phone, or WeChat about their needs </li><li>You will work with colleagues to ensure the client’s expectations for quality, speed, and cost are met </li><li>You will identify colleagues to assist based on the relevant time zones or regions for the project </li> </ul><p>Matchmaking </p><ul><li>Your top responsibility is to identify the best linguist in our community for the client’s objective </li><li>You will need to present that linguists’ experience in a relevant way for the project </li><li>... or you will need to recruit a new one if there isn’t an ideal match </li><li>You will need to constantly evaluate profitability and client satisfaction </li> </ul><p>Executing </p><ul><li>You will need to sync up expectations between client(s) and linguist(s) </li><li>You may need to chaperone calls to ensure they begin successfully </li><li>You will need to speak with clients after projects to make sure they are satisfied </li> </ul><p><b>Key Requirements </b> </p><p><br></p><ul><li>Bachelor’s degree in a related field </li><li>Fluency in English. Fluency in an additional language is a bonus. </li><li>Experience with Salesforce or similar CRM systems </li><li>Excellent written and verbal communication and client service skills </li><li>Strong organizational and multitasking abilities </li><li>Ability to work under pressure in a fast-paced environment </li><li>Ability to work effectively in both independent and team environments </li><li>Goal-oriented, driven, and highly motivated to succeed & take on challenges </li><li>Entry-level to intermediate-level candidates are welcome to apply: any relevant work experience is a plus </li> </ul><p><br></p><p><b>Working Hours & Location </b> </p><p><br></p><ul><li>This is a <b>fully-remote role </b> where you can work from home (<b>WFH </b>) </li><li>You will work either <b>APAC, AMER or EMEA business hours </b>, but wherever possible, it will be your local region (eg - LatAm applicants will work AMER hours) </li><li><b>Weekends and overnights shifts are available </b> with a commensurate increase in compensation. </li> </ul><p><br></p><p><b>Compensation & Benefits </b> </p><ul><li>Salary commensurate with experience </li><li>Paid time off </li><li>Health insurance </li><li>Annual allowance for professional development expenses </li> </ul>",
+    "company": "Cadence",
+    "city": "várzea grande",
+    "state": "estado de mato grosso",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_746290__1953?utm_source=1953&utm_medium=feed&keyword=Client-Services-Interpretation&location=várzea-grande&geoID=9491"
+  },
+  {
+    "title": "Client Services, Interpretation (Language Services | Research | Due Diligence | Remote)",
+    "description": "<p><b>About Us </b> </p><p>Cadence ( is a language services firm servicing the due diligence industry. We started in Beijing in 2014 and the types of clients we serve are expert networks, investment firms, consulting firms and market research firms. We are a remote-first company whose staff is located across multiple countries. Each individual is functionally aligned to one of three time zones (APAC, EMEA, Americas). We strive to promote internally whenever possible, so this is a limited opportunity to join a company that values ambitious and efficient professionals keen to develop their career. </p><p><br></p><p><b>Key Responsibilities </b> </p><p>You are a project manager for our interpretation team. Your job title would be Associate on our Client Service team. The full career track associated with this role can be seen on our careers page. </p><p><br></p><p>You'll play a key role in ensuring clients' interpretation and market research needs are met with precision and efficiency. Your responsibilities will centre around three core areas: project management, client communication, and ad-hoc recruitment of specialized language professionals. As you master these core functions, opportunities may arise for managing more complex projects, assuming enhanced client-facing roles, and collaborating with Client Service Managers on strategic planning, furthering your growth within the Client Services team. </p><p><br></p><p>Our interpretation team covers both remote projects and on-site projects. </p><p><br></p><p><b>Note - this role is to manage interpretation projects, not to actually interpret on behalf of clients. </b> </p><p><br></p><p><br></p><p><b>The Job </b> </p><p><br></p><p>You will manage multiple projects per day. </p><p><br></p><p>Projects can begin and end on the same day (”I need an interpreter for a call at 8pm tonight”). </p><p><br></p><p>Or they can span several weeks (”I am hosting three focus groups in three Chinese cities and need moderators to facilitate the focus groups and translate the output into English”). </p><p><br></p><p>Here’s how you will interact with a project: </p><p><br></p><p>Scoping </p><ul><li>You will speak with clients via email, phone, or WeChat about their needs </li><li>You will work with colleagues to ensure the client’s expectations for quality, speed, and cost are met </li><li>You will identify colleagues to assist based on the relevant time zones or regions for the project </li> </ul><p>Matchmaking </p><ul><li>Your top responsibility is to identify the best linguist in our community for the client’s objective </li><li>You will need to present that linguists’ experience in a relevant way for the project </li><li>... or you will need to recruit a new one if there isn’t an ideal match </li><li>You will need to constantly evaluate profitability and client satisfaction </li> </ul><p>Executing </p><ul><li>You will need to sync up expectations between client(s) and linguist(s) </li><li>You may need to chaperone calls to ensure they begin successfully </li><li>You will need to speak with clients after projects to make sure they are satisfied </li> </ul><p><b>Key Requirements </b> </p><p><br></p><ul><li>Bachelor’s degree in a related field </li><li>Fluency in English. Fluency in an additional language is a bonus. </li><li>Experience with Salesforce or similar CRM systems </li><li>Excellent written and verbal communication and client service skills </li><li>Strong organizational and multitasking abilities </li><li>Ability to work under pressure in a fast-paced environment </li><li>Ability to work effectively in both independent and team environments </li><li>Goal-oriented, driven, and highly motivated to succeed & take on challenges </li><li>Entry-level to intermediate-level candidates are welcome to apply: any relevant work experience is a plus </li> </ul><p><br></p><p><b>Working Hours & Location </b> </p><p><br></p><ul><li>This is a <b>fully-remote role </b> where you can work from home (<b>WFH </b>) </li><li>You will work either <b>APAC, AMER or EMEA business hours </b>, but wherever possible, it will be your local region (eg - LatAm applicants will work AMER hours) </li><li><b>Weekends and overnights shifts are available </b> with a commensurate increase in compensation. </li> </ul><p><br></p><p><b>Compensation & Benefits </b> </p><ul><li>Salary commensurate with experience </li><li>Paid time off </li><li>Health insurance </li><li>Annual allowance for professional development expenses </li> </ul>",
+    "company": "Cadence",
+    "city": "paulínia",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_746291__1953?utm_source=1953&utm_medium=feed&keyword=Client-Services-Interpretation&location=paulínia&geoID=6393"
+  },
+  {
+    "title": "Client Services, Interpretation (Language Services | Research | Due Diligence | Remote)",
+    "description": "<p><b>About Us </b> </p><p>Cadence ( is a language services firm servicing the due diligence industry. We started in Beijing in 2014 and the types of clients we serve are expert networks, investment firms, consulting firms and market research firms. We are a remote-first company whose staff is located across multiple countries. Each individual is functionally aligned to one of three time zones (APAC, EMEA, Americas). We strive to promote internally whenever possible, so this is a limited opportunity to join a company that values ambitious and efficient professionals keen to develop their career. </p><p><br></p><p><b>Key Responsibilities </b> </p><p>You are a project manager for our interpretation team. Your job title would be Associate on our Client Service team. The full career track associated with this role can be seen on our careers page. </p><p><br></p><p>You'll play a key role in ensuring clients' interpretation and market research needs are met with precision and efficiency. Your responsibilities will centre around three core areas: project management, client communication, and ad-hoc recruitment of specialized language professionals. As you master these core functions, opportunities may arise for managing more complex projects, assuming enhanced client-facing roles, and collaborating with Client Service Managers on strategic planning, furthering your growth within the Client Services team. </p><p><br></p><p>Our interpretation team covers both remote projects and on-site projects. </p><p><br></p><p><b>Note - this role is to manage interpretation projects, not to actually interpret on behalf of clients. </b> </p><p><br></p><p><br></p><p><b>The Job </b> </p><p><br></p><p>You will manage multiple projects per day. </p><p><br></p><p>Projects can begin and end on the same day (”I need an interpreter for a call at 8pm tonight”). </p><p><br></p><p>Or they can span several weeks (”I am hosting three focus groups in three Chinese cities and need moderators to facilitate the focus groups and translate the output into English”). </p><p><br></p><p>Here’s how you will interact with a project: </p><p><br></p><p>Scoping </p><ul><li>You will speak with clients via email, phone, or WeChat about their needs </li><li>You will work with colleagues to ensure the client’s expectations for quality, speed, and cost are met </li><li>You will identify colleagues to assist based on the relevant time zones or regions for the project </li> </ul><p>Matchmaking </p><ul><li>Your top responsibility is to identify the best linguist in our community for the client’s objective </li><li>You will need to present that linguists’ experience in a relevant way for the project </li><li>... or you will need to recruit a new one if there isn’t an ideal match </li><li>You will need to constantly evaluate profitability and client satisfaction </li> </ul><p>Executing </p><ul><li>You will need to sync up expectations between client(s) and linguist(s) </li><li>You may need to chaperone calls to ensure they begin successfully </li><li>You will need to speak with clients after projects to make sure they are satisfied </li> </ul><p><b>Key Requirements </b> </p><p><br></p><ul><li>Bachelor’s degree in a related field </li><li>Fluency in English. Fluency in an additional language is a bonus. </li><li>Experience with Salesforce or similar CRM systems </li><li>Excellent written and verbal communication and client service skills </li><li>Strong organizational and multitasking abilities </li><li>Ability to work under pressure in a fast-paced environment </li><li>Ability to work effectively in both independent and team environments </li><li>Goal-oriented, driven, and highly motivated to succeed & take on challenges </li><li>Entry-level to intermediate-level candidates are welcome to apply: any relevant work experience is a plus </li> </ul><p><br></p><p><b>Working Hours & Location </b> </p><p><br></p><ul><li>This is a <b>fully-remote role </b> where you can work from home (<b>WFH </b>) </li><li>You will work either <b>APAC, AMER or EMEA business hours </b>, but wherever possible, it will be your local region (eg - LatAm applicants will work AMER hours) </li><li><b>Weekends and overnights shifts are available </b> with a commensurate increase in compensation. </li> </ul><p><br></p><p><b>Compensation & Benefits </b> </p><ul><li>Salary commensurate with experience </li><li>Paid time off </li><li>Health insurance </li><li>Annual allowance for professional development expenses </li> </ul>",
+    "company": "Cadence",
+    "city": "pelotas",
+    "state": "estado do rio grande do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_746292__1953?utm_source=1953&utm_medium=feed&keyword=Client-Services-Interpretation&location=pelotas&geoID=6501"
+  },
+  {
+    "title": "Client Services, Interpretation (Language Services | Research | Due Diligence | Remote)",
+    "description": "<p><b>About Us </b> </p><p>Cadence ( is a language services firm servicing the due diligence industry. We started in Beijing in 2014 and the types of clients we serve are expert networks, investment firms, consulting firms and market research firms. We are a remote-first company whose staff is located across multiple countries. Each individual is functionally aligned to one of three time zones (APAC, EMEA, Americas). We strive to promote internally whenever possible, so this is a limited opportunity to join a company that values ambitious and efficient professionals keen to develop their career. </p><p><br></p><p><b>Key Responsibilities </b> </p><p>You are a project manager for our interpretation team. Your job title would be Associate on our Client Service team. The full career track associated with this role can be seen on our careers page. </p><p><br></p><p>You'll play a key role in ensuring clients' interpretation and market research needs are met with precision and efficiency. Your responsibilities will centre around three core areas: project management, client communication, and ad-hoc recruitment of specialized language professionals. As you master these core functions, opportunities may arise for managing more complex projects, assuming enhanced client-facing roles, and collaborating with Client Service Managers on strategic planning, furthering your growth within the Client Services team. </p><p><br></p><p>Our interpretation team covers both remote projects and on-site projects. </p><p><br></p><p><b>Note - this role is to manage interpretation projects, not to actually interpret on behalf of clients. </b> </p><p><br></p><p><br></p><p><b>The Job </b> </p><p><br></p><p>You will manage multiple projects per day. </p><p><br></p><p>Projects can begin and end on the same day (”I need an interpreter for a call at 8pm tonight”). </p><p><br></p><p>Or they can span several weeks (”I am hosting three focus groups in three Chinese cities and need moderators to facilitate the focus groups and translate the output into English”). </p><p><br></p><p>Here’s how you will interact with a project: </p><p><br></p><p>Scoping </p><ul><li>You will speak with clients via email, phone, or WeChat about their needs </li><li>You will work with colleagues to ensure the client’s expectations for quality, speed, and cost are met </li><li>You will identify colleagues to assist based on the relevant time zones or regions for the project </li> </ul><p>Matchmaking </p><ul><li>Your top responsibility is to identify the best linguist in our community for the client’s objective </li><li>You will need to present that linguists’ experience in a relevant way for the project </li><li>... or you will need to recruit a new one if there isn’t an ideal match </li><li>You will need to constantly evaluate profitability and client satisfaction </li> </ul><p>Executing </p><ul><li>You will need to sync up expectations between client(s) and linguist(s) </li><li>You may need to chaperone calls to ensure they begin successfully </li><li>You will need to speak with clients after projects to make sure they are satisfied </li> </ul><p><b>Key Requirements </b> </p><p><br></p><ul><li>Bachelor’s degree in a related field </li><li>Fluency in English. Fluency in an additional language is a bonus. </li><li>Experience with Salesforce or similar CRM systems </li><li>Excellent written and verbal communication and client service skills </li><li>Strong organizational and multitasking abilities </li><li>Ability to work under pressure in a fast-paced environment </li><li>Ability to work effectively in both independent and team environments </li><li>Goal-oriented, driven, and highly motivated to succeed & take on challenges </li><li>Entry-level to intermediate-level candidates are welcome to apply: any relevant work experience is a plus </li> </ul><p><br></p><p><b>Working Hours & Location </b> </p><p><br></p><ul><li>This is a <b>fully-remote role </b> where you can work from home (<b>WFH </b>) </li><li>You will work either <b>APAC, AMER or EMEA business hours </b>, but wherever possible, it will be your local region (eg - LatAm applicants will work AMER hours) </li><li><b>Weekends and overnights shifts are available </b> with a commensurate increase in compensation. </li> </ul><p><br></p><p><b>Compensation & Benefits </b> </p><ul><li>Salary commensurate with experience </li><li>Paid time off </li><li>Health insurance </li><li>Annual allowance for professional development expenses </li> </ul>",
+    "company": "Cadence",
+    "city": "nova odessa",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_746293__1953?utm_source=1953&utm_medium=feed&keyword=Client-Services-Interpretation&location=nova-odessa&geoID=5865"
   }
 ]
