@@ -1,122 +1,5 @@
 [
   {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "barretos",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675379__1953_09f58af6f7917f09ae66c0c212f5f4d9?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=barretos&geoID=994"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "ribeirão preto",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675380__1953_45a42dfbd09806e3bcf19e1b72d1243d?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=ribeirão-preto&geoID=7263"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "sete lagoas",
-    "state": "estado de minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675404__1953_e18e2aa90dd2032d793ffae2f0892b0d?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=sete-lagoas&geoID=8764"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "curitiba",
-    "state": "estado do paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675405__1953_3ee4578683ef2eed016081fb19aa7687?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=curitiba&geoID=2691"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "campinas",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675406__1953_633771e6f298114d95647eeba88c1ada?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=campinas&geoID=1713"
-  },
-  {
-    "title": "Coordenador educacional",
-    "description": "<b><p>Vaga: Coordenador(a) Educacional – Período Integral </p><p>Descrição da função: </p> </b><p>Estamos em busca de um(a) Coordenador(a) Educacional dedicado(a) para atuar com crianças do período integral. Este profissional será responsável por acompanhar o desenvolvimento dos alunos, organizar atividades pedagógicas e recreativas, garantir o bem-estar das crianças e promover um ambiente acolhedor e estimulante. </p><p><b>Responsabilidades: </b> </p><p>- Planejar e supervisionar a rotina diária das crianças do período integral </p><p>- Coordenar a equipe de auxiliares e professores envolvidos </p><p>- Promover ações que incentivem o desenvolvimento cognitivo, emocional e social </p><p>- Manter comunicação ativa com famílias e equipe pedagógica </p><p>- Zelar pela segurança e organização dos espaços utilizados </p><p>Requisitos: </p><p>- Formação em Pedagogia ou áreas afins </p><p>- Experiência com educação infantil ou ensino fundamental </p><p>- Habilidade de liderança, empatia e organização </p><p>- Boa comunicação e proatividade </p>",
-    "company": "Colégio Camminare - Santo André",
-    "city": "são paulo",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675420__1953_807f2fe5d185ca5aae2104be7a5b7899?utm_source=1953&utm_medium=feed&keyword=Coordenador-educacional&location=são-paulo&geoID=8414"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "lauro de freitas",
-    "state": "estado da bahia",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675443__1953_c5a4fdc7772c68b8bd96094cd3a7f0a1?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=lauro-de-freitas&geoID=4835"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "camaçari",
-    "state": "estado da bahia",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675444__1953_6bc10674351ec481aa57a13853978042?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=camaçari&geoID=1645"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "campo largo",
-    "state": "estado do paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675445__1953_bb863ac56f7c916c03f8864d36d35bbc?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=campo-largo&geoID=1751"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "brasília",
-    "state": "distrito federal",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675446__1953_0f47a72540bd760e81a0e4e6b9f902ca?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=brasília&geoID=1366"
-  },
-  {
-    "title": "Software Engineer Sênior - Vaga afirmativa para pessoas negras",
-    "description": "<p><b>A abertura atual é para a Artefact do Brasil, mas estamos em modelo Free Office.<br></b><b>Quem nós somos </b> </p><p>Nós da Artefact Brasil acreditamos e vivemos uma cultura com base na empatia! </p><p>Um ambiente de trabalho saudável é um lugar onde todas as vozes são ouvidas, respeitadas e valorizadas. </p><p>Temos como nosso compromisso a construção de um ambiente mais diverso e inclusivo, porque a empatia é para todas as pessoas, independentemente de etnia, cor, gênero, orientação sexual, identidade de gênero, deficiência ou crença religiosa. </p><p>Queremos conosco mentes e corações incríveis! Venha ser Artefact  !<br><b>Quais serão suas atividades;<br></b>Como Software Engineer Sênior na Artefact, você será uma peça-chave do nosso time de tecnologia, contribuindo ativamente para o desenho, desenvolvimento e evolução de aplicações web complexas que apoiam nossos projetos de dados e insights em múltiplas indústrias.<br>Você atuará em colaboração com equipes de Data Engineering, Data Science e Consultoria Analítica, garantindo que as soluções sejam escaláveis, seguras e integradas às necessidades reais dos nossos clientes. Além de desenvolver, você será referência técnica, ajudando a definir padrões e boas práticas dentro da equipe.    <br><b>Suas principais responsabilidades incluirão:   </b> </p><ul><li><b>Liderar o desenvolvimento de aplicações web </b> utilizando <b>JavaScript/TypeScript </b> e frameworks modernos como <b>React e Next.js </b>, priorizando arquitetura limpa, reuso e performance.  </li><li><b>Projetar e implementar soluções de integração de dados </b> com bancos relacionais e não relacionais <b>(PostgreSQL, MongoDB, Azure Cosmos DB) </b>, com foco em eficiência e escalabilidade.   </li><li><b>Gerenciar e otimizar aplicações na nuvem </b>, configurando autenticação, segurança e deploys contínuos em múltiplos provedores cloud, como <b>Azure, GCP e AWS. </b>       </li><li><b>Colaborar com equipes multidisciplinar </b>:  transformando modelos e algoritmos de dados em soluções visuais e produtos interativos.       </li><li><b>Definir arquitetura de software </b> e padrões técnicos, promovendo boas práticas de <b>DevOps, CI/CD </b>, testes automatizados e versionamento (Git, Docker, Kubernetes). </li><li><b>Mentorar desenvolvedores </b> de diferentes níveis, promovendo crescimento técnico e colaboração.   </li><li><b>Contribuir estrategicamente </b> para decisões de produto, explorando novas tecnologias e garantindo qualidade e sustentabilidade das soluções. </li> </ul><p><b><br>O que nós estamos procurando;    <br></b> </p><ul><li><b>Formação:  </b>Graduação em Ciência da Computação, Engenharia de Software ou curso na área correlata.       </li><li><b>Experiência solida (+5 anos):  </b> em desenvolvimento web com <b>React, Next.js, JavaScript e TypeScript.     </b>  </li><li><b>Domínio em bancos de dados SQL e NoSQL </b>, com habilidade em modelagem, otimização de queries e performance.       </li><li><b>Vivência avançada em nuvem (Azure, AWS ou GCP) </b>, incluindo autenticação, pipelines, integração de serviços e observabilidade. </li><li><b>Experiência prática com DevOps e CI/CD </b>, uso de <b>Docker </b>, <b>Kubernetes </b> e ferramentas de integração contínua. </li><li><b>Visão arquitetural </b> e capacidade de tomar decisões técnicas estratégicas.   </li><li><b>Inglês fluente </b> (para interação com equipes e clientes internacionais). </li> </ul><p><br><b>O que oferecemos;        </b> </p><ul><li><b>VR/VT        </b> </li><li><b>Free office  </b>(trabalhe de casa ou de onde quiser!)        </li><li><b>Gympass        </b> </li><li><b>Seguros:  </b>Vida, saúde e odontológico        </li><li><b>Encontros Bimestrais  </b>(Famoso “Get Together” onde nos encontramos para estarmos juntos, com oficinas, palestras, treinamentos e aquele happy hour!)        </li><li><b>Woba  </b>(pode marcar para trabalhar em coworking onde quiser!)       </li><li><b>Avaliações semestrais  </b>(com oportunidade de promoção)       <br></li> </ul><p><b>Por que você deveria se juntar a nós;        </b> </p><ul><li><b>Artefact </b> é o lugar para estar: venha e construa o futuro da tecnologia de dados        </li><li><b>Progresso: </b> cada dia oferece novos desafios e novas oportunidades de aprender        </li><li><b>Cultura: </b> junte-se à melhor equipe que você poderia imaginar        </li><li><b>Empreendedorismo:  </b>você se juntará a uma equipe de empreendedores motivados. Não desistiremos até que façamos uma grande diferença nesta indústria!        </li> </ul><p><b>Junte-se a nós! </b> </p>",
-    "company": "Artefact",
-    "city": "brusque",
-    "state": "estado de santa catarina",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675447__1953_73e07d4f679da84ff9bfb9638061c219?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-S%C3%AAnior&location=brusque&geoID=1417"
-  },
-  {
-    "title": "Sales Manager -  Nutraceutical Ingredients ( LATAM)",
-    "description": "<p><b>Sales Manager - Nutraceutical Ingredients ( LATAM) </b> </p><p><br></p><p><b>Location: Brazil (Remote)  </b> </p><p><br></p><p><b>Territory: Latin America </b> </p><p><br></p><p><b>About the Role </b> </p><p><br></p><p>We’re seeking a Sales Manager to drive growth across LATAM. You will sell nutraceutical ingredients to the dietary supplement and functional food & beverage industries, building a high-quality pipeline and long-term customer relationships. </p><p><br></p><p><b>Responsibilities </b> </p><p>• Manage and grow key accounts across LATAM, fostering senior-level relationships with brand owners, CDMOs/contract manufacturers, and distributors. </p><p>• Develop and execute country- and segment-level territory plans to capture new business. </p><p>• Present nutraceutical ingredients to customers, clearly articulating benefits, applications, and go-to-market plans. </p><p>• Collaborate with technical, regulatory, and marketing teams to deliver tailored solutions and product launches. </p><p>• Monitor market trends and competitor activity to identify white space and protect share. </p><p>• Meet and exceed quarterly/annual sales targets with accurate forecasting and disciplined CRM hygiene. </p><p>• Represent the company at regional trade shows, conferences, and industry events. </p><p>• Provide technical/product support to customers in coordination with internal teams. </p><p>• Maintain up-to-date knowledge of regional regulations and standards (e.g., ANVISA, COFEPRIS, INVIMA). </p><p><br></p><p><b>Requirements </b> </p><p>• 5+ years of B2B sales experience in nutraceutical ingredients within LATAM. </p><p>• Strong understanding of nutraceutical ingredients and their applications in dietary supplements and functional F&B. </p><p>• Proven ability to prospect, build pipelines, negotiate, and close across multiple countries. </p><p>• Language: Fluent Portuguese and strong Spanish; English is a plus. </p><p>• Self-starter comfortable working remotely; excellent territory/time management. </p><p>• Based in Brazil with willingness to travel across LATAM as required. </p><p>• Proficiency with MS Office and CRM (ZOHO preferred). </p>",
-    "company": "Elite Recruit LLC",
-    "city": "itapevi",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675929__1953_ca8fda08222c2e21ac6940503dcdfa00?utm_source=1953&utm_medium=feed&keyword=Sales-Manager&location=itapevi&geoID=4210"
-  },
-  {
-    "title": "Sales Manager -  Nutraceutical Ingredients ( LATAM)",
-    "description": "<p><b>Sales Manager - Nutraceutical Ingredients ( LATAM) </b> </p><p><br></p><p><b>Location: Brazil (Remote)  </b> </p><p><br></p><p><b>Territory: Latin America </b> </p><p><br></p><p><b>About the Role </b> </p><p><br></p><p>We’re seeking a Sales Manager to drive growth across LATAM. You will sell nutraceutical ingredients to the dietary supplement and functional food & beverage industries, building a high-quality pipeline and long-term customer relationships. </p><p><br></p><p><b>Responsibilities </b> </p><p>• Manage and grow key accounts across LATAM, fostering senior-level relationships with brand owners, CDMOs/contract manufacturers, and distributors. </p><p>• Develop and execute country- and segment-level territory plans to capture new business. </p><p>• Present nutraceutical ingredients to customers, clearly articulating benefits, applications, and go-to-market plans. </p><p>• Collaborate with technical, regulatory, and marketing teams to deliver tailored solutions and product launches. </p><p>• Monitor market trends and competitor activity to identify white space and protect share. </p><p>• Meet and exceed quarterly/annual sales targets with accurate forecasting and disciplined CRM hygiene. </p><p>• Represent the company at regional trade shows, conferences, and industry events. </p><p>• Provide technical/product support to customers in coordination with internal teams. </p><p>• Maintain up-to-date knowledge of regional regulations and standards (e.g., ANVISA, COFEPRIS, INVIMA). </p><p><br></p><p><b>Requirements </b> </p><p>• 5+ years of B2B sales experience in nutraceutical ingredients within LATAM. </p><p>• Strong understanding of nutraceutical ingredients and their applications in dietary supplements and functional F&B. </p><p>• Proven ability to prospect, build pipelines, negotiate, and close across multiple countries. </p><p>• Language: Fluent Portuguese and strong Spanish; English is a plus. </p><p>• Self-starter comfortable working remotely; excellent territory/time management. </p><p>• Based in Brazil with willingness to travel across LATAM as required. </p><p>• Proficiency with MS Office and CRM (ZOHO preferred). </p>",
-    "company": "Elite Recruit LLC",
-    "city": "nova santa rita",
-    "state": "estado do rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675930__1953_2b325156a162ea10621fb7867c16a5a6?utm_source=1953&utm_medium=feed&keyword=Sales-Manager&location=nova-santa-rita&geoID=5892"
-  },
-  {
     "title": "Sales Manager -  Nutraceutical Ingredients ( LATAM)",
     "description": "<p><b>Sales Manager - Nutraceutical Ingredients ( LATAM) </b> </p><p><br></p><p><b>Location: Brazil (Remote)  </b> </p><p><br></p><p><b>Territory: Latin America </b> </p><p><br></p><p><b>About the Role </b> </p><p><br></p><p>We’re seeking a Sales Manager to drive growth across LATAM. You will sell nutraceutical ingredients to the dietary supplement and functional food & beverage industries, building a high-quality pipeline and long-term customer relationships. </p><p><br></p><p><b>Responsibilities </b> </p><p>• Manage and grow key accounts across LATAM, fostering senior-level relationships with brand owners, CDMOs/contract manufacturers, and distributors. </p><p>• Develop and execute country- and segment-level territory plans to capture new business. </p><p>• Present nutraceutical ingredients to customers, clearly articulating benefits, applications, and go-to-market plans. </p><p>• Collaborate with technical, regulatory, and marketing teams to deliver tailored solutions and product launches. </p><p>• Monitor market trends and competitor activity to identify white space and protect share. </p><p>• Meet and exceed quarterly/annual sales targets with accurate forecasting and disciplined CRM hygiene. </p><p>• Represent the company at regional trade shows, conferences, and industry events. </p><p>• Provide technical/product support to customers in coordination with internal teams. </p><p>• Maintain up-to-date knowledge of regional regulations and standards (e.g., ANVISA, COFEPRIS, INVIMA). </p><p><br></p><p><b>Requirements </b> </p><p>• 5+ years of B2B sales experience in nutraceutical ingredients within LATAM. </p><p>• Strong understanding of nutraceutical ingredients and their applications in dietary supplements and functional F&B. </p><p>• Proven ability to prospect, build pipelines, negotiate, and close across multiple countries. </p><p>• Language: Fluent Portuguese and strong Spanish; English is a plus. </p><p>• Self-starter comfortable working remotely; excellent territory/time management. </p><p>• Based in Brazil with willingness to travel across LATAM as required. </p><p>• Proficiency with MS Office and CRM (ZOHO preferred). </p>",
     "company": "Elite Recruit LLC",
@@ -246,10 +129,10 @@
     "title": "Corretor imobiliário",
     "description": "<p><b>Descrição da Empresa </b> De Sá Imob. </p><p><b>Descrição do Cargo </b> Estamos à procura de um Corretor Imobiliário para se juntar à DE SÁ IMOB em Londrina, PR. O profissional será responsável por intermediar a compra, venda e locação de imóveis, atendendo clientes e oferecendo suporte especializado em todas as etapas das transações imobiliárias. As tarefas diárias incluem visitar e avaliar propriedades, realizar apresentações e mostrar imóveis a potenciais clientes, negociar contratos e acompanhar processos burocráticos. Este é um cargo de tempo integral e requer presença no local. </p><p><b>Qualificações </b> </p><ul><li><b>Corretagem e Imóveis: </b> Necessário conhecimento em corretagem e no mercado imobiliário, além de ser capaz de identificar oportunidades de negócios. </li><li><b>Serviço ao Cliente: </b> Habilidade em atendimento ao cliente, com foco em fornecer um serviço de alta qualidade e atender às necessidades dos clientes. </li><li><b>Vendas: </b> Experiência em vendas é essencial, incluindo a capacidade de negociar e fechar contratos de maneira eficaz. </li><li>Além dessas habilidades, serão considerados diferenciais o conhecimento em legislação imobiliária e a capacidade de utilizar ferramentas tecnológicas de gestão imobiliária. </li> </ul>",
     "company": "DE SÁ IMOB",
-    "city": "Parana",
-    "state": "estado do acre",
+    "city": "londrina",
+    "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_675984__1953?utm_source=1953&utm_medium=feed&keyword=Corretor-imobili%C3%A1rio&location=Parana&geoID=6257"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_675984__1953?utm_source=1953&utm_medium=feed&keyword=Corretor-imobili%C3%A1rio&location=londrina&geoID=4910"
   },
   {
     "title": "Software Engineer Sênior",
@@ -4128,7 +4011,7 @@
     "city": "carapicuíba",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682765__1953_fc66555d814bb40cb39e23237bd9d6ca?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=carapicuíba&geoID=1966"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682765__1953_2a01240f37a45a383bc5bdd776f5ddc3?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=carapicuíba&geoID=1966"
   },
   {
     "title": "Programador Ruby",
@@ -4137,7 +4020,7 @@
     "city": "palhoça",
     "state": "estado de santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682766__1953_546c56106774acc1eb6c030a7b1468b9?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=palhoça&geoID=6151"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682766__1953_dd55e971c01b47fe063bbefd74bde595?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=palhoça&geoID=6151"
   },
   {
     "title": "Programador Ruby",
@@ -4146,7 +4029,7 @@
     "city": "gravataí",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682767__1953_ae95bf39fa69708b342a0e2752c4d5ea?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=gravataí&geoID=3492"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682767__1953_dcdc57c0ae58bbfb74a383a8e72a8aca?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=gravataí&geoID=3492"
   },
   {
     "title": "Programador Ruby",
@@ -4155,7 +4038,7 @@
     "city": "flores da cunha",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682768__1953_381718158d4e74421f1ee7c8b3990b10?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=flores-da-cunha&geoID=3218"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682768__1953_be46037912ee52f0d29c379a204b80c8?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=flores-da-cunha&geoID=3218"
   },
   {
     "title": "Programador Ruby",
@@ -4164,7 +4047,7 @@
     "city": "novo hamburgo",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682769__1953_f26ebe1de8d9f3944920d3f0e266dab6?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=novo-hamburgo&geoID=5932"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682769__1953_4110bc2ff4bd1d9ddcbc868f7c1b08f6?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=novo-hamburgo&geoID=5932"
   },
   {
     "title": "Data Consultant Brazil",
@@ -4173,7 +4056,7 @@
     "city": "taguatinga",
     "state": "distrito federal",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682956__1953_12f06818bbd817a9785945a9156c0f0c?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=taguatinga&geoID=8928"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682956__1953_34f7fb1586f780adc3054e24a39c71a4?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=taguatinga&geoID=8928"
   },
   {
     "title": "Data Consultant Brazil",
@@ -4182,7 +4065,7 @@
     "city": "rio grande",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682957__1953_82f52a63ee9a1b55f8b43c8978a152f5?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=rio-grande&geoID=7348"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682957__1953_bfe4f5c5c9213705f7148cb1e4883487?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=rio-grande&geoID=7348"
   },
   {
     "title": "Data Consultant Brazil",
@@ -4191,7 +4074,7 @@
     "city": "juazeiro do norte",
     "state": "estado do ceará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682958__1953_187afffa76a10a92c03ab9185547f4d7?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=juazeiro-do-norte&geoID=4593"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682958__1953_46a6d955bb2c95d8cf82f0f348e3d64c?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=juazeiro-do-norte&geoID=4593"
   },
   {
     "title": "Data Consultant Brazil",
@@ -4200,7 +4083,7 @@
     "city": "sertãozinho",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682959__1953_e12f69dee44f6c1b91ca47dce50e22f8?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=sertãozinho&geoID=8755"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682959__1953_1a880e13664486478b195c5800a4002d?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=sertãozinho&geoID=8755"
   },
   {
     "title": "Data Consultant Brazil",
@@ -4209,7 +4092,7 @@
     "city": "conselheiro lafaiete",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682960__1953_94f85352378a64485ca5e38c13ed27ed?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=conselheiro-lafaiete&geoID=2447"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682960__1953_2a48139d5b6fa645d6e7b7244ce67f36?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=conselheiro-lafaiete&geoID=2447"
   },
   {
     "title": "Data Consultant Brazil",
@@ -4218,7 +4101,7 @@
     "city": "jaraguá do sul",
     "state": "estado de santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682961__1953_f5e15dff8a17b45a48ea77377fe8fb3d?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=jaraguá-do-sul&geoID=4452"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682961__1953_7ad7ea36bcfe2cf8e7f6b233c696e6fa?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=jaraguá-do-sul&geoID=4452"
   },
   {
     "title": "Data Consultant Brazil",
@@ -4227,7 +4110,7 @@
     "city": "diadema",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682962__1953_c605ef782ae4851f3dae06de06211999?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=diadema&geoID=2773"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682962__1953_ca47acd4b9ff8857a6879ba37bea9f7f?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=diadema&geoID=2773"
   },
   {
     "title": "Data Consultant Brazil",
@@ -4236,7 +4119,7 @@
     "city": "rondonópolis",
     "state": "estado de mato grosso",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682963__1953_6d94bc878349d1f1cabeb291f2a27c25?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=rondonópolis&geoID=7437"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682963__1953_97f0990f767fdb7a5a45ac8ad4b290ff?utm_source=1953&utm_medium=feed&keyword=Data-Consultant-Brazil&location=rondonópolis&geoID=7437"
   },
   {
     "title": "Pessoa Engenheira de Dados  - Vaga afirmativa para mulheres cis e trans",
@@ -4245,7 +4128,7 @@
     "city": "timon",
     "state": "estado do maranhão",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682991__1953_230e0afae0f4d4a809ffa332808db472?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=timon&geoID=9130"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682991__1953_f5cb2873199653caa90a02f9cb180811?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=timon&geoID=9130"
   },
   {
     "title": "Pessoa Engenheira de Dados  - Vaga afirmativa para mulheres cis e trans",
@@ -4254,7 +4137,7 @@
     "city": "itupeva",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682992__1953_00d8563e107f9ad9cb0a9f8b3e19ad4f?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=itupeva&geoID=4307"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682992__1953_4a994950fb8d2a7e6654b553377edbfb?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=itupeva&geoID=4307"
   },
   {
     "title": "Pessoa Engenheira de Dados  - Vaga afirmativa para mulheres cis e trans",
@@ -4263,7 +4146,7 @@
     "city": "parnamirim",
     "state": "estado do rio grande do norte",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682993__1953_e3daea405b54c96cf00ac74cbbe5e7bd?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=parnamirim&geoID=6305"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682993__1953_026138fe190d9bac5288a2f9d9a38f97?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=parnamirim&geoID=6305"
   },
   {
     "title": "Pessoa Engenheira de Dados  - Vaga afirmativa para mulheres cis e trans",
@@ -4272,7 +4155,7 @@
     "city": "capão da canoa",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682994__1953_88b1906cb78f95149564d86f5ff02a62?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=capão-da-canoa&geoID=1879"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682994__1953_1046d9e0c6176dfec44301604579db4d?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=capão-da-canoa&geoID=1879"
   },
   {
     "title": "Pessoa Engenheira de Dados  - Vaga afirmativa para mulheres cis e trans",
@@ -4281,7 +4164,7 @@
     "city": "lucas do rio verde",
     "state": "estado de mato grosso",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682995__1953_43bc44f9e36a9a9acb215c8ccedbadf7?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=lucas-do-rio-verde&geoID=4925"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682995__1953_605fcf004b2549fbb4ad3f89f991ca4e?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=lucas-do-rio-verde&geoID=4925"
   },
   {
     "title": "Pessoa Engenheira de Dados  - Vaga afirmativa para mulheres cis e trans",
@@ -4290,7 +4173,7 @@
     "city": "pinhais",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_682996__1953_ccca173a581d54f64f7f1868de4834b7?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=pinhais&geoID=6622"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_682996__1953_09fcac84ee14baf811c14e5b5174314c?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=pinhais&geoID=6622"
   },
   {
     "title": "Pessoa Engenheira de Dados  - Vaga afirmativa para mulheres cis e trans",
@@ -8619,7 +8502,7 @@
     "city": "caxias do sul",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689330__1953_e3bbde8d90d0b1eabbbc75247aa6f2e5?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=caxias-do-sul&geoID=2154"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689330__1953_fac3171e03d11c90e3049a0f597b750d?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=caxias-do-sul&geoID=2154"
   },
   {
     "title": "College-Level Chemistry Tutor",
@@ -8628,7 +8511,7 @@
     "city": "sapucaia do sul",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689331__1953_016985c545846978c0a0a273260a9511?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=sapucaia-do-sul&geoID=8591"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689331__1953_b731d07fa7d338f55cdd4b22486288b7?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=sapucaia-do-sul&geoID=8591"
   },
   {
     "title": "College-Level Chemistry Tutor",
@@ -8637,7 +8520,7 @@
     "city": "mogi das cruzes",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689332__1953_e01edfa0aa75e9c58d0ed1ea3fdffc54?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=mogi-das-cruzes&geoID=5441"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689332__1953_2baea9c19c63208aa42bcc2f1f4bd84e?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=mogi-das-cruzes&geoID=5441"
   },
   {
     "title": "College-Level Chemistry Tutor",
@@ -8646,7 +8529,7 @@
     "city": "distrito federal",
     "state": "distrito federal",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689333__1953_b9553adf7543cf987685a05c601a1e42?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=distrito-federal&geoID=7"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689333__1953_fc8df941a84114e11d7dbb1230a9f300?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=distrito-federal&geoID=7"
   },
   {
     "title": "Representante de Desenvolvimento de Vendas (SDR)",
@@ -8655,7 +8538,7 @@
     "city": "Parana",
     "state": "estado do acre",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689350__1953_471195407e3a2b634daf87b946ebed4b?utm_source=1953&utm_medium=feed&keyword=Representante-de-Desenvolvimento&location=Parana&geoID=6257"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689350__1953_351b03234dae3509037b2008aa816895?utm_source=1953&utm_medium=feed&keyword=Representante-de-Desenvolvimento&location=Parana&geoID=6257"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8664,7 +8547,7 @@
     "city": "eldorado do sul",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689362__1953_4181700ac0f57136423c20468ca170d6?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=eldorado-do-sul&geoID=2919"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689362__1953_4635b57e200b2007633d1739f4e8d863?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=eldorado-do-sul&geoID=2919"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8673,7 +8556,7 @@
     "city": "presidente prudente",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689363__1953_b86431f67a60ca1950745201c7875b66?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=presidente-prudente&geoID=7013"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689363__1953_8d5afe9b6862c679195fa5273456dfb5?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=presidente-prudente&geoID=7013"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8682,7 +8565,7 @@
     "city": "guarulhos",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689364__1953_a243027e5e0a96d487a57dd341da9ed4?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=guarulhos&geoID=3612"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689364__1953_40b9f4649fa219ed86dd7a0db3464cfa?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=guarulhos&geoID=3612"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8691,7 +8574,7 @@
     "city": "arapongas",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689365__1953_f8b1ed44df34086b159e055103691199?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=arapongas&geoID=586"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689365__1953_402281d4422010e4cc64d3ba7d5b043a?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=arapongas&geoID=586"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8700,7 +8583,7 @@
     "city": "ribeirão preto",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689366__1953_56c5f072e3ce07c2ee5e8801eb2d202e?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=ribeirão-preto&geoID=7263"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689366__1953_e3f9f5158a7ed2e15a40dae4b5e60b0f?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=ribeirão-preto&geoID=7263"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8709,7 +8592,7 @@
     "city": "osasco",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689367__1953_4011374b4110c33972db1ab8aabacd97?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=osasco&geoID=6050"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689367__1953_09131c538e7c28773215b08b9645fe94?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=osasco&geoID=6050"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8718,7 +8601,7 @@
     "city": "piracicaba",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689368__1953_511e99e67b0b562858ef93fe0fe3300b?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=piracicaba&geoID=6672"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689368__1953_facf946f90d9785474e6552a52a8095a?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=piracicaba&geoID=6672"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8727,7 +8610,7 @@
     "city": "jaraguá do sul",
     "state": "estado de santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689369__1953_376b4e1012f2194c620774c5b3a91616?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=jaraguá-do-sul&geoID=4452"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689369__1953_33e97531defc432005d76dc2e4d0ee01?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=jaraguá-do-sul&geoID=4452"
   },
   {
     "title": "Pessoa Cientista de Dados - Vaga afirmativa para pessoas LGBTQIAPN+",
@@ -8736,7 +8619,7 @@
     "city": "pinhais",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689370__1953_d09987fd2a5106523534511e6fad56ec?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=pinhais&geoID=6622"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689370__1953_b0b9db3b89e8f59f2bee41f5d2dbb87e?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=pinhais&geoID=6622"
   },
   {
     "title": "College-Level Chemistry Tutor",
@@ -8745,7 +8628,7 @@
     "city": "rio claro",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689384__1953_299dfcf9ea8bbe19120e8187ac48683a?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=rio-claro&geoID=7304"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689384__1953_4cd1b8ec9b1460315c4b9de3d0408a0c?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=rio-claro&geoID=7304"
   },
   {
     "title": "College-Level Chemistry Tutor",
@@ -8754,7 +8637,7 @@
     "city": "sorriso",
     "state": "estado de mato grosso",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689385__1953_62d8a1d2c12d438444209a82c8aa0999?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=sorriso&geoID=8854"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689385__1953_9aae79167c0a42ed342a70b30c0c2a9c?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=sorriso&geoID=8854"
   },
   {
     "title": "SAP Coupa  Source to Pay",
@@ -8763,7 +8646,7 @@
     "city": "pouso alegre",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689406__1953_9244bf7dca70d307e3e789006d5daf5c?utm_source=1953&utm_medium=feed&keyword=SAP-Coupa&location=pouso-alegre&geoID=6951"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689406__1953_58424bbb4bf218de77fa6b6fd5535013?utm_source=1953&utm_medium=feed&keyword=SAP-Coupa&location=pouso-alegre&geoID=6951"
   },
   {
     "title": "SAP Coupa  Source to Pay",
@@ -8772,7 +8655,7 @@
     "city": "mossoró",
     "state": "estado do rio grande do norte",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689407__1953_59fa4ae407bc3a61431fef59bfe2802c?utm_source=1953&utm_medium=feed&keyword=SAP-Coupa&location=mossoró&geoID=5598"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689407__1953_cc27f3adb50e958f127e27f84404ab74?utm_source=1953&utm_medium=feed&keyword=SAP-Coupa&location=mossoró&geoID=5598"
   },
   {
     "title": "SAP Coupa  Source to Pay",
@@ -8781,7 +8664,7 @@
     "city": "três lagoas",
     "state": "estado de mato grosso do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_689408__1953_65386b3d59fafe9928dd2098eb9b0a97?utm_source=1953&utm_medium=feed&keyword=SAP-Coupa&location=três-lagoas&geoID=9214"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689408__1953_53d6afad8d72b91154c0f37b2b3d1b01?utm_source=1953&utm_medium=feed&keyword=SAP-Coupa&location=três-lagoas&geoID=9214"
   },
   {
     "title": "SAP Coupa  Source to Pay",
@@ -8998,5 +8881,122 @@
     "state": "estado do paraná",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_689568__1953_8f3bbc2ef811fbfb7faf4913e7e5ec8d?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=campina-grande-do-sul&geoID=1707"
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career! </p><p><br></p><p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. </p><p><br></p><p>We are looking for \\\"<b>Full Stack Developer\\\" ,Remote mode in Sao Paulo  </b>who wants to learn and transform his career. </p><p><br></p><p><b>In this role you will: (responsibilities) </b> </p><p><b>Mandatory skills: </b> </p><ul><li>6+ years of experience with Java; </li><li>Experience with front-end (Angular); </li><li>Experience with AWS; </li><li>Advanced English </li> </ul><p><br></p><p><b>Requirements: </b> </p><ul><li>Experience in the financial industry (preferably banks); </li><li>Microservices; </li><li>Websphere; </li><li>OraaS; </li><li>MQ Series; </li><li>ORACLE; </li><li>PL/SQL; </li><li>KAFKA, </li><li>MONGODB; </li><li>DevOps tools as a developer </li> </ul><p><br></p><p><br></p><p><br></p><p><br></p><p><b>What can you expect from us? </b> </p><p><br></p><p>• Professional development and constant evolution of your skills, always in line with your interests. </p><p>• Opportunities to work outside Brazil </p><p>• A collaborative, diverse and innovative environment that encourages teamwork. </p><p><br></p><p><b>What do we offer? </b> </p><p><br></p><p>TCS Benefits – Brazil: </p><p>Health insurance </p><p>Dental Plan </p><p>Life insurance </p><p>Transportation vouchers </p><p>Meal/Food Voucher </p><p>Childcare assistance </p><p>Gympass </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates </p><p>Partnership with SESC </p><p>Reimbursement of Certifications </p><p>Free TCS Learning Portal – Online courses and live training </p><p>International experience opportunity </p><p>Discount Partnership with Universities and Language Schools </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire </p><p>TCS Gems – Recognition for performance </p><p>Xcelerate – Free Mentoring Career Platform </p><p><br></p><p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID: </b>  </p>",
+    "company": "Tata Consultancy Services",
+    "city": "guarapuava",
+    "state": "estado do paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689569__1953_bf045dc2d60f7e71ee7b5c8b4f5df2b8?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=guarapuava&geoID=3583"
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career! </p><p><br></p><p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. </p><p><br></p><p>We are looking for \\\"<b>Full Stack Developer\\\" ,Remote mode in Sao Paulo  </b>who wants to learn and transform his career. </p><p><br></p><p><b>In this role you will: (responsibilities) </b> </p><p><b>Mandatory skills: </b> </p><ul><li>6+ years of experience with Java; </li><li>Experience with front-end (Angular); </li><li>Experience with AWS; </li><li>Advanced English </li> </ul><p><br></p><p><b>Requirements: </b> </p><ul><li>Experience in the financial industry (preferably banks); </li><li>Microservices; </li><li>Websphere; </li><li>OraaS; </li><li>MQ Series; </li><li>ORACLE; </li><li>PL/SQL; </li><li>KAFKA, </li><li>MONGODB; </li><li>DevOps tools as a developer </li> </ul><p><br></p><p><br></p><p><br></p><p><br></p><p><b>What can you expect from us? </b> </p><p><br></p><p>• Professional development and constant evolution of your skills, always in line with your interests. </p><p>• Opportunities to work outside Brazil </p><p>• A collaborative, diverse and innovative environment that encourages teamwork. </p><p><br></p><p><b>What do we offer? </b> </p><p><br></p><p>TCS Benefits – Brazil: </p><p>Health insurance </p><p>Dental Plan </p><p>Life insurance </p><p>Transportation vouchers </p><p>Meal/Food Voucher </p><p>Childcare assistance </p><p>Gympass </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates </p><p>Partnership with SESC </p><p>Reimbursement of Certifications </p><p>Free TCS Learning Portal – Online courses and live training </p><p>International experience opportunity </p><p>Discount Partnership with Universities and Language Schools </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire </p><p>TCS Gems – Recognition for performance </p><p>Xcelerate – Free Mentoring Career Platform </p><p><br></p><p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID: </b>  </p>",
+    "company": "Tata Consultancy Services",
+    "city": "itabira",
+    "state": "estado de minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689570__1953_646bcacb4f44e4ad056821c8c3a074a4?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=itabira&geoID=4065"
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career! </p><p><br></p><p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. </p><p><br></p><p>We are looking for \\\"<b>Full Stack Developer\\\" ,Remote mode in Sao Paulo  </b>who wants to learn and transform his career. </p><p><br></p><p><b>In this role you will: (responsibilities) </b> </p><p><b>Mandatory skills: </b> </p><ul><li>6+ years of experience with Java; </li><li>Experience with front-end (Angular); </li><li>Experience with AWS; </li><li>Advanced English </li> </ul><p><br></p><p><b>Requirements: </b> </p><ul><li>Experience in the financial industry (preferably banks); </li><li>Microservices; </li><li>Websphere; </li><li>OraaS; </li><li>MQ Series; </li><li>ORACLE; </li><li>PL/SQL; </li><li>KAFKA, </li><li>MONGODB; </li><li>DevOps tools as a developer </li> </ul><p><br></p><p><br></p><p><br></p><p><br></p><p><b>What can you expect from us? </b> </p><p><br></p><p>• Professional development and constant evolution of your skills, always in line with your interests. </p><p>• Opportunities to work outside Brazil </p><p>• A collaborative, diverse and innovative environment that encourages teamwork. </p><p><br></p><p><b>What do we offer? </b> </p><p><br></p><p>TCS Benefits – Brazil: </p><p>Health insurance </p><p>Dental Plan </p><p>Life insurance </p><p>Transportation vouchers </p><p>Meal/Food Voucher </p><p>Childcare assistance </p><p>Gympass </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates </p><p>Partnership with SESC </p><p>Reimbursement of Certifications </p><p>Free TCS Learning Portal – Online courses and live training </p><p>International experience opportunity </p><p>Discount Partnership with Universities and Language Schools </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire </p><p>TCS Gems – Recognition for performance </p><p>Xcelerate – Free Mentoring Career Platform </p><p><br></p><p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID: </b>  </p>",
+    "company": "Tata Consultancy Services",
+    "city": "caraguatatuba",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689571__1953_bc206c935877fb760fbb64ba6d46626d?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=caraguatatuba&geoID=1942"
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career! </p><p><br></p><p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. </p><p><br></p><p>We are looking for \\\"<b>Full Stack Developer\\\" ,Remote mode in Sao Paulo  </b>who wants to learn and transform his career. </p><p><br></p><p><b>In this role you will: (responsibilities) </b> </p><p><b>Mandatory skills: </b> </p><ul><li>6+ years of experience with Java; </li><li>Experience with front-end (Angular); </li><li>Experience with AWS; </li><li>Advanced English </li> </ul><p><br></p><p><b>Requirements: </b> </p><ul><li>Experience in the financial industry (preferably banks); </li><li>Microservices; </li><li>Websphere; </li><li>OraaS; </li><li>MQ Series; </li><li>ORACLE; </li><li>PL/SQL; </li><li>KAFKA, </li><li>MONGODB; </li><li>DevOps tools as a developer </li> </ul><p><br></p><p><br></p><p><br></p><p><br></p><p><b>What can you expect from us? </b> </p><p><br></p><p>• Professional development and constant evolution of your skills, always in line with your interests. </p><p>• Opportunities to work outside Brazil </p><p>• A collaborative, diverse and innovative environment that encourages teamwork. </p><p><br></p><p><b>What do we offer? </b> </p><p><br></p><p>TCS Benefits – Brazil: </p><p>Health insurance </p><p>Dental Plan </p><p>Life insurance </p><p>Transportation vouchers </p><p>Meal/Food Voucher </p><p>Childcare assistance </p><p>Gympass </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates </p><p>Partnership with SESC </p><p>Reimbursement of Certifications </p><p>Free TCS Learning Portal – Online courses and live training </p><p>International experience opportunity </p><p>Discount Partnership with Universities and Language Schools </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire </p><p>TCS Gems – Recognition for performance </p><p>Xcelerate – Free Mentoring Career Platform </p><p><br></p><p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID: </b>  </p>",
+    "company": "Tata Consultancy Services",
+    "city": "dois irmãos",
+    "state": "estado do rio grande do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689572__1953_7887ad53796f876d6376202697c2ec94?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=dois-irmãos&geoID=2816"
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career! </p><p><br></p><p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. </p><p><br></p><p>We are looking for \\\"<b>Full Stack Developer\\\" ,Remote mode in Sao Paulo  </b>who wants to learn and transform his career. </p><p><br></p><p><b>In this role you will: (responsibilities) </b> </p><p><b>Mandatory skills: </b> </p><ul><li>6+ years of experience with Java; </li><li>Experience with front-end (Angular); </li><li>Experience with AWS; </li><li>Advanced English </li> </ul><p><br></p><p><b>Requirements: </b> </p><ul><li>Experience in the financial industry (preferably banks); </li><li>Microservices; </li><li>Websphere; </li><li>OraaS; </li><li>MQ Series; </li><li>ORACLE; </li><li>PL/SQL; </li><li>KAFKA, </li><li>MONGODB; </li><li>DevOps tools as a developer </li> </ul><p><br></p><p><br></p><p><br></p><p><br></p><p><b>What can you expect from us? </b> </p><p><br></p><p>• Professional development and constant evolution of your skills, always in line with your interests. </p><p>• Opportunities to work outside Brazil </p><p>• A collaborative, diverse and innovative environment that encourages teamwork. </p><p><br></p><p><b>What do we offer? </b> </p><p><br></p><p>TCS Benefits – Brazil: </p><p>Health insurance </p><p>Dental Plan </p><p>Life insurance </p><p>Transportation vouchers </p><p>Meal/Food Voucher </p><p>Childcare assistance </p><p>Gympass </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates </p><p>Partnership with SESC </p><p>Reimbursement of Certifications </p><p>Free TCS Learning Portal – Online courses and live training </p><p>International experience opportunity </p><p>Discount Partnership with Universities and Language Schools </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire </p><p>TCS Gems – Recognition for performance </p><p>Xcelerate – Free Mentoring Career Platform </p><p><br></p><p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID: </b>  </p>",
+    "company": "Tata Consultancy Services",
+    "city": "alvorada",
+    "state": "estado do rio grande do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689573__1953_2caf5e674dad72bdfc22ad5ac765240f?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=alvorada&geoID=336"
+  },
+  {
+    "title": "Full Stack Developer",
+    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career! </p><p><br></p><p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. </p><p><br></p><p>We are looking for \\\"<b>Full Stack Developer\\\" ,Remote mode in Sao Paulo  </b>who wants to learn and transform his career. </p><p><br></p><p><b>In this role you will: (responsibilities) </b> </p><p><b>Mandatory skills: </b> </p><ul><li>6+ years of experience with Java; </li><li>Experience with front-end (Angular); </li><li>Experience with AWS; </li><li>Advanced English </li> </ul><p><br></p><p><b>Requirements: </b> </p><ul><li>Experience in the financial industry (preferably banks); </li><li>Microservices; </li><li>Websphere; </li><li>OraaS; </li><li>MQ Series; </li><li>ORACLE; </li><li>PL/SQL; </li><li>KAFKA, </li><li>MONGODB; </li><li>DevOps tools as a developer </li> </ul><p><br></p><p><br></p><p><br></p><p><br></p><p><b>What can you expect from us? </b> </p><p><br></p><p>• Professional development and constant evolution of your skills, always in line with your interests. </p><p>• Opportunities to work outside Brazil </p><p>• A collaborative, diverse and innovative environment that encourages teamwork. </p><p><br></p><p><b>What do we offer? </b> </p><p><br></p><p>TCS Benefits – Brazil: </p><p>Health insurance </p><p>Dental Plan </p><p>Life insurance </p><p>Transportation vouchers </p><p>Meal/Food Voucher </p><p>Childcare assistance </p><p>Gympass </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates </p><p>Partnership with SESC </p><p>Reimbursement of Certifications </p><p>Free TCS Learning Portal – Online courses and live training </p><p>International experience opportunity </p><p>Discount Partnership with Universities and Language Schools </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire </p><p>TCS Gems – Recognition for performance </p><p>Xcelerate – Free Mentoring Career Platform </p><p><br></p><p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID: </b>  </p>",
+    "company": "Tata Consultancy Services",
+    "city": "cajamar",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689574__1953_f912575549693acc69d52bbcfcb9276f?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=cajamar&geoID=1601"
+  },
+  {
+    "title": "College-Level Chemistry Tutor",
+    "description": "<p>We are looking for tutors to solve college-level Chemistry questions in English. These questions are submitted by students, who expect a response in less than 24 hours. </p><p><br></p><p>Tutors in this project work in freelance mode and can decide the number of hours they wish to work. </p><p><br></p><p>Do you prefer to work in the morning, in the evening, for a few hours or many hours? The choice is yours. You can log in at any time to help students. In addition, you can work from anywhere, as long as you have a computer with a reliable Internet connection. </p><p><br></p><p>We need tutors who can start immediately! </p><p><br></p><p><b>Characteristics </b> </p><p><br></p><p>Payment in dollars. </p><p>Type of contract: freelance/self-employed. </p><p>Schedule: Flexible, free choice </p><p>Start: Immediate </p><p>Duration: Indefinite </p><p><br></p><p><b>Requirements </b> </p><p><br></p><ul><li>Ability to solve university-level questions in at least one of the following subjects: </li><li>General Chemistry </li><li>Organic Chemistry </li><li>Student or graduate of a university course whose curriculum includes at least one of the subjects listed in the previous point. </li><li>Computer with an Internet connection. </li><li>No criminal record. </li> </ul><p><br></p><p><b>About LatinHire </b> </p><p><br></p><p>Founded in 2003, LatinHire is a company specialising in managing teams of experts for distance learning institutions. Its clients include some of the world's most prestigious education startups. </p>",
+    "company": "LatinHire",
+    "city": "vinhedo",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689584__1953_5f33c9e3f741b810d972dee41e542eea?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=vinhedo&geoID=9666"
+  },
+  {
+    "title": "College-Level Chemistry Tutor",
+    "description": "<p>We are looking for tutors to solve college-level Chemistry questions in English. These questions are submitted by students, who expect a response in less than 24 hours. </p><p><br></p><p>Tutors in this project work in freelance mode and can decide the number of hours they wish to work. </p><p><br></p><p>Do you prefer to work in the morning, in the evening, for a few hours or many hours? The choice is yours. You can log in at any time to help students. In addition, you can work from anywhere, as long as you have a computer with a reliable Internet connection. </p><p><br></p><p>We need tutors who can start immediately! </p><p><br></p><p><b>Characteristics </b> </p><p><br></p><p>Payment in dollars. </p><p>Type of contract: freelance/self-employed. </p><p>Schedule: Flexible, free choice </p><p>Start: Immediate </p><p>Duration: Indefinite </p><p><br></p><p><b>Requirements </b> </p><p><br></p><ul><li>Ability to solve university-level questions in at least one of the following subjects: </li><li>General Chemistry </li><li>Organic Chemistry </li><li>Student or graduate of a university course whose curriculum includes at least one of the subjects listed in the previous point. </li><li>Computer with an Internet connection. </li><li>No criminal record. </li> </ul><p><br></p><p><b>About LatinHire </b> </p><p><br></p><p>Founded in 2003, LatinHire is a company specialising in managing teams of experts for distance learning institutions. Its clients include some of the world's most prestigious education startups. </p>",
+    "company": "LatinHire",
+    "city": "gramado",
+    "state": "estado do rio grande do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689585__1953_c722bbda5c4bd47f2d78df420f811081?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=gramado&geoID=3477"
+  },
+  {
+    "title": "College-Level Chemistry Tutor",
+    "description": "<p>We are looking for tutors to solve college-level Chemistry questions in English. These questions are submitted by students, who expect a response in less than 24 hours. </p><p><br></p><p>Tutors in this project work in freelance mode and can decide the number of hours they wish to work. </p><p><br></p><p>Do you prefer to work in the morning, in the evening, for a few hours or many hours? The choice is yours. You can log in at any time to help students. In addition, you can work from anywhere, as long as you have a computer with a reliable Internet connection. </p><p><br></p><p>We need tutors who can start immediately! </p><p><br></p><p><b>Characteristics </b> </p><p><br></p><p>Payment in dollars. </p><p>Type of contract: freelance/self-employed. </p><p>Schedule: Flexible, free choice </p><p>Start: Immediate </p><p>Duration: Indefinite </p><p><br></p><p><b>Requirements </b> </p><p><br></p><ul><li>Ability to solve university-level questions in at least one of the following subjects: </li><li>General Chemistry </li><li>Organic Chemistry </li><li>Student or graduate of a university course whose curriculum includes at least one of the subjects listed in the previous point. </li><li>Computer with an Internet connection. </li><li>No criminal record. </li> </ul><p><br></p><p><b>About LatinHire </b> </p><p><br></p><p>Founded in 2003, LatinHire is a company specialising in managing teams of experts for distance learning institutions. Its clients include some of the world's most prestigious education startups. </p>",
+    "company": "LatinHire",
+    "city": "marabá",
+    "state": "estado do pará",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689586__1953_472530203d75d050f405dc3997f32b28?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=marabá&geoID=5105"
+  },
+  {
+    "title": "College-Level Chemistry Tutor",
+    "description": "<p>We are looking for tutors to solve college-level Chemistry questions in English. These questions are submitted by students, who expect a response in less than 24 hours. </p><p><br></p><p>Tutors in this project work in freelance mode and can decide the number of hours they wish to work. </p><p><br></p><p>Do you prefer to work in the morning, in the evening, for a few hours or many hours? The choice is yours. You can log in at any time to help students. In addition, you can work from anywhere, as long as you have a computer with a reliable Internet connection. </p><p><br></p><p>We need tutors who can start immediately! </p><p><br></p><p><b>Characteristics </b> </p><p><br></p><p>Payment in dollars. </p><p>Type of contract: freelance/self-employed. </p><p>Schedule: Flexible, free choice </p><p>Start: Immediate </p><p>Duration: Indefinite </p><p><br></p><p><b>Requirements </b> </p><p><br></p><ul><li>Ability to solve university-level questions in at least one of the following subjects: </li><li>General Chemistry </li><li>Organic Chemistry </li><li>Student or graduate of a university course whose curriculum includes at least one of the subjects listed in the previous point. </li><li>Computer with an Internet connection. </li><li>No criminal record. </li> </ul><p><br></p><p><b>About LatinHire </b> </p><p><br></p><p>Founded in 2003, LatinHire is a company specialising in managing teams of experts for distance learning institutions. Its clients include some of the world's most prestigious education startups. </p>",
+    "company": "LatinHire",
+    "city": "embu",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689587__1953_d63659b07da2dea88790744507a48f98?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=embu&geoID=2936"
+  },
+  {
+    "title": "College-Level Chemistry Tutor",
+    "description": "<p>We are looking for tutors to solve college-level Chemistry questions in English. These questions are submitted by students, who expect a response in less than 24 hours. </p><p><br></p><p>Tutors in this project work in freelance mode and can decide the number of hours they wish to work. </p><p><br></p><p>Do you prefer to work in the morning, in the evening, for a few hours or many hours? The choice is yours. You can log in at any time to help students. In addition, you can work from anywhere, as long as you have a computer with a reliable Internet connection. </p><p><br></p><p>We need tutors who can start immediately! </p><p><br></p><p><b>Characteristics </b> </p><p><br></p><p>Payment in dollars. </p><p>Type of contract: freelance/self-employed. </p><p>Schedule: Flexible, free choice </p><p>Start: Immediate </p><p>Duration: Indefinite </p><p><br></p><p><b>Requirements </b> </p><p><br></p><ul><li>Ability to solve university-level questions in at least one of the following subjects: </li><li>General Chemistry </li><li>Organic Chemistry </li><li>Student or graduate of a university course whose curriculum includes at least one of the subjects listed in the previous point. </li><li>Computer with an Internet connection. </li><li>No criminal record. </li> </ul><p><br></p><p><b>About LatinHire </b> </p><p><br></p><p>Founded in 2003, LatinHire is a company specialising in managing teams of experts for distance learning institutions. Its clients include some of the world's most prestigious education startups. </p>",
+    "company": "LatinHire",
+    "city": "dois irmãos",
+    "state": "estado do rio grande do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689588__1953_9bb7309861a8e8909218798be0b7ddc1?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=dois-irmãos&geoID=2816"
+  },
+  {
+    "title": "College-Level Chemistry Tutor",
+    "description": "<p>We are looking for tutors to solve college-level Chemistry questions in English. These questions are submitted by students, who expect a response in less than 24 hours. </p><p><br></p><p>Tutors in this project work in freelance mode and can decide the number of hours they wish to work. </p><p><br></p><p>Do you prefer to work in the morning, in the evening, for a few hours or many hours? The choice is yours. You can log in at any time to help students. In addition, you can work from anywhere, as long as you have a computer with a reliable Internet connection. </p><p><br></p><p>We need tutors who can start immediately! </p><p><br></p><p><b>Characteristics </b> </p><p><br></p><p>Payment in dollars. </p><p>Type of contract: freelance/self-employed. </p><p>Schedule: Flexible, free choice </p><p>Start: Immediate </p><p>Duration: Indefinite </p><p><br></p><p><b>Requirements </b> </p><p><br></p><ul><li>Ability to solve university-level questions in at least one of the following subjects: </li><li>General Chemistry </li><li>Organic Chemistry </li><li>Student or graduate of a university course whose curriculum includes at least one of the subjects listed in the previous point. </li><li>Computer with an Internet connection. </li><li>No criminal record. </li> </ul><p><br></p><p><b>About LatinHire </b> </p><p><br></p><p>Founded in 2003, LatinHire is a company specialising in managing teams of experts for distance learning institutions. Its clients include some of the world's most prestigious education startups. </p>",
+    "company": "LatinHire",
+    "city": "londrina",
+    "state": "estado do paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689589__1953_df0a3cfd408408741f71327f42ca66e4?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=londrina&geoID=4910"
+  },
+  {
+    "title": "College-Level Chemistry Tutor",
+    "description": "<p>We are looking for tutors to solve college-level Chemistry questions in English. These questions are submitted by students, who expect a response in less than 24 hours. </p><p><br></p><p>Tutors in this project work in freelance mode and can decide the number of hours they wish to work. </p><p><br></p><p>Do you prefer to work in the morning, in the evening, for a few hours or many hours? The choice is yours. You can log in at any time to help students. In addition, you can work from anywhere, as long as you have a computer with a reliable Internet connection. </p><p><br></p><p>We need tutors who can start immediately! </p><p><br></p><p><b>Characteristics </b> </p><p><br></p><p>Payment in dollars. </p><p>Type of contract: freelance/self-employed. </p><p>Schedule: Flexible, free choice </p><p>Start: Immediate </p><p>Duration: Indefinite </p><p><br></p><p><b>Requirements </b> </p><p><br></p><ul><li>Ability to solve university-level questions in at least one of the following subjects: </li><li>General Chemistry </li><li>Organic Chemistry </li><li>Student or graduate of a university course whose curriculum includes at least one of the subjects listed in the previous point. </li><li>Computer with an Internet connection. </li><li>No criminal record. </li> </ul><p><br></p><p><b>About LatinHire </b> </p><p><br></p><p>Founded in 2003, LatinHire is a company specialising in managing teams of experts for distance learning institutions. Its clients include some of the world's most prestigious education startups. </p>",
+    "company": "LatinHire",
+    "city": "são bernardo do campo",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_689590__1953_e1d48c60c0f5cf5a2012a1707ce8268a?utm_source=1953&utm_medium=feed&keyword=College-Level-Chemistry-Tutor&location=são-bernardo-do-campo&geoID=7985"
   }
 ]
