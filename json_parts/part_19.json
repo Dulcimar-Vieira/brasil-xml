@@ -1,167 +1,5 @@
 [
   {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "olinda",
-    "state": "estado de pernambuco",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775578__1953_e4a29188564af28c73d3278be0ac4c17?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=olinda&geoID=6017"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "fazenda rio grande",
-    "state": "estado do paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775579__1953_b35faad250f70257fe9656ad35bd22e1?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=fazenda-rio-grande&geoID=3134"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "nova iguaçu",
-    "state": "estado do rio de janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775580__1953_76c63e8c92a4a17277afe55afa42e1a1?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=nova-iguaçu&geoID=5838"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "ribeirão das neves",
-    "state": "estado de minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775581__1953_5132c76a0ffa1ac0d1958efbb68f33c1?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=ribeirão-das-neves&geoID=7250"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "rio de janeiro",
-    "state": "estado do rio de janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775583__1953_f7608205f0f67a9b088e63d43e6b8862?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=rio-de-janeiro&geoID=7326"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "novo hamburgo",
-    "state": "estado do rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775584__1953_abc3c1507638620355741dd9b5e98493?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=novo-hamburgo&geoID=5932"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "vitória",
-    "state": "estado do espírito santo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775585__1953_01265501ee7364170a5917e655f92b1e?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=vitória&geoID=9692"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "estado de mato grosso do sul",
-    "state": "estado de mato grosso do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775586__1953_71994b22370460602e111301aacdfa53?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=estado-de-mato-grosso-do-sul"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "juiz de fora",
-    "state": "estado de minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775714__1953_ec916da4a294ff3cdfeeeab4688afe76?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=juiz-de-fora&geoID=4608"
-  },
-  {
-    "title": "AWS Data Engineer",
-    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>Data Engineer AWS Expert </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Proven experience with AWS (API Gateway, Lambda/Fargate, S3, Glue, CloudWatch). Strong knowledge of PySpark (partitioning, joins, optimization). Experience with Glue Data Catalog and querying via Athena. Experience with integration and manipulation of data in REST APIs. Knowledge of infrastructure as code (Terraform or CloudFormation). Good practices in version control (Git) and CI/CD. </p><p><br></p><p>Experience with columnar and table formats (Parquet, Delta, Hudi, Iceberg).  </p><p>Use of Data Quality tools (Great Expectations, Soda).  </p><p>Knowledge of Step Functions, EventBridge, or Kinesis.  </p><p>Best practices for API security (Cognito, WAF, IAM Policies).  </p><p>Soft Skills:  </p><p>Good communication and teamwork.  </p><p>Proactivity in problem-solving.  </p><p>Ability to handle agile environments and rapid changes. </p><p><br></p><p>Design, develop, and maintain APIs using AWS API Gateway.  </p><p>Implement integrations with Lambda or Fargate for data ingestion.  </p><p>Develop processing pipelines in PySpark (AWS Glue or EMR).  </p><p>Manage data in S3 and Glue Data Catalog.  </p><p>Ensure data quality and integrity (data quality checks).  </p><p>Optimize pipeline costs and performance.  </p><p>Create and maintain technical documentation and development standards. </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:  </b>  </p>",
-    "company": "Tata Consultancy Services",
-    "city": "piracicaba",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_775715__1953_7521aebc1d389fb406a5d98876f87922?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=piracicaba&geoID=6672"
-  },
-  {
-    "title": "Data Engineer - Fluent English",
-    "description": "<p><b>The current vacancy is for the Brazilian office and we work in a Free Office model.  </b> </p><p><b>Who we are </b> </p><p>At Artefact LatAm, we believe in and live a culture based on empathy! </p><p>A healthy work environment is a place where all voices are heard, respected, and valued. </p><p>Our commitment is to build a more diverse and inclusive environment, because empathy is for everyone, regardless of ethnicity, color, gender, sexual orientation, gender identity, disability, or religious belief. </p><p>We want incredible minds and hearts to join us! Come be Artefact! </p><p><b>What you will be doing:<br></b>We’re looking for a skilled Data Engineer with hands-on experience in Apache Airflow to join our data team. In this role, you’ll be responsible for designing, building, and maintaining scalable data pipelines and workflows that support our analytics and data-driven products. </p><ul><li><b>Develop </b>, schedule, and monitor data pipelines using Apache Airflow. </li><li><b>Collaborate </b> with data analysts, scientists, and engineering teams to ensure reliable data delivery. </li><li><b>Optimize </b> ETL processes for performance, reliability, and scalability. </li><li><b>Maintain </b> and improve data architecture, ensuring data integrity and security. </li><li><b>Troubleshoot </b> and resolve pipeline failures and performance bottlenecks. </li> </ul><p><b>What we are looking for: </b> </p><ul><li>A degree in Computer Science, Statistics, Engineering, Economics, or a related field. </li><li><b>Curiosity: </b> You are always looking for innovative solutions for your clients. You get involved in the entire value chain, which can include front-end, back-end, big data infrastructure, ML models… </li><li><b>Collaboration: </b> Knowledge sharing is essential to you, and you actively contribute to spreading information within Artefact. </li><li><b>Entrepreneurship: </b> You bring solutions, new ideas, and innovations. </li><li><b>Fluent English: </b> You are comfortable communicating in English, as it is essential for working in our international environment. </li> </ul><p><b>What We Offer: </b> </p><ul><li>Meal/Transportation Allowance (VR/VT) </li><li>Free Office (work from home or anywhere you want!) </li><li>Gympass </li><li>Insurance: Life, Health, and Dental </li><li>Bi-monthly Meetings (our “Get Together” where we meet to be together, with workshops, lectures, training, and a happy hour!) </li><li>Woba (you can book coworking spaces anywhere you want!) </li><li>Semi-annual evaluations (with opportunities for promotion) </li> </ul><p><b><br>Why you should join us </b> </p><ul><li><b>Artefact is the place to be:  </b>come and build the future of marketing </li><li><b>Progress: </b> every day offers new challenges and new opportunities to learn </li><li><b>Culture: </b> join the best team you could ever imagine </li><li><b>Entrepreneurship:  </b>you will be joining a team of driven entrepreneurs. We won’t give up until we make a huge dent in this industry! </li> </ul><p><b>Come join us! </b> </p>",
-    "company": "Artefact",
-    "city": "piracicaba",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_777526__1953_abc4bbcd715ffeb3b67d87fa3a0c8769?utm_source=1953&utm_medium=feed&keyword=Data-Engineer&location=piracicaba&geoID=6672"
-  },
-  {
-    "title": "Sports Reporter",
-    "description": "<p>Estamos buscando entusiastas do esporte que residam perto dos estados abaixo para se juntarem à nossa equipe como coletores de dados para eventos de futebol. A missão do repórter é coletar dados estatísticos ao vivo nos locais dos jogos, por meio do nosso aplicativo para dispositivos Android e iPhone. </p><p><br></p><p><b>Qualificações e Requisitos: </b> </p><ul><li>Conhecimento básico de inglês </li><li>Possuir um dispositivo Android/iPhone </li><li>Concluir um treinamento online para aprender a trabalhar com o aplicativo móvel </li><li>Não é necessário ter formação em jornalismo </li> </ul><p><br></p><p><b>Local de trabalho: </b> Estádios de futebol e outros locais esportivos </p><p><br></p><p><b>Oferecemos: </b> </p><ul><li>Trabalho perfeito para estudantes ou para complementar a renda </li><li>Treinamento completo e gratuito </li><li>62 euros (aproximadamente 405 reais) por partida coberta, além de reembolso de despesas de viagem e ingressos </li> </ul><p><br></p><p><b>Estados onde precisamos urgentemente de pessoas para coleta de dados nos locais dos jogos: </b> </p><ul><li>Alagoas </li><li>Amazônia </li><li>Espírito Santo </li><li>Goiás </li><li>Maranhão </li><li>Mato Grosso/Mato Grosso do Sul </li><li>Pará </li><li>Paraíba </li><li>Piauí </li><li>Rondônia </li><li>Roraima </li> </ul><p><br></p><p><b>Aproveite a oportunidade para se juntar à nossa equipe e candidate-se agora! </b> </p>",
-    "company": "MS Data Agency",
-    "city": "taguatinga",
-    "state": "distrito federal",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_777605__1953_ac81accd27254980b5fb3cf624abe354?utm_source=1953&utm_medium=feed&keyword=Sports-Reporter&location=taguatinga&geoID=8928"
-  },
-  {
-    "title": "Sports Reporter",
-    "description": "<p>Estamos buscando entusiastas do esporte que residam perto dos estados abaixo para se juntarem à nossa equipe como coletores de dados para eventos de futebol. A missão do repórter é coletar dados estatísticos ao vivo nos locais dos jogos, por meio do nosso aplicativo para dispositivos Android e iPhone. </p><p><br></p><p><b>Qualificações e Requisitos: </b> </p><ul><li>Conhecimento básico de inglês </li><li>Possuir um dispositivo Android/iPhone </li><li>Concluir um treinamento online para aprender a trabalhar com o aplicativo móvel </li><li>Não é necessário ter formação em jornalismo </li> </ul><p><br></p><p><b>Local de trabalho: </b> Estádios de futebol e outros locais esportivos </p><p><br></p><p><b>Oferecemos: </b> </p><ul><li>Trabalho perfeito para estudantes ou para complementar a renda </li><li>Treinamento completo e gratuito </li><li>62 euros (aproximadamente 405 reais) por partida coberta, além de reembolso de despesas de viagem e ingressos </li> </ul><p><br></p><p><b>Estados onde precisamos urgentemente de pessoas para coleta de dados nos locais dos jogos: </b> </p><ul><li>Alagoas </li><li>Amazônia </li><li>Espírito Santo </li><li>Goiás </li><li>Maranhão </li><li>Mato Grosso/Mato Grosso do Sul </li><li>Pará </li><li>Paraíba </li><li>Piauí </li><li>Rondônia </li><li>Roraima </li> </ul><p><br></p><p><b>Aproveite a oportunidade para se juntar à nossa equipe e candidate-se agora! </b> </p>",
-    "company": "MS Data Agency",
-    "city": "guaíba",
-    "state": "estado do rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_777606__1953_bf0711461d2d0362373412129965e6da?utm_source=1953&utm_medium=feed&keyword=Sports-Reporter&location=guaíba&geoID=3512"
-  },
-  {
-    "title": "Sports Reporter",
-    "description": "<p>Estamos buscando entusiastas do esporte que residam perto dos estados abaixo para se juntarem à nossa equipe como coletores de dados para eventos de futebol. A missão do repórter é coletar dados estatísticos ao vivo nos locais dos jogos, por meio do nosso aplicativo para dispositivos Android e iPhone. </p><p><br></p><p><b>Qualificações e Requisitos: </b> </p><ul><li>Conhecimento básico de inglês </li><li>Possuir um dispositivo Android/iPhone </li><li>Concluir um treinamento online para aprender a trabalhar com o aplicativo móvel </li><li>Não é necessário ter formação em jornalismo </li> </ul><p><br></p><p><b>Local de trabalho: </b> Estádios de futebol e outros locais esportivos </p><p><br></p><p><b>Oferecemos: </b> </p><ul><li>Trabalho perfeito para estudantes ou para complementar a renda </li><li>Treinamento completo e gratuito </li><li>62 euros (aproximadamente 405 reais) por partida coberta, além de reembolso de despesas de viagem e ingressos </li> </ul><p><br></p><p><b>Estados onde precisamos urgentemente de pessoas para coleta de dados nos locais dos jogos: </b> </p><ul><li>Alagoas </li><li>Amazônia </li><li>Espírito Santo </li><li>Goiás </li><li>Maranhão </li><li>Mato Grosso/Mato Grosso do Sul </li><li>Pará </li><li>Paraíba </li><li>Piauí </li><li>Rondônia </li><li>Roraima </li> </ul><p><br></p><p><b>Aproveite a oportunidade para se juntar à nossa equipe e candidate-se agora! </b> </p>",
-    "company": "MS Data Agency",
-    "city": "ananindeua",
-    "state": "estado do pará",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_777608__1953_af17fca212ee80b7f03f34d73740201c?utm_source=1953&utm_medium=feed&keyword=Sports-Reporter&location=ananindeua&geoID=402"
-  },
-  {
-    "title": "Sports Reporter",
-    "description": "<p>Estamos buscando entusiastas do esporte que residam perto dos estados abaixo para se juntarem à nossa equipe como coletores de dados para eventos de futebol. A missão do repórter é coletar dados estatísticos ao vivo nos locais dos jogos, por meio do nosso aplicativo para dispositivos Android e iPhone. </p><p><br></p><p><b>Qualificações e Requisitos: </b> </p><ul><li>Conhecimento básico de inglês </li><li>Possuir um dispositivo Android/iPhone </li><li>Concluir um treinamento online para aprender a trabalhar com o aplicativo móvel </li><li>Não é necessário ter formação em jornalismo </li> </ul><p><br></p><p><b>Local de trabalho: </b> Estádios de futebol e outros locais esportivos </p><p><br></p><p><b>Oferecemos: </b> </p><ul><li>Trabalho perfeito para estudantes ou para complementar a renda </li><li>Treinamento completo e gratuito </li><li>62 euros (aproximadamente 405 reais) por partida coberta, além de reembolso de despesas de viagem e ingressos </li> </ul><p><br></p><p><b>Estados onde precisamos urgentemente de pessoas para coleta de dados nos locais dos jogos: </b> </p><ul><li>Alagoas </li><li>Amazônia </li><li>Espírito Santo </li><li>Goiás </li><li>Maranhão </li><li>Mato Grosso/Mato Grosso do Sul </li><li>Pará </li><li>Paraíba </li><li>Piauí </li><li>Rondônia </li><li>Roraima </li> </ul><p><br></p><p><b>Aproveite a oportunidade para se juntar à nossa equipe e candidate-se agora! </b> </p>",
-    "company": "MS Data Agency",
-    "city": "imperatriz",
-    "state": "estado do maranhão",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_777610__1953_cb3cdbde116e4e5e411f37cb1d0e62f3?utm_source=1953&utm_medium=feed&keyword=Sports-Reporter&location=imperatriz&geoID=3888"
-  },
-  {
-    "title": "Data Engineer - Fluent English",
-    "description": "<p><b>The current vacancy is for the Brazilian office and we work in a Free Office model.  </b> </p><p><b>Who we are </b> </p><p>At Artefact LatAm, we believe in and live a culture based on empathy! </p><p>A healthy work environment is a place where all voices are heard, respected, and valued. </p><p>Our commitment is to build a more diverse and inclusive environment, because empathy is for everyone, regardless of ethnicity, color, gender, sexual orientation, gender identity, disability, or religious belief. </p><p>We want incredible minds and hearts to join us! Come be Artefact! </p><p><b>What you will be doing:<br></b>We’re looking for a skilled Data Engineer with hands-on experience in Apache Airflow to join our data team. In this role, you’ll be responsible for designing, building, and maintaining scalable data pipelines and workflows that support our analytics and data-driven products. </p><ul><li><b>Develop </b>, schedule, and monitor data pipelines using Apache Airflow. </li><li><b>Collaborate </b> with data analysts, scientists, and engineering teams to ensure reliable data delivery. </li><li><b>Optimize </b> ETL processes for performance, reliability, and scalability. </li><li><b>Maintain </b> and improve data architecture, ensuring data integrity and security. </li><li><b>Troubleshoot </b> and resolve pipeline failures and performance bottlenecks. </li> </ul><p><b>What we are looking for: </b> </p><ul><li>A degree in Computer Science, Statistics, Engineering, Economics, or a related field. </li><li><b>Curiosity: </b> You are always looking for innovative solutions for your clients. You get involved in the entire value chain, which can include front-end, back-end, big data infrastructure, ML models… </li><li><b>Collaboration: </b> Knowledge sharing is essential to you, and you actively contribute to spreading information within Artefact. </li><li><b>Entrepreneurship: </b> You bring solutions, new ideas, and innovations. </li><li><b>Fluent English: </b> You are comfortable communicating in English, as it is essential for working in our international environment. </li> </ul><p><b>What We Offer: </b> </p><ul><li>Meal/Transportation Allowance (VR/VT) </li><li>Free Office (work from home or anywhere you want!) </li><li>Gympass </li><li>Insurance: Life, Health, and Dental </li><li>Bi-monthly Meetings (our “Get Together” where we meet to be together, with workshops, lectures, training, and a happy hour!) </li><li>Woba (you can book coworking spaces anywhere you want!) </li><li>Semi-annual evaluations (with opportunities for promotion) </li> </ul><p><b><br>Why you should join us </b> </p><ul><li><b>Artefact is the place to be:  </b>come and build the future of marketing </li><li><b>Progress: </b> every day offers new challenges and new opportunities to learn </li><li><b>Culture: </b> join the best team you could ever imagine </li><li><b>Entrepreneurship:  </b>you will be joining a team of driven entrepreneurs. We won’t give up until we make a huge dent in this industry! </li> </ul><p><b>Come join us! </b> </p>",
-    "company": "Artefact",
-    "city": "bragança paulista",
-    "state": "estado de são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_777617__1953_ec170f2140ee7b141014e5877ccfe6b1?utm_source=1953&utm_medium=feed&keyword=Data-Engineer&location=bragança-paulista&geoID=1353"
-  },
-  {
-    "title": "Sports Reporter",
-    "description": "<p>Estamos buscando entusiastas do esporte que residam perto dos estados abaixo para se juntarem à nossa equipe como coletores de dados para eventos de futebol. A missão do repórter é coletar dados estatísticos ao vivo nos locais dos jogos, por meio do nosso aplicativo para dispositivos Android e iPhone. </p><p><br></p><p><b>Qualificações e Requisitos: </b> </p><ul><li>Conhecimento básico de inglês </li><li>Possuir um dispositivo Android/iPhone </li><li>Concluir um treinamento online para aprender a trabalhar com o aplicativo móvel </li><li>Não é necessário ter formação em jornalismo </li> </ul><p><br></p><p><b>Local de trabalho: </b> Estádios de futebol e outros locais esportivos </p><p><br></p><p><b>Oferecemos: </b> </p><ul><li>Trabalho perfeito para estudantes ou para complementar a renda </li><li>Treinamento completo e gratuito </li><li>62 euros (aproximadamente 405 reais) por partida coberta, além de reembolso de despesas de viagem e ingressos </li> </ul><p><br></p><p><b>Estados onde precisamos urgentemente de pessoas para coleta de dados nos locais dos jogos: </b> </p><ul><li>Alagoas </li><li>Amazônia </li><li>Espírito Santo </li><li>Goiás </li><li>Maranhão </li><li>Mato Grosso/Mato Grosso do Sul </li><li>Pará </li><li>Paraíba </li><li>Piauí </li><li>Rondônia </li><li>Roraima </li> </ul><p><br></p><p><b>Aproveite a oportunidade para se juntar à nossa equipe e candidate-se agora! </b> </p>",
-    "company": "MS Data Agency",
-    "city": "ijuí",
-    "state": "estado do rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_777709__1953_29b7ba3deb34fea3581c5ad900a5db23?utm_source=1953&utm_medium=feed&keyword=Sports-Reporter&location=ijuí&geoID=3849"
-  },
-  {
-    "title": "Sports Reporter",
-    "description": "<p>Estamos buscando entusiastas do esporte que residam perto dos estados abaixo para se juntarem à nossa equipe como coletores de dados para eventos de futebol. A missão do repórter é coletar dados estatísticos ao vivo nos locais dos jogos, por meio do nosso aplicativo para dispositivos Android e iPhone. </p><p><br></p><p><b>Qualificações e Requisitos: </b> </p><ul><li>Conhecimento básico de inglês </li><li>Possuir um dispositivo Android/iPhone </li><li>Concluir um treinamento online para aprender a trabalhar com o aplicativo móvel </li><li>Não é necessário ter formação em jornalismo </li> </ul><p><br></p><p><b>Local de trabalho: </b> Estádios de futebol e outros locais esportivos </p><p><br></p><p><b>Oferecemos: </b> </p><ul><li>Trabalho perfeito para estudantes ou para complementar a renda </li><li>Treinamento completo e gratuito </li><li>62 euros (aproximadamente 405 reais) por partida coberta, além de reembolso de despesas de viagem e ingressos </li> </ul><p><br></p><p><b>Estados onde precisamos urgentemente de pessoas para coleta de dados nos locais dos jogos: </b> </p><ul><li>Alagoas </li><li>Amazônia </li><li>Espírito Santo </li><li>Goiás </li><li>Maranhão </li><li>Mato Grosso/Mato Grosso do Sul </li><li>Pará </li><li>Paraíba </li><li>Piauí </li><li>Rondônia </li><li>Roraima </li> </ul><p><br></p><p><b>Aproveite a oportunidade para se juntar à nossa equipe e candidate-se agora! </b> </p>",
-    "company": "MS Data Agency",
-    "city": "mossoró",
-    "state": "estado do rio grande do norte",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_777710__1953_b2829fe852ea5557f24452a00ccfe294?utm_source=1953&utm_medium=feed&keyword=Sports-Reporter&location=mossoró&geoID=5598"
-  },
-  {
     "title": "Sports Reporter",
     "description": "<p>Estamos buscando entusiastas do esporte que residam perto dos estados abaixo para se juntarem à nossa equipe como coletores de dados para eventos de futebol. A missão do repórter é coletar dados estatísticos ao vivo nos locais dos jogos, por meio do nosso aplicativo para dispositivos Android e iPhone. </p><p><br></p><p><b>Qualificações e Requisitos: </b> </p><ul><li>Conhecimento básico de inglês </li><li>Possuir um dispositivo Android/iPhone </li><li>Concluir um treinamento online para aprender a trabalhar com o aplicativo móvel </li><li>Não é necessário ter formação em jornalismo </li> </ul><p><br></p><p><b>Local de trabalho: </b> Estádios de futebol e outros locais esportivos </p><p><br></p><p><b>Oferecemos: </b> </p><ul><li>Trabalho perfeito para estudantes ou para complementar a renda </li><li>Treinamento completo e gratuito </li><li>62 euros (aproximadamente 405 reais) por partida coberta, além de reembolso de despesas de viagem e ingressos </li> </ul><p><br></p><p><b>Estados onde precisamos urgentemente de pessoas para coleta de dados nos locais dos jogos: </b> </p><ul><li>Alagoas </li><li>Amazônia </li><li>Espírito Santo </li><li>Goiás </li><li>Maranhão </li><li>Mato Grosso/Mato Grosso do Sul </li><li>Pará </li><li>Paraíba </li><li>Piauí </li><li>Rondônia </li><li>Roraima </li> </ul><p><br></p><p><b>Aproveite a oportunidade para se juntar à nossa equipe e candidate-se agora! </b> </p>",
     "company": "MS Data Agency",
@@ -4290,7 +4128,7 @@
     "city": "guaíba",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791535__1953_2100da22d7e509d43e17695a0e5efddc?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=guaíba&geoID=3512"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791535__1953_a3731d52a4a6e63b66acb5545b0f07ab?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=guaíba&geoID=3512"
   },
   {
     "title": "Vendedor",
@@ -4299,7 +4137,7 @@
     "city": "pato branco",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791537__1953_84202dae6bbfc4f9f8b803ba7c03d58c?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=pato-branco&geoID=6360"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791537__1953_17bbfae35f3a0018e65d3e9b0a0617d9?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=pato-branco&geoID=6360"
   },
   {
     "title": "Vendedor",
@@ -4308,7 +4146,7 @@
     "city": "palhoça",
     "state": "estado de santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791538__1953_93857e746d849ceac5826a2054173d7a?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=palhoça&geoID=6151"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791538__1953_f7904fc2a4ed9f200ab49e7d9a60facc?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=palhoça&geoID=6151"
   },
   {
     "title": "Vendedor",
@@ -4317,7 +4155,7 @@
     "city": "mossoró",
     "state": "estado do rio grande do norte",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791539__1953_e4fdaa271fa5731a2c8c342a7d159547?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=mossoró&geoID=5598"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791539__1953_015cd97378fca6d72355abbeea55d459?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=mossoró&geoID=5598"
   },
   {
     "title": "Vendedor",
@@ -4326,7 +4164,7 @@
     "city": "macaé",
     "state": "estado do rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791542__1953_be87ed43eff33c32bdb7e42941b7df0a?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=macaé&geoID=4964"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791542__1953_ade3eb4173d8762a5b58d9308ffa48ee?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=macaé&geoID=4964"
   },
   {
     "title": "Full Stack Engineer",
@@ -4335,7 +4173,7 @@
     "city": "ijuí",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791568__1953_a7ead8ed5f405512a984dfd9f29dc471?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=ijuí&geoID=3849"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791568__1953_0209008e1696f4a8543e430795101d2a?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=ijuí&geoID=3849"
   },
   {
     "title": "Full Stack Engineer",
@@ -4344,7 +4182,7 @@
     "city": "feira de santana",
     "state": "estado da bahia",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791570__1953_8da28aa8116d3bc12395bcdcd0abbcb8?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=feira-de-santana&geoID=3145"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791570__1953_317a1cacb6781911b875721b20edb784?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=feira-de-santana&geoID=3145"
   },
   {
     "title": "Legal Specialist",
@@ -4353,7 +4191,7 @@
     "city": "eusébio",
     "state": "estado do ceará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791603__1953_ad2b8bf439383c5b74ff98ea86f4800c?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=eusébio&geoID=3079"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791603__1953_121de16ff286da4afd9294a8c39c9df3?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=eusébio&geoID=3079"
   },
   {
     "title": "Legal Specialist",
@@ -4362,7 +4200,7 @@
     "city": "boa vista",
     "state": "estado de roraima",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791604__1953_a1594792bdaf877ebb8c3c1fb5142998?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=boa-vista&geoID=1182"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791604__1953_e34da87506e61c753c9c7a094a27965e?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=boa-vista&geoID=1182"
   },
   {
     "title": "Legal Specialist",
@@ -4371,7 +4209,7 @@
     "city": "cabedelo",
     "state": "estado da paraíba",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791608__1953_7c2b0e3749b59e85998b24afc9848c7d?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=cabedelo&geoID=1474"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791608__1953_263b99d8a0c221e180d8998341221c71?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=cabedelo&geoID=1474"
   },
   {
     "title": "Legal Specialist",
@@ -4380,7 +4218,7 @@
     "city": "cotia",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791611__1953_b6de70533ffb43752517c1f6cb2ab21d?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=cotia&geoID=2564"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791611__1953_a21a7fd182af726ac7abd93c97262793?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=cotia&geoID=2564"
   },
   {
     "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
@@ -4389,7 +4227,7 @@
     "city": "blumenau",
     "state": "estado de santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791717__1953_95f929cfa8b28f725516b31b2121b968?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=blumenau&geoID=1151"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791717__1953_782f947bcf5bc07b80ab767e3cfd2e07?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=blumenau&geoID=1151"
   },
   {
     "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
@@ -4398,7 +4236,7 @@
     "city": "belo horizonte",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791720__1953_f17e9e61e7cc5ad9b22dbd33820ea816?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791720__1953_480dad128b84baaa745f7cf754f399c2?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "DevOps Engineer",
@@ -4407,7 +4245,7 @@
     "city": "praia grande",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791732__1953_d6e3a5548783fb8af761611f609746ff?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=praia-grande&geoID=6968"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791732__1953_20330e5a7ff22e69650f44b51213bd7f?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=praia-grande&geoID=6968"
   },
   {
     "title": "DevOps Engineer",
@@ -4416,7 +4254,7 @@
     "city": "cambé",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791733__1953_6e21e8b88ddd187549b7331cfedefd4e?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=cambé&geoID=1664"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791733__1953_ec3345a4b48f8a726adc7c219bb10bc6?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=cambé&geoID=1664"
   },
   {
     "title": "DevOps Engineer",
@@ -4425,7 +4263,7 @@
     "city": "porto belo",
     "state": "estado de santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791738__1953_c59f03c684142d47ff136a62a5d0d77c?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=porto-belo&geoID=6888"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791738__1953_3198287d07b03d2bb59dade1ccd7bd59?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=porto-belo&geoID=6888"
   },
   {
     "title": "DevOps Engineer",
@@ -4434,7 +4272,7 @@
     "city": "aracaju",
     "state": "estado de sergipe",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791742__1953_6b81a248819a584626d15a2f47fd6091?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=aracaju&geoID=529"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791742__1953_d5ca10c9391efba83c4c32c170a889f0?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=aracaju&geoID=529"
   },
   {
     "title": "Legal Specialist",
@@ -4443,7 +4281,7 @@
     "city": "guaíba",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791744__1953_061984d818880f5334eaf715b0987544?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=guaíba&geoID=3512"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791744__1953_e5d47aa78b1611a46517540dba4014f2?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=guaíba&geoID=3512"
   },
   {
     "title": "Legal Specialist",
@@ -4452,7 +4290,7 @@
     "city": "nova iguaçu",
     "state": "estado do rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791745__1953_1930749217042cfec6718418480647f2?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=nova-iguaçu&geoID=5838"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791745__1953_5dd2f6f14de04220271e9029dc7608b6?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=nova-iguaçu&geoID=5838"
   },
   {
     "title": "Legal Specialist",
@@ -4461,7 +4299,7 @@
     "city": "ijuí",
     "state": "estado do rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_791746__1953_05830ac9277ad17df95ae5b365a3b904?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=ijuí&geoID=3849"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_791746__1953_a4dc24279e6027753a234d6d3fe8dff9?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=ijuí&geoID=3849"
   },
   {
     "title": "Legal Specialist",
@@ -8790,7 +8628,7 @@
     "city": "boituva",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820142__1953_7f6e51169b151b0945f3e0bf9d066461?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=boituva&geoID=1222"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820142__1953_2b3a672154153a442ae34128fb8eda7f?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=boituva&geoID=1222"
   },
   {
     "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
@@ -8799,7 +8637,7 @@
     "city": "teresina",
     "state": "estado do piauí",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820143__1953_101a7e45d6733b9dd4c9752e3ef06f90?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=teresina&geoID=9077"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820143__1953_f60088bc07cea4115395b2d0595fa8a2?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=teresina&geoID=9077"
   },
   {
     "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
@@ -8808,7 +8646,7 @@
     "city": "natal",
     "state": "estado do rio grande do norte",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820144__1953_e7b80922390c132a08829fb8077cc208?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=natal&geoID=5675"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820144__1953_6eba20d97b12279bb4dcc3291e9227e1?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=natal&geoID=5675"
   },
   {
     "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
@@ -8817,7 +8655,7 @@
     "city": "fortaleza",
     "state": "estado do ceará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820145__1953_3f0d4f4088366bdc3e9c7e70729f72a0?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=fortaleza&geoID=3263"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820145__1953_10e86cec41867436018ada7b6d482f34?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=fortaleza&geoID=3263"
   },
   {
     "title": "Full Stack Engineer",
@@ -8826,7 +8664,7 @@
     "city": "pouso alegre",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820148__1953_6137c11e16aad669150bdc617a5a3d40?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=pouso-alegre&geoID=6951"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820148__1953_ee37970483269f9c0fae6294956d971d?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=pouso-alegre&geoID=6951"
   },
   {
     "title": "Full Stack Engineer",
@@ -8835,7 +8673,7 @@
     "city": "praia grande",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820149__1953_512ebd6ba4e87b812e2f6d81254cfd97?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=praia-grande&geoID=6968"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820149__1953_cbc2504fea61239c3a087c00e7f64c87?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=praia-grande&geoID=6968"
   },
   {
     "title": "Full Stack Engineer",
@@ -8844,7 +8682,7 @@
     "city": "toledo",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820150__1953_5a2b15590fb9c1cf2bb3c3da34881a28?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=toledo&geoID=9153"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820150__1953_be47c480420d665bf0b300a8fc4e6c03?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=toledo&geoID=9153"
   },
   {
     "title": "Full Stack Engineer",
@@ -8853,7 +8691,7 @@
     "city": "paranaguá",
     "state": "estado do paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820151__1953_16c7672a435db2ba250f630b49aa8d3c?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=paranaguá&geoID=6262"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820151__1953_f63fe9d5ea7118bfe0db4c27812d6717?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=paranaguá&geoID=6262"
   },
   {
     "title": "Full Stack Engineer",
@@ -8862,7 +8700,7 @@
     "city": "agudos",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820152__1953_6da074ca0c0084c89d158ea24ccfac01?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=agudos&geoID=159"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820152__1953_bfdb3ed5fa0048285480d8265733550b?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=agudos&geoID=159"
   },
   {
     "title": "Full Stack Engineer",
@@ -8871,7 +8709,7 @@
     "city": "itabirito",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820153__1953_bd55ecc61fb5f980f938f4e7b25b0838?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=itabirito&geoID=4067"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820153__1953_740f1ee433762f007136197aae2db03d?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=itabirito&geoID=4067"
   },
   {
     "title": "Full Stack Engineer",
@@ -8880,7 +8718,7 @@
     "city": "barretos",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820154__1953_c06f8627491015f63b724f6da7ba109f?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=barretos&geoID=994"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820154__1953_0ec5a719620be2fa589b07f12fc8ca58?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=barretos&geoID=994"
   },
   {
     "title": "Legal Specialist",
@@ -8889,7 +8727,7 @@
     "city": "são paulo",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820197__1953_794ee80d7710a1e05bd37567626924cd?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=são-paulo&geoID=8414"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820197__1953_2d4705048b5e034c72acf71675c27e63?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=são-paulo&geoID=8414"
   },
   {
     "title": "Legal Specialist",
@@ -8898,7 +8736,7 @@
     "city": "santana de parnaíba",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820198__1953_24e62928491f6810d060e8e8d1b69753?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=santana-de-parnaíba&geoID=7816"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820198__1953_edef4f60c2a71a61a2a12098b5a50d87?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=santana-de-parnaíba&geoID=7816"
   },
   {
     "title": "Legal Specialist",
@@ -8907,7 +8745,7 @@
     "city": "ananindeua",
     "state": "estado do pará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820199__1953_2625d7bd2bc7902421f500fe953172fe?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=ananindeua&geoID=402"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820199__1953_ca542c906883d572d32a1b5d7efa5aaf?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=ananindeua&geoID=402"
   },
   {
     "title": "Legal Specialist",
@@ -8916,7 +8754,7 @@
     "city": "são josé do rio preto",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820200__1953_fff982c81ab351a541f913628080d656?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=são-josé-do-rio-preto&geoID=8311"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820200__1953_b33d0cb8afdc2396c3f6ed60eaec83c8?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=são-josé-do-rio-preto&geoID=8311"
   },
   {
     "title": "Legal Specialist",
@@ -8925,7 +8763,7 @@
     "city": "duque de caxias",
     "state": "estado do rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820201__1953_671c6a1790828feee448593b18de9a53?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=duque-de-caxias&geoID=2905"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820201__1953_e3369902add8847e192735b806ed001a?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=duque-de-caxias&geoID=2905"
   },
   {
     "title": "Legal Specialist",
@@ -8934,7 +8772,7 @@
     "city": "vitória da conquista",
     "state": "estado da bahia",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820275__1953_74c7c2996bce19b67c7b28f7001baebf?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=vitória-da-conquista&geoID=9696"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820275__1953_133a39bbf06d13b952161b32ed864395?utm_source=1953&utm_medium=feed&keyword=Legal-Specialist&location=vitória-da-conquista&geoID=9696"
   },
   {
     "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
@@ -8943,7 +8781,7 @@
     "city": "são paulo",
     "state": "estado de são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820286__1953_59757c6a5a1f20aa5665c48bfb4f6931?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=são-paulo&geoID=8414"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820286__1953_fed915ad5c6362afaa944b59cd104f5a?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=são-paulo&geoID=8414"
   },
   {
     "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
@@ -8952,7 +8790,7 @@
     "city": "extrema",
     "state": "estado de minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_820287__1953_e849b78063fb34c037ab80a55490af27?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=extrema&geoID=3086"
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820287__1953_710cc0de2a7b4e53600e820e4b7d0fb6?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=extrema&geoID=3086"
   },
   {
     "title": "Vendedor",
@@ -8998,5 +8836,167 @@
     "state": "estado do amapá",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_820309__1953_7c3200f1d2dee5f8a768cb20d1d09b49?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=macapá&geoID=4972"
+  },
+  {
+    "title": "Vendedor",
+    "description": "<p><b>Vaga para Vendedora em Clínica de Transplante Capilar </b> </p><p>Você é apaixonada por vendas e deseja atuar em um mercado em crescimento? Venha fazer parte da nossa equipe! </p><p>Estamos em busca de uma vendedora dedicada para integrar nossa clínica especializada em transplante capilar. Se você tem facilidade de comunicação, gosta de desafios e está em busca de uma oportunidade que valorize seu potencial, essa vaga é para você! </p><p><br></p><p><b>Responsabilidades: </b> </p><p>- Atendimento ao cliente, fornecendo informações detalhadas sobre os serviços de transplante capilar. </p><p>- Prospecção de novos clientes e manutenção de um bom relacionamento com os já existentes. </p><p>- Acompanhamento de todas as etapas do processo de vendas, garantindo a satisfação do cliente. </p><p>- Fechamento de vendas e acompanhamento pós-venda. </p><p>- Cumprimento das metas estabelecidas pela equipe de vendas. </p><p><br></p><p><b>Requisitos: </b> </p><p>- Experiência prévia em vendas, preferencialmente no ramo da saúde ou estética. </p><p>- Habilidade de comunicação e persuasão. </p><p>- Foco em resultados e superação de metas. </p><p>- Proatividade, organização e comprometimento. </p><p><br></p><p><b>O que oferecemos: </b> </p><p>- <b>*Salário fixo* </b> compatível com o mercado. </p><p>- <b>*Comissão atrativa </b>*: </p><p>- <b>*Vale transporte* </b> e <b>*vale alimentação*. </b> </p><p>- Ambiente de trabalho dinâmico e de fácil acesso. </p><p>- Oportunidade de crescimento dentro da empresa. </p><p><b>Horário de trabalho: </b> </p><p>Segunda a sexta-feira das 9h às 18h </p><p>Sábado das 9h às 13h </p><p>Se você está pronta para se juntar a um time vencedor e ajudar nossos clientes a alcançarem os resultados dos sonhos, envie seu currículo e venha conquistar grandes resultados com a gente! </p><p><b>*Vem ser nossa estrela!* </b> </p>",
+    "company": "Hairoo - Transplante Capilar",
+    "city": "luís eduardo magalhães",
+    "state": "estado da bahia",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820310__1953_49edb823ea16071e75f8a9749e53c40d?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=luís-eduardo-magalhães&geoID=4937"
+  },
+  {
+    "title": "Vendedor",
+    "description": "<p><b>Vaga para Vendedora em Clínica de Transplante Capilar </b> </p><p>Você é apaixonada por vendas e deseja atuar em um mercado em crescimento? Venha fazer parte da nossa equipe! </p><p>Estamos em busca de uma vendedora dedicada para integrar nossa clínica especializada em transplante capilar. Se você tem facilidade de comunicação, gosta de desafios e está em busca de uma oportunidade que valorize seu potencial, essa vaga é para você! </p><p><br></p><p><b>Responsabilidades: </b> </p><p>- Atendimento ao cliente, fornecendo informações detalhadas sobre os serviços de transplante capilar. </p><p>- Prospecção de novos clientes e manutenção de um bom relacionamento com os já existentes. </p><p>- Acompanhamento de todas as etapas do processo de vendas, garantindo a satisfação do cliente. </p><p>- Fechamento de vendas e acompanhamento pós-venda. </p><p>- Cumprimento das metas estabelecidas pela equipe de vendas. </p><p><br></p><p><b>Requisitos: </b> </p><p>- Experiência prévia em vendas, preferencialmente no ramo da saúde ou estética. </p><p>- Habilidade de comunicação e persuasão. </p><p>- Foco em resultados e superação de metas. </p><p>- Proatividade, organização e comprometimento. </p><p><br></p><p><b>O que oferecemos: </b> </p><p>- <b>*Salário fixo* </b> compatível com o mercado. </p><p>- <b>*Comissão atrativa </b>*: </p><p>- <b>*Vale transporte* </b> e <b>*vale alimentação*. </b> </p><p>- Ambiente de trabalho dinâmico e de fácil acesso. </p><p>- Oportunidade de crescimento dentro da empresa. </p><p><b>Horário de trabalho: </b> </p><p>Segunda a sexta-feira das 9h às 18h </p><p>Sábado das 9h às 13h </p><p>Se você está pronta para se juntar a um time vencedor e ajudar nossos clientes a alcançarem os resultados dos sonhos, envie seu currículo e venha conquistar grandes resultados com a gente! </p><p><b>*Vem ser nossa estrela!* </b> </p>",
+    "company": "Hairoo - Transplante Capilar",
+    "city": "fortaleza",
+    "state": "estado do ceará",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820311__1953_18cf8f00743e696edcf8e70582bdaa63?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=fortaleza&geoID=3263"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "description": "<p>  Location: San Francisco, CA - Remote (LATAM preferred) </p><p>  Work Type: <b>Full-Time  </b> </p><p><br></p><p>We’re partnering with a confidential, high-growth technology company in Silicon Valley that’s building AI-powered platforms. This team moves fast, cares about craftsmanship, and empowers engineers to own meaningful work for the long term. </p><p><br></p><p>This is a full-time, remote opportunity to join a global-first product team tackling complex problems with modern tech and a culture that values quality and speed. </p><p><br></p><p><b>✅ What You’ll Do </b> </p><p>- Design, build, and maintain features across the stack using (insert tech stack). </p><p>- Collaborate closely with product, design, and engineering peers to ship high-quality work. </p><p>- Write clean, well-tested, well-documented code. </p><p>- Contribute to architecture decisions, technical planning, and code reviews. </p><p>- Help shape team workflows, best practices, and developer experience. </p><p><br></p><p><b>   What You Bring </b> </p><p>- 7+ years of professional experience in software development as a Full Stack Developer. </p><p>- Proficiency with React, Express, MongoDB, Node. </p><p>- Strong understanding of APIs, performance, scalability, etc.. </p><p>- Clear, proactive communication and comfort working on distributed, async teams. </p><p>- A product mindset and strong sense of ownership. </p><p>- Startup or high-growth team background. </p><p>- Passion for building scalable systems and great user experiences. </p><p><br></p><p><br></p><p>###   **What You’ll Get** </p><p>- Competitive compensation in USD. </p><p>- 100% remote with flexible hours. </p><p>- Long-term, product-focused work with clear ownership. </p><p>- A smart, collaborative, globally distributed team. </p><p><br></p><p>If you’re excited to work with a fast-moving team building the future of AI at scale — let’s connect. </p>",
+    "company": "Astra AI",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820331__1953_f117817db6db008e92d4a88647e4562f?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=lauro-de-freitas&geoID=4835"
+  },
+  {
+    "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
+    "description": "<p><b>Sobre a vaga </b> </p><p><br></p><p>Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil. </p><p>Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos. </p><p>Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital. </p><p><br></p><p><b>O que estamos buscando? </b> </p><p><br></p><p>Engenharia de Dados AWS Sênior - ID   </p><p><br></p><p><b>Requisitos: </b> </p><p>Linguagem de Programação: Python, SQL, Scala, Pyspark, Shell Script. Fundamentos: DataMesh, Database SQL e NoSQL, Hadoop Ecossistema, Engenharia de Software, Privacidade e Segurança. Engenharia de Dados: Data Ingestion, Data Stream, PRocessamento Paralelo, Processamento Massivo. Arquitetura de Dados: ETL vs ELT, Modelagem tradicional, Dimensional e Hibrido, Estruturado / Não Estruturado, Camada de Dados Brutos (SOR), Camada de Dados Harmonizados (SOT), Camada de Dados Especializados (SPEC), Data Analytics, Data Viz, Data Storytelling. Experiencia com processamento distribuído e de grandes volumes de dados. Vivência em Pipelines CI/CD (codepipeline / githubactions); Conhecimento nos serviços primários da AWS (Storage Gateway, Direct Connect, DMS, Lambda, Glue, RDS, API Gateway) </p><p><br></p><p><b>Descrição comportamental:  </b> </p><p>Procuramos uma pessoa que: </p><ul><li>Goste de trabalhar em equipe e seja <b>colaborativa </b> em suas atribuições; </li><li>Tenha <b>coragem </b> para se desafiar e ir além, abraçando novas oportunidades de crescimento; </li><li>Transforme ideias em <b>soluções criativas </b> e busque qualidade em toda sua rotina; </li><li>Tenha habilidades de <b>resolução de problemas </b>; </li><li>Possua habilidade e se sinta confortável para trabalhar de forma independente e <b>gerenciar o próprio tempo </b>; </li><li>Tenha interesse em lidar com situações adversas e <b>inovadoras </b> no âmbito tecnológico. </li> </ul><p><br></p><p><b>O que oferecemos: </b> </p><p><br></p><p>Cartão multi-benefícios – você escolhe como e onde utilizar; </p><p>Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas; </p><p>Programas de incentivo à Certificações; </p><p>Horário de trabalho flexível; </p><p>Plano personalizado de carreira e possibilidade de carreira internacional; </p><p>Salários competitivos; </p><p>Avaliação de desempenho anual com possibilidade de bonificação; </p><p>Gympass; </p><p>Previdência Privada; </p><p>Auxílio-Creche; </p><p>Assistência Médica; </p><p>Assistência Odontológica; </p><p>Seguro de Vida. </p><p><br></p><p>Big enough to deliver – small enough to care. </p><p><b>#VempraGFT </b> </p><p><b>#VamosVoarJuntos </b> </p><p><b>#ProudToBeGFT </b> </p>",
+    "company": "GFT Technologies",
+    "city": "taubaté",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820387__1953_5bd2f0ac83a0c1182de60e40230a810b?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=taubaté&geoID=9044"
+  },
+  {
+    "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
+    "description": "<p><b>Sobre a vaga </b> </p><p><br></p><p>Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil. </p><p>Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos. </p><p>Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital. </p><p><br></p><p><b>O que estamos buscando? </b> </p><p><br></p><p>Engenharia de Dados AWS Sênior - ID   </p><p><br></p><p><b>Requisitos: </b> </p><p>Linguagem de Programação: Python, SQL, Scala, Pyspark, Shell Script. Fundamentos: DataMesh, Database SQL e NoSQL, Hadoop Ecossistema, Engenharia de Software, Privacidade e Segurança. Engenharia de Dados: Data Ingestion, Data Stream, PRocessamento Paralelo, Processamento Massivo. Arquitetura de Dados: ETL vs ELT, Modelagem tradicional, Dimensional e Hibrido, Estruturado / Não Estruturado, Camada de Dados Brutos (SOR), Camada de Dados Harmonizados (SOT), Camada de Dados Especializados (SPEC), Data Analytics, Data Viz, Data Storytelling. Experiencia com processamento distribuído e de grandes volumes de dados. Vivência em Pipelines CI/CD (codepipeline / githubactions); Conhecimento nos serviços primários da AWS (Storage Gateway, Direct Connect, DMS, Lambda, Glue, RDS, API Gateway) </p><p><br></p><p><b>Descrição comportamental:  </b> </p><p>Procuramos uma pessoa que: </p><ul><li>Goste de trabalhar em equipe e seja <b>colaborativa </b> em suas atribuições; </li><li>Tenha <b>coragem </b> para se desafiar e ir além, abraçando novas oportunidades de crescimento; </li><li>Transforme ideias em <b>soluções criativas </b> e busque qualidade em toda sua rotina; </li><li>Tenha habilidades de <b>resolução de problemas </b>; </li><li>Possua habilidade e se sinta confortável para trabalhar de forma independente e <b>gerenciar o próprio tempo </b>; </li><li>Tenha interesse em lidar com situações adversas e <b>inovadoras </b> no âmbito tecnológico. </li> </ul><p><br></p><p><b>O que oferecemos: </b> </p><p><br></p><p>Cartão multi-benefícios – você escolhe como e onde utilizar; </p><p>Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas; </p><p>Programas de incentivo à Certificações; </p><p>Horário de trabalho flexível; </p><p>Plano personalizado de carreira e possibilidade de carreira internacional; </p><p>Salários competitivos; </p><p>Avaliação de desempenho anual com possibilidade de bonificação; </p><p>Gympass; </p><p>Previdência Privada; </p><p>Auxílio-Creche; </p><p>Assistência Médica; </p><p>Assistência Odontológica; </p><p>Seguro de Vida. </p><p><br></p><p>Big enough to deliver – small enough to care. </p><p><b>#VempraGFT </b> </p><p><b>#VamosVoarJuntos </b> </p><p><b>#ProudToBeGFT </b> </p>",
+    "company": "GFT Technologies",
+    "city": "ipatinga",
+    "state": "estado de minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820388__1953_52bfce95d6c5cd415eae4f0d2cc270fb?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=ipatinga&geoID=3960"
+  },
+  {
+    "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
+    "description": "<p><b>Sobre a vaga </b> </p><p><br></p><p>Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil. </p><p>Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos. </p><p>Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital. </p><p><br></p><p><b>O que estamos buscando? </b> </p><p><br></p><p>Engenharia de Dados AWS Sênior - ID   </p><p><br></p><p><b>Requisitos: </b> </p><p>Linguagem de Programação: Python, SQL, Scala, Pyspark, Shell Script. Fundamentos: DataMesh, Database SQL e NoSQL, Hadoop Ecossistema, Engenharia de Software, Privacidade e Segurança. Engenharia de Dados: Data Ingestion, Data Stream, PRocessamento Paralelo, Processamento Massivo. Arquitetura de Dados: ETL vs ELT, Modelagem tradicional, Dimensional e Hibrido, Estruturado / Não Estruturado, Camada de Dados Brutos (SOR), Camada de Dados Harmonizados (SOT), Camada de Dados Especializados (SPEC), Data Analytics, Data Viz, Data Storytelling. Experiencia com processamento distribuído e de grandes volumes de dados. Vivência em Pipelines CI/CD (codepipeline / githubactions); Conhecimento nos serviços primários da AWS (Storage Gateway, Direct Connect, DMS, Lambda, Glue, RDS, API Gateway) </p><p><br></p><p><b>Descrição comportamental:  </b> </p><p>Procuramos uma pessoa que: </p><ul><li>Goste de trabalhar em equipe e seja <b>colaborativa </b> em suas atribuições; </li><li>Tenha <b>coragem </b> para se desafiar e ir além, abraçando novas oportunidades de crescimento; </li><li>Transforme ideias em <b>soluções criativas </b> e busque qualidade em toda sua rotina; </li><li>Tenha habilidades de <b>resolução de problemas </b>; </li><li>Possua habilidade e se sinta confortável para trabalhar de forma independente e <b>gerenciar o próprio tempo </b>; </li><li>Tenha interesse em lidar com situações adversas e <b>inovadoras </b> no âmbito tecnológico. </li> </ul><p><br></p><p><b>O que oferecemos: </b> </p><p><br></p><p>Cartão multi-benefícios – você escolhe como e onde utilizar; </p><p>Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas; </p><p>Programas de incentivo à Certificações; </p><p>Horário de trabalho flexível; </p><p>Plano personalizado de carreira e possibilidade de carreira internacional; </p><p>Salários competitivos; </p><p>Avaliação de desempenho anual com possibilidade de bonificação; </p><p>Gympass; </p><p>Previdência Privada; </p><p>Auxílio-Creche; </p><p>Assistência Médica; </p><p>Assistência Odontológica; </p><p>Seguro de Vida. </p><p><br></p><p>Big enough to deliver – small enough to care. </p><p><b>#VempraGFT </b> </p><p><b>#VamosVoarJuntos </b> </p><p><b>#ProudToBeGFT </b> </p>",
+    "company": "GFT Technologies",
+    "city": "barueri",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820389__1953_214fa59c60b9b29070cf3e9bf1874df7?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=barueri&geoID=1016"
+  },
+  {
+    "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
+    "description": "<p><b>Sobre a vaga </b> </p><p><br></p><p>Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil. </p><p>Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos. </p><p>Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital. </p><p><br></p><p><b>O que estamos buscando? </b> </p><p><br></p><p>Engenharia de Dados AWS Sênior - ID   </p><p><br></p><p><b>Requisitos: </b> </p><p>Linguagem de Programação: Python, SQL, Scala, Pyspark, Shell Script. Fundamentos: DataMesh, Database SQL e NoSQL, Hadoop Ecossistema, Engenharia de Software, Privacidade e Segurança. Engenharia de Dados: Data Ingestion, Data Stream, PRocessamento Paralelo, Processamento Massivo. Arquitetura de Dados: ETL vs ELT, Modelagem tradicional, Dimensional e Hibrido, Estruturado / Não Estruturado, Camada de Dados Brutos (SOR), Camada de Dados Harmonizados (SOT), Camada de Dados Especializados (SPEC), Data Analytics, Data Viz, Data Storytelling. Experiencia com processamento distribuído e de grandes volumes de dados. Vivência em Pipelines CI/CD (codepipeline / githubactions); Conhecimento nos serviços primários da AWS (Storage Gateway, Direct Connect, DMS, Lambda, Glue, RDS, API Gateway) </p><p><br></p><p><b>Descrição comportamental:  </b> </p><p>Procuramos uma pessoa que: </p><ul><li>Goste de trabalhar em equipe e seja <b>colaborativa </b> em suas atribuições; </li><li>Tenha <b>coragem </b> para se desafiar e ir além, abraçando novas oportunidades de crescimento; </li><li>Transforme ideias em <b>soluções criativas </b> e busque qualidade em toda sua rotina; </li><li>Tenha habilidades de <b>resolução de problemas </b>; </li><li>Possua habilidade e se sinta confortável para trabalhar de forma independente e <b>gerenciar o próprio tempo </b>; </li><li>Tenha interesse em lidar com situações adversas e <b>inovadoras </b> no âmbito tecnológico. </li> </ul><p><br></p><p><b>O que oferecemos: </b> </p><p><br></p><p>Cartão multi-benefícios – você escolhe como e onde utilizar; </p><p>Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas; </p><p>Programas de incentivo à Certificações; </p><p>Horário de trabalho flexível; </p><p>Plano personalizado de carreira e possibilidade de carreira internacional; </p><p>Salários competitivos; </p><p>Avaliação de desempenho anual com possibilidade de bonificação; </p><p>Gympass; </p><p>Previdência Privada; </p><p>Auxílio-Creche; </p><p>Assistência Médica; </p><p>Assistência Odontológica; </p><p>Seguro de Vida. </p><p><br></p><p>Big enough to deliver – small enough to care. </p><p><b>#VempraGFT </b> </p><p><b>#VamosVoarJuntos </b> </p><p><b>#ProudToBeGFT </b> </p>",
+    "company": "GFT Technologies",
+    "city": "jundiaí",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820390__1953_987be077f816df8eef21ab2da9293b2a?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=jundiaí&geoID=4621"
+  },
+  {
+    "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
+    "description": "<p><b>Sobre a vaga </b> </p><p><br></p><p>Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil. </p><p>Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos. </p><p>Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital. </p><p><br></p><p><b>O que estamos buscando? </b> </p><p><br></p><p>Engenharia de Dados AWS Sênior - ID   </p><p><br></p><p><b>Requisitos: </b> </p><p>Linguagem de Programação: Python, SQL, Scala, Pyspark, Shell Script. Fundamentos: DataMesh, Database SQL e NoSQL, Hadoop Ecossistema, Engenharia de Software, Privacidade e Segurança. Engenharia de Dados: Data Ingestion, Data Stream, PRocessamento Paralelo, Processamento Massivo. Arquitetura de Dados: ETL vs ELT, Modelagem tradicional, Dimensional e Hibrido, Estruturado / Não Estruturado, Camada de Dados Brutos (SOR), Camada de Dados Harmonizados (SOT), Camada de Dados Especializados (SPEC), Data Analytics, Data Viz, Data Storytelling. Experiencia com processamento distribuído e de grandes volumes de dados. Vivência em Pipelines CI/CD (codepipeline / githubactions); Conhecimento nos serviços primários da AWS (Storage Gateway, Direct Connect, DMS, Lambda, Glue, RDS, API Gateway) </p><p><br></p><p><b>Descrição comportamental:  </b> </p><p>Procuramos uma pessoa que: </p><ul><li>Goste de trabalhar em equipe e seja <b>colaborativa </b> em suas atribuições; </li><li>Tenha <b>coragem </b> para se desafiar e ir além, abraçando novas oportunidades de crescimento; </li><li>Transforme ideias em <b>soluções criativas </b> e busque qualidade em toda sua rotina; </li><li>Tenha habilidades de <b>resolução de problemas </b>; </li><li>Possua habilidade e se sinta confortável para trabalhar de forma independente e <b>gerenciar o próprio tempo </b>; </li><li>Tenha interesse em lidar com situações adversas e <b>inovadoras </b> no âmbito tecnológico. </li> </ul><p><br></p><p><b>O que oferecemos: </b> </p><p><br></p><p>Cartão multi-benefícios – você escolhe como e onde utilizar; </p><p>Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas; </p><p>Programas de incentivo à Certificações; </p><p>Horário de trabalho flexível; </p><p>Plano personalizado de carreira e possibilidade de carreira internacional; </p><p>Salários competitivos; </p><p>Avaliação de desempenho anual com possibilidade de bonificação; </p><p>Gympass; </p><p>Previdência Privada; </p><p>Auxílio-Creche; </p><p>Assistência Médica; </p><p>Assistência Odontológica; </p><p>Seguro de Vida. </p><p><br></p><p>Big enough to deliver – small enough to care. </p><p><b>#VempraGFT </b> </p><p><b>#VamosVoarJuntos </b> </p><p><b>#ProudToBeGFT </b> </p>",
+    "company": "GFT Technologies",
+    "city": "sapucaia do sul",
+    "state": "estado do rio grande do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820391__1953_0d9e39cbe55f4cdb0d25b820ed1f6c96?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=sapucaia-do-sul&geoID=8591"
+  },
+  {
+    "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
+    "description": "<p><b>Sobre a vaga </b> </p><p><br></p><p>Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil. </p><p>Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos. </p><p>Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital. </p><p><br></p><p><b>O que estamos buscando? </b> </p><p><br></p><p>Engenharia de Dados AWS Sênior - ID   </p><p><br></p><p><b>Requisitos: </b> </p><p>Linguagem de Programação: Python, SQL, Scala, Pyspark, Shell Script. Fundamentos: DataMesh, Database SQL e NoSQL, Hadoop Ecossistema, Engenharia de Software, Privacidade e Segurança. Engenharia de Dados: Data Ingestion, Data Stream, PRocessamento Paralelo, Processamento Massivo. Arquitetura de Dados: ETL vs ELT, Modelagem tradicional, Dimensional e Hibrido, Estruturado / Não Estruturado, Camada de Dados Brutos (SOR), Camada de Dados Harmonizados (SOT), Camada de Dados Especializados (SPEC), Data Analytics, Data Viz, Data Storytelling. Experiencia com processamento distribuído e de grandes volumes de dados. Vivência em Pipelines CI/CD (codepipeline / githubactions); Conhecimento nos serviços primários da AWS (Storage Gateway, Direct Connect, DMS, Lambda, Glue, RDS, API Gateway) </p><p><br></p><p><b>Descrição comportamental:  </b> </p><p>Procuramos uma pessoa que: </p><ul><li>Goste de trabalhar em equipe e seja <b>colaborativa </b> em suas atribuições; </li><li>Tenha <b>coragem </b> para se desafiar e ir além, abraçando novas oportunidades de crescimento; </li><li>Transforme ideias em <b>soluções criativas </b> e busque qualidade em toda sua rotina; </li><li>Tenha habilidades de <b>resolução de problemas </b>; </li><li>Possua habilidade e se sinta confortável para trabalhar de forma independente e <b>gerenciar o próprio tempo </b>; </li><li>Tenha interesse em lidar com situações adversas e <b>inovadoras </b> no âmbito tecnológico. </li> </ul><p><br></p><p><b>O que oferecemos: </b> </p><p><br></p><p>Cartão multi-benefícios – você escolhe como e onde utilizar; </p><p>Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas; </p><p>Programas de incentivo à Certificações; </p><p>Horário de trabalho flexível; </p><p>Plano personalizado de carreira e possibilidade de carreira internacional; </p><p>Salários competitivos; </p><p>Avaliação de desempenho anual com possibilidade de bonificação; </p><p>Gympass; </p><p>Previdência Privada; </p><p>Auxílio-Creche; </p><p>Assistência Médica; </p><p>Assistência Odontológica; </p><p>Seguro de Vida. </p><p><br></p><p>Big enough to deliver – small enough to care. </p><p><b>#VempraGFT </b> </p><p><b>#VamosVoarJuntos </b> </p><p><b>#ProudToBeGFT </b> </p>",
+    "company": "GFT Technologies",
+    "city": "ponta grossa",
+    "state": "estado do paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820392__1953_d414d1d35f70d0b5a4b5174cc750f979?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=ponta-grossa&geoID=6819"
+  },
+  {
+    "title": "Engenharia de Dados AWS Pleno/Sênior - ID 123360",
+    "description": "<p><b>Sobre a vaga </b> </p><p><br></p><p>Com mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil. </p><p>Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos. </p><p>Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital. </p><p><br></p><p><b>O que estamos buscando? </b> </p><p><br></p><p>Engenharia de Dados AWS Sênior - ID   </p><p><br></p><p><b>Requisitos: </b> </p><p>Linguagem de Programação: Python, SQL, Scala, Pyspark, Shell Script. Fundamentos: DataMesh, Database SQL e NoSQL, Hadoop Ecossistema, Engenharia de Software, Privacidade e Segurança. Engenharia de Dados: Data Ingestion, Data Stream, PRocessamento Paralelo, Processamento Massivo. Arquitetura de Dados: ETL vs ELT, Modelagem tradicional, Dimensional e Hibrido, Estruturado / Não Estruturado, Camada de Dados Brutos (SOR), Camada de Dados Harmonizados (SOT), Camada de Dados Especializados (SPEC), Data Analytics, Data Viz, Data Storytelling. Experiencia com processamento distribuído e de grandes volumes de dados. Vivência em Pipelines CI/CD (codepipeline / githubactions); Conhecimento nos serviços primários da AWS (Storage Gateway, Direct Connect, DMS, Lambda, Glue, RDS, API Gateway) </p><p><br></p><p><b>Descrição comportamental:  </b> </p><p>Procuramos uma pessoa que: </p><ul><li>Goste de trabalhar em equipe e seja <b>colaborativa </b> em suas atribuições; </li><li>Tenha <b>coragem </b> para se desafiar e ir além, abraçando novas oportunidades de crescimento; </li><li>Transforme ideias em <b>soluções criativas </b> e busque qualidade em toda sua rotina; </li><li>Tenha habilidades de <b>resolução de problemas </b>; </li><li>Possua habilidade e se sinta confortável para trabalhar de forma independente e <b>gerenciar o próprio tempo </b>; </li><li>Tenha interesse em lidar com situações adversas e <b>inovadoras </b> no âmbito tecnológico. </li> </ul><p><br></p><p><b>O que oferecemos: </b> </p><p><br></p><p>Cartão multi-benefícios – você escolhe como e onde utilizar; </p><p>Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas; </p><p>Programas de incentivo à Certificações; </p><p>Horário de trabalho flexível; </p><p>Plano personalizado de carreira e possibilidade de carreira internacional; </p><p>Salários competitivos; </p><p>Avaliação de desempenho anual com possibilidade de bonificação; </p><p>Gympass; </p><p>Previdência Privada; </p><p>Auxílio-Creche; </p><p>Assistência Médica; </p><p>Assistência Odontológica; </p><p>Seguro de Vida. </p><p><br></p><p>Big enough to deliver – small enough to care. </p><p><b>#VempraGFT </b> </p><p><b>#VamosVoarJuntos </b> </p><p><b>#ProudToBeGFT </b> </p>",
+    "company": "GFT Technologies",
+    "city": "chapecó",
+    "state": "estado de santa catarina",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820393__1953_d3f9a4350285820c2644b235c4f65172?utm_source=1953&utm_medium=feed&keyword=Engenharia-de-Dados&location=chapecó&geoID=2231"
+  },
+  {
+    "title": "Vendedor",
+    "description": "<p><b>Vaga para Vendedora em Clínica de Transplante Capilar </b> </p><p>Você é apaixonada por vendas e deseja atuar em um mercado em crescimento? Venha fazer parte da nossa equipe! </p><p>Estamos em busca de uma vendedora dedicada para integrar nossa clínica especializada em transplante capilar. Se você tem facilidade de comunicação, gosta de desafios e está em busca de uma oportunidade que valorize seu potencial, essa vaga é para você! </p><p><br></p><p><b>Responsabilidades: </b> </p><p>- Atendimento ao cliente, fornecendo informações detalhadas sobre os serviços de transplante capilar. </p><p>- Prospecção de novos clientes e manutenção de um bom relacionamento com os já existentes. </p><p>- Acompanhamento de todas as etapas do processo de vendas, garantindo a satisfação do cliente. </p><p>- Fechamento de vendas e acompanhamento pós-venda. </p><p>- Cumprimento das metas estabelecidas pela equipe de vendas. </p><p><br></p><p><b>Requisitos: </b> </p><p>- Experiência prévia em vendas, preferencialmente no ramo da saúde ou estética. </p><p>- Habilidade de comunicação e persuasão. </p><p>- Foco em resultados e superação de metas. </p><p>- Proatividade, organização e comprometimento. </p><p><br></p><p><b>O que oferecemos: </b> </p><p>- <b>*Salário fixo* </b> compatível com o mercado. </p><p>- <b>*Comissão atrativa </b>*: </p><p>- <b>*Vale transporte* </b> e <b>*vale alimentação*. </b> </p><p>- Ambiente de trabalho dinâmico e de fácil acesso. </p><p>- Oportunidade de crescimento dentro da empresa. </p><p><b>Horário de trabalho: </b> </p><p>Segunda a sexta-feira das 9h às 18h </p><p>Sábado das 9h às 13h </p><p>Se você está pronta para se juntar a um time vencedor e ajudar nossos clientes a alcançarem os resultados dos sonhos, envie seu currículo e venha conquistar grandes resultados com a gente! </p><p><b>*Vem ser nossa estrela!* </b> </p>",
+    "company": "Hairoo - Transplante Capilar",
+    "city": "camaçari",
+    "state": "estado da bahia",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820395__1953_50b88e030c223e4acdec792eb3e915bb?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=camaçari&geoID=1645"
+  },
+  {
+    "title": "Vendedor",
+    "description": "<p><b>Vaga para Vendedora em Clínica de Transplante Capilar </b> </p><p>Você é apaixonada por vendas e deseja atuar em um mercado em crescimento? Venha fazer parte da nossa equipe! </p><p>Estamos em busca de uma vendedora dedicada para integrar nossa clínica especializada em transplante capilar. Se você tem facilidade de comunicação, gosta de desafios e está em busca de uma oportunidade que valorize seu potencial, essa vaga é para você! </p><p><br></p><p><b>Responsabilidades: </b> </p><p>- Atendimento ao cliente, fornecendo informações detalhadas sobre os serviços de transplante capilar. </p><p>- Prospecção de novos clientes e manutenção de um bom relacionamento com os já existentes. </p><p>- Acompanhamento de todas as etapas do processo de vendas, garantindo a satisfação do cliente. </p><p>- Fechamento de vendas e acompanhamento pós-venda. </p><p>- Cumprimento das metas estabelecidas pela equipe de vendas. </p><p><br></p><p><b>Requisitos: </b> </p><p>- Experiência prévia em vendas, preferencialmente no ramo da saúde ou estética. </p><p>- Habilidade de comunicação e persuasão. </p><p>- Foco em resultados e superação de metas. </p><p>- Proatividade, organização e comprometimento. </p><p><br></p><p><b>O que oferecemos: </b> </p><p>- <b>*Salário fixo* </b> compatível com o mercado. </p><p>- <b>*Comissão atrativa </b>*: </p><p>- <b>*Vale transporte* </b> e <b>*vale alimentação*. </b> </p><p>- Ambiente de trabalho dinâmico e de fácil acesso. </p><p>- Oportunidade de crescimento dentro da empresa. </p><p><b>Horário de trabalho: </b> </p><p>Segunda a sexta-feira das 9h às 18h </p><p>Sábado das 9h às 13h </p><p>Se você está pronta para se juntar a um time vencedor e ajudar nossos clientes a alcançarem os resultados dos sonhos, envie seu currículo e venha conquistar grandes resultados com a gente! </p><p><b>*Vem ser nossa estrela!* </b> </p>",
+    "company": "Hairoo - Transplante Capilar",
+    "city": "taubaté",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820396__1953_b9c111b4cfa87352ebe4bed9b766ab20?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=taubaté&geoID=9044"
+  },
+  {
+    "title": "Vendedor",
+    "description": "<p><b>Vaga para Vendedora em Clínica de Transplante Capilar </b> </p><p>Você é apaixonada por vendas e deseja atuar em um mercado em crescimento? Venha fazer parte da nossa equipe! </p><p>Estamos em busca de uma vendedora dedicada para integrar nossa clínica especializada em transplante capilar. Se você tem facilidade de comunicação, gosta de desafios e está em busca de uma oportunidade que valorize seu potencial, essa vaga é para você! </p><p><br></p><p><b>Responsabilidades: </b> </p><p>- Atendimento ao cliente, fornecendo informações detalhadas sobre os serviços de transplante capilar. </p><p>- Prospecção de novos clientes e manutenção de um bom relacionamento com os já existentes. </p><p>- Acompanhamento de todas as etapas do processo de vendas, garantindo a satisfação do cliente. </p><p>- Fechamento de vendas e acompanhamento pós-venda. </p><p>- Cumprimento das metas estabelecidas pela equipe de vendas. </p><p><br></p><p><b>Requisitos: </b> </p><p>- Experiência prévia em vendas, preferencialmente no ramo da saúde ou estética. </p><p>- Habilidade de comunicação e persuasão. </p><p>- Foco em resultados e superação de metas. </p><p>- Proatividade, organização e comprometimento. </p><p><br></p><p><b>O que oferecemos: </b> </p><p>- <b>*Salário fixo* </b> compatível com o mercado. </p><p>- <b>*Comissão atrativa </b>*: </p><p>- <b>*Vale transporte* </b> e <b>*vale alimentação*. </b> </p><p>- Ambiente de trabalho dinâmico e de fácil acesso. </p><p>- Oportunidade de crescimento dentro da empresa. </p><p><b>Horário de trabalho: </b> </p><p>Segunda a sexta-feira das 9h às 18h </p><p>Sábado das 9h às 13h </p><p>Se você está pronta para se juntar a um time vencedor e ajudar nossos clientes a alcançarem os resultados dos sonhos, envie seu currículo e venha conquistar grandes resultados com a gente! </p><p><b>*Vem ser nossa estrela!* </b> </p>",
+    "company": "Hairoo - Transplante Capilar",
+    "city": "viana",
+    "state": "estado do espírito santo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820397__1953_d5ae7447c77f3302632c98a4c42ca6d9?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=viana&geoID=9551"
+  },
+  {
+    "title": "Vendedor",
+    "description": "<p><b>Vaga para Vendedora em Clínica de Transplante Capilar </b> </p><p>Você é apaixonada por vendas e deseja atuar em um mercado em crescimento? Venha fazer parte da nossa equipe! </p><p>Estamos em busca de uma vendedora dedicada para integrar nossa clínica especializada em transplante capilar. Se você tem facilidade de comunicação, gosta de desafios e está em busca de uma oportunidade que valorize seu potencial, essa vaga é para você! </p><p><br></p><p><b>Responsabilidades: </b> </p><p>- Atendimento ao cliente, fornecendo informações detalhadas sobre os serviços de transplante capilar. </p><p>- Prospecção de novos clientes e manutenção de um bom relacionamento com os já existentes. </p><p>- Acompanhamento de todas as etapas do processo de vendas, garantindo a satisfação do cliente. </p><p>- Fechamento de vendas e acompanhamento pós-venda. </p><p>- Cumprimento das metas estabelecidas pela equipe de vendas. </p><p><br></p><p><b>Requisitos: </b> </p><p>- Experiência prévia em vendas, preferencialmente no ramo da saúde ou estética. </p><p>- Habilidade de comunicação e persuasão. </p><p>- Foco em resultados e superação de metas. </p><p>- Proatividade, organização e comprometimento. </p><p><br></p><p><b>O que oferecemos: </b> </p><p>- <b>*Salário fixo* </b> compatível com o mercado. </p><p>- <b>*Comissão atrativa </b>*: </p><p>- <b>*Vale transporte* </b> e <b>*vale alimentação*. </b> </p><p>- Ambiente de trabalho dinâmico e de fácil acesso. </p><p>- Oportunidade de crescimento dentro da empresa. </p><p><b>Horário de trabalho: </b> </p><p>Segunda a sexta-feira das 9h às 18h </p><p>Sábado das 9h às 13h </p><p>Se você está pronta para se juntar a um time vencedor e ajudar nossos clientes a alcançarem os resultados dos sonhos, envie seu currículo e venha conquistar grandes resultados com a gente! </p><p><b>*Vem ser nossa estrela!* </b> </p>",
+    "company": "Hairoo - Transplante Capilar",
+    "city": "campina grande do sul",
+    "state": "estado do paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820398__1953_5c46ad388abee1505d9a9c96c112c58d?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=campina-grande-do-sul&geoID=1707"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "description": "<p>  Location: San Francisco, CA - Remote (LATAM preferred) </p><p>  Work Type: <b>Full-Time  </b> </p><p><br></p><p>We’re partnering with a confidential, high-growth technology company in Silicon Valley that’s building AI-powered platforms. This team moves fast, cares about craftsmanship, and empowers engineers to own meaningful work for the long term. </p><p><br></p><p>This is a full-time, remote opportunity to join a global-first product team tackling complex problems with modern tech and a culture that values quality and speed. </p><p><br></p><p><b>✅ What You’ll Do </b> </p><p>- Design, build, and maintain features across the stack using (insert tech stack). </p><p>- Collaborate closely with product, design, and engineering peers to ship high-quality work. </p><p>- Write clean, well-tested, well-documented code. </p><p>- Contribute to architecture decisions, technical planning, and code reviews. </p><p>- Help shape team workflows, best practices, and developer experience. </p><p><br></p><p><b>   What You Bring </b> </p><p>- 7+ years of professional experience in software development as a Full Stack Developer. </p><p>- Proficiency with React, Express, MongoDB, Node. </p><p>- Strong understanding of APIs, performance, scalability, etc.. </p><p>- Clear, proactive communication and comfort working on distributed, async teams. </p><p>- A product mindset and strong sense of ownership. </p><p>- Startup or high-growth team background. </p><p>- Passion for building scalable systems and great user experiences. </p><p><br></p><p><br></p><p>###   **What You’ll Get** </p><p>- Competitive compensation in USD. </p><p>- 100% remote with flexible hours. </p><p>- Long-term, product-focused work with clear ownership. </p><p>- A smart, collaborative, globally distributed team. </p><p><br></p><p>If you’re excited to work with a fast-moving team building the future of AI at scale — let’s connect. </p>",
+    "company": "Astra AI",
+    "city": "araraquara",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820405__1953_6ca7f10da10fb3cc331d217b403cdfc3?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=araraquara&geoID=601"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "description": "<p>  Location: San Francisco, CA - Remote (LATAM preferred) </p><p>  Work Type: <b>Full-Time  </b> </p><p><br></p><p>We’re partnering with a confidential, high-growth technology company in Silicon Valley that’s building AI-powered platforms. This team moves fast, cares about craftsmanship, and empowers engineers to own meaningful work for the long term. </p><p><br></p><p>This is a full-time, remote opportunity to join a global-first product team tackling complex problems with modern tech and a culture that values quality and speed. </p><p><br></p><p><b>✅ What You’ll Do </b> </p><p>- Design, build, and maintain features across the stack using (insert tech stack). </p><p>- Collaborate closely with product, design, and engineering peers to ship high-quality work. </p><p>- Write clean, well-tested, well-documented code. </p><p>- Contribute to architecture decisions, technical planning, and code reviews. </p><p>- Help shape team workflows, best practices, and developer experience. </p><p><br></p><p><b>   What You Bring </b> </p><p>- 7+ years of professional experience in software development as a Full Stack Developer. </p><p>- Proficiency with React, Express, MongoDB, Node. </p><p>- Strong understanding of APIs, performance, scalability, etc.. </p><p>- Clear, proactive communication and comfort working on distributed, async teams. </p><p>- A product mindset and strong sense of ownership. </p><p>- Startup or high-growth team background. </p><p>- Passion for building scalable systems and great user experiences. </p><p><br></p><p><br></p><p>###   **What You’ll Get** </p><p>- Competitive compensation in USD. </p><p>- 100% remote with flexible hours. </p><p>- Long-term, product-focused work with clear ownership. </p><p>- A smart, collaborative, globally distributed team. </p><p><br></p><p>If you’re excited to work with a fast-moving team building the future of AI at scale — let’s connect. </p>",
+    "company": "Astra AI",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820406__1953_898bae15c98173624fdee6acaa8c453e?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=salvador&geoID=7530"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "description": "<p>  Location: San Francisco, CA - Remote (LATAM preferred) </p><p>  Work Type: <b>Full-Time  </b> </p><p><br></p><p>We’re partnering with a confidential, high-growth technology company in Silicon Valley that’s building AI-powered platforms. This team moves fast, cares about craftsmanship, and empowers engineers to own meaningful work for the long term. </p><p><br></p><p>This is a full-time, remote opportunity to join a global-first product team tackling complex problems with modern tech and a culture that values quality and speed. </p><p><br></p><p><b>✅ What You’ll Do </b> </p><p>- Design, build, and maintain features across the stack using (insert tech stack). </p><p>- Collaborate closely with product, design, and engineering peers to ship high-quality work. </p><p>- Write clean, well-tested, well-documented code. </p><p>- Contribute to architecture decisions, technical planning, and code reviews. </p><p>- Help shape team workflows, best practices, and developer experience. </p><p><br></p><p><b>   What You Bring </b> </p><p>- 7+ years of professional experience in software development as a Full Stack Developer. </p><p>- Proficiency with React, Express, MongoDB, Node. </p><p>- Strong understanding of APIs, performance, scalability, etc.. </p><p>- Clear, proactive communication and comfort working on distributed, async teams. </p><p>- A product mindset and strong sense of ownership. </p><p>- Startup or high-growth team background. </p><p>- Passion for building scalable systems and great user experiences. </p><p><br></p><p><br></p><p>###   **What You’ll Get** </p><p>- Competitive compensation in USD. </p><p>- 100% remote with flexible hours. </p><p>- Long-term, product-focused work with clear ownership. </p><p>- A smart, collaborative, globally distributed team. </p><p><br></p><p>If you’re excited to work with a fast-moving team building the future of AI at scale — let’s connect. </p>",
+    "company": "Astra AI",
+    "city": "ipojuca",
+    "state": "estado de pernambuco",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820407__1953_467b99a7ddbeea0e4ad0f56d389a6a9a?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=ipojuca&geoID=3986"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "description": "<p>  Location: San Francisco, CA - Remote (LATAM preferred) </p><p>  Work Type: <b>Full-Time  </b> </p><p><br></p><p>We’re partnering with a confidential, high-growth technology company in Silicon Valley that’s building AI-powered platforms. This team moves fast, cares about craftsmanship, and empowers engineers to own meaningful work for the long term. </p><p><br></p><p>This is a full-time, remote opportunity to join a global-first product team tackling complex problems with modern tech and a culture that values quality and speed. </p><p><br></p><p><b>✅ What You’ll Do </b> </p><p>- Design, build, and maintain features across the stack using (insert tech stack). </p><p>- Collaborate closely with product, design, and engineering peers to ship high-quality work. </p><p>- Write clean, well-tested, well-documented code. </p><p>- Contribute to architecture decisions, technical planning, and code reviews. </p><p>- Help shape team workflows, best practices, and developer experience. </p><p><br></p><p><b>   What You Bring </b> </p><p>- 7+ years of professional experience in software development as a Full Stack Developer. </p><p>- Proficiency with React, Express, MongoDB, Node. </p><p>- Strong understanding of APIs, performance, scalability, etc.. </p><p>- Clear, proactive communication and comfort working on distributed, async teams. </p><p>- A product mindset and strong sense of ownership. </p><p>- Startup or high-growth team background. </p><p>- Passion for building scalable systems and great user experiences. </p><p><br></p><p><br></p><p>###   **What You’ll Get** </p><p>- Competitive compensation in USD. </p><p>- 100% remote with flexible hours. </p><p>- Long-term, product-focused work with clear ownership. </p><p>- A smart, collaborative, globally distributed team. </p><p><br></p><p>If you’re excited to work with a fast-moving team building the future of AI at scale — let’s connect. </p>",
+    "company": "Astra AI",
+    "city": "campinas",
+    "state": "estado de são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_820408__1953_d62ed8e9e075b54fdc8fe4c96688904e?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=campinas&geoID=1713"
   }
 ]
