@@ -1,5 +1,23 @@
 [
   {
+    "title": "Data Engineer \"#994604\"",
+    "description": "<p><b> Quem Somos  </b><p> A Dexian, lançada em 2023, tem presença global e carrega quase 30 anos de experiência por meio de suas companhias legadas, principalmente a partir da combinação da <b> DISYS  </b> e <b> Signature Consultants  </b> .  </p><p> Iniciamos nossas operações no Brasil em 2007 como DISYS e, desde então, atendemos mais de 50 clientes de diferentes setores da economia. Como Dexian, nos consolidamos como uma das maiores empresas de soluções e contratação em TI, entregando serviços que combinam <b> escala global, portfólio completo e agilidade tática  </b> , apoiando a modernização de modelos de contratação, evolução de soluções de workforce e transformação tecnológica.  </p><p> Possuímos escritórios em <b> Curitiba (PR), Porto Alegre (RS), Rio de Janeiro (RJ) </b> e <b> São Paulo (SP) </b> , mantendo proximidade com nossos clientes e consultores. Somos também uma <b> Minority Owner Company  </b> , com forte compromisso com diversidade, inclusão e equidade.  </p> <p><b> O que esperar de nós  </b> </p><p> Pessoas estão no centro da nossa estratégia e representam nosso maior ativo. Nosso compromisso é atrair, desenvolver e reter talentos, criando conexões reais e duradouras.  </p><p> Acreditamos que a combinação certa entre <b> talento, tecnologia e organizações  </b> desbloqueia resultados transformadores e impulsiona o sucesso de clientes e consultores.  </p><p> Nossos valores — <b> Integridade, Transparência, Autenticidade, Engenhosidade e Empatia  </b> — orientam todas as nossas decisões.  </p><p> Na Dexian, valorizamos a diversidade. Nosso processo seletivo é inclusivo e aberto a profissionais de todas as identidades, experiências e trajetórias. Aqui, o que importa é o talento.  </p> <p><b> Nosso Cliente  </b> </p><p> Você irá atuar em um <b> cliente multinacional de grande porte  </b> , do setor de petróleo e gás.  </p> <p><b> O que esperar do seu dia a dia de trabalho  </b> </p><ul><li> Atuar como Data Engineer com foco em modelagem, transformação e otimização de dados na plataforma Snowflake  </li><li> Projetar e desenvolver entidades de dados (tabelas, views, schemas) alinhadas aos requisitos de negócio e arquitetura  </li><li> Implementar modelos dimensionais e relacionais para suportar analytics e reporting  </li><li> Desenvolver transformações complexas, cálculos e KPIs utilizando SQL avançado  </li><li> Construir e manter pipelines batch e near real-time utilizando Snowpipe, Snowpipe Streaming, External Stages (S3/ADLS/GCS) e APIs (REST/JSON) </li><li> Orquestrar cargas e transformações com dbt Cloud Jobs e/ou Databricks  </li><li> Trabalhar com dados semi-estruturados (JSON, CSV, Parquet), incluindo gestão de schema evolution  </li><li> Implementar stored procedures, UDFs, tasks e rotinas automatizadas no Snowflake  </li><li> Monitorar e otimizar performance (query tuning, warehouse sizing e gestão de recursos) </li><li> Implementar controles de qualidade, auditoria, governança e segurança de dados (RBAC, masking policies) </li><li> Configurar alertas para falhas de pipeline, data drift e violações de SLA  </li><li> Colaborar com times de negócio, arquitetura e BI para entrega de soluções end-to-end  </li><li> Manter documentação técnica, data lineage e data dictionary (dbt docs) </li> </ul> <p><b> O que você precisa ter  </b> </p><ul><li> Forte conhecimento em SQL para transformações complexas e otimização de performance  </li><li> Experiência em desenvolvimento de soluções de Data Integration e ETL (preferencialmente Microsoft Platform – SSIS ou Azure) </li><li> Experiência com ferramentas de Business Intelligence (Power BI, SSRS, SSAS ou Tableau) </li><li> Conhecimento em programação (Python preferencial) </li><li> Conhecimentos em Cloud (Azure ou AWS) </li><li> Experiência com arquiteturas de Data Pipeline e Analytics  </li><li> Experiência com versionamento de código (Git) e práticas de CI/CD  </li><li> Inglês fluente para comunicação escrita e verbal  </li><li> Perfil analítico, senso de ownership e boa comunicação técnica  </li> </ul> <p><b> Será um destaque seu perfil com  </b> </p><ul><li> Experiência avançada com Snowflake (tasks/streams, stages, Snowpipe, performance tuning, RBAC, masking policies) </li><li> Experiência com Databricks  </li><li> Vivência com dbt  </li><li> Conhecimento em Azure Data Factory  </li><li> Experiência com BODS  </li><li> Fundamentos de DevOps  </li><li> Conhecimento no domínio de trading  </li> </ul> <p><b> Onde você vai trabalhar  </b> </p><p> No conforto da sua casa — regime 100% Home Office.  </p> </p>",
+    "company": "Dexian",
+    "city": "Brasil",
+    "state": "Brasil",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___3390_3026076__1953?utm_source=1953&utm_medium=feed&keyword=Data-Engineer-994604&location=Brasil&geoID=15674"
+  },
+  {
+    "title": "Supervisor de Usinagem",
+    "description": "<p> Estamos em busca de um Supervisor de Usinagem para liderar a equipe do setor, garantindo eficiência nos processos produtivos, qualidade nas peças usinadas e cumprimento das metas estabelecidas.  <p>  Local: Bairro Rio Cerro I – Jaraguá do Sul/SC  </p><p>  Regime: CLT  </p><p>  Modelo: Presencial  </p><p>  Necessário residir em Jaraguá do Sul ou região  </p> <p>✅ Responsabilidades:  </p> <p>• Supervisionar operadores de torno, fresa, centro de usinagem CNC, entre outros;  </p><p>• Distribuir e acompanhar as ordens de produção;  </p><p>• Garantir que os processos sejam executados conforme desenhos técnicos e especificações;  </p><p>• Acompanhar metas de produtividade e qualidade;  </p><p>• Atuar na redução de retrabalho e desperdícios;  </p><p>• Apoiar na programação de máquinas CNC;  </p><p>• Resolver problemas técnicos no processo de usinagem;  </p><p>• Controlar e acompanhar a manutenção preventiva das máquinas;  </p><p>• Treinar, orientar e desenvolver a equipe.  </p> <p>  Requisitos:  </p> <p>• Conhecimento em leitura e interpretação de desenho técnico;  </p><p>• Domínio de processos de usinagem (torno, fresa, CNC, entre outros);  </p><p>• Experiência no ramo metalurgico;  </p><p>• Noções de metrologia;  </p><p>• Experiência com liderança e gestão de equipe;  </p><p>• Organização e foco em resultados.  </p> <p> Sempre em movimento ⚙️ </p> </p>",
+    "company": "Meitech",
+    "city": "Jaraguá do Sul",
+    "state": "Joinville (microrregião)",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___3390_3026077__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Usinagem&location=Jaraguá-do-Sul&geoID=4452"
+  },
+  {
     "title": "Assistente Pós Vendas (Peças)",
     "description": "<p> Requisitos: <p>- Conhecimentos em rotinas fiscais e contábeis.  </p><p>- Conhecimento em informática.  </p><p>- Habilidade em trabalhar em equipe, organização e responsabilidade.  </p> <p> Oferecemos:  </p><p>- Salário compatível com o mercado.  </p><p>- Benefícios como vale-transporte, plano de saúde (médico e odontológico), convênio farmácia.  </p> <p> Se você está pronto para fazer parte de uma equipe comprometida com a qualidade e a satisfação do cliente, junte-se a nós! </p> </p>",
     "company": "Toyota Expoente",
@@ -8980,23 +8998,5 @@
     "state": "Sorocaba (microrregião)",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___3390_3033984__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-de-Recursos&location=Sorocaba&geoID=8852"
-  },
-  {
-    "title": "Fonoaudiólogo",
-    "description": "<p> A Aldelia é uma multinacional franco-inglesa com foco em soluções de RH e terceirização de serviços, atuante em diversos mercados, principalmente no setor de Óleo e Gás. <p> Buscamos profissional de uma <b> Fonoaudióloga  </b> para atuar em uma grande empresa em Macaé . A contratação será para atuar terceirizado (previsão de 20 dias).  </p> <p><b> Principais atividades:  </b> </p><p>• Realização de exames de audiometria;  </p><p>• Tratamento fonoaudiológico para prevenção, habilitação e reabilitação de pacientes e clientes, aplicando protocolos e procedimentos específicos da área;  </p><p>• Avaliação e diagnóstico fonoaudiológico;  </p><p>• Orientação a pacientes.  </p> </p>",
-    "company": "Aldelia",
-    "city": "Macaé",
-    "state": "Macaé (microrregião)",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_3033988__1953?utm_source=1953&utm_medium=feed&keyword=Fonoaudi%C3%B3logo&location=Macaé&geoID=4964"
-  },
-  {
-    "title": "Auxiliar administrativo",
-    "description": "<p> Efetivo (CLT) Integral – rotina administrativa no escritório, controle de planilhas, alimentação do sistema interno, foco no atendimento ao cliente, fechamento da venda, receber e realizar atendimento telefônico, whatsapp dos clientes. De segunda a sexta das 9hrs as 18hrs. Intervalo de uma hora para almoço. Vale refeição, Vale transporte, Salário base do cargo. Exigências Ensino Médio / superior incompleto / superior. Local de trabalho: filial Jardim das américas/Ctba. <p> Enviar currículo para o email:     </p><p>** ENVIAR CURRICULO EXCLUSIVAMENTE POR EMAIL ** </p>  </p>",
-    "company": "Top Elétrica - Treinamentos",
-    "city": "Curitiba",
-    "state": "Curitiba (microrregião)",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_3033989__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo&location=Curitiba&geoID=2691"
   }
 ]
