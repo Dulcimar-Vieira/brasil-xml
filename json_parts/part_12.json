@@ -1,32 +1,5 @@
 [
   {
-    "title": "Data Platform Engineer - Remote Work | REF#261162",
-    "description": "<p><h3>Overview </h3> <p>Data Platform Engineer - Remote Work | REF#  at BairesDev. We are looking for an outstanding Data Platform Engineer to join BairesDev’s Research & Development Team (R&D). This professional will be responsible for building the data platform to simplify and accelerate tasks related to ingestion, storage, processing, cataloging, quality, and governance of data. </p> <h3>What You’ll Do </h3> <ul> <li>Build engineering solutions using the best practices of software development and data-intensive applications. </li> <li>Work closely with data infrastructure engineers, analytics, and machine learning engineers to gather requirements and deliver reusable components. </li> <li>Monitor and maintain the health of the data platform ecosystem. </li> <li>Leverage modern data tools to develop simple solutions to complex problems. </li> <li>Continuously help improve software engineering practices across data teams, raise the team’s bar, and seek to be a reference in quality and performance. </li>  </ul> <h3>What We Are Looking For </h3> <ul> <li>5+ years of background in software development. </li> <li>3+ years working in data platform or data engineering teams. </li> <li>Solid experience in Python, Scala, or Java development. </li> <li>Solid experience working with relational and NoSQL databases. </li> <li>Experience with microservice architecture and APIs. </li> <li>Experience with Kafka or similar. </li> <li>Experience with distributed computing. </li> <li>Experience developing Airflow DAGs. </li> <li>Advanced English level. </li>  </ul> <h3>Desirable </h3> <ul> <li>Experience with Graph databases. </li> <li>Experience with streaming applications. </li>  </ul> <h3>How We Make Your Work (and Your Life) Easier </h3> <ul> <li>100% remote work (from anywhere). </li> <li>Excellent compensation in USD or your local currency if preferred. </li> <li>Hardware and software setup for you to work from home. </li> <li>Flexible hours: create your own schedule. </li> <li>Paid parental leaves, vacations, and national holidays. </li> <li>Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent. </li> <li>Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities. </li>  </ul> <h3>Seniority level </h3> <ul> <li>Mid-Senior level </li>  </ul> <h3>Employment type </h3> <ul> <li>Full-time </li>  </ul> <h3>Job function </h3> <ul> <li>Information Technology </li>  </ul> <h3>Industries </h3> <ul> <li>IT Services and IT Consulting </li>  </ul>  </p> #J-18808-Ljbffr",
-    "company": "BairesDev",
-    "city": "sorocaba",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9734867__1953?utm_source=1953&utm_medium=feed&keyword=Data-Platform-Engineer&location=sorocaba&geoID=8852"
-  },
-  {
-    "title": "Senior Android & Kotlin Developer - Remote Work | REF#284275",
-    "description": "<p><h3>Senior Android & Kotlin Developer - Remote Work | REF#  </h3> <p>We are looking for a Senior Android & Kotlin Developer to join our team. In this role, you will lead the design and development of high-performing mobile applications, collaborating with a talented group of developers to deliver innovative solutions that make a real impact. </p> <h3>What You’ll Do </h3> <ul> <li>Design, develop, and maintain high-quality Android applications using Kotlin. </li> <li>Collaborate with cross-functional teams to define, design, and release new features. </li> <li>Conduct code reviews to ensure code quality, scalability, and security. </li> <li>Optimize performance, identify bottlenecks, and troubleshoot issues. </li> <li>Mentor junior developers and guide best practices within the team. </li> <li>Stay updated on emerging trends and technologies in Android development. </li>  </ul> <h3>What We Are Looking For </h3> <ul> <li>4+ years of experience with Android development using Kotlin. </li> <li>Strong understanding of best practices, such as SOLID principles and clean code. </li> <li>Extensive experience with code reviews, writing automated tests, and implementing CI/CD pipelines. </li> <li>Expertise in unit testing, integration testing, and maintaining high code coverage. </li> <li>Demonstrated ability to make informed technical decisions and provide scalable solutions. </li> <li>Advanced knowledge of IT infrastructure. </li> <li>Advanced level of English. </li>  </ul> <h3>How We Make Your Work Easier </h3> <ul> <li>100% remote work (from anywhere). </li> <li>Excellent compensation in USD or your local currency if preferred. </li> <li>Hardware and software setup for you to work from home. </li> <li>Flexible hours: create your own schedule. </li> <li>Paid parental leaves, vacations, and national holidays. </li> <li>Innovative and multicultural environment: collaborate and learn from the global Top 1% of talent. </li> <li>Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities. </li>  </ul> <p>Join a global team where your unique talents can truly thrive! </p> <h3>Seniority level </h3> <p>Mid-Senior level </p> <h3>Employment type </h3> <p>Full-time </p> <h3>Job function </h3> <p>Information Technology </p> <h3>Industries </h3> <p>IT Services and IT Consulting </p> <p>Referrals increase your chances of interviewing at BairesDev by 2x </p> <p>Sign in to set job alerts for “Android Developer” roles. </p> <p>Junior iOS Developer - Remote Work | REF#  </p> <p>Junior iOS Developer (Swift) - Remote Work | REF#  </p> <p>Python Trainee Developer - Remote Work | REF#  </p> <p>React Frontend Developer - Remote Work | REF#  </p> <p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> </p> #J-18808-Ljbffr",
-    "company": "BairesDev",
-    "city": "natal",
-    "state": "rio grande do norte",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9734868__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Android&location=natal&geoID=5675"
-  },
-  {
-    "title": "Site Reliability Engineer - Remote Work | REF#180136",
-    "description": "<p><h3>Overview </h3><p>Site Reliability Engineer - Remote Work | REF#  </p><p>Join to apply for the Site Reliability Engineer - Remote Work role at BairesDev. We are looking for a Site Reliability Engineer to administrate and provide support for the whole project infrastructure hosted in the cloud while implementing CI/CD pipelines for the automation of the deployments. </p><h3>Responsibilities </h3><ul><li>Ensure high service availability, performance, security, and maintainability. </li><li>Implement CI/CD pipelines for the automation of the deployments. </li><li>Automate tools to reduce repeating efforts of processes using scripting. </li><li>Assess new cloud providers. </li><li>Create and maintain technical documentation for existing and new processes and policies. </li><li>Troubleshoot errors - from software to hardware to cloud resources. </li> </ul><h3>Qualifications </h3><ul><li>2+ years of experience as an Infrastructure Engineer or similar. </li><li>1+ years of experience with Kubernetes as an SRE engineer or similar. </li><li>Previous work experience with Ansible, Terraform, and CI/CD pipelines. </li><li>Experience and familiarity working with different cloud providers. </li><li>Experience working with monitor/observability tools like Grafana and Prometheus, Datadog, New Relic. </li><li>Experience working with Bitbucket Pipelines is a plus. </li><li>Advanced English level. </li> </ul><h3>Benefits </h3><ul><li>100% remote work (from anywhere). </li><li>Excellent compensation in USD or your local currency if preferred. </li><li>Hardware and software setup for you to work from home. </li><li>Flexible hours: create your own schedule. </li><li>Paid parental leaves, vacations, and national holidays. </li><li>Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent. </li><li>Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities. </li> </ul><p>Note: This description reflects the original content and keeps the role information intact while removing non-essential site prompts and extraneous formatting. </p> </p> #J-18808-Ljbffr",
-    "company": "BairesDev",
-    "city": "são bernardo do campo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9734870__1953?utm_source=1953&utm_medium=feed&keyword=Site-Reliability-Engineer&location=são-bernardo-do-campo&geoID=7985"
-  },
-  {
     "title": "PX Analyst - Remote Work | REF#191837",
     "description": "<p><h3><b>Overview </b> </h3><p>Join to apply for the <b>PX Analyst - Remote Work | REF#  </b> role at <b>BairesDev </b> </p><h3><b>What You’ll Do </b> </h3><ul><li>Perform one-on-one meetings with employees. </li><li>Resolve complex employee relations issues and address grievances. </li><li>Consult with line management and provide daily HR guidance. </li><li>Analyze trends and metrics related with attrition. </li><li>Work closely with management and employees to improve work relationships, build morale and increase productivity and retention. </li><li>Provide HR policy guidance. </li><li>Assist international employees with relocation and HR-related matters. </li> </ul><h3><b>You Must Have </b> </h3><ul><li>2+ years of experience resolving employee relations issues. </li><li>Bachelor's degree preferred in Business Administration, Engineering, International Relations or similar (Desirable). </li><li>Experience within the IT Industry (Desirable). </li><li>Advanced English level. </li> </ul><h3><b>How We Make Your Work (and Your Life) Easier </b> </h3><ul><li>100% remote work (from anywhere). </li><li>Excellent compensation in USD or your local currency if preferred </li><li>Hardware and software setup for you to work from home. </li><li>Flexible hours: create your own schedule. </li><li>Paid parental leaves, vacations, and national holidays. </li><li>Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent. </li><li>Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities. </li> </ul><p>Join a global team where your unique talents can truly thrive! </p><h3>Seniority level </h3><ul><li>Entry level </li> </ul><h3>Employment type </h3><ul><li>Full-time </li> </ul><h3>Job function </h3><ul><li>Information Technology </li> </ul><h3>Industries </h3><ul><li>IT Services and IT Consulting </li> </ul><p>Referrals increase your chances of interviewing at BairesDev by 2x </p> </p> #J-18808-Ljbffr",
     "company": "BairesDev",
@@ -519,7 +492,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9735238__1953_8fdc81a7746bd3de53d39da3b29f3ca8?utm_source=1953&utm_medium=feed&keyword=Pessoa-consultora-de&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9735238__1953_73cc62ee63647c03a41068c2ab56b4c6?utm_source=1953&utm_medium=feed&keyword=Pessoa-consultora-de&location=são-paulo&geoID=25"
   },
   {
     "title": "Consultor(a) Pré Vendas IV - Especialista - Eletronicos & Microinformática ( Exclusiva para Pro[...]",
@@ -1104,7 +1077,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9736330__1953_45b043bedcf0547bf6af40884e19be6e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Sistemas&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9736330__1953_c43324c4363002751084770cc70b8b35?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Sistemas&location=são-paulo&geoID=25"
   },
   {
     "title": "Gerente de negocios sr sao paulo sp",
@@ -1401,7 +1374,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9736534__1953_38a3edb7bc468cf3268929e23286d985?utm_source=1953&utm_medium=feed&keyword=SOFTWARE-DEVELOPER-C&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9736534__1953_528c7ba2eacf78e7190b35e927f07f79?utm_source=1953&utm_medium=feed&keyword=SOFTWARE-DEVELOPER-C&location=são-paulo&geoID=25"
   },
   {
     "title": "Especialista de E-commerce",
@@ -1986,7 +1959,7 @@
     "city": "região geográfica intermediária de são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9740154__1953_2313254c7084f8108f326672c6d142e0?utm_source=1953&utm_medium=feed&keyword=Senior-Manager-Financial&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9740154__1953_937f78a280118316c05b150931bda1b9?utm_source=1953&utm_medium=feed&keyword=Senior-Manager-Financial&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
   },
   {
     "title": "Engenheiro de Manutenção",
@@ -2103,7 +2076,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9741569__1953_c68c261efc3f7ffaf8859e2989461728?utm_source=1953&utm_medium=feed&keyword=Analista-de-Sales&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9741569__1953_113fe577d31dbc18bab45f53e0b08d14?utm_source=1953&utm_medium=feed&keyword=Analista-de-Sales&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "Gerente Comercial - Academia Cayena",
@@ -2202,7 +2175,7 @@
     "city": "sorocaba",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9742142__1953_9424f737a41f3b573eabd10368336ed0?utm_source=1953&utm_medium=feed&keyword=Structural-Engineer-I&location=sorocaba&geoID=8852"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9742142__1953_26d10f8b684ff35e5373a488cd6027d8?utm_source=1953&utm_medium=feed&keyword=Structural-Engineer-I&location=sorocaba&geoID=8852"
   },
   {
     "title": "ADVOGADO(A) TRABALHISTA - 33494",
@@ -3048,7 +3021,7 @@
     "city": "joinville",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9743547__1953_7ae6e08fceb03e288ce6936efb002b62?utm_source=1953&utm_medium=feed&keyword=Junior-Java-Developer&location=joinville&geoID=4554"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9743547__1953_2893547268e829198abf0a7777fe8d6b?utm_source=1953&utm_medium=feed&keyword=Junior-Java-Developer&location=joinville&geoID=4554"
   },
   {
     "title": "Python/SDET Engineer (Senior) ID41556",
@@ -3831,7 +3804,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9744150__1953_2b35590425bbb068ce9427ef01e0712c?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-aplicacoes&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9744150__1953_bf8a853a176aba806e8e6cc73bcb16df?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-aplicacoes&location=são-paulo&geoID=25"
   },
   {
     "title": "Especialista de gestao de riscos compliance",
@@ -4065,7 +4038,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9744256__1953_79e1ff2b1c24026ae2e1f4c568b81e1f?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9744256__1953_a83f80d06a63fedcccdd7aeeae78021d?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=são-paulo&geoID=25"
   },
   {
     "title": "Gerente de negocios junior gurupi to",
@@ -5100,7 +5073,7 @@
     "city": "tucumã",
     "state": "pará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9746993__1953_c93369a8fa25f4e12be8ca65bc6ab01a?utm_source=1953&utm_medium=feed&keyword=COORDENADOR-DE-PCP&location=tucumã&geoID=9254"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9746993__1953_be1fc118e28fe369407a98f28a719b8a?utm_source=1953&utm_medium=feed&keyword=COORDENADOR-DE-PCP&location=tucumã&geoID=9254"
   },
   {
     "title": "SQL Developer",
@@ -6531,7 +6504,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9752649__1953_d0ba68a2e7d95d394273991379862f18?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Comunica%C3%A7%C3%A3o&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9752649__1953_eb845113b0b1661ac5ea3def925bd9a6?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Comunica%C3%A7%C3%A3o&location=são-paulo&geoID=25"
   },
   {
     "title": "BRINGEL MEDICAL - MEDICO (A) RADIOLOGISTA - FLORIANÓPOLIS/SC",
@@ -6873,7 +6846,7 @@
     "city": "parauapebas",
     "state": "pará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9753901__1953_26951faa8b85aa8c4c51b2a3c84d2cb4?utm_source=1953&utm_medium=feed&keyword=502-2505529-PESSOA&location=parauapebas&geoID=6286"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9753901__1953_d8a28c003bd7e3957c7345a201b4ef83?utm_source=1953&utm_medium=feed&keyword=502-2505529-PESSOA&location=parauapebas&geoID=6286"
   },
   {
     "title": "Gerente Sênior de Sell Out - L´Oréal Grande Público",
@@ -6990,7 +6963,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9753942__1953_da79cb5c10c8d5aeb2142d1a876bb5fc?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9753942__1953_ec3b24e4cef5b47d3d2824a57a7dc492?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=são-paulo&geoID=25"
   },
   {
     "title": "Informatica IICS Developer",
@@ -7665,7 +7638,7 @@
     "city": "sorocaba",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9754103__1953_54f01c3dbcf317938387e394f6fd63cf?utm_source=1953&utm_medium=feed&keyword=Front-End-Engineer&location=sorocaba&geoID=8852"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9754103__1953_2925bcd4275d477360142858b0392810?utm_source=1953&utm_medium=feed&keyword=Front-End-Engineer&location=sorocaba&geoID=8852"
   },
   {
     "title": "Director of Digital Workplace Technology Services",
@@ -8070,7 +8043,7 @@
     "city": "região geográfica intermediária de são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9754342__1953_45b4a1b0fa59bec88060a3b2bb45177d?utm_source=1953&utm_medium=feed&keyword=Gerente-de-vendas&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9754342__1953_50d188ad66b9628beb7be42325745587?utm_source=1953&utm_medium=feed&keyword=Gerente-de-vendas&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
   },
   {
     "title": "Gerente Comercial | São Paulo (SP) | Presencial",
@@ -8241,7 +8214,7 @@
     "city": "brasília",
     "state": "região centro- este",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9755631__1953_47b3752af6f85568eead200464027b08?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Loja&location=brasília&geoID=1366"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9755631__1953_551931ac4cec9bd4336fc22baf306758?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Loja&location=brasília&geoID=1366"
   },
   {
     "title": "Gerente comercial",
@@ -8736,7 +8709,7 @@
     "city": "manaus",
     "state": "pernambuco",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9757684__1953_f74d46abdbabc811cbe1f94a7858c2db?utm_source=1953&utm_medium=feed&keyword=Pessoa-Consultora-BTP-CPI&location=manaus"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9757684__1953_3e84cd5fd59f75969e306dfab463c622?utm_source=1953&utm_medium=feed&keyword=Pessoa-Consultora-BTP-CPI&location=manaus"
   },
   {
     "title": "Coordenador de Customer Success",
@@ -8998,5 +8971,32 @@
     "state": "rio de janeiro",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___70_9758065__1953?utm_source=1953&utm_medium=feed&keyword=FYKEKH-Engenheiro-de&location=rio-de-janeiro&geoID=19"
+  },
+  {
+    "title": "Engenheiro Mecânico Trainee - CE",
+    "description": "<p>Somos uma empresa feita por pessoas apaixonadas pelo que fazem e estamos buscando novos talentos! </p><p>Aqui, acreditamos que o sucesso é construído com base nos nossos valores: segurança, colaboração, capricho, confiança, disponibilidade, respeito às pessoas e atitude de dono. </p><p>Se você compartilha dessa visão e está pronto para enfrentar desafios, essa vaga é para você! </p><p>#VemSerCosampa e faça parte dessa jornada de sucesso! </p><ul><li>Ensino Superior em Engenharia Mecanica, com no máximo 4 anos de conclusão do curso; </li><li>Desejavel conhecimento em Softwares de engenharia e gerenciamento de projetos; </li><li>Conhecimento avançado no pacote office; </li><li>Disponibilidade para viagens. </li> </ul><h3>Requisitos </h3><h3>Habilidade Técnica </h3><ul><li>EXCEL BÁSICO - Avançado </li><li>Assistência médica </li><li>Seguro de vida </li><li>Vale alimentação </li><li>Auxílio habilitação </li> </ul><h3>Localização </h3><p>Rua Manoel de Aguiar Pontes, 1354, Boa Vista, Fortaleza - CE, Brasil,   </p> #J-18808-Ljbffr",
+    "company": "Cosampa",
+    "city": "fortaleza",
+    "state": "região nordeste",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9758072__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-Mec%C3%A2nico-Trainee&location=fortaleza&geoID=3264"
+  },
+  {
+    "title": "Banco: Engenheiro Civil (canteiro de obras) - Sênior - Sorocaba, São Paulo e Campinas.",
+    "description": "<p><h3>Job description </h3> <p>E se você pudesse trabalhar com o que realmente ama e, ao mesmo tempo, transformar sonhos em realidade? </p> <p>Na Yees!, buscamos pessoas com energia, mentalidade de crescimento e melhoria contínua. Aqui, valorizamos quem acredita no poder da inovação e quem se dedica a fazer acontecer. </p> <p>Somos movidos pela paixão em construir mais do que obras: construímos histórias e realizamos sonhos. Nosso time é formado por pessoas que fazem acontecer, com responsabilidade e dedicação em cada detalhe. </p> <p>Se você também compartilha desse propósito, venha construir o futuro com a gente. </p> <h3>Main responsibilities </h3> <ul> <li>Experiência comprovada em<b> início e finalização de pelo menos 3 obras de alvenaria estrutural </b>; </li> <li>Liderar equipes de engenharia e empreiteiros; </li> <li>Garantir que os cronogramas sejam cumpridos, sem atrasos, mantendo a qualidade prevista no projeto; </li> <li>Realizar leitura, interpretação e compatibilização de projetos; </li> <li>Controlar custos, prazos e indicadores de desempenho da obra; </li>  </ul> <h3>Requirements and skills </h3> <ul> <li>Formação em engenharia civil com CREA ativo; </li> <li>Experiência comprovada em<b> início e finalização de pelo menos 3 obras de alvenaria estrutural </b>; </li> <li>Desejável: Pós-Graduação; </li> <li>Conhecimento em Microsoft Office – Pacote office (Word / Excel / Power Point, Outlook) CAD, Vision. </li>  </ul> <h3>Additional information </h3> <p>Aqui você encontrará... </p> <ul> <li>Ambiente com energia e colaborativo </li> <li>Eventos de bem-estar </li> <li>Oportunidade de construir grandes projetos e sonhos </li> <li>Parceria com cursos online para seu desenvolvimento </li> <li>Ambiente que valoriza a inovação </li> <li>Benefícios compatíveis com o mercado </li> <li>Day Off de aniversário </li> <li>Ranking de indicações de vagas com premiações </li> <li>Celebração dos aniversariantes do mês e mimos especiais </li> <li>Comemoração de datas especiais ao longo do ano </li>  </ul> <p>Em todas as oportunidades da Yees! não há qualquer tipo de distinção de gênero, orientação sexual, política, etnia, cultura, origem, religião, deficiência, idade etc. </p> <p>Seja muito bem-vindo à Yees! Vamos juntos construir o seu futuro! </p> </p> #J-18808-Ljbffr",
+    "company": "YEES!",
+    "city": "sorocaba",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9758073__1953?utm_source=1953&utm_medium=feed&keyword=Banco-Engenheiro-Civil&location=sorocaba&geoID=8852"
+  },
+  {
+    "title": "Projetista de Prevenção e Combate a Incêndio",
+    "description": "<p><p>Há mais de 13 anos no mercado, somos uma empresa inovadora e comprometida em projetar soluções inteligentes de engenharia. Com uma trajetória sólida e uma equipe apaixonada, estamos expandindo nossas operações e buscamos por profissionais apaixonados pela engenharia e que busquem viver novos desafios e conquistas conosco </p><p>Estamos em busca de um(a) profissional talentoso(a) e motivado(a) para integrar nossa equipe. Se você é proativo, possui excelentes habilidades com projetos e é orientado para resultados, queremos conhecer você! </p><h3>RESPONSABILIDADES </h3><p>Como projetista de incêndio, você desempenhará um papel fundamental no desenvolvimento de projetos que garantem a segurança de nossos clientes. Suas responsabilidades incluirão: </p><ul><li>Elaboração de projetos de prevenção e combate a incêndio a nível legal e executivo de diversos subsistemas de segurança; </li><li>Realização de visita técnica para levantamento arquitetônico e inspeção dos sistemas de proteção contra incêndio; </li><li>Assegurar a conformidade com normas e regulamentos aplicáveis; </li><li>Colaboração com equipes multidisciplinares para integrar soluções inovadoras. </li> </ul><h3>REQUISITOS </h3><ul><li><b>Graduação em engenharia, arquitetura ou ensino técnico em áreas correlacionadas </b>; </li><li>Cálculo, detalhamento e especificação de sistemas de sprinkler; </li><li>Cálculo, detalhamento e especificação do sistema de pressurização de escada; </li><li>Conhecimento intermediário/avançado nos softwares de desenho e projeto, nas metodologias 2D (CAD) e BIM (Revit, Qi Builder ou equivante); </li><li>Conhecimento em FHC (ferramenta de dimensionamento de sistemas de sprinkler); </li><li>Vivencia com protocolo de projetos em outros estados; </li><li>Experiência com projetos de incêndio complexos, será considerado um diferencial. </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "Conceito Engenharia",
+    "city": "belo horizonte",
+    "state": "minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9758088__1953?utm_source=1953&utm_medium=feed&keyword=Projetista-de-Preven%C3%A7%C3%A3o&location=belo-horizonte&geoID=1086"
   }
 ]
