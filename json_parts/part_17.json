@@ -1,93 +1,12 @@
 [
   {
-    "title": "OPERADOR DE PROCESSO PRODUÇÃO - TAQUARITUBA",
-    "description": "<p><p>A Ki-Kakau, unidade Taquarituba, está em busca de colaboradores para a vaga de Operador de Processo de Produção para integrar nossa equipe. </p><ul><li>Turno 1: Seg a Sab, das 05h25 às 13h15 </li><li>Turno 2: Seg a Sexta, das 13h15 às 22h26. </li> </ul><h3>Responsabilidades </h3><ul><li>Reportar-se ao Encarregado de Produção. </li><li>Preparar e movimentar materiais para a linha de produção. </li><li>Inspecionar e monitorar a linha de produção. </li><li>Alimentar a linha de produção. </li><li>Acondicionar os produtos. </li><li>Controlar a qualidade da linha de produção. </li><li>Organizar a área de serviço. </li> </ul><h3>Requisitos </h3><ul><li>Comprometimento. </li><li>Adaptabilidade. </li><li>Agilidade. </li><li>Habilidade manual. </li><li>Trabalho em equipe. </li> </ul><p>Se você possui essas habilidades e está em busca de novos desafios, participe do nosso processo seletivo. </p> </p> #J-18808-Ljbffr",
-    "company": "Ki-Kakau Indústria",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10728717__1953?utm_source=1953&utm_medium=feed&keyword=OPERADOR-DE-PROCESSO&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Analista De Inteligência De Mercado E Produtos - Goiânia",
-    "description": "<p><ul> <li><p>Realizar análises de mercado, concorrência e tendências educacionais para apoiar o desenvolvimento, atualização e posicionamento dos produtos educacionais do IPOG. </p> </li> <li><p>Gerar inteligência estratégica por meio da análise de dados, indicadores e estudos mercadológicos, contribuindo para a tomada de decisão relacionada ao portfólio de cursos de Pós-graduação. </p> </li> <li><p>Realizar pesquisas de mercado e análise de concorrência, avaliando tendências, posicionamento, formatos, precificação e diferenciais de cursos ofertados pelo mercado educacional. </p> </li> <li><p>Elaborar estudos de viabilidade mercadológica para novos cursos, utilizando dados de mercado, indicadores institucionais e benchmarking, a fim de apoiar decisões estratégicas sobre expansão e atualização do portfólio. </p> </li> <li><p>Construir relatórios, dashboards e indicadores gerenciais utilizando ferramentas de análise de dados e Business Intelligence, apoiando as áreas Acadêmica, Comercial, Marketing e Produtos. </p> </li> <li><p>Acompanhar indicadores relacionados à demanda, captação, conversão e desempenho dos cursos, identificando oportunidades de melhoria e tendências de mercado. </p> </li> <li><p>Apoiar processos de lançamento e posicionamento de novos produtos educacionais, contribuindo com análises relacionadas a público-alvo, concorrência, otimização para mecanismos de busca na internet (SEO) e comportamento do mercado. </p> </li> <li><p>Organizar e consolidar informações estratégicas relacionadas ao portfólio de produtos educacionais, garantindo suporte analítico para a tomada de decisão institucional. </p> </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Goianiatendas",
-    "city": "goiânia",
-    "state": "goiás",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10728727__1953?utm_source=1953&utm_medium=feed&keyword=Analista-De-Intelig%C3%AAncia&location=goiânia&geoID=3432"
-  },
-  {
-    "title": "DESENVOLVEDOR FULL STACK SR",
-    "description": "<p><h3>Responsabilidades </h3><ul><li>Desenvolvimento e manutenção de aplicações web modernas utilizando Blazor WebAssembly e ASP.NET Core </li><li>Desenho e implementação de APIs RESTful seguindo boas práticas de Clean Architecture e CQRS </li><li>Desenvolvimento de aplicações desktop com WPF e aplicações multiplataforma com .NET MAUI </li><li>Modelagem e administração de bancos de dados PostgreSQL, incluindo migrações e otimização de queries </li><li>Implementação de mensageria assíncrona com RabbitMQ e estratégias de cache com Redis </li><li>Containerização de aplicações com Docker e gestão de ambientes em servidores Linux (Ubuntu/Proxmox LXC) </li><li>Estruturação e manutenção de pipelines CI/CD para build, testes e deploy automatizados </li><li>Escrita e manutenção de testes unitários e de integração, garantindo cobertura e qualidade do código </li><li>Colaboração na definição de arquitetura de sistemas, incluindo padrões como Vertical Slice Architecture e MVVM </li><li>Integração com sistemas legados e condução de processos de modernização tecnológica </li><li>Implementação de funcionalidades em tempo real com SignalR </li><li>Participação ativa em code reviews, definição de padrões e mentoria de desenvolvedores juniores </li> </ul><h3>Conhecimentos Técnicos Requeridos </h3><ul><li>.NET 6+ (C#, ASP.NET Core e Entity Framework Core) </li><li>Desenvolvimento desktop com WPF e padrão MVVM </li><li>Desenvolvimento multiplataforma com .NET MAUI (Android, iOS e Windows) </li><li>Blazor WebAssembly ou frameworks front-end similares (React / Angular) </li><li>Mensageria e filas com RabbitMQ </li><li>Cache distribuído com Redis </li><li>Banco de dados relacionais, preferencialmente PostgreSQL </li><li>Docker e ambientes Linux </li><li>Arquiteturas e padrões: Clean Architecture, CQRS e DDD </li><li>Testes unitários e de integração (xUnit, NUnit, Moq e FluentAssertions) </li><li>CI/CD (GitHub Actions, GitLab CI ou Azure DevOps) </li><li>Controle de versão Git </li> </ul><h3>Conhecimentos Desejáveis / Diferenciais </h3><ul><li>Modernização de aplicações legadas WPF para Blazor ou MAUI </li><li>Virtualização (Proxmox e Hyper-V) </li><li>Redes e infraestrutura (Fortigate, Active Directory e DNS) </li><li>Integração com periféricos e hardware industrial </li><li>Bibliotecas de geração e processamento de documentos (iText, PDF e etiquetas) </li><li>Material Design e MudBlazor </li><li>Conhecimento em processos da indústria gráfica:<ul><li>Fluxos de produção gráfica </li><li>Formatos de impressão (PDF/X, CMYK e ICC Profiles) </li><li>Gestão e geração de etiquetas </li><li>Integração com equipamentos de impressão industrial </li><li>Padrões JDF/JMF para automação de workflows gráficos </li> </ul> </li> </ul> </p> #J-18808-Ljbffr",
-    "company": "Formacerta",
-    "city": "barueri",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10728731__1953?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-FULL-STACK&location=barueri&geoID=1016"
-  },
-  {
-    "title": "Banco de Talentos | Pessoas com Deficiência",
-    "description": "<p><h3>Banco de Talentos | Pessoas com Deficiência </h3> <p>Novo Hamburgo - RS </p> <p>O ATACADÃO busca ampliar seu banco de talentos e convida <b>pessoas com deficiência </b> para se juntarem ao nosso time. Esta é uma oportunidade para quem busca um cargo de relevância em um ambiente que valoriza a diversidade e o talento. </p> <p><b>Cargos disponíveis: </b> </p> <ul> <li>Operador(a) de Caixa </li> <li>Dentre outras possibilidades dentro de nossas lojas. </li>  </ul> <p><b>Requisitos: </b> </p> <ul> <li>Assistência médica; </li> <li>Assistência odontológica; </li> <li>Estacionamento gratuito (para quem usa moto ou carro para trabalhar); </li> <li>PLR – Premiação anual (pagamento baseado no desempenho da companhia); </li> <li>Cartão Atacadão (descontos exclusivos em compras durante o mês e isenção de anuidade. Consulte as condições de uso); </li> <li>Licença-maternidade e paternidade estendida (licença-maternidade de 180 dias e paternidade de 20 dias; </li> <li>Gratuidade para se associar e aproveitar o cartão sem anuidade, com todos os benefícios exclusivos do Sam’s Club. </li> <li>Auxílio-creche (apoio especial para mães no retorno de licença maternidade); </li> <li>Kiddle Pass – Plataforma de apoio ao desenvolvimento das crianças, com atividades educativas e de entretenimento para crianças de 3 a 12 anos; </li> <li>Convênio SESC (acesso a saúde, lazer, cultura e esportes); </li> <li>PRU – Programa de reembolso universitário (ajuda nos custos da Faculdade, conforme política interna); </li> <li>Mindself – Programa de meditação guiada; Cooperata (empréstimos e parcerias vantajosas); </li> <li>PAC – Programa de Apoio ao Colaborador (serviço gratuito com suporte psicológico, jurídico, financeiro, social e nutricional para você e seus dependentes legais). </li>  </ul> <p>Esta é uma oportunidade para quem busca trabalhar em uma empresa que valoriza a diversidade e está comprometida em oferecer um ambiente de trabalho inclusivo e acolhedor. </p> <p>O Grupo Carrefour Brasil promove e incentiva a inclusão e a diversidade. Por isso, estimulamos a candidatura de mulheres, profissionais negros(as), LGBTI+ e de pessoas com deficiência. </p> </p> #J-18808-Ljbffr",
-    "company": "Atacadao Distribuicao Comercio E Industria Ltda.",
-    "city": "novo hamburgo",
-    "state": "rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10728738__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=novo-hamburgo&geoID=5932"
-  },
-  {
-    "title": "Design de marketing",
-    "description": "<p><p>* Tipo de contrato: CLT Efetivo. </p> <p>* Empresa: Somos uma rede de academias comprometida em proporcionar um estilo de vida saudável e ativo para nossos clientes e comunidade. A 26fit proporciona ambientes agradáveis, modernos, climatizados, acolhedores e bonitos, que geram bem-estar e uma experiência de alto valor ao aluno. </p> <p>* Objetivo do trabalho: O profissional de Design de Marketing Júnior será responsável por criar e implementar materiais visuais que promovam a identidade da marca e suas ofertas, com o intuito de atrair novos alunos e engajar a comunidade. Este cargo envolve colaboração com a equipe de marketing para desenvolver campanhas criativas e garantir que o conteúdo visual esteja alinhado com os objetivos de negócios da empresa. </p> <h3>Responsabilidades </h3> <ul> <li>Criar peças gráficas e visuais para campanhas de marketing em mídias digitais e impressas, visando aumentar a visibilidade da marca e atrair novos alunos. </li> <li>Colaborar com a equipe para desenvolver conteúdo que comunique de forma clara os benefícios dos serviços e produtos da 26fit, mantendo a identidade visual da marca. </li> <li>Participar de reuniões de brainstorming para gerar ideias criativas e eficazes que atendam às necessidades de marketing da empresa. </li> <li>Revisar e ajustar o material gráfico de acordo com o feedback da equipe e de gestores, garantindo a qualidade e eficácia das comunicações visuais. </li> <li>Manter-se atualizado sobre tendências de design e marketing digital, buscando constantemente inovações que possam ser aplicadas nas campanhas. </li>  </ul> <h3>Qualificações </h3> <ul> <li>Conhecimento prático em softwares de design gráfico, como Adobe Photoshop, Ilustrador e InDesign. </li> <li>Habilidade em comunicação visual e entendimento de princípios de design, incluindo tipografia, cores, e composição. </li> <li>Capacidade de trabalhar de forma colaborativa, recebendo feedback e aplicando sugestões para melhorar o trabalho. </li> <li>Criatividade e pro atividade para apresentar novas ideias e soluções. </li>  </ul> <p>* Qualificações educacionais: Graduação em Design Gráfico, Comunicação Visual, Publicidade e Propaganda ou áreas relacionadas. </p> <h3>Experiências profissionais </h3> <ul> <li>Experiência prévia de estágio ou projetos freelance na área de design, além de participação em atividades relacionadas ao marketing digital. Estágios durante a graduação são considerados relevantes. </li>  </ul> <h3>CONHECIMENTOS, HABILIDADES </h3> <ul> <li>Conhecimento prático dos princípios de design gráfico, capacidade de realizar alterações e ajustes em materiais visuais, e entendimento básico das melhores práticas em marketing digital. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Cooperflora",
-    "city": "serafina corrêa",
-    "state": "rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10728744__1953_5ba4cf22faa2af58e2793c289241790d?utm_source=1953&utm_medium=feed&keyword=Design-de-marketing&location=serafina-corrêa&geoID=8668"
-  },
-  {
-    "title": "Mid-Level Communication and Marketing Analyst",
-    "description": "<p><h3>Mid-Level Communication and Marketing Analyst </h3> <ul> <li>Full-time </li> <li>Department: 400 - Marketing </li>  </ul> <p>Jitterbit is a leading data, application, and process workflow automation solution. Rooted in iPaaS and fueled by an ambitious vision, we integrate critical business processes to deliver the experiences and insights needed by enterprises of all sizes to accelerate their digital journey and future proof their business. Simply put, we power people to perform their best. </p> <p>Jitterbit empowers business transformation by automating critical business processes for faster, more informed decision-making. Jitterbit is the only provider to seamlessly combine and simplify the power of integration, APIM, and no-code app creation to amplify the value of your tech stack and speed up your digital journey. Organizations worldwide rely on Jitterbit’s experience and expertise to help them save time and money, while creating exceptional experiences, now and into the future. </p> <p>We are looking for a <b>Mid-Level Communication and Marketing Analyst </b> to work on the creation and visual rollout of marketing and communication materials within a global context. This professional will be responsible for translating strategic concepts into consistent, scalable, and performance-oriented visual assets, supporting demand generation initiatives, sales enablement, and brand positioning. </p> <h3>Daily Responsibilities </h3> <h3>Develop content and visual narratives, going beyond purely aesthetic execution: </h3> <ul> <li>Structure presentations, case studies, and rich materials with logic, storytelling, and clarity. </li> <li>Translate technical concepts into accessible messages focused on business value. </li> <li>Suggest creative approaches and content improvements. </li>  </ul> <h3>Create and roll out visual content across multiple channels (digital and offline), including: </h3> <ul> <li>Social media, digital campaigns, and paid media. </li> <li>Email marketing and nurturing flows. </li> <li>Institutional and sales presentations. </li> <li>Customer case studies and sales enablement materials. </li> <li>Assets for events (both digital and physical). </li>  </ul> <h3>Brand Management and Collaboration: </h3> <ul> <li>Apply, maintain, and evolve the brand's visual identity, ensuring global consistency and adaptation for different markets and cultures. </li> <li>Ensure technical quality in file preparation/finalization for digital and print production. </li> <li>Collaborate with multidisciplinary teams (Marketing, Partnerships, Product, Sales, Customer Success, Demand Generation) to understand demands and transform requirements into efficient visual solutions. </li> <li>Organize and maintain asset libraries, templates, and guidelines. </li> <li>Act as a brand guardian, ensuring coherence across all touchpoints. </li>  </ul> <h3>Requirements </h3> <ul> <li>Strong command of visual design applied to corporate marketing and communication. </li> <li>Experience in creating materials focused on: Demand generation (performance marketing), B2B events and activations, Experience in content and design for B2B companies, preferably in technology (SaaS, integration, iPaaS, APIs, automation). </li> <li>Proven ability to develop content, not just execute layouts: Structuring complex presentations and materials, Information architecture and narrative organization, Knowledge of multi-channel campaign rollouts, Advanced experience with tools like Adobe CC (Illustrator, Photoshop, InDesign) and collaborative tools, Experience working within global guidelines and managing high volumes of deliverables, Experience with file preparation/finalization for digital and print media, Familiarity with technology topics (integration, automation, digital transformation). </li> <li>Advanced English (for collaboration with global teams and content adaptation). </li>  </ul> <h3>Differentials (Nice to Have) </h3> <ul> <li>Experience working with 360-degree digital marketing, systems integration, and related topics. </li> <li>Experience with global companies or multicultural environments. </li> <li>Deep experience with B2B companies. </li> <li>Knowledge of copywriting and B2B marketing content. </li> <li>Knowledge of motion design and video editing. </li> <li>Experience with collaborative and project management tools (e.g., Jira, Confluence, Adobe CC, Google Workspace). </li> <li>Familiarity with performance metrics and creative optimization. </li>  </ul> <h3>Soft Skills </h3> <ul> <li>Strong organization and ability to manage multiple demands with high attention to detail. </li> <li>Structured, consistent, and content-oriented mindset. </li> <li>Great communication and ability for cross-functional collaboration. </li> <li>Proactivity and autonomy paired with a high sense of responsibility. </li> <li>Ability to balance speed and quality. </li> <li>Versatility. </li> <li>Team player. </li>  </ul> <h3>Education </h3> <p>Degree in Graphic Design, Communication, Marketing, Advertising, Industrial Design, Fine Arts, Social Communication, or related fields. </p> <h3>What You’ll Get: </h3> <ul> <li>Work for a growing leader within the Integration Platform as a Service (iPaaS) tech space </li> <li>Join a mission-driven company that is transforming the industry by changing the way customers use API creation within business-critical processes </li> <li>Career development and mentorship </li> <li>A flexible, remote-friendly company with personality and heart </li>  </ul> <p>Jitterbit is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law. </p> </p> #J-18808-Ljbffr",
-    "company": "Jitterbit",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10728791__1953_7e645d09bff28b029d85ec46457bb152?utm_source=1953&utm_medium=feed&keyword=Mid-Level-Communication-and&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Manobrista - Shopping Catuaí Maringá",
-    "description": "<p><p>Segue algumas informações sobre a vaga: </p> <ul> <li>Salário mensal: R$2.025,00 </li> <li>Horário: 12h às 00h - 12x36 </li> <li>VA: R$123,09/mês e VR: R$24,15/dia </li> <li>Plano Odontológico, Vale Transporte e Seguro de Vida </li> <li>Necessário CNH Válida e Definitiva </li> <li>Vale-alimentação </li> <li>Vale-refeição </li>  </ul> <h3>Atividades: </h3> <ul> <li>Manobrar veículos; </li> <li>Registrar de imediato todo e qualquer veículo que entre no estacionamento; </li> <li>Verificar se os clientes são credenciados, mensalistas ou condôminos e checar que o cliente possui a credencial de identificação; </li> <li>Informar ao cliente sobre procedimentos e normas do estacionamento, envolvendo tolerâncias, valores, localização e outras informações pertinentes, focando sempre na boa recepção dos usuários. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Parkindigo",
-    "city": "maringá",
-    "state": "paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10728807__1953_92cd33b6a25b30524a3692167b9ccd38?utm_source=1953&utm_medium=feed&keyword=Manobrista-Shopping&location=maringá&geoID=5194"
-  },
-  {
-    "title": "ANALISTA MELHORIA CONTINUA SENIOR",
-    "description": "<p><h3>RESPONSABILIDADES </h3> <ul> <li>Treinar e capacitar lideranças nas ferramentas de melhoria contínua, como Pareto, Kaizen, PDCA, 5W2H, 5 Porquês e Diagrama de Ishikawa; </li> <li>Realizar análises de perdas e performance através da metodologia Pareto; </li> <li>Desenhar e estruturar processos produtivos de forma analítica e sistemática; </li> <li>Liderar, monitorar e priorizar projetos Kaizen; </li> <li>Apoiar a diretoria em decisões estratégicas relacionadas à melhoria de performance e redução de perdas; </li> <li>Fazer interface entre diretoria, gerência e operação para garantir a implementação das ações no prazo; </li> <li>Desenvolver o time operacional para identificação de perdas e análise de processos; </li> <li>Implementar ferramentas e pilares de melhoria contínua em linhas piloto; </li> <li>Suportar iniciativas relacionadas a MQ, MP, ME, CI e Segurança. </li>  </ul> <ul> <li>Realizar análise crítica dos processos existentes, identificando oportunidades de melhoria e eficiência. </li> <li>Desenvolver e implementar planos de ação para otimização dos processos, visando redução de custos e aumento da produtividade. </li> <li>Liderar projetos de melhoria contínua, envolvendo diferentes áreas da empresa e garantindo a execução das ações planejadas. </li> <li>Analisar dados e indicadores de desempenho, identificando tendências e propondo soluções inovadoras para os desafios identificados. </li> <li>Promover a cultura de melhoria contínua na empresa, capacitando equipes e disseminando boas práticas de gestão de processos. </li> <li>Monitorar os resultados das ações implementadas, avaliando o impacto das mudanças e propondo ajustes necessários para garantir a eficácia das melhorias. </li> <li>Elaborar relatórios e apresentações para a alta gestão, comunicando os resultados obtidos e os benefícios gerados pelas iniciativas de melhoria contínua. </li> <li>Manter-se atualizado sobre as melhores práticas de gestão de processos e melhoria contínua, buscando constantemente a excelência na área. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "MILHAO INDUSTRIA E COMERCIO DE INGREDIENTES E CEREAIS LTDA",
-    "city": "rio verde",
-    "state": "goiás",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729017__1953_191171a1342531984d3d827bdcac430f?utm_source=1953&utm_medium=feed&keyword=ANALISTA-MELHORIA-CONTINUA&location=rio-verde&geoID=7386"
-  },
-  {
-    "title": "OPERADOR DE CENTRO DE OPERAÇÕES DE REDE(COP)",
-    "description": "<p><p>1 posição </p> <p>Não informado </p> <p>Responsável por atender as demandas oriundas dos serviços técnicos em campo da empresa Solução Network, tratando todas as classes de ordens de serviço e auxiliando as equipes de campo em instalações, serviços e suporte técnico. </p> <h3>Responsabilidades Principais </h3> <ul> <li>Acompanhar ordens de serviço de instalação de novos clientes </li> <li>Tratar ordens de serviço de transferência, upgrade e demais serviços </li> <li>Acompanhar ordens de suporte técnico e reparos </li> <li>Analisar, detectar e solucionar problemas relacionados aos serviços contratados </li> <li>Aplicar rotinas para aumento de produtividade e assertividade </li> <li>Auxiliar na melhoria de processos internos </li> <li>Propor ações corretivas e preventivas </li> <li>Utilizar corretamente equipamentos, EPIs e EPCs </li> <li>Monitorar e despachar ordens de serviço para técnicos de campo </li> <li>Prestar suporte técnico às equipes de campo </li> <li>Validar ordens de serviço improdutivas </li> <li>Monitorar tempo de deslocamento e execução dos serviços </li> <li>Monitorar sistemas e circuitos para controle de volumetria de ordens de serviço </li>  </ul> <h3>Requisitos Desejáveis </h3> <ul> <li>Curso superior, desejável em ADS ou áreas afins (cursando ou completo) </li> <li>Experiência mínima de 6 meses </li> <li>Conhecimento em Power BI </li> <li>Não possuir meninda disciplinar </li> <li>Não possuir falta injustificada nos últimos 12 meses </li>  </ul> <h3>Benefícios </h3> <ul> <li>Assistência médica </li> <li>Assistência odontológica </li> <li>Seguro de vida </li> <li>Day off no aniversário </li> <li>Wellhub (gympass) </li> <li>IFood - Vale Alimentação/Refeição </li>  </ul> <h3>Localização </h3> <p>Avenida Heitor Alencar Furtado, 6405, Loja, Jardim Santos Dumont, Paranavaí - PR, Brasil,   </p> </p> #J-18808-Ljbffr",
-    "company": "SOLUCAO NETWORK PROVEDOR LTDA",
-    "city": "paranavaí",
-    "state": "paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729045__1953_585456f96968df4c3229c9e046ce3e36?utm_source=1953&utm_medium=feed&keyword=OPERADOR-DE-CENTRO&location=paranavaí&geoID=6271"
-  },
-  {
     "title": "Consultor(a) de Vendas Interno | Presencial | Goiânia - GO | Treinamento Completo",
     "description": "<p><ul> <li>Vaga 100% presencial em Goiânia (Setor Oeste) </li> <li>Atuação com atendição e vendas por WhatsApp, telefone e canais digitais. </li> <li>Não é necessário ter experiência com medicamentos manipulados. Oferecemos treinamento completo para o desenvolvimento técnico da função. </li>  </ul> <h3>Venha crescer com a Longevitá! </h3> <p>Na Longevitá, acreditamos que vender vai muito além de oferecer produtos. Nosso propósito é ajudar pessoas a cuidarem da saúção por meio de um atendição humanizado, consultivo e de excelência. </p> <p>Buscamos <b>pessoas comunicativas, que gostem de se relacionar com clientes, tenham perfil comercial e facilidade para negociar. </b> Se você gosta de desafios, metas e de transformar um bom atendição em resultados, essa oportunidade pode ser para você. </p> <h3>O que Buscamos: </h3> <ul> <li>Facilidade em criar conexão e encantar clientes </li> <li>Boa comunicação verbal e escrita </li> <li>Perfil comercial e habilidade de negociação </li> <li>Gostar de conversar e ajudar pessoas </li> <li>Facilidade com cálculos e elaboração de orçamentos </li> <li>Organização e atenção aos detalhes </li> <li>Interesse em aprender e crescer profissionalmente </li>  </ul> <h3>Como será sua rotina: </h3> <ul> <li>Atender clientes via WhatsApp, telefone e canais digitais </li> <li>Entender a necessidade do cliente e apresentar soluções </li> <li>Elaborar orçamentos e acompanhar pedidos </li> <li>Conduzir negociações e fechamento de vendas </li> <li>Criar relacionamento e fidelização de clientes </li> <li>Contribuir com metas e resultados do time </li>  </ul> <h3>O que você encontra aqui </h3> <ul> <li>Salário fixo + comissões e premiações </li> <li>Plano de crescimento acelerado </li> <li>Treinamento completo (núnão precisa de experiência em manipulados) </li> <li>Ambiente acolhedor e colaborativo </li> <li>Universidade corporativa e desenvolvimento contínuo </li> <li><b>Horário: </b> Seg a sex das 11h às 19h | Sábados das 08h às 13h </li>  </ul> <p>Se você busca <b>crescimento, aprendizado e oportunidaça de ganhar mais </b>, venha fazer parte do nosso time! </p> </p> #J-18808-Ljbffr",
     "company": "Farmacialongevita",
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729050__1953_fdce1faa8710e3510f44548c46cc59fb?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729050__1953_10a14893cef8321d9e4796a730210f49?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=goiânia&geoID=3432"
   },
   {
     "title": "ANALISTA DE MARKETING DIGITAL PL - Beach Park.",
@@ -96,7 +15,7 @@
     "city": "porto das dunas",
     "state": "ceará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729124__1953_656c0accd8f6cf1af178a2d13871946d?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-MARKETING&location=porto-das-dunas&geoID=6"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729124__1953_96f1a8df10609a607d6bd9fd5e5d8b2c?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-MARKETING&location=porto-das-dunas&geoID=6"
   },
   {
     "title": "Analista de Qualidade de Softaware (QA)",
@@ -105,7 +24,7 @@
     "city": "vitória",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729155__1953_a3b04dd43d424a0297243666854313ff?utm_source=1953&utm_medium=feed&keyword=Analista-de-Qualidade&location=vitória&geoID=9692"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729155__1953_74c44e63015e2bf02ce28e63e54412c3?utm_source=1953&utm_medium=feed&keyword=Analista-de-Qualidade&location=vitória&geoID=9692"
   },
   {
     "title": "Qualified Post Basic Pharmacist Assistant - Clicks New Salt Rock",
@@ -114,7 +33,7 @@
     "city": "natal",
     "state": "rio grande do norte",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729199__1953_48a7d6e8e9c86c7c87767e0e229cd2e7?utm_source=1953&utm_medium=feed&keyword=Qualified-Post-Basic&location=natal&geoID=5675"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729199__1953_2dfe155299ac4a3961cd22624ac13a0c?utm_source=1953&utm_medium=feed&keyword=Qualified-Post-Basic&location=natal&geoID=5675"
   },
   {
     "title": "Analista de ETL e Integração de Dados – Híbrido | SP",
@@ -123,7 +42,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729350__1953_1607cdaef13298c09f671e77624268d3?utm_source=1953&utm_medium=feed&keyword=Analista-de-ETL&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729350__1953_5ff6d1aad036edc60c716298dae3e03f?utm_source=1953&utm_medium=feed&keyword=Analista-de-ETL&location=são-paulo&geoID=25"
   },
   {
     "title": "Pharmacist - Clicks Pharmacy Victoria Road",
@@ -132,7 +51,7 @@
     "city": "natal",
     "state": "rio grande do norte",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729490__1953_20d6192afd49834c4490cccb04bae1bf?utm_source=1953&utm_medium=feed&keyword=Pharmacist-Clicks&location=natal&geoID=5675"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729490__1953_68df0108dc72588491deb9d3da73a30f?utm_source=1953&utm_medium=feed&keyword=Pharmacist-Clicks&location=natal&geoID=5675"
   },
   {
     "title": "Consultor(a) Comercial Jr",
@@ -141,7 +60,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729594__1953_799ef742f5a79f876df6d99271fd6ee0?utm_source=1953&utm_medium=feed&keyword=Consultor-Comercial-Jr&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729594__1953_6cfb43760fe3df6ffcfbf7a2db9255aa?utm_source=1953&utm_medium=feed&keyword=Consultor-Comercial-Jr&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "Controller",
@@ -150,7 +69,7 @@
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729647__1953_a702e434eac6961bd1f512e45670c887?utm_source=1953&utm_medium=feed&keyword=Controller&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729647__1953_14dd5b0c0a17f97a8f65974bac87e075?utm_source=1953&utm_medium=feed&keyword=Controller&location=goiânia&geoID=3432"
   },
   {
     "title": "Designer Gráfico",
@@ -159,7 +78,7 @@
     "city": "viçosa",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729748__1953_4785f7f15fef6b96e097c094a108f121?utm_source=1953&utm_medium=feed&keyword=Designer-Gr%C3%A1fico&location=viçosa&geoID=9559"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729748__1953_edfd4cf6a40e534232fc4f297d9d46b0?utm_source=1953&utm_medium=feed&keyword=Designer-Gr%C3%A1fico&location=viçosa&geoID=9559"
   },
   {
     "title": "Commodity Sales - Sugar - Brazil - (VN2834)",
@@ -168,7 +87,7 @@
     "city": "manaus",
     "state": "pernambuco",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729799__1953_0321d28b0f088ac7356eb1f1877858b3?utm_source=1953&utm_medium=feed&keyword=Commodity-Sales&location=manaus"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729799__1953_77e3cf9bfc2e72e10147868348e14c35?utm_source=1953&utm_medium=feed&keyword=Commodity-Sales&location=manaus"
   },
   {
     "title": "Consultor(a) Comercial Jr",
@@ -177,7 +96,7 @@
     "city": "são leopoldo",
     "state": "rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10729949__1953_f654b20289f6923d59db758bf1c9189f?utm_source=1953&utm_medium=feed&keyword=Consultor-Comercial-Jr&location=são-leopoldo&geoID=8335"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10729949__1953_ae84cd1393d4aa43fed789f7f082f300?utm_source=1953&utm_medium=feed&keyword=Consultor-Comercial-Jr&location=são-leopoldo&geoID=8335"
   },
   {
     "title": "DIVISÃO COMÉRCIO DO GRUPO ÁGUIA BRANCA sáb, 30/maio Técnico(a) Mecânico II - Goiânia/GO Goiânia[...]",
@@ -186,7 +105,7 @@
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10730065__1953_12cf97182761b4e9fc4504a32e8ed2df?utm_source=1953&utm_medium=feed&keyword=DIVIS%C3%83O-COM%C3%89RCIO-DO&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10730065__1953_6eda59d52f2cad3df4f698e0572f9cd3?utm_source=1953&utm_medium=feed&keyword=DIVIS%C3%83O-COM%C3%89RCIO-DO&location=goiânia&geoID=3432"
   },
   {
     "title": "OPERADOR(A) DE COBRANÇA JR",
@@ -195,7 +114,7 @@
     "city": "aquiraz",
     "state": "ceará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10730406__1953_fde9a302710a83cad2dba65d50aba95e?utm_source=1953&utm_medium=feed&keyword=OPERADOR-DE-COBRAN%C3%87A&location=aquiraz&geoID=521"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10730406__1953_22d4b5052a2d01f10f287102b21dc297?utm_source=1953&utm_medium=feed&keyword=OPERADOR-DE-COBRAN%C3%87A&location=aquiraz&geoID=521"
   },
   {
     "title": "Assistente de faturamento",
@@ -204,7 +123,7 @@
     "city": "montes claros",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10730410__1953_d425ed3d0d06a1333273511cb15561b2?utm_source=1953&utm_medium=feed&keyword=Assistente-de-faturamento&location=montes-claros&geoID=5536"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10730410__1953_3468fcd13221ed5e050c43a12029db56?utm_source=1953&utm_medium=feed&keyword=Assistente-de-faturamento&location=montes-claros&geoID=5536"
   },
   {
     "title": "Monitor(a) de Recreação",
@@ -4209,7 +4128,7 @@
     "city": "barueri",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10758842__1953_e1a1ef4cd7354fb5be771d7040069f1a?utm_source=1953&utm_medium=feed&keyword=Pessoa-Especialista-DBA&location=barueri&geoID=1016"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10758842__1953_2d5c4f658a7c46b3f523e0373ced3a20?utm_source=1953&utm_medium=feed&keyword=Pessoa-Especialista-DBA&location=barueri&geoID=1016"
   },
   {
     "title": "Senior Consultant Sales & Marketing – São Paulo",
@@ -4218,7 +4137,7 @@
     "city": "região geográfica intermediária de são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10758893__1953_336ac93aaaede50ee66dd118435bbe18?utm_source=1953&utm_medium=feed&keyword=Senior-Consultant-Sales&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10758893__1953_7ddaa1441d533010c0089f56b180525d?utm_source=1953&utm_medium=feed&keyword=Senior-Consultant-Sales&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
   },
   {
     "title": "Gerente Comercial - Belo Horizonte",
@@ -4227,7 +4146,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10758994__1953_52273f77c0d1c2ecd4f906edc464bb27?utm_source=1953&utm_medium=feed&keyword=Gerente-Comercial&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10758994__1953_500ff5dca0c63f3dff281d6d5358b15d?utm_source=1953&utm_medium=feed&keyword=Gerente-Comercial&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "Sr Software Engineer - Delivery - Rio de Janeiro",
@@ -4236,7 +4155,7 @@
     "city": "conservatória",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759023__1953_d769c150eeb2eb35697a9636137874ca?utm_source=1953&utm_medium=feed&keyword=Sr-Software-Engineer&location=conservatória&geoID=2452"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759023__1953_bddf18eebe932c9bba7d4a090d7dfa19?utm_source=1953&utm_medium=feed&keyword=Sr-Software-Engineer&location=conservatória&geoID=2452"
   },
   {
     "title": "Test Engineer",
@@ -4245,7 +4164,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759100__1953_0d12547280795c18d3114b0a244875c4?utm_source=1953&utm_medium=feed&keyword=Test-Engineer&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759100__1953_b6661155c4d6b9f4629b20b6648e4f42?utm_source=1953&utm_medium=feed&keyword=Test-Engineer&location=são-paulo&geoID=25"
   },
   {
     "title": "Engenheiro de Software SR - Fullstack Java e Angular",
@@ -4254,7 +4173,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759164__1953_9639547fd02f0666058dfa44e05707ef?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759164__1953_23f8b26ae16d0a7a3fb6f3f564f53345?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Software&location=são-paulo&geoID=25"
   },
   {
     "title": "Gerente Distrital de Vendas",
@@ -4263,7 +4182,7 @@
     "city": "manaus",
     "state": "pernambuco",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759206__1953_bfd1460eec13e067a927522ebf8734d9?utm_source=1953&utm_medium=feed&keyword=Gerente-Distrital-de&location=manaus"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759206__1953_cdd73291ac20c476f495cf9241a2e82c?utm_source=1953&utm_medium=feed&keyword=Gerente-Distrital-de&location=manaus"
   },
   {
     "title": "Gerente de Construção Data Center",
@@ -4272,7 +4191,7 @@
     "city": "são gonçalo do amarante",
     "state": "ceará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759225__1953_e3637e15ad35a0c41fb15b22bb81b208?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Constru%C3%A7%C3%A3o&location=são-gonçalo-do-amarante&geoID=8100"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759225__1953_bbb8f776a533ef0deb1c23eda6269baa?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Constru%C3%A7%C3%A3o&location=são-gonçalo-do-amarante&geoID=8100"
   },
   {
     "title": "AM02 | GERENTE COMERCIAL (com foco em Processos e Análise de Dados)",
@@ -4281,7 +4200,7 @@
     "city": "manaus",
     "state": "amazonas",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759340__1953_bf2f9ec3f25453c4e810f4965cd6c23f?utm_source=1953&utm_medium=feed&keyword=AM02-GERENTE&location=manaus&geoID=5053"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759340__1953_1df2a516af600d84763cd58e38ccc41d?utm_source=1953&utm_medium=feed&keyword=AM02-GERENTE&location=manaus&geoID=5053"
   },
   {
     "title": "QA Engineer Sênior (IA & Automação)",
@@ -4290,7 +4209,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759354__1953_afb65106660d93c6ef5488f9f6dda7e6?utm_source=1953&utm_medium=feed&keyword=QA-Engineer-S%C3%AAnior&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759354__1953_0779e764f37196b2592a7baabb3481c5?utm_source=1953&utm_medium=feed&keyword=QA-Engineer-S%C3%AAnior&location=são-paulo&geoID=25"
   },
   {
     "title": "Sales Executive Enterprise",
@@ -4299,7 +4218,7 @@
     "city": "curitiba",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759364__1953_63ddda04122803e59d7119e921b8168e?utm_source=1953&utm_medium=feed&keyword=Sales-Executive-Enterprise&location=curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759364__1953_78b622cd25b03f3bb2c90066119e50b6?utm_source=1953&utm_medium=feed&keyword=Sales-Executive-Enterprise&location=curitiba&geoID=2691"
   },
   {
     "title": "Consultor (a) DevOps Sr - Banco de Talentos",
@@ -4308,7 +4227,7 @@
     "city": "manaus",
     "state": "pernambuco",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759374__1953_67ed4360c45596268162438103a3a8e7?utm_source=1953&utm_medium=feed&keyword=Consultor-DevOps&location=manaus"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759374__1953_83aa0b35d8e0accf54f19acf293bd5d1?utm_source=1953&utm_medium=feed&keyword=Consultor-DevOps&location=manaus"
   },
   {
     "title": "Especialista Telecom | CORE IP (São Paulo/SP)",
@@ -4317,7 +4236,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759486__1953_c491c4efe49bef329810762aabdd43fe?utm_source=1953&utm_medium=feed&keyword=Especialista-Telecom&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759486__1953_82991543e424a52c123565ef220fb66c?utm_source=1953&utm_medium=feed&keyword=Especialista-Telecom&location=são-paulo&geoID=25"
   },
   {
     "title": "Gerente de Negócios Júnior | Maringá (PR)",
@@ -4326,7 +4245,7 @@
     "city": "curitiba",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759645__1953_5ff46d77edca836d6b30a587ff65924e?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759645__1953_519377c4de255395a52c574a0cbda3c8?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=curitiba&geoID=2691"
   },
   {
     "title": "Analista Desenvolvedor de Sistemas IA - PL",
@@ -4335,7 +4254,7 @@
     "city": "lagoa santa",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759656__1953_084d4ddd4ee134eedd902a19193c855a?utm_source=1953&utm_medium=feed&keyword=Analista-Desenvolvedor-de&location=lagoa-santa&geoID=4761"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759656__1953_0c9d169bdb787b582766871c958e9d50?utm_source=1953&utm_medium=feed&keyword=Analista-Desenvolvedor-de&location=lagoa-santa&geoID=4761"
   },
   {
     "title": "Human Resources Business Partner",
@@ -4344,7 +4263,7 @@
     "city": "contagem",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759661__1953_a0e68da616283af9d6c2c151cc36876a?utm_source=1953&utm_medium=feed&keyword=Human-Resources-Business&location=contagem&geoID=2456"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759661__1953_79cf925c9f12d389229a8b92490eeaff?utm_source=1953&utm_medium=feed&keyword=Human-Resources-Business&location=contagem&geoID=2456"
   },
   {
     "title": "Gerente Comercial FIDC - Jaraguá do Sul SC",
@@ -4353,7 +4272,7 @@
     "city": "jaraguá do sul",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759705__1953_2715c0ddfeb37e5bc4058391c523f421?utm_source=1953&utm_medium=feed&keyword=Gerente-Comercial-FIDC&location=jaraguá-do-sul&geoID=4452"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759705__1953_c5095b1bf9f777896a05c8097e955dd4?utm_source=1953&utm_medium=feed&keyword=Gerente-Comercial-FIDC&location=jaraguá-do-sul&geoID=4452"
   },
   {
     "title": "Pessoa Especialista em Engenharia de Plataforma",
@@ -4362,7 +4281,7 @@
     "city": "barueri",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759720__1953_962cc6930c501a3e7732057c91764733?utm_source=1953&utm_medium=feed&keyword=Pessoa-Especialista-em&location=barueri&geoID=1016"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759720__1953_1b06be497737ad07d33e106f3b702535?utm_source=1953&utm_medium=feed&keyword=Pessoa-Especialista-em&location=barueri&geoID=1016"
   },
   {
     "title": "Gerente de Governança de Dados",
@@ -4371,7 +4290,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759726__1953_8e02bbb5c98d36b1ec7aec039b246768?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Governan%C3%A7a&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759726__1953_262f9fdf9e622aa3e22578fa98331ac6?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Governan%C3%A7a&location=são-paulo&geoID=25"
   },
   {
     "title": "Gerente Geral - São Paulo",
@@ -4380,7 +4299,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10759739__1953_477d8f0464a006d3a34437eb73cf8b07?utm_source=1953&utm_medium=feed&keyword=Gerente-Geral&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10759739__1953_d438fb93c3abfb7bc5abf32378d2b2b3?utm_source=1953&utm_medium=feed&keyword=Gerente-Geral&location=são-paulo&geoID=25"
   },
   {
     "title": "Desenvolvedor(a) Pleno - Backend",
@@ -8313,7 +8232,7 @@
     "city": "curitiba",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10782788__1953_8fe3a6d7f2e3c88a2c03ea6fae5b42a7?utm_source=1953&utm_medium=feed&keyword=Analista-de-RH&location=curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10782788__1953_01670120695fc13a874efc1f3c60525c?utm_source=1953&utm_medium=feed&keyword=Analista-de-RH&location=curitiba&geoID=2691"
   },
   {
     "title": "Banco de Talentos - Sicredi Cooperação – Tio Hugo/ RS",
@@ -8322,7 +8241,7 @@
     "city": "tio hugo",
     "state": "rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10782798__1953_5784939df874706c98254f036ba5eb28?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=tio-hugo&geoID=9135"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10782798__1953_e2d5f9c6eb67d91c3685a728f4a6ed21?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=tio-hugo&geoID=9135"
   },
   {
     "title": "Analista de sistemas de engenharia",
@@ -8331,7 +8250,7 @@
     "city": "vargem grande da serra",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10782806__1953_3b99f878c118d1ed8e5d01499c852f8c?utm_source=1953&utm_medium=feed&keyword=Analista-de-sistemas&location=vargem-grande-da-serra&geoID=13"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10782806__1953_4525ee713c515042041ba85c6b065eec?utm_source=1953&utm_medium=feed&keyword=Analista-de-sistemas&location=vargem-grande-da-serra&geoID=13"
   },
   {
     "title": "Técnico de Instalação I",
@@ -8340,7 +8259,7 @@
     "city": "santo antônio do monte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10782868__1953_c6bdf892c066f065a7939aa843803189?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Instala%C3%A7%C3%A3o&location=santo-antônio-do-monte&geoID=7921"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10782868__1953_af10d468bcddb8eadb791d81e4e7fbfa?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Instala%C3%A7%C3%A3o&location=santo-antônio-do-monte&geoID=7921"
   },
   {
     "title": "Field Service Project Manager",
@@ -8349,7 +8268,7 @@
     "city": "piracicaba",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10782947__1953_5e837db04cc84e6d3aed5865cb83db87?utm_source=1953&utm_medium=feed&keyword=Field-Service-Project&location=piracicaba&geoID=6672"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10782947__1953_4b7b50e564cd1b68aba9f2d60c44d958?utm_source=1953&utm_medium=feed&keyword=Field-Service-Project&location=piracicaba&geoID=6672"
   },
   {
     "title": "Analista de Rh - Generalista",
@@ -8358,7 +8277,7 @@
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10782995__1953_cfc436b96a7a3083d5e88e0e4813c917?utm_source=1953&utm_medium=feed&keyword=Analista-de-Rh&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10782995__1953_ec54547ce387275b7884a0c70bcf5726?utm_source=1953&utm_medium=feed&keyword=Analista-de-Rh&location=goiânia&geoID=3432"
   },
   {
     "title": "(FSP only São Paulo or FSO any city) - Brazil, home-based",
@@ -8367,7 +8286,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783013__1953_276b8590f19b1e4573cef07719e41b67?utm_source=1953&utm_medium=feed&keyword=FSP-only-S%C3%A3o&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783013__1953_5d22f10e171e5d57118596cdab5b483c?utm_source=1953&utm_medium=feed&keyword=FSP-only-S%C3%A3o&location=são-paulo&geoID=25"
   },
   {
     "title": "Projetista de Eletrônica de Potência | Banco de talentos",
@@ -8376,7 +8295,7 @@
     "city": "pinhalzinho",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783069__1953_c7968d4f201a057e5a4237e9eaa92b9a?utm_source=1953&utm_medium=feed&keyword=Projetista-de-Eletr%C3%B4nica&location=pinhalzinho&geoID=6632"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783069__1953_2020909810362b5e0349dec599a21b2b?utm_source=1953&utm_medium=feed&keyword=Projetista-de-Eletr%C3%B4nica&location=pinhalzinho&geoID=6632"
   },
   {
     "title": "Account Manager (Gestor de Contas de Marketing) - Júnior | V4 Pizolato & Co.",
@@ -8385,7 +8304,7 @@
     "city": "campinas",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783199__1953_db680f9e91a72a9e22322bcbc6781839?utm_source=1953&utm_medium=feed&keyword=Account-Manager-Gestor&location=campinas&geoID=1713"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783199__1953_ee23196fcbc93128af0690eac553d623?utm_source=1953&utm_medium=feed&keyword=Account-Manager-Gestor&location=campinas&geoID=1713"
   },
   {
     "title": "Sales Rep Direct Channel",
@@ -8394,7 +8313,7 @@
     "city": "rio de janeiro",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783201__1953_10c5b5f38b6a464a6c9516a4b92d702e?utm_source=1953&utm_medium=feed&keyword=Sales-Rep-Direct&location=rio-de-janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783201__1953_3419ecd1fedcb1c7d42e6dcd560efc3e?utm_source=1953&utm_medium=feed&keyword=Sales-Rep-Direct&location=rio-de-janeiro&geoID=19"
   },
   {
     "title": "Engenheiro de IA",
@@ -8403,7 +8322,7 @@
     "city": "são bernardo do campo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783212__1953_779a67074a30643537a644baaec26ea3?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-IA&location=são-bernardo-do-campo&geoID=7985"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783212__1953_560631d0ab8d8fca9589a26324d5e42b?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-IA&location=são-bernardo-do-campo&geoID=7985"
   },
   {
     "title": "Consultor comercial- Externo",
@@ -8412,7 +8331,7 @@
     "city": "são josé",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783222__1953_41f48b36a8540c6a3a5215ab6baa4978?utm_source=1953&utm_medium=feed&keyword=Consultor-comercial-Externo&location=são-josé&geoID=8232"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783222__1953_6215dc8efbd2ec3b31af20a2aa6feb5c?utm_source=1953&utm_medium=feed&keyword=Consultor-comercial-Externo&location=são-josé&geoID=8232"
   },
   {
     "title": "Pricing Support Sr Analyst",
@@ -8421,7 +8340,7 @@
     "city": "buenos aires",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783232__1953_bdf18b6b32096cf05463e852de376526?utm_source=1953&utm_medium=feed&keyword=Pricing-Support-Sr&location=buenos-aires&geoID=1425"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783232__1953_a6f552fb1931965f098c655ebc80ea99?utm_source=1953&utm_medium=feed&keyword=Pricing-Support-Sr&location=buenos-aires&geoID=1425"
   },
   {
     "title": "Gerente Comercial",
@@ -8430,7 +8349,7 @@
     "city": "região geográfica intermediária de são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783373__1953_536526a4edd44b004f9cf65d579a2fc9?utm_source=1953&utm_medium=feed&keyword=Gerente-Comercial&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783373__1953_7982c466b160153e13de673937859072?utm_source=1953&utm_medium=feed&keyword=Gerente-Comercial&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
   },
   {
     "title": "Frontend Developer",
@@ -8439,7 +8358,7 @@
     "city": "manaus",
     "state": "amazonas",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783397__1953_06c3d8981729107427a858eb2011d80c?utm_source=1953&utm_medium=feed&keyword=Frontend-Developer&location=manaus&geoID=5053"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783397__1953_4bdd43f14470bfe6328db8f8d0ada62c?utm_source=1953&utm_medium=feed&keyword=Frontend-Developer&location=manaus&geoID=5053"
   },
   {
     "title": "Desenvolvedor Java",
@@ -8448,7 +8367,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783422__1953_02bac25037071f5cb45a26384277789c?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783422__1953_d99a370a08cf4ed851d13e187d4393f6?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=são-paulo&geoID=25"
   },
   {
     "title": "Customer Success Management - Pinheiros - São Paulo",
@@ -8457,7 +8376,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783455__1953_b7eddd2e3c3b4238bed39f208eff0b47?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Management&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783455__1953_57cabc47bacc8e0fdf6ef53356a2fe9b?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Management&location=são-paulo&geoID=25"
   },
   {
     "title": "Consultor",
@@ -8466,7 +8385,7 @@
     "city": "patos de minas",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10783472__1953_cd82fae847a46cbdb4f8315cd7c8dc61?utm_source=1953&utm_medium=feed&keyword=Consultor&location=patos-de-minas&geoID=6363"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10783472__1953_82a9127e624d66e3ace4da61e7631a12?utm_source=1953&utm_medium=feed&keyword=Consultor&location=patos-de-minas&geoID=6363"
   },
   {
     "title": "BANCO DE TALENTOS | Consultor e Instrutor Autodesk - Edificações",
@@ -8998,5 +8917,86 @@
     "state": "são paulo",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___70_10785542__1953_da214412bd71d87182bd148af53d0ba4?utm_source=1953&utm_medium=feed&keyword=Grupo-QuintoAndar&location=são-paulo&geoID=25"
+  },
+  {
+    "title": "Projetista sênior de redes de distribuição de gás natural",
+    "description": "<p><h3>PROJETISTA SÊNIOR DE REDES DE DISTRIBUIÇÃO DE GÁS NATURAL – RIO DE JANEIRO/RJ OU SÃO PAULO/SP </h3> <h3>Missão da Posição </h3> <p>Atuar no desenvolvimento de projetos executivos de redes de distribuição de gás natural, contribuindo com soluções técnicas seguras e sustentáveis desde o anteprojeto até a entrega final. O profissional será responsável por garantir a precisão técnica e o cumprimento das normas, com foco em qualidade, eficiência e segurança operacional. </p> <h3>Responsabilidades Principais </h3> <ul> <li>Realizar visitas técnicas para definição de traçado do projeto executivo; </li> <li>Analisar condições locais e obstáculos que impactem o traçado da tubulação; </li> <li>Elaborar proposta de traçado utilizando Google Earth; </li> <li>Elaborar carta de solicitação de cadastro de concessionárias; </li> <li>Acompanhar atividades de topografia em campo, quando necessário; </li> <li>Definir pontos de sondagens (trado, SPT e rotativa); </li> <li>Calcular e verificar levantamentos planialtimétricos; </li> <li>Desenhar os levantamentos topográficos em AutoCAD; </li> <li>Elaborar projetos executivos (planta e perfil, estações ERP, CRM e plano de furo); </li> <li>Garantir conformidade com normas e regulamentações do setor de gás natural. </li>  </ul> <h3>Requisitos Técnicos </h3> <h3>Obrigatórios </h3> <ul> <li>Formação em Engenharia Mecânica, Engenharia Civil ou Técnico em Edificações, Mecânica ou Petróleo e Gás (completo); </li> <li>Conhecimento avançado em AutoCAD e pacote Office; </li> <li>Disponibilidade para viagens; </li> <li>Experiência comprovada com projetos executivos de redes de gás natural. </li>  </ul> <h3>Desejáveis </h3> <ul> <li>Conhecimento de normas técnicas aplicáveis ao setor de gás natural; </li> <li>Vivência em projetos com tubulação de aço carbono e polietileno. </li>  </ul> <h3>Benefícios </h3> <ul> <li>Ticket Alimentação </li> <li>Plano de Saúde (empresa cobre 80%, colaborador 20%) </li> <li>Seguro de Vida </li> <li>Dia de folga no aniversário </li> <li>TotalPass (academias) </li> <li>Auxílio mobilidade </li>  </ul> <h3>Compromisso com a Diversidade </h3> <p>A NIP do Brasil valoriza a diversidade e a inclusão em todas as suas formas. Todas as candidaturas são bem-vindas, independentemente de gênero, etnia, orientação sexual, religião, idade ou deficiência. Nosso compromisso é construir um ambiente onde todos possam prosperar. </p> </p> #J-18808-Ljbffr",
+    "company": "NIP do Brasil",
+    "city": "rio de janeiro",
+    "state": "rio de janeiro",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785583__1953_e0de9847633b4429c1b038cf06d653d0?utm_source=1953&utm_medium=feed&keyword=Projetista-s%C3%AAnior-de&location=rio-de-janeiro&geoID=19"
+  },
+  {
+    "title": "#633 - Gerente de Filial – Peças para Refrigeração",
+    "description": "<p><h3>Missão do Cargo </h3> <p>Garantir a gestão eficiente da filial, liderando as operações administrativas, comerciais e operacionais, promovendo o desenvolvimento da equipe, assegurando a excelência no atendimento aos clientes e o alcance dos resultados financeiros, comerciais e estratégicos definidos pela empresa. </p> <h3>Formação Acadêmica </h3> <ul> <li>Ensino Superior completo ou cursando Administração, Gestão Comercial, Processos Gerenciais ou áreas correlatas. </li>  </ul> <h3>Experiência </h3> <ul> <li>Experiência mínima de 2 anos em cargos de liderança, coordenação ou gestão de equipes. </li> <li>Vivência em gestão operacional e administrativa. </li> <li>Desejável experiência em varejo B2C. </li>  </ul> <h3>Conhecimentos Técnicos </h3> <ul> <li>Gestão de pessoas e liderança de equipes. </li> <li>Gestão de indicadores e análise de resultados. </li> <li>Controle de estoque e movimentação de mercadorias. </li> <li>Gestão administrativa e financeira. </li> <li>Planejamento operacional. </li> <li>Pacote Office intermediário, com domínio de Excel e Word. </li> <li>Conhecimento em vendas e atendimento ao cliente. </li> <li>Conhecimento no segmento de refrigeração, climatização, peças técnicas ou materiais correlatos será considerado diferencial. </li>  </ul> <h3>Requisitos Complementares </h3> <ul> <li>CNH categoria A ou B. </li> <li>Disponibilidade para viagens. </li>  </ul> <h3>Habilidades </h3> <ul> <li>Liderança e influência. </li> <li>Planejamento e organização. </li> <li>Gestão de pessoas. </li> <li>Capacidade analítica. </li> <li>Visão estratégica de negócio. </li> <li>Comunicação assertiva. </li> <li>Negociação. </li> <li>Tomada de decisão. </li> <li>Gestão de conflitos. </li> <li>Orientação para resultados. </li> <li>Resolução de problemas. </li> <li>Gestão do tempo e prioridades. </li>  </ul> <h3>Atitudes </h3> <ul> <li>Proatividade. </li> <li>Senso de dono. </li> <li>Comprometimento com resultados. </li> <li>Responsabilidade. </li> <li>Ética profissional. </li> <li>Resiliência. </li> <li>Flexibilidade. </li> <li>Foco no cliente. </li> <li>Espírito colaborativo. </li> <li>Busca constante por melhoria contínua. </li> <li>Capacidade de adaptação a mudanças. </li>  </ul> <h3>Principais Responsabilidades </h3> <ul> <li>Liderar, orientar e desenvolver a equipe da filial, promovendo um ambiente de trabalho colaborativo, produtivo e alinhado à cultura organizacional. </li> <li>Planejar, organizar e acompanhar as operações da unidade, garantindo a execução eficiente dos processos administrativos, comerciais e logísticos. </li> <li>Monitorar indicadores de desempenho, acompanhando resultados de vendas, produtividade, estoque, despesas e rentabilidade da filial. </li> <li>Elaborar relatórios gerenciais e apresentar informações estratégicas à Diretoria para suporte à tomada de decisão. </li> <li>Realizar a gestão financeira da unidade, acompanhando orçamento, despesas, custos operacionais e oportunidades de melhoria dos resultados. </li> <li>Garantir o cumprimento das metas comerciais estabelecidas, promovendo ações que contribuam para o crescimento sustentável da filial. </li> <li>Desenvolver estratégias de vendas e ações comerciais voltadas ao fortalecimento da presença da empresa na região de atuação. </li> <li>Acompanhar e apoiar o relacionamento com clientes, identificando necessidades, solucionando demandas e fortalecendo vínculos comerciais. </li> <li>Atuar junto aos fornecedores e clientes em processos relacionados a garantias, buscando agilidade e excelência no atendimento. </li> <li>Supervisionar os processos de recebimento, armazenagem, expedição e movimentação de mercadorias, garantindo a integridade dos produtos e a eficiência operacional. </li> <li>Monitorar o controle de estoque, acompanhando entradas, saídas, inventários e giro de produtos para assegurar o abastecimento adequado da unidade. </li> <li>Garantir o cumprimento das políticas, normas e procedimentos internos da empresa. </li> <li>Participar de reuniões gerenciais, treinamentos e ações de desenvolvimento da equipe. </li> <li>Promover a melhoria contínua dos processos, buscando maior produtividade, qualidade operacional e satisfação dos clientes. </li> <li>Zelar pela imagem institucional da empresa, representando seus valores e fortalecendo sua marca no mercado. </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "Matheaço Soluções Corporativas",
+    "city": "presidente prudente",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785618__1953_9a3e41c26c0dc80733a2c987f4c0434c?utm_source=1953&utm_medium=feed&keyword=633-Gerente&location=presidente-prudente&geoID=7013"
+  },
+  {
+    "title": "Técnico em Radioterapia | Hospital Estadual do Litoral Norte",
+    "description": "<p><h3>Descrição </h3> <p>Executar procedimentos de radioterapia com segurança e precisão, garantindo o posicionamento adequado dos pacientes, a correta aplicação das doses prescritas e o cumprimento dos protocolos técnicos e assistenciais. </p> <h3>Responsabilidades e atribuições </h3> <ul> <li>Operar equipamentos de radioterapia; </li> <li>Realizar o posicionamento e imobilização do paciente; </li> <li>Conferir parâmetros técnicos antes da aplicação da radiação; </li> <li>Acompanhar e orientar pacientes durante as sessões de tratamento; </li> <li>Registrar informações e evoluções em sistema/prontuário; </li> <li>Garantir o cumprimento das normas de radioproteção e segurança; </li> <li>Apoiar a equipe multiprofissional no planejamento e execução dos tratamentos; </li> <li>Realizar checagens diárias dos equipamentos e comunicar eventuais irregularidades. </li>  </ul> <h3>Requisitos e qualificações </h3> <ul> <li>Curso técnico completo em Radioterapia ou Técnico em Radiologia com especialização em Radioterapia; </li> <li>Registro ativo no CRTR; </li> <li>Experiência na área; </li> <li>Conhecimento em operação de equipamentos de radioterapia e protocolos de segurança. </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "Santa Casa Ruy Barbosa",
+    "city": "alagoinhas",
+    "state": "bahia",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785658__1953_9c7927d28c2df74c76b819c4db961e27?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-em-Radioterapia&location=alagoinhas&geoID=184"
+  },
+  {
+    "title": "Pentester Sênior / Red Team Leader",
+    "description": "<p><p>Buscamos um(a) profissional apaixonado(a) por segurança ofensiva, que goste de desafios reais e de atuar em cenários críticos, contribuindo diretamente para elevar o nível de maturidade de segurança dos nossos clientes. </p> <p>Atuar na execução de <b>testes de intrusão avançados </b>, <b>BAS (Breach and Attack Simulation) </b>, operações de <b>Red Team </b> e avaliações ofensivas em ambientes corporativos críticos. </p> <h3>Requisitos obrigatórios </h3> <p><b>Experiência comprovada em Pentest e Red Team </b> </p> <p><b>Capacidade de elaborar relatórios técnicos e executivos </b> </p> <p><b>Disponibilidade para atuação presencial sob demanda </b> </p> <h3>Conhecimento sólido em: </h3> <ul><li>Active Directory; Web Pentest; Redes; Linux e Windows; Exploração de vulnerabilidades </li> </ul> <h3>Experiência com ferramentas: </h3> <p>Você deve ter experiência com ferramentas avançadas de pentest e red team. </p> <h3>Certificações obrigatórias </h3> <p><b>Mínimo de 2 certificações entre: </b> OSCP, OSWE, OSEP, OSCE, CRTO, GPEN, GXPN, GWAPT, eWPTX v2, DCPT </p> <p><b>E pelo menos 1 certificação entre: </b> CRTE, eWPT, LPT, CPENT, CEPT, CPTE </p> <h3>Diferenciais </h3> <p><b>Experiência em infraestruturas críticas </b> </p> <p><b>Atuação com Purple Team </b> </p> <p><b>Experiência com BAS/Open Source </b> </p> <ul><li>Conhecimento em: Wazuh, Velociraptor, Segurança industrial / OT </li> </ul> <h3>O que oferecemos </h3> <p>Se você busca um ambiente dinâmico, com foco em resultado e crescimento, essa pode ser a sua próxima oportunidade. </p> <p>Candidate-se e venha fazer parte do nosso time. </p> </p> #J-18808-Ljbffr",
+    "company": "Russell Bedford Brasil",
+    "city": "rio de janeiro",
+    "state": "rio de janeiro",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785708__1953_063f3077d6a4c9ebb20505ad69655533?utm_source=1953&utm_medium=feed&keyword=Pentester-S%C3%AAnior&location=rio-de-janeiro&geoID=19"
+  },
+  {
+    "title": "Gerente Comercial",
+    "description": "<p><p>O Gerente Comercial é o profissional que atua dentro da empresa, atendendo o cliente, negociando interesses e coordenando o time responsável pela realização de um serviço. Ele será o responsável por organizar os recursos humanos e materiais disponíveis, alocando-os de acordo às necessidades, além de elaborar um cronograma de ações e disponibilizá-lo para todos os envolvidos no serviço. </p> <p>Gestão de pessoas, processos, budget, prazos, produtos e insumos. </p> <h3>Missão do cargo </h3> <p>Gerenciamento da unidade, time, resultados, organização e bom funcionamento. </p> <h3>Principais responsabilidades </h3> <p>Gestão, treinamento, capacitação e desenvolvimento do time. Parcerias para ações dentro e fora da unidade. Entrega das metas da unidade, assim como manter o funcionamento da unidade e de todos os seus processos dentro dos padrões exigidos pela franqueadora, conforme manuais e compliance. </p> <h3>Principais competências </h3> <p>Liderança, comunicação, persuação, proatividade, dinamismo, negociação, organização, planejamento, influência, visão estratégica, visão de mercado, ética, foco no cliente, expertise para vendas presencial e online. </p> <h3>Atividades </h3> <ul> <li>Treina e desenvolve o time com as normas de atendimento padrões da empresa, garantindo e planejando um atendimento de excelência para os clientes; </li> <li>Treina e desenvolve o time para alcance das metas da unidades; </li> <li>Responsável pela gestão de pessoas e resultados da unidade; </li> <li>Responsável por montar escalas mensais do time; </li> <li>Gerencia e direciona atividades do time; </li> <li>Atua na implantação e correção de procedimentos padrões; </li> <li>Realiza avaliação de novos clientes; </li> <li>Executa vendas e revendas dos pacotes de depilação a laser; </li> <li>Presta atendimento e esclarece dúvidas de clientes; </li> <li>Faz tratativa com cliente afim de evitar cancelamento de contrato; </li> <li>Realiza desligamento de colaboradoras; </li> <li>Fornece feedbacks e faz follow-up, visando corrigir comportamentos dos colaboradores dentro do ambiente de trabalho, além de melhorias em cada setor. </li> <li>Extrai relatórios do sistema; </li> <li>Responsável pelo bom funcionamento e manutenção e higiene da unidade; </li> <li>Co-responsável pelo acompanhamento de todas as intercorrências e resultados desfavoráveis, prestando assistência e esclarecimentos ao cliente; </li> <li>Desenvolve estudos sobre o potencial de vendas da região, realiza parcerias e prospecção de clientes para ações internas (unidade) e externas (rua), visando a ampliação do volume de negócios; </li> <li>Apresenta estratégias e planos de ação para gerente de apoio/franqueado; </li> <li>Reporta necessidade de manutenção na unidade; </li> <li>Reporta informações sobre equipe e resultados para gerente de apoio/franqueado; </li> <li>Monitora toda a documentação exigida pelos órgãos fiscalizadores e reportar para o escritório. </li>  </ul> <h3>Esse cargo não é pra você </h3> <p>Se você não possui afinidade com a gestão de equipes de vendas, desenvolvimento de estratégias comerciais, alcance de metas desafiadoras ou não segue o direcionamento aplicado por sua gestora, este cargo pode não ser o ideal. </p> <p>A posição de Gerente Comercial requer uma liderança proativa, seguir diretrizes pré estabelecidas, habilidade em elaborar e implementar estratégias de vendas eficazes, além de habilidade para analisar resultados e ajustá-los conforme necessário. </p> <p>Nosso objetivo é encontrar alguém que seja apaixonado por impulsionar resultados e liderar equipes rumo ao sucesso. Se a ideia de trabalhar em um ambiente dinâmico e voltado para resultados não o entusiasma, esta posição pode não ser adequada para você. </p> </p> #J-18808-Ljbffr",
+    "company": "NRE",
+    "city": "união da vitória",
+    "state": "paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785723__1953_c8caeb955c56ed523e486b5c9dc2bf6f?utm_source=1953&utm_medium=feed&keyword=Gerente-Comercial&location=união-da-vitória&geoID=9365"
+  },
+  {
+    "title": "Desenvolvedor",
+    "description": "<p><h3>Responsabilidades </h3> <ul> <li>Desenvolvimento de código em projetos de maior porte. </li> <li>Implementação de DevOps e Azure em projetos. </li> <li>Participação na definição da arquitetura de software. </li> <li>Mentoria e treinamento de desenvolvedores juniores. </li> <li>Resolução de problemas complexos e análise de requisitos. </li> <li>Desenvolvimento de consultas SQL Server para manipulação de dados. </li> <li>Otimização de queries SQL Server para performance. </li>  </ul> <h3>Qualificações </h3> <ul> <li>Conhecimento avançado de X++, C# e API Rest, com capacidade de desenvolver soluções robustas. </li> <li>Experiência com DevOps, Azure e SQL Server, incluindo implementação e gerenciamento de pipelines de CI/CD, infraestrutura em nuvem e bancos de dados. </li> <li>Superior completo ou em andamento em Análise e Desenvolvimento de Sistemas. </li>  </ul> <h3>Horário </h3> <p>07:30 às 12:00 / 13:12 às 17:30 seg a sex - híbrido. </p> <h3>Inclusão </h3> <p>Nossas vagas também são para Pessoas com Deficiência. </p> </p> #J-18808-Ljbffr",
+    "company": "Cooperativa Santa Clara",
+    "city": "carlos barbosa",
+    "state": "rio grande do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785758__1953_9cd66b2ce355ddf6533a13dd923b7433?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor&location=carlos-barbosa&geoID=2011"
+  },
+  {
+    "title": "Consultor SAP MM Sênior - Projetos Nordeste",
+    "description": "<p><h3>Detalhes técnicos da Vaga </h3> <p>O Consultor SAP MM Sênior será responsável por liderar as atividades do módulo em projetos e melhorias, implementando processos padrão, novas funcionalidades e customizações no módulo SAP MM para atender às necessidades específicas de nossos clientes. Terá a oportunidade de configurar e personalizar o SAP MM, garantindo que ele esteja adequadamente adaptado aos processos e requisitos do negócio. </p> <h3>Responsabilidades e atribuições </h3> <ul> <li>Participar de projetos de melhorias e implantação S/4HANA; </li> <li>Realizar entendimento do escopo do projeto e desenhar solução; </li> <li>Realizar alinhamentos e negociações do desenho com cliente; </li> <li>Executar atividades de projeto de acordo com o planejamento: Desenho/detalhamento de soluções, configurações, testes, documentações, suporte ao cliente; </li> <li>Suportar a preparação e realização dos testes integrados e de regressão aos usuários-chave e analistas de TI, para validação da solução implementada; </li> <li>Elaborar as documentações requeridas pelo projeto: Configurações, testes, desenho/detalhamento de soluções, atas, especificações funcionais, apresentações, entre outros; </li> <li>Treinar os usuários chaves e/ou analistas de TI; </li> <li>Identificar oportunidades e propor soluções e melhorias; </li> <li>Ser flexível e ter o discernimento para entender quando deve ou não abrir exceções; </li> <li>Auxiliar no detalhamento de atividades requeridas; </li> <li>Comunicar ativamente as ocorrências do projeto; </li> <li>Buscar conhecimento necessário para garantir a melhor solução; </li> <li>Mapear riscos técnicos do projeto; </li> <li>Cumprir as normas e procedimentos da Fusion e seus clientes; </li> <li>Realizar repasse de conhecimento para equipe AMS; </li> <li>Criar documentação completa dos testes para liberação ao cliente; </li> <li>Apoiar e orientar os usuários chave durante os ciclos de testes; </li> <li>Oferecer suporte aos usuários no pós go live como forma de apoio no processo de transição e operação; </li> <li>Conduzir treinamentos e Workshops nas frentes de sua atuação; </li> <li>Replicar conhecimento na frente em que atua. </li>  </ul> <h3>Requisitos Técnicos e qualificações </h3> <ul> <li>Necessário sólida experiência no módulo MM comprovada em projetos anteriores; </li> <li>Conhecimento do módulo em S/4HANA; </li> <li>Experiência em Processos de Suprimentos; </li> <li>Conhecimento em Business Partner (BP); </li> <li>Conhecimento Workflow flexível; </li> <li>Conhecimento processos especiais: Intercompany, Subcontratação, Entrega futura, Consignação e triangulação; </li> <li>Conhecimento em MRP Consumo; </li> <li>Conhecimento em Localização Brasil; </li> <li>Conhecimento GRC Inbound; </li> <li>Cockpit Migration/LTMC / LSMW; </li> <li>Debug para funcionais. </li>  </ul> <h3>Será um diferencial </h3> <ul> <li>Certificação módulo MM; </li> <li>Conhecimento de WM/EWM; </li> <li>Conhecimento DMS. </li>  </ul> <p>Atuação Hibrida. </p> </p> #J-18808-Ljbffr",
+    "company": "FUSION CONSULTORIA",
+    "city": "manaus",
+    "state": "pernambuco",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785764__1953_2ff7956f9b445856dd2b18aad0ceeb8e?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-MM&location=manaus"
+  },
+  {
+    "title": "Agente Comercial FIDC - PORTO ALEGRE RS e Região Metropolitana",
+    "description": "<p><p>O Gerente Comercial - FIDC é responsável por liderar a equipe de vendas, desenvolver estratégias comerciais para captação de recursos e fidelização de clientes no segmento de FIDC. Atua na prospecção de novos negócios, negociação de contratos e no acompanhamento do mercado financeiro. </p> <p><b>Requisito indispensável: </b> possuir <b>carteira ativa de clientes Pessoa Jurídica (PJ) </b>, com relacionamento consolidado e capacidade comprovada de geração de negócios no mercado financeiro. </p> <ul> <li>Ter base Ativa de carteira de clientes PJ. </li> <li>Prospectar e desenvolver clientes Pessoa Jurídica, ampliando a carteira comercial na região de atuação. </li> <li>Atuar na comercialização de produtos financeiros, com foco em antecipação de recebíveis, capital de giro e operações estruturadas via FIDC. </li> <li>Gerenciar, expandir e fidelizar a carteira de clientes, mantendo relacionamento consultivo, próximo e de longo prazo. </li> <li>Elaborar, apresentar e negociar propostas e contratos comerciais, garantindo rentabilidade, viabilidade financeira e aderência às políticas internas. </li> <li>Conduzir negociações e parcerias estratégicas, desde a prospecção até o fechamento das operações. </li> <li>Realizar visitas comerciais, reuniões presenciais ou remotas com clientes e parceiros. </li> <li>Analisar oportunidades e operações financeiras, avaliando viabilidade, risco e adequação ao perfil do cliente. </li> <li>Definir metas, estratégias comerciais e planos de ação para crescimento da carteira e captação de recursos no segmento de FIDC. </li> <li>Acompanhar metas, indicadores de desempenho comercial (KPIs) e performance da carteira de clientes. </li> <li>Elaborar relatórios gerenciais com resultados comerciais e indicadores de desempenho. </li> <li>Monitorar o mercado financeiro e a concorrência, identificando tendências, oportunidades e práticas relevantes no segmento de FIDC. </li> <li>Participar de eventos, feiras e congressos do setor financeiro, visando networking e atualização de mercado. </li> <li>Atuar de forma autônoma, orientada a resultados, geração de valor e crescimento sustentável. </li> <li>Colaborar com áreas internas (financeiro, jurídico e operações), garantindo alinhamento, integração e eficiência nos processos comerciais. </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "LAW Finanças",
+    "city": "espumoso",
+    "state": "rio grande do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785825__1953_39a13ec512be2185e532485dee2f8747?utm_source=1953&utm_medium=feed&keyword=Agente-Comercial-FIDC&location=espumoso&geoID=3036"
+  },
+  {
+    "title": "Embedded Engineer - Software Tester",
+    "description": "<p><h3>Summary </h3> <p>The automotive industry is changing rapidly and our organization needs to keep up with the latest trends. Software becomes more important than ever. In order to strengthen our Embedded Engineering organization, we are looking for an Embedded Test Engineer who wants to make an impact on the future of automotive. </p> <h3>Responsibilities </h3> <ul> <li>The software test engineer is active in the verification and validation of the software and applications running on the embedded systems; </li> <li>Test scope includes functional testing, platform testing, network management cybersecurity, functional safety and diagnostics; </li> <li>The test designs are made against the requirements set for the relevant system. </li> <li>The test cases are managed in HP ALM. </li> <li>The test execution is carried out on hardware-in-the-loop systems. </li> <li>You work in a multi-cultural, multi-disciplinary and highly dynamic environment for various projects. </li> <li>You cooperate daily with the verification engineers and on a frequent basis with project development stakeholders, such as software and hardware engineers and project lead engineers. </li>  </ul> <h3>Qualifications </h3> <ul> <li>Technical education on Bachelor or Master level in Mechanics, Automotive, Electronics, Computer Science or comparable. </li> <li>Strong technical skills in powertrain or vehicle domain. </li> <li>Knowledge of embedded software design processes (according the V-cycle). </li> <li>Experience in embedded software testing (minimum of 2-3 years of test experience). </li> <li>Knowledge of test techniques (test certificate, ISTQB is an asset). </li> <li>Experience with requirement management. </li> <li>Experience with HP ALM. </li> <li>Excellent problem solving and debugging skills. </li> <li>Understanding of Matlab/Simulink and Vector Tooling. </li> <li>Knowledge of model-based design techniques is preferred. </li> <li>Demonstrated communication skills, professionalism, result- and customer-orientation. </li> <li>Experience in test automation is a plus. </li> <li>Experience with scrum/agile is a plus. </li> <li>Fluent in English language - effective communication in both verbal and written form. </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "PACCAR",
+    "city": "ponta grossa",
+    "state": "paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10785829__1953_3e4eb381942393254b7a07f5da35142f?utm_source=1953&utm_medium=feed&keyword=Embedded-Engineer&location=ponta-grossa&geoID=6819"
   }
 ]
