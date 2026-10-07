@@ -1,5 +1,104 @@
 [
   {
+    "title": "Desenvolvedor (a) Fullstack Sênior (Java / React)",
+    "description": "<p><p>Você é uma pessoa apaixonada pelo que faz e busca um ambiente de trabalho estimulante, onde sua criatividade e habilidades técnicas possam evoluir continuamente. </p> <p>Estamos em busca de uma Pessoa Engenheira Fullstack Sênior para somar com nossa equipe. </p> <h3>Responsabilidades e atribuições </h3> <ul> <li>Desenvolver, codificar, configurar e testar programas e sistemas; </li> <li>Avaliar e implementar soluções de design para melhorar custo, qualidade e performance de aplicações de software; </li> <li>Entender, refinar e ajudar a determinar especificações de software que devem ser cumpridas para atingir objetivos; </li> <li>Colaborar com os membros do time e stakeholders para assegurar que as soluções propostas estejam de acordo com as necessidades do negócio; </li> <li>Seguir metodologias e padrões de design de software ágil. </li>  </ul> <h3>Requisitos e qualificações </h3> <ul> <li>Inglês avançado/fluente para comunicação eficaz com times internacionais e documentação técnica; </li> <li>Disponibilidade para atuação no formato híbrido em Indaiatuba/SP, 2x por mês (a cada 15 dias); </li> <li>Experiência em Java, domínio em Java 11/17, Spring Boot e frameworks relacionados; </li> <li>Conhecimento em front-end (TypeScript e ReactJS); </li> <li>Conhecimento em Kubernetes e orquestração de containers, incluindo práticas de deploy, scaling e monitoramento; </li> <li>Vivência com Spring 3.x, entendendo suas mudanças estruturais e impactos em sistemas legados; </li> <li>Experiência em ferramentas de segurança como Checkmarx, SonarQube ou similares para análise estática de código; </li> <li>Domínio em DevOps: CI/CD (GitHub Actions), IaC (Terraform), e gestão de configuração (Helm, Kustomize); </li> <li>Conhecimento em testes automatizados (JUnit, Mockito, Test Containers) e estratégias de teste de regressão; </li> <li>Familiaridade com cloud (AWS) e serviços gerenciados (EKS, AKS, RDS). </li>  </ul> <h3>Etapas do processo </h3> <ol> <li>3 - Bate papo com o time de Pessoas & Cultura </li> <li>4 - Avaliação de Fit Cultural </li> <li>5 - Bate papo com a área técnica </li> <li>7 - Contratação </li>  </ol> <h3>Benefícios </h3> <ul> <li>Plano de saúde: Bradesco (outros estados) ou Unimed (RS) </li> <li>Plano odontológico: Bradesco (outros estados) ou Unimed (RS) </li> <li>Auxílio home office </li> <li>Auxílio equipamento (para quem optar por usar o próprio para trabalhar) </li> <li>Alelo: Vale alimentação e refeição </li> <li>Zenklub: 2 sessões grátis por mês </li> <li>Wellhub: acesso para você e seus dependentes </li> <li>Guapeco: plano de saúde para o seu pet </li> <li>Apoio em cursos e certificações </li> <li>Open English: desconto em aulas de inglês e espanhol </li> <li>Convênios com instituições de ensino </li> <li>Desconto em farmácias Panvel </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "ilegra",
+    "city": "indaiatuba",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881582__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack&location=indaiatuba&geoID=3903"
+  },
+  {
+    "title": "Arquiteto de Soluções (.NET/C#) – Projeto de Inovação com IA",
+    "description": "<p><p>Estamos em busca de um(a) <b>Arquiteto(a) de Soluções com perfil hands-on </b>, que atue tanto na definição da arquitetura quanto no desenvolvimento técnico das soluções. O profissional participará de um projeto de inovação focado na criação e evolução de produtos digitais, incluindo iniciativas com <b>Inteligência Artificial </b>, desde a concepção de MVPs até sua validação e escalabilidade. </p> <h3>Responsabilidades </h3> <ul> <li>Definir e implementar arquiteturas de soluções escaláveis e de alta performance. </li> <li>Atuar diretamente no desenvolvimento utilizando <b>C# e .NET </b>, com forte participação técnica. </li> <li>Estruturar sistemas do zero, definindo padrões, integrações e boas práticas de desenvolvimento. </li> <li>Liderar tecnicamente a construção de MVPs, validando hipóteses de negócio e evoluindo os produtos conforme resultados. </li> <li>Avaliar, propor e implementar soluções envolvendo IA e automação. </li> <li>Apoiar equipes de desenvolvimento na tomada de decisões arquiteturais e técnicas. </li> <li>Garantir qualidade, segurança, observabilidade e sustentação das soluções entregues. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Experiência sólida como <b>Arquiteto de Soluções </b>. </li> <li>Forte conhecimento e experiência prática em <b>C# e .NET </b>. </li> <li>Perfil <b>hands-on </b>, com capacidade de codificar e apoiar tecnicamente o time. </li> <li>Experiência comprovada na construção de sistemas e produtos digitais do zero. </li> <li>Vivência em projetos de inovação, desenvolvimento de MVPs e validação de produtos. </li> <li>Conhecimento em arquiteturas modernas (microserviços, APIs, cloud, mensageria e integrações). </li> <li>Experiência ou interesse em soluções de <b>Inteligência Artificial </b> e tecnologias emergentes. </li>  </ul> <h3>Modelo De Trabalho </h3> <p>Híbrido (Alphaville-SP), com encontros presenciais pontuais para alinhamentos estratégicos, workshops e momentos de colaboração com o time. </p> <p>A vaga aceita trabalho remoto? Não </p> </p> #J-18808-Ljbffr",
+    "company": "Nava | Tech for Business",
+    "city": "barueri",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881609__1953?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Solu%C3%A7%C3%B5es&location=barueri&geoID=1016"
+  },
+  {
+    "title": "Business Data Scientist - SupplyChain & Operations",
+    "description": "<p><h3>Por qué? </h3> <p>Porque queremos que tengas la oportunidad de trabajar en proyectos que transforman profundamente cómo operan las empresas. Desde la planificación y optimización de inventarios hasta el diseño de redes logísticas inteligentes, el enfoque está en aplicar ciencia de datos, machine learning y simulación para resolver problemas complejos y generar valor tangible. </p> <h3>Qué esperamos de ti </h3> <ul> <li>Si tenés experiencia gestionando áreas de la supply chain y pasión por la ciencia de datos ¡Sé parte de nuestro gran Equipo! </li> <li>Un Data Science Consultant orientado a Supply Chain & Operations Analytics es un perfil que tiene conocimiento funcional de supply chain, tiene pensamiento analítico y conoce métodos analíticos que usa como medio para resolver distintos casos de uso de negocio. </li> <li>El área abarca el E2E: compras, planificación, producción, almacenamiento, transporte y logística, por lo que es necesario que la persona a ocupar la posición conozca los conceptos fundacionales de la cadena para poder interactuar con distintos tipos de stakeholders de cliente. </li> <li>Es un perfil curioso que busca la causa raíz de problemas dentro de la cadena, utiliza y propone herramientas analíticas para poder resolverlo a través de distintas técnicas: optimización, machine learning, segmentación, simulación, etc. </li>  </ul> <h3>Perfil buscado </h3> <ul> <li>Profesionales de las carreras de Ingeniería Industrial, Economía, Administración de Empresas y/o afines. </li> <li>+2 años de experiencia laboral en cualquier área de supply chain: compras, planificación, producción, almacenamiento, transporte y logística. </li> <li>Inglés avanzado. </li> <li>Orientado a datos. </li> <li>Dominio intermedio de SQL y/o Python. </li> <li>Dominio intermedio de herramientas de visualización como Tableau y/o PowerBI. </li> <li>Manejo de librerías para exploración y visualización de datos tales como Matplotlib y Seaborn. </li> <li>Conocimiento intermedio del proceso de desarrollo de un modelo de principio a fin: entendimiento del problema, modelo conceptual y modelo de datos, tratamiento y limpieza, codificación de modelo/análisis, validación. </li>  </ul> <h3>Súper nice to have será contar con </h3> <ul> <li>Maestrías en Ciencias de Datos, Analytics y/o afines. </li> <li>Liderazgo y coordinación de equipos de trabajo. </li> <li>Experiencia en entornos cloud: AWS, GCP y/o Azure. </li> <li>Desarrollo e implementación de soluciones analíticas. </li>  </ul> <h3>Beneficios </h3> <ul> <li>Pedidos Ya </li> <li>Prepaga Swiss Medical sin costo para vos y tu grupo familiar primario </li> <li>Reintegro de Conectividad </li> <li>Gimnasio 100% Bonificado </li> <li>Vacaciones Flex </li> <li>Jornada Flex </li> <li>Certificaciones bonificadas </li> <li>Día de cumpleaños libre </li> <li>Bonos </li> <li>Accenture Days </li> <li>Paquete de beneficios flexibles </li> <li>Licencias de Paternidad & Maternidad Extendida </li> <li>Ayuda Económica para Guardería y muchos </li>  </ul> <h3>EEO </h3> <p>Todas las decisiones referidas al proceso de selección de empleo se tomarán sin hacer distinción, exclusión o preferencia alguna basada en motivos de raza, color, género, orientación sexual, discapacidad, edad, religión, opinión política o sindical, nacionalidad u origen socioeconómico ni ninguna otra prevista en la legislación vigente, que tengan por efecto anular o alterar la igualdad de oportunidades o de trato entre los candidatos. </p> </p> #J-18808-Ljbffr",
+    "company": "Accenture Argentina",
+    "city": "buenos aires",
+    "state": "espírito santo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881615__1953?utm_source=1953&utm_medium=feed&keyword=Business-Data-Scientist&location=buenos-aires&geoID=1425"
+  },
+  {
+    "title": "Account Manager III - Personal & Home Care",
+    "description": "<p><p><b>Job ID: </b> 41466 | <b>Localização: </b> São Paulo, São Paulo, Brasil | <b>Modelo de Trabalho: </b> Híbrido (escritório na Zona Sul de São Paulo) </p> <p>Em um mundo onde cuidar de si e do seu ambiente é cada vez mais essencial, a Clariant convida você a fazer parte da transformação do setor de Personal & Home Care. Buscamos um(a) <b>Account Manager III </b> para integrar nossa equipe, impulsionando soluções químicas inovadoras e sustentáveis para a indústria destes segmentos. </p> <h3>Sua missão </h3> <p>Atuar como protagonista da estratégia comercial no Brasil, Chile e Argentina, gerenciando contas-chave, relacionamento com clientes e impulsionando o crescimento de vendas, contribuindo para o fortalecimento da nossa posição como referência no mercado de Personal & Home Care. </p> <h3>O que oferecemos </h3> <ul> <li>Fazer parte de uma empresa global líder em especialidades químicas </li> <li>Atuação regional (Brasil, Chile e Argentina) com exposição internacional </li> <li>Ambiente inovador e colaborativo, que valoriza sustentabilidade e impacto positivo </li> <li>Oportunidade de desenvolvimento profissional e crescimento de carreira </li> <li>Participação em projetos que moldam o futuro da indústria de PHC </li> <li>Trabalho com portfólio de inovações e especialidades de alta performance </li>  </ul> <p><b>Junte-se a nós e ajude a transformar o setor de Personal & Home Care com soluções inovadoras e sustentáveis. Candidate-se agora! </b> </p> <h3>Responsabilidades </h3> <ul> <li>Gerir a carteira de clientes, garantindo crescimento de receita e rentabilidade </li> <li>Impulsionar o crescimento das contas e a satisfação dos clientes </li> <li>Monitorar tendências do setor, coletar insights e colaborar com a área de marketing </li> <li>Trabalhar em equipe coordenada com times técnicos </li> <li>Gerenciar o pipeline de vendas no CRM e elaborar previsões de vendas </li> <li>Implementar ações alinhadas à estratégia global da Clariant </li>  </ul> <h3>Requisitos </h3> <ul> <li><b>Experiência de 8+ anos em vendas técnicas e gestão de contas B2B de especialidades químicas para a indústria de Personal e/ou Home Care </b> </li> <li><b>Inglês e Espanhol avançados/fluentes </b> </li> <li>Experiência com ferramentas de gestão comercial, preferencialmente CRM e SAP </li> <li>Perfil comercial orientado a resultados, com forte habilidade em construção de relacionamentos </li> <li>Comunicação clara, organização, proatividade e espírito de equipe </li> <li><b>Disponibilidade para viagens ematé 50% do tempo </b> </li> <li><b>Formação superior completa em Química, Engenharia, Farmácia, Administração ou áreas correlatas </b> </li> <li>Remuneração variável anual </li> <li>Previdência privada </li> <li>Modelo híbrido, com escritório localizado na Zona Sul de São Paulo </li> <li>Compensação de horas para emendar pontes de feriados </li> <li>1 dia de folga no dia ou no mês do seu aniversário </li> <li>1 dia de folga por ano para atividades de voluntariado </li> <li>TotalPass para você e até 3 convidados </li> <li>Assistência médica e odontológica para você, cônjuge e filhos </li> <li>Telemedicina 24 horas e Saúde Mental para você, cônjuge e filhos </li> <li>Auxílio-farmácia para você, cônjuge e filhos </li> <li>Vale-refeição e alimentação (flex) </li> <li>Licença-paternidade de 20 dias + 10 dias úteis </li> <li>Licença-maternidade de 180 dias + 10 dias úteis </li> <li>Garantia de emprego por até 1 ano após o parto ou a adoção </li> <li>Auxílio-creche para mães com filhos até 2 anos de idade </li> <li>Sala de lactação </li>  </ul> <p><b>Pode haver variação a depender da localidade ou da área de contratação </b> </p> </p> #J-18808-Ljbffr",
+    "company": "Clariant SE",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881650__1953?utm_source=1953&utm_medium=feed&keyword=Account-Manager-III&location=são-paulo&geoID=25"
+  },
+  {
+    "title": "Forward Deployed Engineer",
+    "description": "<p><p>We're building the data stack for Physical AI. The Rerun SDK viewer is loved by some of the best robotics and spatial AI teams in the world, and Rerun Hub is live in private preview managing petabytes of data. </p> <p>Demand is strong, and we need someone whose focus is making customers successful, fast. As a Forward Deployed Engineer, you'll sit with customers from first demo through production, figure out what they actually need, and get something working in front of them. What drives you is unblocking customers and watching them go all-in on the product. </p> <h3>What you'll do </h3> <ul> <li>Run demos and onboard customers onsite and remotely, building engineer-to-engineer trust alongside our founders </li> <li>Take a messy customer problem and stand up a working proof of concept </li> <li>Be the most expert user of Rerun, and feed relay customers struggles back into the roadmap </li> <li>Coordinate with the team to make every POC and customer onboarding better than the last </li>  </ul> <h3>What we're looking for </h3> <ul> <li>A technical foundation in either Robotics, ML, data engineering, or databases. You are credible with engineers, comfortable in real codebases. </li> <li>Working Python: you can read, iterate on, and extend existing code and get a POC over the line. </li> <li>Genuine interest in robotics, spatial AI, or computer vision; hands‑on exposure is a real plus </li> <li>High agency, and genuinely driven by solving customer problems. Technical and real beats charismatic salesperson. </li> <li>Comfortable with 30% travel </li>  </ul> <h3><b>How we work at Rerun </b> </h3> <ul> <li>We're a remote company headquartered in Stockholm, Sweden. </li> <li>We meet up in person for a week roughly once a quarter </li> <li>The team you'll join has members in European and US timezones </li> <li>We've put together an uncommonly talented tech team, value agency and helpfulness highly, and expect everyone to take broad responsibility for what they build </li> <li>We offer competitive cash and equity compensation, six weeks paid vacation, and whatever hardware and software you need to do your job </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "Rerun",
+    "city": "remote",
+    "state": "mato grosso do sul",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881683__1953?utm_source=1953&utm_medium=feed&keyword=Forward-Deployed-Engineer&location=remote&geoID=12"
+  },
+  {
+    "title": "Engineering Lead, Regional Payments",
+    "description": "<p><h3><b>Engineering Lead: Regional Payments </b> </h3> <p>We are seeking an experienced and visionary Engineering Lead to lead our engineering efforts across LATAM. You will be instrumental in developing and scaling payment innovations for our merchants, while leveraging this knowledge for global impact. This role requires a strong strategic mindset to work in lock‑step with product and commercial leadership, ensuring the delivery of our regional strategy and contributing to our global platform. </p> <p>This highly visible position requires working across time zones, aligning with diverse internal and external stakeholders, and challenging the status quo. </p> <p><b>What You'll Do </b> </p> <ul> <li>Provide clear guidance, purpose, and mission for engineering teams. </li> <li>Create an environment that fosters continuous innovation, and be at the forefront of payments in the region. </li> <li>A people‑first leader. Develop and build a best‑in‑class team comprising the right skills to lead and win. </li> <li>Serve as the primary face of engineering for our merchants in the region you are responsible for, building strong relationships and understanding their unique requirements. </li> <li>Partner globally to ensure the delivery on one global platform while meeting the specific needs of the market. </li> <li>Accountable for the execution of key projects, ensuring timely delivery, tracking progress, removing blockers, and assisting with planning and prioritization as needed. </li>  </ul> <p><b>Who You Are </b> </p> <ul> <li>10+ years of engineering experience, including 5+ years as a leader – building and mentoring high-performing engineering teams within global companies, with a track record of delivering complex, scalable platforms. </li> <li>Experience hiring and managing a sizeable software development organization (ideally 25-50 engineers), including managing managers, and setting an exemplary engineering culture. </li> <li>Skilled in building large-scale, distributed systems, ideally with expertise in Java or similar programming languages, and a passion for software architecture, scalability, and maintainability. </li> <li>Experience in the Payments Industry. </li> <li>Excellent verbal and written communication skills and the ability to translate complex technical concepts into clear, concise language; adept at speaking to technical and non‑technical audiences, merchants, and internal stakeholders. </li> <li>Comfortable streamlining the team's engineering operations, refining product requirements together with product and merchants, and encouraging effective collaboration. </li> <li>Enjoy simplicity, love dealing with uncertainty, and get things done. </li> <li>Curious about what our biggest merchants are facing and empathetic to solving problems that help all merchants. </li>  </ul> <p><b>Our Diversity, Equity and Inclusion commitments </b> </p> <p>Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them – voices like yours. No matter who you are or where you’re from, we welcome you to be your true self at Adyen. </p> <p>This role is based out of our São José dos Campos Tech Hub. </p> </p> #J-18808-Ljbffr",
+    "company": "Adyen",
+    "city": "são josé dos campos",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881686__1953?utm_source=1953&utm_medium=feed&keyword=Engineering-Lead-Regional&location=são-josé-dos-campos&geoID=8323"
+  },
+  {
+    "title": "Analista de Validação Júnior",
+    "description": "<p><h3>Oportunidade: Analista de Validação Júnior </h3> <h3>Sobre a Biomm </h3> <p>A Biomm é uma indústria farmacêutica com o propósito de ampliar o acesso de biomedicamentos aos pacientes brasileiros. Nossos valores norteiam nossas ações: ética, orientação para resultados, colaboração, excelência e comprometimento. </p> <h3>Responsabilidades </h3> <ul> <li>Elaborar e revisar procedimentos, planos, formulários, protocolos e relatórios relacionados às atividades de Qualificação e Validação, em conformidade com as Boas Práticas de Fabricação (BPF) e requisitos regulatórios vigentes. </li> <li>Executar testes de qualificação e validação, realizando análise crítica dos resultados obtidos e assegurando o atendimento aos requisitos estabelecidos. </li> <li>Acompanhar atividades executadas por empresas terceiras, avaliando criticamente os resultados e garantindo a aderência aos protocolos aprovados. </li> <li>Apoiar processos de Avaliação de Impacto e Análise Prévia de Pontos Críticos, contribuindo para a definição das estratégias de qualificação e validação de equipamentos, sistemas e instalações. </li> <li>Participar de atividades de Análise de Risco da Qualidade, utilizando ferramentas apropriadas para identificação, avaliação e mitigação de riscos. </li> <li>Atuar na gestão de não conformidades relacionadas às atividades de Qualificação e Validação, apoiando investigações, análises de causa e definição de ações corretivas. </li> <li>Auxiliar na avaliação de impactos de Controles de Mudança em equipamentos, sistemas, instalações e processos validados. </li> <li>Contribuir para a manutenção do estado qualificado de equipamentos e sistemas, garantindo a conformidade com os requisitos do Sistema de Qualidade Farmacêutico. </li> <li>Apoiar a elaboração e revisão do Plano Mestre de Validação e demais documentos da área. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ensino Superior completo. </li> <li>Conhecimento em Boas Práticas de Fabricação (BPF). </li> <li>Conhecimento ou experiência em atividades de Qualificação, Validação e Sistemas da Qualidade. </li> <li>Desejável experiência em indústria farmacêutica, biotecnológica ou segmentos regulados. </li> <li>Conhecimento em ferramentas de análise de risco será considerado um diferencial. </li>  </ul> <h3>Local e Horário de trabalho </h3> <ul> <li>Nova Lima </li> <li>Segunda a Sexta - 08h00 as 17h00 </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "BIOMM S.A.",
+    "city": "nova lima",
+    "state": "minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881766__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Valida%C3%A7%C3%A3o&location=nova-lima&geoID=5851"
+  },
+  {
+    "title": "Analista Industrial",
+    "description": "<p><p>Fundados em 1996, somos líderes na fabricação e na distribuição de materiais e medicamentos para o segmento da saúde, com produtos e soluções para todo o Brasil. Com capital 100% nacional, com mais de 50 unidades operacionais e centros de distribuição em todas as regiões do país, temos nossa própria frota e contamos com mais de 6.500 colaboradores diretos. </p> <p>Com o propósito de cuidar de cada vida, somos a única empresa do Brasil que atua de forma completa no mercado da saúde. Essa atuação reforça nosso compromisso em oferecer soluções confiáveis, ágeis e inovadoras ao setor – incluindo fabricação, distribuição, gestão de estoque, transporte e soluções personalizadas aos hospitais, clínicas, laboratórios, farmácias, atacados, indústrias farmacêuticas e aos pacientes finais. Buscamos encontrar e viabilizar as inovações que definirão como cuidar das pessoas do amanhã. </p> <h3>Atividades </h3> <ul> <li>Analisar processos produtivos e propor melhorias de performance, qualidade e produtividade; </li> <li>Apoiar projetos de melhoria contínua e redução de custos; </li> <li>Atuar junto à produção, PCP, manutenção, qualidade e engenharia; </li> <li>Conduzir tecnicamente os assistentes de produção; </li> <li>Elaborar relatórios gerenciais e dashboards de acompanhamento; </li> <li>Executar ações dentro do sistema de gestão da qualidade; </li> <li>Identificar gargalos e atuar na solução de problemas de processo; </li> <li>Implantação da matriz de capacitação; </li> <li>Monitorar e controlar indicadores industriais (OEE, eficiência, perdas, retrabalho, custos, MÊS, GATE); </li> <li>Montar as reuniões de rotina para produção; </li> <li>Padronizar processos e atualizar procedimentos e formulários. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ensino superior em Engenharia de Produção, Engenharia Industrial, Administração ou áreas correlatas; </li> <li>Conhecimento em ferramentas de melhoria contínua (Lean, Kaizen, PDCA, 5W2H); </li> <li>Conhecimento em indicadores industriais e análise de dados; </li> <li>Excel avançado (desejável Power BI ou outro BI); </li> <li>Familiaridade com Protheus ou outro ERP. </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "Viveo",
+    "city": "santo amaro da imperatriz",
+    "state": "santa catarina",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881790__1953?utm_source=1953&utm_medium=feed&keyword=Analista-Industrial&location=santo-amaro-da-imperatriz&geoID=7865"
+  },
+  {
+    "title": "Supervisor RH (Recrutamento e Seleção) - RP 19852 (19852)",
+    "description": "<p><h3>Supervisor RH (Recrutamento e Seleção) - RP 19852 </h3><p>Sistema Fiep é sinônimo de fortalecimento da indústria. Trabalhamos de forma integrada, visando ser referência nacional no desenvolvimento industrial, no apoio ao associativismo e no atendimento eficiente. </p><p>Esta é a nossa missão: Promover, representar e defender a indústria paranaense, em busca da melhor competitividade e desenvolvimento sustentável. </p><p>Para você que deseja contribuir com o nosso propósito, de transformar o Paraná no melhor lugar para a indústria no Brasil, esta vaga pode ser sua! </p><h3>Qual é a posição? </h3><p>Supervisor RH (Recrutamento e Seleção) RP 19852 | Sistema Fiep (Fiep, Sesi, Senai e IEL) </p><h3>Quais são os desafios e responsabilidades? </h3><ul><li>Supervisionar, orientar e desenvolver a equipe de Recrutamento e Seleção de estagiários e jovens aprendizes, garantindo desempenho, cumprimento de metas, prazos e padrões de qualidade, por meio da distribuição equilibrada das demandas, realização de feedbacks e ações de capacitação. </li><li>Acompanhar e analisar os indicadores de desempenho da área, elaborando relatórios gerenciais e conduzindo tomadas de decisão baseadas em dados, com foco na melhoria contínua. </li><li>Gerir e acompanhar iniciativas de atração de talentos alinhadas às necessidades regionais e estratégicas da organização. </li><li>Gerir os processos de atração, seleção e admissão, assegurando eficiência operacional, conformidade legal e aderência às estratégias institucionais. </li><li>Desenvolver e implementar estratégias de recrutamento, fortalecendo o pipeline de talentos e a aderência às necessidades das empresas atendidas. </li><li>Atuar no relacionamento com parceiros estratégicos e stakeholders, ampliando fontes de captação e consolidando parcerias. </li><li>Apoiar e estruturar soluções personalizadas de recrutamento para clientes, com visão consultiva e estratégica. </li><li>Garantir a conformidade dos processos com as diretrizes internas e a legislação aplicável. </li><li>Conduzir capacitações e ações de desenvolvimento da equipe, promovendo evolução técnica e comportamental. </li><li>Implementar e otimizar ferramentas e tecnologias de Recrutamento e Seleção, visando ganhos de eficiência e qualidade. </li><li>Assegurar uma experiência positiva aos candidatos, fortalecendo a imagem institucional. </li><li>Atuar de forma integrada com as áreas internas, alinhando as práticas de Recrutamento e Seleção à estratégia organizacional. </li><li>Executar atividades correlatas conforme as demandas da área. </li> </ul><h3>Requisitos </h3><ul><li>Ensino superior completo. Desejável em Psicologia, Administração, Recursos Humanos ou áreas correlatas. </li><li>Experiência prévia em Recrutamento e Seleção, preferencialmente com alto volume de vagas. </li><li>Vivência em gestão de equipes, com atuação em liderança e desenvolvimento de pessoas. </li><li>Capacidade de atuação estratégica, com visão analítica e foco em resultados. </li><li>Excelentes habilidades de comunicação e relacionamento interpessoal. </li> </ul><h3>Diferenciais Desejáveis </h3><ul><li>Pós-graduação em Gestão de Pessoas, Liderança, Recursos Humanos ou áreas afins. </li><li>Conhecimento em legislação de estágio. </li><li>Conhecimento em metodologias ágeis aplicadas aos processos de Recrutamento e Seleção. </li><li>Experiência na gestão de indicadores, dashboards e ferramentas de acompanhamento de performance. </li><li>Facilidade de comunicação e atuação com públicos de diferentes portes e perfis, com capacidade para conduzir treinamentos, apresentações e palestras quando necessário. </li> </ul><h3>Local de trabalho e Horário </h3><p>Campus da Indústria - Marginal Comendador Franco | Avenida, 1341 - Jardim Botânico, Curitiba - PR,   </p><p>Horário: Segunda a sexta das 9h às 12h30 e das 13h30 às 18h – 40 horas semanais. Em caso de reaproveitamento podemos considerar outros horários de atuação à critério de aceite do candidato aprovado. </p><h3>Etapas do processo seletivo </h3><p>Triagem RH - Triagem do Gestor - Avaliação de Conhecimento (Case) - Solicitação documentos comprobatórios - Entrevista RH e Entrevista de Validação - Admissão. </p><h3>Benefícios </h3><ul><li>Associação Beneficente dos Servidores do Sistema Fiep (ABESSFI) </li><li>Auxílio Creche </li><li>Cartão Viva Mais/Odontológico </li><li>Empréstimo Consignado PREVISC </li><li>Estacionamento no Local </li><li>Plano de Saúde </li><li>Previdência Privada </li><li>Programa Bem – Suporte psicológico, consultoria financeira, jurídica, nutricional e assistência social </li><li>Seguro de Vida </li><li>Serviços de Educação/ Descontos </li> <li>Vale Refeição/Alimentação </li><li>Vale Transporte </li> </ul><p>Essa vaga também se destina a pessoas com deficiência (PCD) ou reabilitados(as). </p><p>Este processo seletivo tem validade de 24 meses, podendo ocorrer o aproveitamento de candidatos aprovados em novas oportunidades deste mesmo perfil nas casas do Sistema Fiep (Fiep, Sesi, Senai e IEL) seguindo a ordem de classificação. </p><p>O prazo para inscrição neste processo seletivo é do dia 17/06/2026 a 24/06/2026. </p> </p> #J-18808-Ljbffr",
+    "company": "Sistema Fiep",
+    "city": "curitiba",
+    "state": "paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881805__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-RH-Recrutamento&location=curitiba&geoID=2691"
+  },
+  {
+    "title": "Analista de Infraestrutura de TI Sênior",
+    "description": "<p><h3>Principais Responsabilidades </h3> <ul> <li>Infraestrutura e Redes  <ul> <li>Administrar servidores físicos e virtuais (Windows e/ou Linux). </li> <li>Monitorar e manter a disponibilidade dos recursos de infraestrutura. </li> <li>Gerenciar redes locais (LAN), redes sem fio (Wi‑Fi), VPNs e links de internet. </li> <li>Administrar switches, roteadores, firewalls e demais equipamentos de rede. </li> <li>Implementar melhorias contínuas no ambiente de infraestrutura. </li>  </ul>  </li> <li>Suporte Técnico  <ul> <li>Atender e solucionar chamados de média e alta complexidade. </li> <li>Realizar suporte presencial e remoto aos usuários. </li> <li>Diagnosticar e corrigir falhas em hardware, software e sistemas corporativos. </li> <li>Garantir o cumprimento dos SLAs estabelecidos para atendimento. </li>  </ul>  </li> <li>Segurança da Informação  <ul> <li>Administrar políticas de acesso e permissões. </li> <li>Monitorar vulnerabilidades e implementar ações preventivas. </li> <li>Gerenciar soluções de antivírus, firewall e proteção de dados. </li> <li>Apoiar processos de backup, recuperação de desastres e continuidade do negócio. </li>  </ul>  </li> <li>Administração de Sistemas  <ul> <li>Gerenciar ambientes Microsoft 365, Active Directory e Azure AD. </li> <li>Realizar instalação, configuração e atualização de sistemas corporativos. </li> <li>Administrar ferramentas de colaboração, comunicação e produtividade. </li> <li>Apoiar projetos de implantação de novas tecnologias. </li>  </ul>  </li> <li>Documentação e Governança  <ul> <li>Elaborar e manter documentação técnica atualizada. </li> <li>Criar procedimentos operacionais e manuais de suporte. </li> <li>Participar da definição de políticas e boas práticas de TI. </li> <li>Apoiar auditorias internas e externas relacionadas à área. </li>  </ul>  </li>  </ul> <h3>Formação </h3> <ul> <li>Ensino Superior completo em Tecnologia da Informação, Ciência da Computação, Sistemas de Informação, Redes de Computadores ou áreas correlatas. </li>  </ul> <h3>Experiência </h3> <ul> <li>Experiência em suporte técnico e infraestrutura. </li> <li>Vivência em administração de servidores, redes, ambientes corporativos e operacionais. </li> <li>Experiência com suporte de nível avançado. </li>  </ul> <h3>Conhecimentos Técnicos </h3> <ul> <li>Sistemas Operacionais Windows Server e Windows Desktop. </li> <li>Active Directory e Microsoft 365. </li> <li>Redes TCP/IP, DNS, DHCP e VPN. </li> <li>Virtualização (VMware, Hyper‑V ou similares). </li> <li>Backup e recuperação de dados. </li> <li>Firewalls e segurança da informação. </li> <li>Gestão de chamados e suporte ao usuário. </li>  </ul> <h3>Diferenciais </h3> <ul> <li>Certificações Microsoft, Cisco, ITIL ou CompTIA. </li> <li>Conhecimento em Azure, AWS ou Google Cloud. </li> <li>Experiência com ferramentas de monitoramento. </li> <li>Conhecimento em LGPD e Segurança da Informação. </li>  </ul> <h3>Competências Comportamentais </h3> <ul> <li>Capacidade analítica e resolução de problemas. </li> <li>Organização e gestão de prioridades. </li> <li>Comunicação clara e objetiva. </li> <li>Proatividade e senso de urgência. </li> <li>Trabalho em equipe. </li> <li>Foco em resultados e atendimento ao cliente interno. </li>  </ul> <h3>Indicadores de Desempenho (KPIs) </h3> <ul> <li>Tempo médio de atendimento e resolução de chamados. </li> <li>Disponibilidade dos serviços e infraestrutura. </li> <li>Cumprimento dos SLAs. </li> <li>Índice de satisfação dos usuários. </li> <li>Redução de incidentes recorrentes. </li> <li>Efetividade das rotinas de backup e segurança. </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "MM Invest AI",
+    "city": "guarulhos",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881910__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Infraestrutura&location=guarulhos&geoID=3612"
+  },
+  {
+    "title": "Analista de Vendas B2B (2 vagas)",
+    "description": "<p><p>Estamos em busca de um Analista de Vendas estratégico para atuar na prospecção e fidelização de clientes B2B nos segmentos de Hotéis, Motéis, Restaurantes, Buffets e Hospitais. Se você tem habilidades comerciais, analíticas e deseja atuar em um mercado de alto padrão, essa oportunidade é para você! </p> <h3>Principais Responsabilidades: </h3> <ul> <li>Prospecção de Clientes:  <ul> <li>Identificar, mapear e entrar em contato com potenciais clientes nos segmentos de Hotéis, Motéis, Restaurantes, Buffets e Hospitais. </li> <li>Compreender as necessidades específicas de cada cliente e oferecer soluções personalizadas que agreguem valor ao negócio. </li>  </ul>  </li> <li>Gestão de Relacionamento:  <ul> <li>Realizar atendimento de pós-venda para avaliar a satisfação dos clientes e identificar oportunidades de melhorias. </li> <li>Estabelecer e manter um relacionamento duradouro com os clientes, visando sua fidelização. </li>  </ul>  </li> <li>Registro e Organização:  <ul> <li>Gerenciar informações detalhadas sobre clientes, contatos e atividades no sistema CRM (Gestão de Relacionamento com o Cliente). </li> <li>Atuação Estratégica no Mercado de Luxo: </li> <li>Desenvolver estratégias de atendimento personalizadas para clientes </li>  </ul>  </li>  </ul> <h3>Requisitos Técnicos e Experiência: </h3> <ul> <li>Experiência comprovada em vendas B2B, preferencialmente nos setores de Hotéis, Motéis, Restaurantes, Buffets e Hospitais. </li> <li>Conhecimento em técnicas de vendas consultivas, com foco na identificação de necessidades e oferecimento de soluções personalizadas. </li> <li>Experiência no uso de sistemas de CRM (Customer Relationship Management) para gerenciamento de contatos e oportunidades. </li> <li>Domínio de ferramentas digitais e de comunicação online, como WhatsApp, Zoom, Teams, Google Meet e e-mails corporativos. </li> <li>Habilidade para interpretar métricas e relatórios de vendas, com foco em análise de desempenho e identificação de oportunidades. </li> <li>Experiência com planejamento estratégico de vendas, como mapeamento de mercado e priorização de clientes. </li>  </ul> <h3>Habilidades Comportamentais: </h3> <ul> <li>Alta resiliência para lidar com objeções e desafios do mercado. </li> <li>Organização e disciplina para gerenciar pipeline de vendas e prioridades diárias. </li> <li>Perfil proativo e criativo, com capacidade de propor soluções inovadoras para atrair e fidelizar clientes. </li> <li>Foco em resultados, com forte comprometimento com o cumprimento de metas e prazos. </li> <li>Facilidade em construir relacionamentos interpessoais e atender clientes com diferentes perfis, especialmente no mercado de luxo. </li>  </ul> <h3>Horário e Local de Trabalho: </h3> <ul> <li>Horário: De segunda a sexta-feira, das 08h00 às 18h00. </li> <li>Local de Trabalho: Vila Mariana - São Paulo, SP. </li> <li>Regime de Trabalho: Presencial. </li>  </ul> <p>Valorizamos a alta performance: nossa estrutura de comissões e bônus foi desenhada para que os melhores talentos consigam dobrar sua remuneração. </p> </p> #J-18808-Ljbffr",
+    "company": "Nevine",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10881981__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Vendas&location=são-paulo&geoID=25"
+  },
+  {
     "title": "PROFESSOR MEDICINA VETERINARIA",
     "description": "<p><p>O professor(a) do curso de Medicina Veterinária da Faculdade Facit tem como missão planejar, ministrar e avaliar atividades de ensino, pesquisa e extensão relacionadas às disciplinas sob sua responsabilidade, promovendo a formação técnica, científica, ética e humanística dos acadêmicos do curso de Medicina Veterinária, alinhada às Diretrizes Curriculares Nacionais e às políticas institucionais. </p> <h3>Área de Atuação: </h3> <ul> <li>Diagnóstico por Imagem; </li> <li>Medicina Preventiva, Epidemiologia e Saúde Pública; </li> <li>Empreendedorismo e Agronegócio; </li> <li>Forragicultura e Nutrição Animal; </li> <li>Genética; </li> <li>Produção Animal II (Bovinocultura de Corte e Leite, Ovinocaprinocultura). </li>  </ul> <h3>Principais Responsabilidades: </h3> <ul> <li>Elaborar e executar planos de ensino, cronogramas, conteúdos programáticos e instrumentos de avaliação das disciplinas ministradas; </li> <li>Ministrar aulas teóricas, práticas, laboratoriais e de campo, utilizando metodologias ativas e recursos tecnológicos educacionais; </li> <li>Orientar e acompanhar o desenvolvimento acadêmico dos estudantes; </li> <li>Elaborar, aplicar e corrigir avaliações, registrando notas e frequência conforme os prazos institucionais; </li> <li>Participar de reuniões pedagógicas, colegiados de curso, eventos institucionais e atividades de capacitação docente; </li> <li>Desenvolver e incentivar atividades de pesquisa, extensão e iniciação científica; </li> <li>Acompanhar atividades práticas em laboratórios, fazendas-escola, propriedades rurais, clínicas e demais ambientes de aprendizagem; </li> <li>Zelar pelo cumprimento das normas institucionais, regulamentos acadêmicos e legislação educacional vigente; </li> <li>Contribuir para os processos de avaliação institucional e de reconhecimento e renovação de reconhecimento do curso; </li> <li>Produzir e atualizar materiais didáticos, promovendo a integração entre teoria e prática profissional; </li> <li>Orientar trabalhos acadêmicos, projetos integradores, estágios e atividades complementares, quando designado. </li>  </ul> <h3>Requisitos Obrigatórios: </h3> <ul> <li>Graduação em Medicina Veterinária ou Zootecnia; </li> <li>Pós-graduação lato sensu (Especialização) na área de atuação ou áreas correlatas; </li> <li>Registro ativo no respectivo conselho profissional, quando aplicável; </li> <li>Conhecimento em metodologias de ensino superior e recursos tecnológicos educacionais. </li>  </ul> <h3>Requisitos Desejáveis: </h3> <ul> <li>Mestrado ou Doutorado em áreas correlatas; </li> <li>Experiência em docência no ensino superior; </li> <li>Experiência profissional na área específica de atuação; </li> <li>Produção científica e participação em projetos de pesquisa e extensão. </li>  </ul> <h3>Competências Técnicas: </h3> <ul> <li>Conhecimento técnico-científico na área de atuação; </li> <li>Planejamento e organização didático-pedagógica; </li> <li>Domínio de ferramentas digitais aplicadas ao ensino; </li> <li>Capacidade de orientação acadêmica e científica. </li>  </ul> <h3>Competências Comportamentais: </h3> <ul> <li>Comunicação clara e eficaz; </li> <li>Ética profissional; </li> <li>Trabalho em equipe; </li> <li>Proatividade; </li> <li>Liderança educacional; </li> <li>Relacionamento interpessoal; </li> <li>Comprometimento com a qualidade do ensino e a formação dos estudantes. </li>  </ul> </p> #J-18808-Ljbffr",
     "company": "Faculdadefacit",
@@ -3273,7 +3372,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894559__1953_cb7d66dc48030acf25f66eb9cd95c071?utm_source=1953&utm_medium=feed&keyword=Analista-de-Automa%C3%A7%C3%A3o&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894559__1953_83cfd5c6c955846abcfc906c6732fe0d?utm_source=1953&utm_medium=feed&keyword=Analista-de-Automa%C3%A7%C3%A3o&location=são-paulo&geoID=25"
   },
   {
     "title": "Coordenador de Obras | Residenciais Verticais",
@@ -3282,7 +3381,7 @@
     "city": "joinville",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894577__1953_988f798fd5c42c70228cd741b4e529e0?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Obras&location=joinville&geoID=4554"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894577__1953_896ec71541aef82785a3db35905050f7?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Obras&location=joinville&geoID=4554"
   },
   {
     "title": "Pessoa Supervisora Trade Execução - Vaga afirmativa para mulheres - Varginha/MG",
@@ -3291,7 +3390,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894591__1953_02c07a856a364714f73dc3a60c085292?utm_source=1953&utm_medium=feed&keyword=Pessoa-Supervisora-Trade&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894591__1953_371922b64c8f42c9961483efcddd2100?utm_source=1953&utm_medium=feed&keyword=Pessoa-Supervisora-Trade&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "Consultor de Engenharia Contratual - São Paulo",
@@ -3300,7 +3399,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894595__1953_b57099bd11a78c3b0a16d25cdf79e6e2?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Engenharia&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894595__1953_77090a8f5efddf76d31025b33148ff5a?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Engenharia&location=são-paulo&geoID=25"
   },
   {
     "title": "Analista de Perícia Contábil - SP",
@@ -3309,7 +3408,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894596__1953_ed7669d3f5e66ff08d5f10eba8c17a19?utm_source=1953&utm_medium=feed&keyword=Analista-de-Per%C3%ADcia&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894596__1953_3f73e6687e2ba9712dc68e67653ad426?utm_source=1953&utm_medium=feed&keyword=Analista-de-Per%C3%ADcia&location=são-paulo&geoID=25"
   },
   {
     "title": "Banker Júnior",
@@ -3318,7 +3417,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894608__1953_74e5df6cd34ea15eb852058cc898dcc6?utm_source=1953&utm_medium=feed&keyword=Banker-J%C3%BAnior&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894608__1953_669619c2fbde5becb2783f4526b638f3?utm_source=1953&utm_medium=feed&keyword=Banker-J%C3%BAnior&location=são-paulo&geoID=25"
   },
   {
     "title": "ANALISTA DE RISK MANAGEMENT PL",
@@ -3327,7 +3426,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894611__1953_65c29a2902d8f485767c3281d8c0d3b5?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-RISK&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894611__1953_84ecaf0fe30e76bcc78c6fe34c523169?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-RISK&location=são-paulo&geoID=25"
   },
   {
     "title": "Marketing Specialist - Growth & Events",
@@ -3336,7 +3435,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894617__1953_d5135fa790616f597895fff796fbacaa?utm_source=1953&utm_medium=feed&keyword=Marketing-Specialist&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894617__1953_45501f511f07810eb1edee60d67045be?utm_source=1953&utm_medium=feed&keyword=Marketing-Specialist&location=são-paulo&geoID=25"
   },
   {
     "title": "Especialista em Comunicação corporativa (jornalista)",
@@ -3345,7 +3444,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894630__1953_3a69ac5c010b39937880c972b3061736?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Comunica%C3%A7%C3%A3o&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894630__1953_d21ef48ae34fc3cc0e5cf307c1a807e5?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Comunica%C3%A7%C3%A3o&location=são-paulo&geoID=25"
   },
   {
     "title": "DevOps Engineer Career Opportunities at Dev.Pro - 01",
@@ -3354,7 +3453,7 @@
     "city": "buenos aires",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894632__1953_959b04978e89c9bfd11911f544d9d439?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer-Career&location=buenos-aires&geoID=1425"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894632__1953_4b08b75abb2845840eb85e4dff571d5e?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer-Career&location=buenos-aires&geoID=1425"
   },
   {
     "title": "Product Marketing Manager",
@@ -3363,7 +3462,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894642__1953_2dc5a53f2bcef941d8929a9a4893f03a?utm_source=1953&utm_medium=feed&keyword=Product-Marketing-Manager&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894642__1953_454c4d9280e451a6b30ea955bc7cddad?utm_source=1953&utm_medium=feed&keyword=Product-Marketing-Manager&location=são-paulo&geoID=25"
   },
   {
     "title": "Analista Pleno de Recursos Humanos (generalista)",
@@ -3372,7 +3471,7 @@
     "city": "florianópolis",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894650__1953_7f5df0a32cc5bf7254a2d43045045d70?utm_source=1953&utm_medium=feed&keyword=Analista-Pleno-de&location=florianópolis&geoID=3237"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894650__1953_4fef9b74b33f5916e44b343259590edf?utm_source=1953&utm_medium=feed&keyword=Analista-Pleno-de&location=florianópolis&geoID=3237"
   },
   {
     "title": "Software Engineer (C++) Career Opportunities at Dev.Pro - 01",
@@ -3381,7 +3480,7 @@
     "city": "buenos aires",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894714__1953_177e2ef4fc86277764b4a90239687f2f?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-C%2B%2B&location=buenos-aires&geoID=1425"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894714__1953_d3ba75d9db5f59d7e3f3abeb654166d7?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-C%2B%2B&location=buenos-aires&geoID=1425"
   },
   {
     "title": "Orçamentista",
@@ -3390,7 +3489,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894729__1953_836212185b32462fb7c76e80b96ba4a2?utm_source=1953&utm_medium=feed&keyword=Or%C3%A7amentista&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894729__1953_c744d3f9c2431dad782b4df12a5ec7ec?utm_source=1953&utm_medium=feed&keyword=Or%C3%A7amentista&location=são-paulo&geoID=25"
   },
   {
     "title": "Key Account Manager | (Portais e Plataformas digitais - Gazeta do Povo e Tribuna do Paraná)",
@@ -3399,7 +3498,7 @@
     "city": "vila velha",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894733__1953_518effe404b97f4b407b7f8a6bc29a66?utm_source=1953&utm_medium=feed&keyword=Key-Account-Manager&location=vila-velha&geoID=9657"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894733__1953_f01f6924b258234ccd764e9cafa5ed68?utm_source=1953&utm_medium=feed&keyword=Key-Account-Manager&location=vila-velha&geoID=9657"
   },
   {
     "title": "Analista de Pós-Vendas Sr",
@@ -3408,7 +3507,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894753__1953_42b61f2369ed8f0d4f4d09d73ecf23d9?utm_source=1953&utm_medium=feed&keyword=Analista-de-P%C3%B3s-Vendas&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894753__1953_c006e8898dd1be2d2d961d844850ea4e?utm_source=1953&utm_medium=feed&keyword=Analista-de-P%C3%B3s-Vendas&location=são-paulo&geoID=25"
   },
   {
     "title": "Analista de Negócios",
@@ -3417,7 +3516,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894795__1953_378fdea4d8ff74b801d597c3b330d41c?utm_source=1953&utm_medium=feed&keyword=Analista-de-Neg%C3%B3cios&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894795__1953_839c634a6f308b6275bc93a9f7ca7a80?utm_source=1953&utm_medium=feed&keyword=Analista-de-Neg%C3%B3cios&location=são-paulo&geoID=25"
   },
   {
     "title": "Analista de Supply Chain (Comex & Procurement)",
@@ -3426,7 +3525,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10894798__1953_43eeef56bbf9b82f91175b17bc7cd772?utm_source=1953&utm_medium=feed&keyword=Analista-de-Supply&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10894798__1953_f7ee2044f86d04379918ae7a9f2903da?utm_source=1953&utm_medium=feed&keyword=Analista-de-Supply&location=são-paulo&geoID=25"
   },
   {
     "title": "Coordenador de Projetos",
@@ -6819,7 +6918,7 @@
     "city": "rio grande",
     "state": "rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10906054__1953_dc134955eb23cb7ca03490332fda94b8?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-concession%C3%A1ria&location=rio-grande&geoID=7348"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10906054__1953_7af37738e5308c459ce63078e599c7f3?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-concession%C3%A1ria&location=rio-grande&geoID=7348"
   },
   {
     "title": "Técnico de Instalação I - (Cópia)",
@@ -7485,7 +7584,7 @@
     "city": "brasília",
     "state": "região centro- este",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10908929__1953_501216d23c8b9c9fa18ca6e6e40a3331?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=brasília&geoID=1366"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10908929__1953_3f5ec3d6b4b7dbd0535bf62eb2805a4e?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=brasília&geoID=1366"
   },
   {
     "title": "Analista de Testes (Q.A) Pleno",
@@ -7494,7 +7593,7 @@
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10908968__1953_b0095ab72599e0b312a5b18d3a3d6e7e?utm_source=1953&utm_medium=feed&keyword=Analista-de-Testes&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10908968__1953_794ff9071808798c6e9634073407e76c?utm_source=1953&utm_medium=feed&keyword=Analista-de-Testes&location=goiânia&geoID=3432"
   },
   {
     "title": "Desenvolvedor Full Stack",
@@ -7503,7 +7602,7 @@
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909034__1953_5fa594071cf7d6a9ec103ba9732fad8f?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909034__1953_67794f56f01e4b5f95042fe1d2cc20d4?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=goiânia&geoID=3432"
   },
   {
     "title": "Analista de Fundos de Investimento",
@@ -7512,7 +7611,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909046__1953_1225f319c002fed490fae0872b511f1d?utm_source=1953&utm_medium=feed&keyword=Analista-de-Fundos&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909046__1953_984278bfa0d42ddd872ca85def76e691?utm_source=1953&utm_medium=feed&keyword=Analista-de-Fundos&location=são-paulo&geoID=25"
   },
   {
     "title": "Engenheiro/a de Serviços de Campo (Banco de Talentos)",
@@ -7521,7 +7620,7 @@
     "city": "guarulhos",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909069__1953_d87fd40e94bddb825311899eda7fe23d?utm_source=1953&utm_medium=feed&keyword=Engenheiro-a-de-Servi%C3%A7os&location=guarulhos&geoID=3612"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909069__1953_96ac8fe5d84715f183d20a05349b5daf?utm_source=1953&utm_medium=feed&keyword=Engenheiro-a-de-Servi%C3%A7os&location=guarulhos&geoID=3612"
   },
   {
     "title": "Analista Comercial Sênior - Sinop/MT",
@@ -7530,7 +7629,7 @@
     "city": "sinop",
     "state": "mato grosso",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909157__1953_419b947e1fe78ad7e3f049f5a9ce2ca3?utm_source=1953&utm_medium=feed&keyword=Analista-Comercial-S%C3%AAnior&location=sinop&geoID=8802"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909157__1953_f9d40133ab39a22809ccbc1ee3c41def?utm_source=1953&utm_medium=feed&keyword=Analista-Comercial-S%C3%AAnior&location=sinop&geoID=8802"
   },
   {
     "title": "[2026] Talent Pool Gente",
@@ -7539,7 +7638,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909162__1953_45beef5f46eb030ac895f38cfb54eab5?utm_source=1953&utm_medium=feed&keyword=2026-Talent-Pool&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909162__1953_02302692e05d947e6230f6453c95c6e4?utm_source=1953&utm_medium=feed&keyword=2026-Talent-Pool&location=são-paulo&geoID=25"
   },
   {
     "title": "Supervisor de Vendas- Cambé/PR",
@@ -7548,7 +7647,7 @@
     "city": "cambé",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909164__1953_4240e65ac33dc197aafd5447b43d0ea6?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Vendas&location=cambé&geoID=1664"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909164__1953_9e37954a5bc7011f38e3f5bc3e878828?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Vendas&location=cambé&geoID=1664"
   },
   {
     "title": "Pessoa Consultora de Gestão de Identidades Pleno",
@@ -7557,7 +7656,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909175__1953_ddad5df03cce098dba2eae4e8bb5c420?utm_source=1953&utm_medium=feed&keyword=Pessoa-Consultora-de&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909175__1953_796034f6fd802cef4204ce0edb476801?utm_source=1953&utm_medium=feed&keyword=Pessoa-Consultora-de&location=são-paulo&geoID=25"
   },
   {
     "title": "AI Deployment Strategist",
@@ -7566,7 +7665,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909181__1953_b89f2d9e1bdc950049d177fcf034f2bd?utm_source=1953&utm_medium=feed&keyword=AI-Deployment-Strategist&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909181__1953_0c025addf25b6fb0d20f046a5b8648e3?utm_source=1953&utm_medium=feed&keyword=AI-Deployment-Strategist&location=são-paulo&geoID=25"
   },
   {
     "title": "[2026] Talent Pool Administrativo (Facilities, Compras, Eventos)",
@@ -7575,7 +7674,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909318__1953_db73b84e776e691febb6be1389c3829b?utm_source=1953&utm_medium=feed&keyword=2026-Talent-Pool&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909318__1953_f7b225faa9e2cf775193d7320ecc5e4d?utm_source=1953&utm_medium=feed&keyword=2026-Talent-Pool&location=são-paulo&geoID=25"
   },
   {
     "title": "REVISOR (A) TÉCNICO (A) | QUALIFICAÇÃO FOOD | BARUERI SP",
@@ -7584,7 +7683,7 @@
     "city": "barueri",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909349__1953_bd2171403bdb3232a31b59de4c035048?utm_source=1953&utm_medium=feed&keyword=REVISOR-T%C3%89CNICO&location=barueri&geoID=1016"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909349__1953_4611d42776e8c3eeabe9016d9969237d?utm_source=1953&utm_medium=feed&keyword=REVISOR-T%C3%89CNICO&location=barueri&geoID=1016"
   },
   {
     "title": "ANALISTA FACILITIES JR",
@@ -7593,7 +7692,7 @@
     "city": "campinas",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909392__1953_8540867bc99a45a3ca5f2ed2e40530d3?utm_source=1953&utm_medium=feed&keyword=ANALISTA-FACILITIES-JR&location=campinas&geoID=1713"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909392__1953_f09be3a8555ad82ea0c23ed58529f105?utm_source=1953&utm_medium=feed&keyword=ANALISTA-FACILITIES-JR&location=campinas&geoID=1713"
   },
   {
     "title": "Salesforce Slack Consultant",
@@ -7602,7 +7701,7 @@
     "city": "buenos aires",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909502__1953_0ba4e8719efcddebe76fc138ab94a530?utm_source=1953&utm_medium=feed&keyword=Salesforce-Slack-Consultant&location=buenos-aires&geoID=1425"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909502__1953_eb4b502e7daaedd7cfb1b1866a378e73?utm_source=1953&utm_medium=feed&keyword=Salesforce-Slack-Consultant&location=buenos-aires&geoID=1425"
   },
   {
     "title": "Banco de Talentos | Assessor Invest - Região Sul",
@@ -7611,7 +7710,7 @@
     "city": "Remote",
     "state": "região sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909539__1953_9a554938caf84be0445dd87fbe498ea8?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=Remote"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909539__1953_f10fb8febed0608a9a5196083d6c02cd?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=Remote"
   },
   {
     "title": "TRADER DE MERCADO INTERNO – LUÍS ANTÔNIO/SP",
@@ -7620,7 +7719,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909542__1953_e9636a342d1a0381c2d12be103fbef74?utm_source=1953&utm_medium=feed&keyword=TRADER-DE-MERCADO&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909542__1953_5e71ed34a1b6c2de4bbc631398bf6044?utm_source=1953&utm_medium=feed&keyword=TRADER-DE-MERCADO&location=são-paulo&geoID=25"
   },
   {
     "title": "Auxiliar de Produção I",
@@ -7629,7 +7728,7 @@
     "city": "porto alegre",
     "state": "rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909553__1953_2ec66bc0ea4dd9aa1abea1ee8998c580?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Produ%C3%A7%C3%A3o&location=porto-alegre&geoID=6880"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909553__1953_0c79f263959973dd858c4d7fda9d6432?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Produ%C3%A7%C3%A3o&location=porto-alegre&geoID=6880"
   },
   {
     "title": "Software Engineer (Python) Career Opportunities at Dev.Pro - 01",
@@ -7638,7 +7737,7 @@
     "city": "buenos aires",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10909592__1953_57242862145ebfa34f9d91934e43c4ca?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Python&location=buenos-aires&geoID=1425"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_10909592__1953_dcad7ebd856f2540bf5613cd3c1abf27?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Python&location=buenos-aires&geoID=1425"
   },
   {
     "title": "[AE] ANALISTA DE TESTES/QA - PLENO",
@@ -8899,104 +8998,5 @@
     "state": "rio de janeiro",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___70_10916841__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Vendas&location=rio-de-janeiro&geoID=19"
-  },
-  {
-    "title": "Gerente de Operações Logísticas Maringá - PR Full-time employee",
-    "description": "<p><h3>Descrição da vaga </h3> <p>Buscamos uma pessoa <b>Gerente de Logística e Operações </b> que irá realizar o gerenciamento da operação de transporte rodoviário de cargas, assegurando eficiência operacional, qualidade dos serviços e atendimento aos clientes. </p> <p><b>Local de trabalho: </b> Maringá/PR </p> <p><b>Modelo de contratação: </b> Efetivo, CLT </p> <h3>Responsabilidades e atribuições </h3> <p>Como <b>Gerente de Logística e Operações </b> da Transpanorama, você realizará atividades de: </p> <ul> <li>Gerenciar a operação de transporte rodoviário de cargas, assegurando eficiência operacional, qualidade dos serviços e atendimento aos clientes. </li> <li>Liderar equipes administrativas, coordenadores e motoristas, promovendo desenvolvimento, engajamento e alta performance. </li> <li>Gerir integralmente a frota, acompanhando indicadores de produtividade, disponibilidade, utilização e rentabilidade dos veículos. </li> <li>Elaborar, controlar e acompanhar orçamento operacional e custos da frota, garantindo o cumprimento das metas financeiras. </li> <li>Monitorar indicadores de desempenho (KPIs), incluindo consumo de combustível, custo por quilômetro, faturamento por veículo, ociosidade, produtividade e margem operacional. </li> <li>Desenvolver estratégias para redução de custos operacionais relacionados a combustível, manutenção, pneus, pedágios e demais despesas da operação. </li> <li>Planejar e acompanhar manutenções preventivas e corretivas em conjunto com a área de Manutenção, garantindo disponibilidade e confiabilidade da frota. </li> <li>Acompanhar sistemas de telemetria, rastreamento e gestão de frota para suporte à tomada de decisão. </li> <li>Analisar resultados operacionais e financeiros, incluindo DRE da frota, PMT, custos e margem por veículo. </li> <li>Garantir conformidade com a legislação vigente de transporte, ANTT, jornada dos motoristas e demais requisitos regulatórios. </li> <li>Atuar de forma integrada com as áreas Comercial, Financeira, Manutenção e Operações, apoiando decisões estratégicas e o crescimento sustentável do negócio. </li> <li>Conduzir projetos de melhoria contínua, buscando ganhos de produtividade, eficiência operacional e satisfação dos clientes. </li>  </ul> <h3>Requisitos e qualificações </h3> <p><b>Como requisitos básicos, você deve ter: </b> </p> <ul> <li>Ensino Superior completo em Administração, Logística, Engenharia, Gestão de Transportes ou áreas correlatas. </li> <li>Experiência comprovada em gestão de operações e/ou frota no transporte rodoviário de cargas. </li> <li>Vivência com gestão de custos, orçamento e indicadores de desempenho (KPIs). </li> <li>Experiência com sistemas de gestão de frota, telemetria e monitoramento operacional. </li> <li>Conhecimento da legislação de transporte, ANTT e jornada do motorista. </li> <li>Forte capacidade de liderança, gestão de pessoas e tomada de decisão. </li> <li>Excel intermediário/avançado. </li>  </ul> <p><b>Você se destaca, se tiver: </b> </p> <ul> <li>Experiência com análise de DRE operacional e gestão financeira de frota. </li> <li>Vivência em operações de grande porte e alto volume de veículos. </li> <li>Conhecimento em programas de remuneração variável e bonificação por desempenho. </li> <li>Experiência com roteirização, otimização logística e planejamento operacional. </li> <li>Pós-graduação ou especialização em Logística, Transportes, Gestão de Negócios ou áreas afins. </li>  </ul> <h3>Benefícios </h3> <p>Na Transpanorama, o seu bem-estar, desenvolvimento e qualidade de vida estão em primeiro lugar. </p> <p>Confira os benefícios que preparamos para você: </p> <ul> <li>Day Off de Aniversário: Celebre o seu dia com uma folga especial! </li> <li>Refeitório Próprio: Alimentação prática e gratuita, sem precisar se deslocar. </li> <li>Plano de Saúde Coparticipativo: Cuide da sua saúde e da sua família. </li> <li>Plano Odontológico: Atendimento odontológico de qualidade para manter seu sorriso saudável. </li> <li>Clube de Benefícios: Descontos e vantagens exclusivas em produtos e serviços. </li> <li>Desconto no Abastecimento do Posto G10: Mais economia para quem usa o próprio veículo. </li> <li>Desconto no Restaurante G10 Grill: Refeições saborosas com preços especiais para você.  </li><li>Prêmio Assiduidade: Reconhecimento e recompensa pela sua dedicação e pontualidade. </li> <li>PBR – Programa de Bonificação de Resultados: Participação nos resultados da empresa, valorizando o desempenho e o alcance de metas. </li> <li>Universidade Corporativa: Aprenda e cresça com acesso a treinamentos e conteúdos exclusivos. </li> <li>Voucher Recém-Nascido: Um presente especial para celebrar a chegada de um novo membro na família. </li> <li>Sest Senat (Nutrição, Psicologia, Odontologia e Fisioterapia): Apoio à sua saúde física e mental com atendimento especializado. </li> <li>Wellhub (Gympass): Acesso a academias, atividades físicas e bem-estar em um só lugar. </li>  </ul> <p>Venha fazer parte do nosso time! </p> </p> #J-18808-Ljbffr",
-    "company": "Órama",
-    "city": "maringá",
-    "state": "paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10916865__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Opera%C3%A7%C3%B5es&location=maringá&geoID=5194"
-  },
-  {
-    "title": "Executivo de Vendas - Klimatix",
-    "description": "<p><p>Responsável pela administração, execução e entrega dos novos projetos industriais específicos e pelas vendas dos equipamentos para as áreas farmacêutica, alimentícia e veterinária, no Brasil. </p> <h3>Requisitos </h3> <ul> <li>Ensino Superior Completo em Engenharia Mecânica ou afins </li> <li>Vivência avançada em gestão comercial, negociação e ambiente industrial. </li> <li>Nível intermediário em inglês. </li> <li>Processos industriais e inovações tecnológicas. </li>  </ul> <h3>Para atuação no setor Vendas Klimatix, também são consideradas atividades: </h3> <ul> <li>Atendimento e desenvolvimento das regionais sob sua responsabilidade; </li> <li>Prospecção de novos clientes; </li> <li>Relacionamento com os principais stakeholders: clientes finais e projetistas. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Mecalor",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10916876__1953?utm_source=1953&utm_medium=feed&keyword=Executivo-de-Vendas&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Coordenador(a) de Obra | Campinas e RMC",
-    "description": "<p><h3>Responsabilidades e atribuições </h3> <ul> <li>Planejar e coordenar as atividades da equipe de obra, visando atender as demandas previstas no planejamento estratégico. </li> <li>Monitorar o desenvolvimento e execução de todas as etapas da obra, visando acompanhar o cumprimento do cronograma físico e financeiro (previsto x realizado) e a qualidade dos serviços executados. </li> <li>Prestar suporte de ordem técnica, material e de recursos humanos, assessorar na análise de problemas e definir plano de ações, visando garantir o cumprimento de prazo, qualidade e custos previstos. </li> <li>Acompanhar com a equipe e áreas pares, a evolução do registro dos imóveis, junto às prefeituras e demais órgãos competentes e empresas concessionárias de serviços locais. </li> <li>Definir os papéis e responsabilidades da equipe, avaliar e monitorar o desempenho. </li> <li>Realizar a gestão do orçamento da obra. </li> <li>Fazer gestão e análise de KPIs (Indicadores) referentes a execução e entrega da obra (custos, produtividade, headcount, qualidade, segurança do trabalho). </li> <li>Responsável por acompanhar os indicadores de Segurança do Trabalho da obra, com foco em acidente zero. </li>  </ul> <h3>Requisitos e qualificações </h3> <ul> <li>Superior completo em Engenharia Civil. </li> <li>Experiência em gestão de obras residenciais (torres e casas) – MCMV - Minha Casa Minha Vida. </li> <li>Experiência com metodologia construtiva em alvenaria estrutural. </li> <li>Gestão e desenvolvimento de equipes. </li> <li>Pacote Office Avançado. </li> <li>Registro ativo no CREA. </li> <li>Carteira Nacional de Habilitação, categoria B. </li> <li>Conhecimentos em implantação da Metodologia Lean Construction. </li>  </ul> <h3>Informações adicionais </h3> <ul> <li>Assistência Médica </li> <li>Assistência Odontológica </li> <li>Vale Alimentação </li> <li>Seguro de Vida </li> <li>Previdência Privada Bradesco Seguros </li> <li>Vale Transporte </li> <li>Convênio Farmácia </li> <li>Parcerias com instituições de ensino </li> <li>Day off de Aniversário </li> <li>Parceria Wellhub(Gympass) </li> <li>PPR </li> <li>Licença parental estendida – 6 meses para mães e 30 dias para pais </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "HM Engenharia",
-    "city": "são gabriel",
-    "state": "rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10916930__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Obra&location=são-gabriel&geoID=8083"
-  },
-  {
-    "title": "Farmer Pleno",
-    "description": "<p><p>Buscamos uma pessoa Farmer Pleno para atuar junto ao time de Customer Success, sendo responsável por desenvolver relacionamentos estratégicos com clientes, impulsionar expansão de receita dentro da base e garantir uma jornada de crescimento sustentável. </p> <p>Esta pessoa terá papel fundamental na identificação de oportunidades de upsell, cross-sell, renovação e aumento de adoção, atuando de forma consultiva e próxima aos clientes, conectando necessidades de negócio às soluções da plataforma. </p> <p>Procuramos alguém com perfil analítico, boa capacidade relacional e forte interesse por tecnologia, dados e negócios SaaS. </p> <h3>Principais responsabilidades </h3> <ul> <li>Gerenciar e desenvolver uma carteira de clientes estratégicos da base; </li> <li>Identificar oportunidades de expansão de receita (upsell, cross-sell e expansão de licenças/produtos); </li> <li>Conduzir negociações comerciais de expansão e renovação junto aos clientes; </li> <li>Construir relacionamento consultivo com stakeholders e tomadores de decisão; </li> <li>Atuar em parceria com CS para garantir saúde da conta, retenção e crescimento sustentável; </li> <li>Mapear riscos de churn e apoiar estratégias de mitigação; </li> <li>Analisar métricas de uso, adoção e performance da carteira; </li> <li>Elaborar estratégias de crescimento individualizadas por conta; </li> <li>Ser ponte entre cliente e áreas internas, garantindo alinhamento estratégico. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Experiência prévia em Account Management, Farmer, Customer Success com viés comercial ou Sales em empresas SaaS B2B; </li> <li>Vivência com gestão de carteira, expansão de receita e renovação de contratos; </li> <li>Experiência em negociações consultivas com clientes B2B; </li> <li>Familiaridade com métricas de SaaS, como churn, NRR, MRR, expansão e health score; </li> <li>Boa capacidade analítica e orientação a dados; </li> <li>Excelente comunicação verbal e escrita; </li> <li>Perfil relacional, consultivo e orientado a resultados; </li> <li>Interesse genuíno por tecnologia, inovação e ambiente de alta performance. </li>  </ul> <h3>Diferenciais </h3> <ul> <li>Experiência em empresas de tecnologia em estágio de crescimento/scaling; </li> <li>Conhecimento em Customer Experience, Customer Success ou jornada do cliente; </li> <li>Vivência com produtos de dados, analytics ou plataformas B2B; </li> <li>Inglês intermediário ou avançado. </li>  </ul> <h3>Buscamos uma pessoa que </h3> <ul> <li>Tenha mentalidade de dono e visão de negócio; </li> <li>Seja confortável em ambientes dinâmicos e com mudanças rápidas; </li> <li>Tenha visão comercial com foco em experiência do cliente; </li> <li>Seja curiosa, goste de aprender rápido e tenha afinidade com tecnologia. </li>  </ul> <ul> <li>Contratação no modelo PJ. </li> <li>Modelo híbrido, com necessidade de atuação presencial 1x ao mês em São José dos Campos e disponibilidade para participação em eventos e visitas presenciais em São Paulo, conforme necessidade. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Solucx",
-    "city": "são josé dos campos",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10916933__1953?utm_source=1953&utm_medium=feed&keyword=Farmer-Pleno&location=são-josé-dos-campos&geoID=8323"
-  },
-  {
-    "title": "Desenvolvedor(a) ABAP Sênior",
-    "description": "<p><p>No Grupo Profarma, a cultura é viva e inspira a forma como a gente trabalha e se relaciona todos os dias. </p> <p>Aqui, valorizamos quem é inconformado por natureza, faz acontecer, busca soluções criativas e está sempre em movimento para fazer melhor e encantar parceiros e clientes. </p> <p>Se você se identifica com esse jeito de ser, confira a oportunidade abaixo e faça parte desse time! </p> <p>Estamos em busca de um(a) <b>Desenvolvedor ABAP Pleno </b> para atuar de forma <b>híbrida na Barra da Tijuca/RJ. </b> </p> <h3>Responsabilidades </h3> <ul> <li>Desenvolver, testar e implementar programas, relatórios e integrações no ambiente SAP, garantindo aderência às necessidades do negócio </li> <li>Analisar requisitos junto às áreas parceiras e propor soluções técnicas eficientes </li> <li>Realizar manutenção corretiva e evolutiva em sistemas existentes (correções, testes e melhorias) </li> <li>Atuar na resolução de problemas críticos, identificando oportunidades de melhoria contínua </li> <li>Executar revisões de código visando qualidade, segurança e boas práticas </li> <li>Avaliar riscos técnicos e propor estratégias de mitigação </li> <li>Analisar performance de sistemas e implementar otimizações </li> <li>Atuar em troubleshooting de incidentes complexos, utilizando ferramentas de debug e testes adicionais </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ensino superior completo: Análise e Desenvolvimento de Sistemas, Ciência da Computação e Engenharia da Computação ou áreas correlatas. </li> <li>Experiência de 5 a 7 anos na área de desenvolvimento </li> <li>Vivência com desenvolvimento e sustentação em SAP </li>  </ul> <h3>Conhecimentos Técnicos </h3> <ul> <li>Banco de dados </li> <li>Inglês intermediário </li>  </ul> <p>A diversidade e a inclusão são fundamentais para o nosso crescimento, por isso, todas as nossas vagas são afirmativas para PCDs e grupos mInorizados. Acreditamos que, ao valorizar a diferença, criamos um ambiente mais inovador e colaborativo. </p> <p>Fundado em 1961 com a criação da Profarma Distribuição, o Grupo Profarma consolidou-se como um dos líderes no mercado farmacêutico brasileiro, ocupando hoje uma relevante atuação no mercado nacional em distribuição. Com 14 Centros de Distribuição e uma equipe de mais de 9.000 colaboradores, atuamos desde a negociação até a entrega de medicamentos e produtos de higiene e beleza para milhares de farmácias em todo o país. </p> <p>Em 2013, ampliamos nossa atuação para o varejo farmacêutico por meio da Rede d1000, composta por mais de 270 lojas sob as bandeiras Drogasmil, Farmalife, Drogarias Tamoio e Drogaria Rosário. </p> <p>Comprometidos com a promoção da saúde e do bem-estar, nossas equipes trabalham diariamente para oferecer experiências inclusivas, sustentáveis e socialmente engajadas. Seja de forma presencial ou por canais digitais, desenvolvemos soluções e serviços inovadores que nos posicionam como a melhor escolha para nossos parceiros. Afinal, entregar saúde é o nosso propósito. </p> <p>Diversidade e Inclusão no Grupo Profarma </p> <p>Acreditamos que enxergar é mais do que ver - é reconhecer as singularidades que tornam cada pessoa única. Por isso, reforçamos nosso compromisso com a Diversidade & Inclusão por meio do programa Diversidade em Cena. </p> <p>Promovemos um ambiente acolhedor e respeitoso para todos, valorizando as diferenças de gênero, etnia, deficiências, orientação sexual (LGBTI+), crenças, religiões e outras individualidades. </p> <p>Quer fazer parte dessa jornada com a gente? Junte-se ao Grupo Profarma! </p> </p> #J-18808-Ljbffr",
-    "company": "Profarma Group",
-    "city": "rio de janeiro",
-    "state": "rio de janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10917007__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-ABAP-S%C3%AAnior&location=rio-de-janeiro&geoID=19"
-  },
-  {
-    "title": "Coordenador(a) de Obra | Campinas e RMC",
-    "description": "<p><h3>Responsabilidades e atribuições </h3> <ul> <li>Planejar e coordenar as atividades da equipe de obra, visando atender as demandas previstas no planejamento estratégico. </li> <li>Monitorar o desenvolvimento e execução de todas as etapas da obra, visando acompanhar o cumprimento do cronograma físico e financeiro (previsto x realizado) e a qualidade dos serviços executados. </li> <li>Prestar suporte de ordem técnica, material e de recursos humanos, assessorar na análise de problemas e definir plano de ações, visando garantir o cumprimento de prazo, qualidade e custos previstos. </li> <li>Acompanhar com a equipe e áreas pares, a evolução do registro dos imóveis, junto às prefeituras e demais órgãos competentes e empresas concessionárias de serviços locais. </li> <li>Definir os papéis e responsabilidades da equipe, avaliar e monitorar o desempenho. </li> <li>Realizar a gestão do orçamento da obra. </li> <li>Fazer gestão e análise de KPIs (Indicadores) referentes a execução e entrega da obra (custos, produtividade, headcount, qualidade, segurança do trabalho). </li> <li>Responsável por acompanhar os indicadores de Segurança do Trabalho da obra, com foco em acidente zero. </li>  </ul> <h3>Requisitos e qualificações </h3> <ul> <li>Superior completo em Engenharia Civil. </li> <li>Experiência em gestão de obras residenciais (torres e casas) – MCMV - Minha Casa Minha Vida. </li> <li>Experiência com metodologia construtiva em alvenaria estrutural. </li> <li>Gestão e desenvolvimento de equipes. </li> <li>Pacote Office Avançado. </li> <li>Registro ativo no CREA. </li> <li>Carteira Nacional de Habilitação, categoria B. </li> <li>Conhecimentos em implantação da Metodologia Lean Construction. </li>  </ul> <h3>Informações adicionais </h3> <ul> <li>Assistência Médica </li> <li>Assistência Odontológica </li> <li>Vale Alimentação </li> <li>Seguro de Vida </li> <li>Previdência Privada Bradesco Seguros </li> <li>Vale Transporte </li> <li>Convênio Farmácia </li> <li>Parcerias com instituições de ensino </li> <li>Day off de Aniversário </li> <li>Parceria Wellhub(Gympass) </li> <li>PPR </li> <li>Licença parental estendida – 6 meses para mães e 30 dias para pais </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "HM Engenharia",
-    "city": "campinas",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10917036__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Obra&location=campinas&geoID=1713"
-  },
-  {
-    "title": "Surveyor",
-    "description": "<p><ul> <li>Autocad; </li> <li>Sistemas de Survey; </li> <li>Escala: 14 x 14. </li>  </ul> <p>Nós somos amantes do oceano. Somos uma empresa brasileira que há mais de 48 anos desenvolve soluções submarinas para o mercado de energia offshore, garantindo a sustentabilidade dos oceanos. E se você compartilha essa paixão pelo mar e também é comprometido com a proteção do meio ambiente e seus valiosos recursos, seu lugar é aqui na Oceânica! Venha fazer parte da nossa família! </p> <h3>Responsabilidades e atribuições </h3> <ul> <li>Trabalhar em regime de rotação offshore; </li> <li>Escrever e controlar a qualidade dos relatórios de campo, memorandos e desenhos; </li> <li>Reportar direto para Superintendente e Técnico de Operações; </li> <li>Assegurar que as certificações de todo equipamento de Survey estejam em dia e arquivadas; </li> <li>Manter inventário atualizado; </li> <li>Gerenciar e organizar cabos e instalação de equipamentos; </li> <li>Lançar e recolher equipamentos; </li> <li>Verificar e gerenciar em tempo real as posições do ROV e navio; </li> <li>Registrar pontos relevantes às estruturas de campo; </li> <li>Fazer aquisição e processamento de dados; </li> <li>Registrar resultados nos locais devidos; </li> <li>Gerenciar os relatórios diários de operações (RDO/CiemSub); </li> <li>Gerenciar o planejamento das OS’s fazendo uso do cronograma lançado no CiemSub; </li> <li>Assegurar que os requerimentos específicos do Cliente e da Oceânica sejam atingidos em registros escritos e digitais; </li> <li>Trabalhar conforme direcionamento do superior direto; </li> <li>Assegurar que os procedimentos de Survey sejam seguidos. </li>  </ul> <h3>Requisitos e qualificações </h3> <h3>Mandatório </h3> <ul> <li>Ensino Técnico ou Superior em Geoprocessamento, Eletrônica, Redes, Sistemas, Engenharias, ou áreas afins; </li> <li>Registro em conselho da categoria ativo; </li> <li>CBSP; </li> <li>THUET; </li> <li>Pacote Office. </li>  </ul> <h3>Desejável </h3> <ul> <li>Habilidade de comunicação verbal e escrita na língua inglesa; </li> <li>MS Project; </li> <li>Autocad; </li> <li>Inglês acima de intermediári; </li> <li>Familiaridade com equipamentos responsáveis pelo posicionamento do ROV; </li> <li>Sistemas de Survey; </li> <li>Familiaridade com o Pacote EIVA. </li>  </ul> <h3>Informações adicionais </h3> <h3>Condições de trabalho </h3> <ul> <li>Regime: Offshore; </li> <li>Escala: 14 x 14. </li>  </ul> <h3>Benefícios </h3> <ul> <li>Vale alimentação ou refeição; </li> <li>Plano de saúde extensivo aos dependentes legais; </li> <li>Plano odontológico extensivo aos dependentes legais; </li> <li>Seguro de vida; </li> <li>Wellhub (antigo Gympass); </li> <li>Curso de Inglês. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Oceanica",
-    "city": "rio das ostras",
-    "state": "rio de janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10917092__1953?utm_source=1953&utm_medium=feed&keyword=Surveyor&location=rio-das-ostras&geoID=7321"
-  },
-  {
-    "title": "Analytics Engineer",
-    "description": "<p><h3>About Darwin AI </h3><p>Darwin AI is transforming the way businesses interact with their customers by deploying AI-powered agents that enhance customer experience and streamline operations. We are a fast-growing company with a strong presence in Latin America, and we are looking for talented individuals to join our team. </p><h3>Role Overview </h3><p>We are seeking a Semi‑Senior Analytics Engineer to join our data team. The ideal candidate is a proactive, analytical thinker who enjoys working with large datasets, extracting meaningful insights, and supporting data‑driven decision‑making across the company. You will collaborate with various teams, including product, sales, and operations, to optimize our AI solutions and business strategies. </p><h3>Key Responsibilities </h3><ul><li>Own the entire ELT pipeline to provide the company with the data they need </li><li>Design, develop and maintain dashboards for our company to be data‑driven </li><li>Work closely with cross‑functional teams to help them be more data‑driven </li><li>Support the optimization of AI performance with data analytics </li><li>Document and present findings to stakeholders in a clear and concise manner </li> </ul><h3>Requirements </h3><ul><li>2-4 years of experience in data analytics, analytics engineering or data engineering </li><li>Strong proficiency in SQL for querying and building datasets </li><li>Experience working with Python in production using version control </li><li>Experience using orchestrator tools like Airflow or Dagster </li><li>Experience using data transformation tools like dbt </li><li>Strong problem‑solving skills and attention to detail </li><li>Ability to communicate complex data findings in a clear and business‑oriented manner </li><li>English proficiency for reading and writing; speaking is a plus </li> </ul><h3>Benefits </h3><ul><li>Language Classes: Access to language classes (English, Portuguese, Spanish) to enhance communication skills </li><li>OpenAI Premium License: Complimentary access to an OpenAI premium license for personal or professional use </li><li>Paid Time Off: Enjoy 25 days/year of paid vacations and holidays to recharge and maintain a healthy work‑life balance </li><li>Soft Hybrid Work: We meet 3 days/month in our Co Work offices, the rest of the time you can work remotely from wherever you like! </li> </ul> </p> #J-18808-Ljbffr",
-    "company": "Darwin AI",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10917115__1953?utm_source=1953&utm_medium=feed&keyword=Analytics-Engineer&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "MEIO OFICIAL DE MANUTENÇÃO",
-    "description": "<p><ul><li>Jornada de trabalho: Segunda a quinta-feira das 07:00 as 17:00 sexta-feira as 16:00 </li><li>Modalidade de trabalho: Presencial </li> </ul> <p>Vale transporte, refeição no local e após experiência assistência médica. </p> <h3>Responsabilidades e atribuições </h3> <p>Responsável pelas atividades de manutenção preventiva e corretiva predial, alvenaria, pintura entre outros ... </p> <h3>Requisitos e qualificações </h3> <p>Experiências e qualificações:Ensino médio completo. </p> <p>fabricação de vedações para Manutenção Industrial </p> </p> #J-18808-Ljbffr",
-    "company": "Nova Visão",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10917247__1953?utm_source=1953&utm_medium=feed&keyword=MEIO-OFICIAL-DE&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "MEC NICO LÍDER - CHAPECÓ/SC",
-    "description": "<p><h3>Sobre a CARMAK </h3> <p>Somos uma empresa referência em soluções premium para intralogística, com foco em locação, venda e manutenção de equipamentos da linha TOYOTA. Representamos a melhor marca número um do mundo no segmento e atuamos com excelência técnica, operação eficiente e visão de crescimento sustentável. Nosso plano estratégico é ousado e queremos crescer com pessoas que jogam para vencer. </p> <p>Buscamos um profissional para atuar como Mecânico Líder na região de Chapecó/SC , com as seguintes atribuições: </p> <h3>O QUE VOCÊ VAI FAZER </h3> <ul> <li><b>Manutenção Técnica: </b> </li> <li>Executar e supervisionar manutenções preventivas e corretivas em empilhadeiras </li> <li>Diagnosticar e reparar falhas mecânicas, elétricas e hidráulicas </li> <li>Inspecionar sistemas de transmissão, freios, direção, garfos e mastro </li> <li>Registrar ordens de serviço e histórico de manutenções </li> <li>Controlar indicadores da frota </li>  </ul> <ul> <li><b>Liderança da Equipe: </b> </li> <li>Coordenar e orientar tecnicamente mecânicos e auxiliares </li> <li>Distribuir e acompanhar as demandas de serviço, priorizando conforme urgência  </li><li>Apoiar o desenvolvimento técnico do time no dia a dia </li> <li>Realizar alinhamentos diários com a supervisão e gestão </li>  </ul> <ul> <li><b>Segurança: </b> </li> <li>Garantir o uso correto de EPIs por toda a equipe </li> <li>Participar dos DDS e manter a organização da oficina </li>  </ul> <h3>O QUE ESPERAMOS DE VOCÊ </h3> <ul> <li>Ensino Médio Completo (obrigatório) </li> <li>Curso técnico em Mecânica, Eletromecânica ou Mecatrônica (desejável) </li> <li>Mínimo de 3 anos de experiência </li> <li>Experiência em liderança ou coordenação de equipes técnicas </li> <li>Conhecimento em sistemas mecânicos, elétricos e hidráulicos </li> <li>Familiaridade com leitura de manuais técnicos e esquemas elétricos/hidráulicos </li>  </ul> <h3>SERÁ UM DIFERENCIAL </h3> <ul> <li>Experiência com empilhadeiras Toyota </li> <li>Vivência em ambientes logísticos ou industriais de alta demanda </li> <li>Curso de formação de líderes ou gestão de pessoas </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Carmak Equipamentos",
-    "city": "chapecó",
-    "state": "santa catarina",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10917252__1953?utm_source=1953&utm_medium=feed&keyword=MEC-NICO-L%C3%8DDER&location=chapecó&geoID=2231"
-  },
-  {
-    "title": "DIVISÃO COMÉRCIO DO GRUPO ÁGUIA BRANCA ter, 23/junho Técnico Diagnóstico - Vitória/ES Vitória, [...]",
-    "description": "<p><p><b>Horário: </b> De segunda à sexta, das 08h00 às 18h00 com 2h de almoço e aos sábados de 08h00 às 12h00 </p> <p><b>Regime de contratação: </b> Efetivo – CLT </p> <ul> <li>Realizar diagnóstico de falhas em veículos utilizando equipamentos e sistemas eletrônicos da montadora. </li> <li>Identificar problemas em sistemas elétricos, eletrônicos e mecânicos. </li> <li>Executar testes e análises técnicas para localizar a origem das falhas. </li> <li>Registrar diagnósticos e orientar a equipe técnica sobre os reparos necessários. </li> <li>Seguir os padrões técnicos e de segurança da fabricante, especialmente em sistemas de alta voltagem. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ensino médio completo; </li> <li>curso profissionalizante ou técnico em mecânica automotiva; </li> <li>Experiência com manutenção e diagnóstico em veículos. </li>  </ul> <h3>Benefícios </h3> <ul> <li>Assistência médica </li> <li>Assistência odontológica </li> <li>Auxílio academia </li> <li>Vale-alimentação </li> <li>Vale-transporte </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Águia Branca",
-    "city": "vitória",
-    "state": "espírito santo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_10917255__1953?utm_source=1953&utm_medium=feed&keyword=DIVIS%C3%83O-COM%C3%89RCIO-DO&location=vitória&geoID=9692"
   }
 ]

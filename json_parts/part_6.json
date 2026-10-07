@@ -1,5 +1,104 @@
 [
   {
+    "title": "Control Systems Engineer (Agricultural Machinery)",
+    "description": "<p><h3>Overview </h3> <p>Indicate which region you are active in. Based on your region, the correct language and data will load. </p> <p>Design, implement, and integrate intelligent control solutions for agricultural machinery that increase operational efficiency, data transparency, and safety across Oxbo’s technology portfolio. Operating in a global environment, you will create real‑time control behavior (drive systems, hydraulics, autonomy, and safety), using model‑based design and embedded development to deliver standardized, high‑quality solutions for precision agriculture. </p> <h3>Responsibilities </h3> <ul> <li>Control & Autonomy: Develop and tune real‑time control algorithms for drive systems, electro‑hydraulics, safety logic, and advanced features such as path planning, collision avoidance, and autonomous harvesting. </li> <li>Embedded Integration: Design and integrate controls with embedded ECUs, sensors, actuators, and machine hardware; implement redundancy and safety mechanisms. </li> <li>Validation & Simulation: Build and maintain plant models; perform MIL/SIL (and bench/field) testing; analyze results and iterate to meet performance and safety targets. </li> <li>Communication & Connectivity: Configure and validate CAN bus communication (J1939; ISOBUS/ISO11783 preferred); support telemetry/connectivity integrations. </li> <li>Requirements & Quality: Capture and manage requirements (e.g., Codebeamer/Polarion), support DFMEA and compliance with global standards and architectural guidelines. </li> <li>Process & Reuse: Apply modular design; create reusable software blocks and contribute to shared libraries; identify bottlenecks and drive continuous improvement in model‑based workflows. </li> <li>Collaboration & Communication: Work closely with mechanical, electrical, automation, and software teams, as well as global suppliers/partners; communicate progress, risks, and decisions with stakeholders. </li> <li>Documentation & Enablement: Maintain technical documentation, contribute to knowledge sharing, and (as applicable) support training for engineers, service teams, and other stakeholders. </li> <li>Safety & Commissioning: Follow safety policies and best practices during development, testing, and machine commissioning. </li>  </ul> <h3>Requirements </h3> <ul> <li>Education: Bachelor’s in Mechatronics, Electrical, Control/Automation, Software/Computer Engineering, Robotics, or related fields; Master’s is a plus. </li> <li>Core Experience: Real‑time embedded development and/or industrial/off‑highway automation; model‑based design (MATLAB/Simulink) and Embedded C/C++; Git or similar VCS. </li> <li>Protocols & Tools: CAN bus, J1939 (ISOBUS/ISO11783 preferred); Vector CANoe/CANalyzer or equivalent; requirements/toolchain familiarity (Codebeamer/Polarion; Office tools). </li>  </ul> <h3>Nice to have </h3> <ul> <li>ROS or similar middleware; ladder logic for specific PLC/controls contexts. </li> <li>Telemetry/telematics and connectivity systems. </li> <li>Experience with global, standardized toolchains and shared architectures. </li>  </ul> <h3>Interpersonal Skills </h3> <ul> <li>Clear, proactive communication with technical and non‑technical audiences. </li> <li>Strong teamwork in global, cross‑functional setups; sense of ownership and accountability. </li> <li>Analytical problem‑solving; ability to negotiate trade‑offs with internal teams and suppliers. </li> <li>Continuous improvement mindset; commitment to safety, quality, and process adherence. </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "Oxbo International",
+    "city": "uberaba",
+    "state": "minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9764303__1953?utm_source=1953&utm_medium=feed&keyword=Control-Systems-Engineer&location=uberaba&geoID=9326"
+  },
+  {
+    "title": "Ruby Developer - Remote Work",
+    "description": "<p><p>Join to apply for the <b>Ruby Developer - Remote Work </b> role at <b>BairesDev </b>. </p> <p>At BairesDev®, we’ve been leading technology projects for over 15 years, delivering cutting‑edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse team of 4,000+ is composed of the world’s Top 1% of tech talent and works remotely on high‑impact projects worldwide. </p> <p>When you apply, you’ll be taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success. </p> <h3>Ruby Developer at BairesDev </h3> <p>We are looking for a Ruby Developer to join our team. You’ll be in charge of our Ruby‑oriented development, overseeing design, execution, and maintenance for seamless, high‑performing systems. This is an excellent opportunity for professionals looking to grow in one of the fastest‑growing companies in the industry. </p> <h3>What You Will Do: </h3> <ul> <li>Design and develop modern web applications for multiple mobile and desktop devices with special attention to responsive design, and varying screen resolutions and sizes. </li> <li>Execute all phases of the systems engineering process. </li> <li>Plan, process, and perform all jobs in an efficient manner with no assistance from the supervisor. </li> <li>Maintain consistency throughout the product. </li> <li>Document code consistently throughout the development process. </li> <li>Provide technical documentation for the design, implementation, and testing. </li>  </ul> <h3>Here’s what we are looking for: </h3> <ul> <li>4+ years of experience working with Ruby. </li> <li>Ability to design and implement software solutions using OOP principles in Ruby. </li> <li>Knowledge of interacting with databases, including writing queries and managing database connections. </li> <li>Experience and a good understanding of APIs and Web Services. </li> <li>Familiarity with fundamental programming concepts, data structures, types of variables, and their practical application. </li> <li>Advanced English level. </li>  </ul> <h3>How we make your work (and your life) easier: </h3> <ul> <li>100% remote work (from anywhere). </li> <li>Excellent compensation in USD or your local currency if preferred. </li> <li>Hardware and software setup for you to work from home. </li> <li>Flexible hours: create your own schedule. </li> <li>Paid parental leaves, vacations, and national holidays. </li> <li>Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent. </li> <li>Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities. </li>  </ul> <p>Apply now and become part of a global team where your unique talents can truly thrive! </p> <p><strong>Seniority level: </strong> Mid‑Senior level<br/><strong>Employment type: </strong> Full‑time<br/><strong>Job function: </strong> Information Technology<br/><strong>Industries: </strong> IT Services and IT Consulting </p> </p> #J-18808-Ljbffr",
+    "company": "BairesDev",
+    "city": "guarulhos",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9764343__1953?utm_source=1953&utm_medium=feed&keyword=Ruby-Developer&location=guarulhos&geoID=3612"
+  },
+  {
+    "title": "Desenvolvedor BackEnd",
+    "description": "<p><h3>Back End Developer – NodeJS / TypeScript </h3> <p>Procuramos um desenvolvedor experiente para trabalhar em nossa plataforma WESS, uma solução baseada em Appian. O candidato será responsável por projetar, implementar e manter APIs assíncronas que coletam e processam dados de um Data Lake, garantindo integração perfeita com a solução Appian. </p> <ul> <li>Experiência com desenvolvimento NodeJS e TypeScript </li> <li>Experiência com desenvolvimento de APIs </li> <li>Conhecimento em Data Lake </li>  </ul> <p>A vaga não aceita trabalho remoto. </p> </p> #J-18808-Ljbffr",
+    "company": "4DF Connect",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9764480__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-BackEnd&location=são-paulo&geoID=25"
+  },
+  {
+    "title": "SAP ABAP",
+    "description": "<p><p>Venha para uma das maiores empresas de Serviços TI do mundo!! Aqui você pode transformar sua carreira! Por que fazer parte da TCS? Aqui na TCS acreditamos que as pessoas fazem a diferença, por isso vivemos uma cultura de aprendizado ilimitado cheio de oportunidades de melhorias e desenvolvimento mútuo. O cenário ideal para expandir ideias através das ferramentas certas, contribuindo para nosso sucesso num ambiente colaborativo. </p><p>Estamos buscando <b>SAP ABAP  </b>o que queira aprender e transformar sua carreira na TCS. </p><h3>Requisitos obrigatórios: </h3><ul><li>Ensino superior completo em cursos de TI (Ciência da Computação, Sistemas de Informação, Engenharia de Software ou áreas correlatas). </li><li>Experiência comprovada em desenvolvimento SAP ABAP, especialmente em manutenção/sustentação de sistemas (AMS / suporte a produção). </li><li>Domínio de lógica de programação, estrutura de dados e boas práticas de desenvolvimento. </li><li>Experiência com desenvolvimento e manutenção de objetos ABAP clássicos (reports, user-exits/enhancements, interfaces, Smartforms/SAP script). </li><li>Boa capacidade de análise de problemas, organização e cumprimento de prazos em ambiente de suporte </li><li>Mandatório de Bacharelado. </li> </ul><h3>O que você pode esperar de nós? </h3><ul><li>Desenvolvimento profissional e evolução constante das suas competências, sempre de acordo com os seus interesses. </li><li>Oportunidades para trabalho fora do Brasil </li><li>Um ambiente colaborativo, diverso e inovador, que incentiva o trabalho em equipe. </li> </ul><h3>O que oferecemos? </h3><ul><li>Plano de Saúde </li><li>Vale Refeição/Alimentação </li><li>Auxílio Creche </li><li>TCS Cares – 0800 gratuito que fornece assistência psicológica (24 hrs/dia), jurídica, social e financeira aos associados </li><li>Reembolso de Certificações </li><li>Portal de aprendizagem gratuito da TCS – cursos online e treinamentos ao vivo </li><li>Oportunidade de experiência internacional </li><li>Parceria de Descontos com Universidades e Escolas de Idiomas </li><li>Bring Your Buddy – Ao indicar pessoas você se torna elegível a receber um bônus para cada contratação </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "Tata Consultancy Services",
+    "city": "londrina",
+    "state": "paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9764599__1953?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP&location=londrina&geoID=4910"
+  },
+  {
+    "title": "Coordenador de obras",
+    "description": "<p><h3>Vaga: Coordenador(a) de Obras de Varejo – São Paulo (SP) </h3> <p>Estamos em busca de um(a) <b>Coordenador(a) de Obras de Varejo </b> para atuar na gestão e execução de projetos em lojas e ambientes comerciais de alto padrão. </p> <h3>Responsabilidades </h3> <ul> <li>Coordenar simultaneamente diversas obras de varejo, garantindo prazos, qualidade e orçamento. </li> <li>Liderar equipes multidisciplinares (engenheiros residentes, prestadores e fornecedores). </li> <li>Acompanhar o cronograma executivo e o controle financeiro de cada obra com rigor e atenção aos detalhes. </li> <li>Atuar na interlocução direta com clientes, integrando as áreas de projeto, execução e pós-obra. </li> <li>Planejar estrategicamente as etapas de obra, antecipando riscos e propondo soluções técnicas e gerenciais. </li> <li>Realizar visitas de acompanhamento às obras, supervisionando equipes e validando entregas. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Formação em <b>Engenharia Civil </b> ou <b>Arquitetura e Urbanismo </b>. </li> <li>Mínimo de <b>5 anos de formado(a) </b> e <b>3 anos de experiência comprovada </b> em obras de varejo (lojas, franquias, quiosques, shopping centers etc.). </li> <li><b>Residência em São Paulo (capital) </b>. </li> <li><b>CNH ativa e veículo próprio </b> para deslocamento entre obras. </li> <li>Perfil <b>comunicativo, organizado, proativo e com postura de liderança </b>. </li> <li>Domínio de ferramentas de gestão de obras e controle de cronogramas. </li>  </ul> <h3>Diferenciais </h3> <ul> <li>Experiência com obras simultâneas de marcas de alto padrão. </li> <li>Conhecimento em gestão orçamentária detalhada e compatibilização de projetos. </li> <li>Vivência em ambientes com alta exigência estética e prazos curtos. </li>  </ul> <h3>O que oferecemos </h3> <ul> <li>Ambiente colaborativo e dinâmico, com oportunidades de crescimento. </li> <li>Participação em projetos de referência no setor varejista. </li> <li>Remuneração compatível com o mercado e pacote de benefícios. </li>  </ul> <p>  <b>Local: </b> São Paulo – SP </p> <p>🚗 <b>Mobilidade: </b> veículo próprio obrigatório </p> </p> #J-18808-Ljbffr",
+    "company": "MAXIMO Arquitetura & Engenharia",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9764900__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-obras&location=são-paulo&geoID=25"
+  },
+  {
+    "title": "BRINGEL MEDICAL - TÉCNICO (A) DE RADIOLOGIA - MACAÉ/RJ",
+    "description": "<p><p><b>Seja muito bem-vindos ao Grupo Bringel, inovação e ousadia estão no nosso DNA. </b> </p><p>A Bringel Medical, empresa do Grupo Bringel, nasceu em 2010 com o compromisso de oferecer ao mercado soluções de excelência em produtos ortopédicos, sempre com foco na qualidade, inovação e confiança. </p><p>Ao longo dos anos, expandimos nossas frentes de atuação e, com muito orgulho, desenvolvemos um modelo de unidades móveis de saúde (as carretas de atendimento), que levam serviços essenciais e especializados a diversas regiões do país — democratizando o acesso à saúde e promovendo cuidado com dignidade. </p><p><b>Como Técnico (a) de Radiologia </b> você será responsável por: </p><ul><li>Preparar e posicionar o paciente corretamente para a realização dos exames de tomografia; </li><li>Operar o equipamento de tomografia computadorizada, ajustando parâmetros conforme o protocolo clínico indicado; </li><li>Garantir a qualidade técnica das imagens obtidas e repetir exames, se necessário, dentro dos padrões de segurança; </li><li>Lançar informações, exames realizados e produção diária nas plataformas do Ministério da Saúde (ex: SISCAN) e sistemas institucionais; </li><li>Realizar controle de qualidade do equipamento, reportando falhas técnicas ou necessidade de manutenção preventiva/corretiva; </li><li>Zelar pelo cumprimento das normas da vigilância sanitária e radioproteção (uso de EPIs, controle de doses, sinalização etc.). </li> </ul><p><b>O que você precisa ter: </b> </p><ul><li>Curso Técnico em Radiologia completo; </li><li>Registro ativo no Conselho Regional de Técnicos em Radiologia (CRTR); </li><li>Curso de <b>Especialização em Tomografia Computadorizada </b> (reconhecido pelo MEC e CRTR); </li><li>Disponibilidade para atuação em regime itinerante, em diferentes localidades. </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "Grupo Bringel",
+    "city": "macaé",
+    "state": "rio de janeiro",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9764902__1953?utm_source=1953&utm_medium=feed&keyword=BRINGEL-MEDICAL&location=macaé&geoID=4964"
+  },
+  {
+    "title": "SOFTWARE DEVELOPER ANALYST JAVA - Platform",
+    "description": "<p><p>Aqui no Inter, a gente acredita que o futuro começa todos os dias, na tecnologia que você cria, nas conexões que você desenvolve e nas ideias que você compartilha. Somos um Super App com soluções completas de banco digital, investimentos, crédito, seguros, marketplace e outros serviços do dia a dia. Mas também somos muito mais: um supertime em constante evolução. </p> <p>Nesse ritmo é que novas oportunidades se abrem. Chegou a sua vez de conhecer esse jeito inteligente de investir na carreira. Vem ser #sanguelaranja! </p> <h3>Sobre a vaga e missão do cargo </h3> <p>Você fará parte do time de Software Engineering responsável pelos produtos críticos de Platform Engineering, como: Gateway, i-Safe e Login. Sua missão será desenvolver e evoluir as plataformas que garantem segurança, escalabilidade e disponibilidade para milhões de usuários, construindo a base tecnológica que sustenta todo o ecossistema de serviços da empresa </p> <h3>No seu dia a dia, você vai: </h3> <ul> <li>Desenvolver APIs resilientes e escaláveis que processam milhões de transações diárias. </li> <li>Implementar melhorias de performance nos sistemas core. </li> <li>Colaborar com outros times na integração de novos serviços. </li> <li>Participar de troubleshooting de incidentes críticos e implementar soluções robustas. </li> <li>Fazer code reviews e mentoring técnico. </li> <li>Contribuir para a evolução da arquitetura e práticas de engenharia do time. </li>  </ul> <h3>Obrigatórios: </h3> <ul> <li>Experiência sólida com desenvolvimento backend em Java/GO. </li> <li>Conhecimento profundo de APIs REST, autenticação JWT/OAuth e bancos relacionais. </li> <li>Vivência com sistemas de alta disponibilidade e escalabilidade. </li> <li>Experiência com containers e ferramentas de observabilidade. </li> <li>Inglês intermediário para leitura técnica. </li> <li>Mindset de ownership e qualidade em sistemas críticos. </li> <li>Experiência com Kubernetes e cloud AWS. </li> <li>Conhecimento em segurança de aplicações e compliance. </li> <li>Vivência com messaging (Kafka/RabbitMQ) e cache distribuído (Redis). </li> <li>Background em fintech, bancos digitais e sistemas financeiros. </li> <li>Certificações técnicas em cloud. </li> <li>Experiência com práticas DevOps e CI/CD. </li> <li>Vale-alimentação e vale-refeição </li> <li>Plano de saúde e odontológico </li> <li>Seguro de vida </li> <li>DayOff de Aniversário </li> <li>Baby On Board e Sala de Amamentação </li> <li>Licença parental estendida </li> <li>Auxílio-creche/babá e/ou auxílio para filhos com deficiência </li> <li>Wellhub e Grupo de Corrida Inter </li> <li>Espaço CARE4U (Belo Horizonte): serviços de autocuidado com valores exclusivos,área de descompressão, jogos e minicampo de golfe </li> <li>Vantagens no nosso SuperApp, como Duo Gourmet </li> <li>Cartão Prime Inter </li> <li>Programas de treinamento e capacitação internos </li>  </ul> <h3>Etapas do Processo Seletivo </h3> <ul> <li>Screening (abordagem inicial para alinhamento de expectativas sobre a vaga); </li> <li>Teste técnico (quando necessário); </li> <li>Entrevista com a liderança; </li> <li>Proposta de Contratação (Offer); </li>  </ul> <p>Aqui no Inter, o futuro não é um lugar distante. É com faísca, foco, fazer junto e feedback que a gente transforma o comum em inovação. Se você busca propósito, evolução e impacto real, vem pra um lugar onde talento anda lado a lado com crescimento e carreira e futuro rodam no mesmo sistema, no mesmo time. </p> <p>Um jeito inteligente de investir na sua carreira. </p> </p> #J-18808-Ljbffr",
+    "company": "Inter",
+    "city": "vargem grande da serra",
+    "state": "minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9765149__1953?utm_source=1953&utm_medium=feed&keyword=SOFTWARE-DEVELOPER-ANALYST&location=vargem-grande-da-serra&geoID=13"
+  },
+  {
+    "title": "DESENVOLVEDOR(A) BACKEND PHP PLENO",
+    "description": "<p><h3>Overview </h3><p>Já pensou em começar sua carreira em um lugar que estimula a inovação todos os dias? </p><p>Na Doutor-IE, ser um Doctor é fazer parte de um time apaixonado por tecnologia e movido pelo propósito de transformar o mercado automotivo com soluções inteligentes. Aqui, trabalhamos com ética, transparência e foco no que realmente importa: entregar o melhor para nossos clientes e crescer juntos. </p><p>Estamos com uma oportunidade para Desenvolvedor(a) Backend PHP Pleno! </p><p>A carga horária é de 40 horas semanais, em modelo presencial, porque acreditamos que, juntos, somos ainda melhores. </p><p>Cidade: Florianópolis - Santa Catarina </p><h3>Perfil e Qualificações </h3><ul><li>Experiência profissional consolidada como desenvolvedor de software, preferencialmente como backend </li><li>Formação completa ou incompleta em Sistemas de Informação, Ciências da Computação, Engenharia de Software ou curso na área de desenvolvimento de software </li><li>Disponibilidade/desejo para trabalhar em regime exclusivamente presencial em Florianópolis </li><li>Experiência sólida com Laravel (PHP) e PostgreSQL </li><li>Experiência com desenvolvimento de APIs RESTful </li><li>Experiência/conhecimento com criação de testes unitários </li><li>Conhecimentos em: Docker; Git; Bancos SQL e NoSQL; Linux </li><li>Gerenciamento em infraestrutura AWS </li><li>Metodologias ágeis, preferência por ter trabalhado com framework Scrum </li> </ul><h3>Principais Atitudes </h3><ul><li>Desenvolver novas funcionalidades e realizar manutenção em API PHP </li><li>Criar testes unitários </li><li>Realizar Code Review </li><li>Projeto/modelagem de banco de dados </li><li>Gerenciar projetos </li><li>Apoiar a equipe nos projetos existentes </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "Doutor-IE | Inteligência Automotiva",
+    "city": "florianópolis",
+    "state": "santa catarina",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9765861__1953?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-BACKEND-PHP&location=florianópolis&geoID=3237"
+  },
+  {
+    "title": "Consultor SAP MDG",
+    "description": "<p><h3>Consultor SAP MDG – Especialista </h3><p>Local: Presencial – Boa Vista, São Paulo/SP </p><p>Início previsto: 03/03/2026 </p><p>Duração: Até 27/03/2028 </p><p>Carga horária: 168h/mês </p><h3>Sobre a posição </h3><p>Estamos em busca de um(a) Consultor(a) SAP MDG – Especialista para atuar em projeto de implantação SAP S/4HANA Greenfield em ambiente estratégico e de alta complexidade. O profissional será responsável pela implementação, configuração e governança de dados mestres por meio do SAP MDG, garantindo padronização, qualidade e integração dos dados corporativos com os demais módulos SAP. </p><h3>Principais responsabilidades </h3><ul><li>Atuar na implantação do SAP MDG em projeto S/4HANA Greenfield. </li><li>Configurar e parametrizar o SAP Master Data Governance. </li><li>Definir e implementar fluxos de governança e aprovação de dados mestres. </li><li>Atuar na modelagem e estruturação de dados mestres (clientes, fornecedores, materiais e demais objetos relevantes). </li><li>Garantir integração do MDG com módulos como SD, MM e FI. </li><li>Participar de workshops de levantamento de requisitos com áreas de negócio. </li><li>Realizar análise e mapeamento de processos de governança de dados. </li><li>Elaborar documentação funcional e especificações técnicas. </li><li>Conduzir testes unitários, integrados e UAT. </li><li>Apoiar usuários-chave e realizar treinamentos quando necessário. </li> </ul><h3>Requisitos técnicos </h3><ul><li>Experiência sólida com SAP MDG. </li><li>Vivência em projetos de implantação SAP S/4HANA (preferencialmente Greenfield). </li><li>Experiência em governança e qualidade de dados mestres. </li><li>Conhecimento em integração do MDG com módulos SAP (SD, MM, FI). </li><li>Experiência em modelagem de dados e definição de workflows. </li><li>Vivência com documentação funcional e execução de testes (UAT). </li> </ul><h3>Diferenciais </h3><ul><li>Experiência prévia em projetos de grande porte ou ambientes regulados. </li><li>Conhecimento em boas práticas de Data Governance. </li><li>Vivência no setor de óleo e gás será considerado um diferencial. </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "Pantheon Inc",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9765968__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-MDG&location=são-paulo&geoID=25"
+  },
+  {
+    "title": "TÉCNICO DE SEGURANÇA DO TRABALHO",
+    "description": "<p><p>O Grupo ABecker, há mais de 10 anos no mercado imobiliário, é sinônimo de excelência em projetos de loteamentos e condomínios residenciais, comerciais e industriais. Estamos comprometidos em valorizar nossos colaboradores e investir no desenvolvimento de suas carreiras, promovendo um ambiente de trabalho de alta qualidade. </p> <h3><b>Principais Responsabilidades </b> </h3> <ul> <li>Desenvolver e implementar políticas, procedimentos e programas de segurança do trabalho específicos para o setor de loteamentos; </li> <li>Realizar inspeções regulares nos locais de trabalho para identificar e corrigir potenciais riscos à segurança; </li> <li>Investigar acidentes de trabalho e incidentes de segurança, analisando suas causas e propondo medidas preventivas; </li> <li>Coordenar e ministrar treinamentos sobre segurança para funcionários, empreiteiros e prestadores de serviços, incluindo treinamentos específicos de Normas Regulamentadoras (NRs); </li> <li>Participar ativamente na elaboração dos laudos de segurança do trabalho, acompanhando exames e fornecendo suporte na elaboração e controle de documentos relacionados; </li> <li>Ficar atualizado sobre as regulamentações de segurança do trabalho e garantir que a empresa esteja em conformidade com todas as normas legais; </li> <li>Colaborar com os departamentos de engenharia e operações para garantir que os projetos e processos estejam em conformidade com os padrões de segurança; </li> <li>Implementar e supervisionar a distribuição e utilização adequada de equipamentos de proteção individual (EPI) e coletiva (EPC); </li> <li>Participar ativamente de reuniões de segurança e comitês internos para discutir e resolver questões relacionadas à segurança do trabalho. </li>  </ul> <p>Cidade: Garuva - Santa Catarina </p> </p> #J-18808-Ljbffr",
+    "company": "ABecker",
+    "city": "garuva",
+    "state": "santa catarina",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9766165__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%89CNICO-DE-SEGURAN%C3%87A&location=garuva&geoID=3371"
+  },
+  {
+    "title": "Tech Lead Java",
+    "description": "<p><h3>Where you Fit In: </h3> <p>As the <b>JAVA Engineering Team Lead </b>, you will be responsible for leading and mentoring a team of talented developers, overseeing the development and maintenance of our Java-based gaming platform. You will collaborate closely with Product Managers, designers, architects, and other stakeholders to ensure the delivery of secure, scalable, and high‑quality solutions. Your role will involve a combination of hands‑on development, technical leadership, and strategic planning. </p> <h3>The impact you will have: </h3> <ul> <li>You will be responsible for leading, motivating, and developing a team of engineers, fostering a collaborative and high‑performance environment. </li> <li>You will oversee the complete development cycle of the Java gaming platform, ensuring quality, security, and best practices. </li> <li>You will collaborate with managers and principal engineers in defining requirements, deadlines, and strategic technical decisions. </li> <li>You will be required to monitor project progress, remove blockers, and ensure timely deliveries aligned with business objectives. </li> <li>You will also participate in code review, complex troubleshooting, and the promotion of continuous improvement for the team and its processes. </li>  </ul> <h3>What we’re looking for: </h3> <p>We are looking for a Technical Leader with solid experience in Java and related technologies. </p> <ul> <li>Degree in Computer Science or equivalent field. </li> <li>Knowledge of Java frameworks (Spring Boot, Micronaut) and SQL databases is also valued. </li> <li>Strong knowledge of software engineering best practices, Agile methodologies, and DevOps tools. </li> <li>Advanced English. </li> <li>Leadership or People Management experience. </li> <li>Good communication, organizational, and problem‑solving skills are essential. </li>  </ul> <p>This role is Remote based in Brazil. </p> <p>Sportingtech is an equal opportunity employer. We value diversity and are committed to providing a work environment of mutual respect to everyone without regard to race, colour, religion, national origin, age, gender identity or expression, or any other characteristic protected by applicable laws, regulations and ordinances. By applying for a role at Sportingtech, you acknowledge and agree to the terms of our Candidates and Employees Privacy Policy. Please read this policy carefully to understand how we handle your personal data. </p> </p> #J-18808-Ljbffr",
+    "company": "Sportingtech",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9766183__1953?utm_source=1953&utm_medium=feed&keyword=Tech-Lead-Java&location=são-paulo&geoID=25"
+  },
+  {
     "title": "Gerente Sênior de Projetos de Construção - Real Estate, (Praia Grande/SP)",
     "description": "<p><h3>Descrição da vaga </h3><ul><li>Project Manager will take responsibility for end-to-end service delivery. To ensure that client objectives are met through the delivery of an effective service. Interfacing with the client and other consultants, at all project stages. Responsible of manage overall project cost, schedule and budgets as well as manage general contractor and other directly contracted vendors and consultants. </li><li>Responsible to review construction proposals and related pricing/scopes, correct and assess work-in-place, to approve capital expenditure spends, including the revision of cost estimates prepared by contractors and others within a client´s organization. </li><li>This professional will also be planning, organizing, scheduling, directing, and controlling the delivery of the project on time. </li> </ul><p>Responsibilities include but are not limited to: </p><ul><li>Analyze, track, and effectively manage critical milestone activities to avoid schedule slip. </li><li>Run and lead client and other required meetings, presenting updates to the client at all project stages. </li><li>Identify the factors that influence construction costs and can monitor and report on this data. </li><li>Support engineering decisions relating to the project cost and budget while design-build changes take place during construction. </li><li>Review requests for payment. </li><li>Track and ensure equipment meet the project schedule </li><li>Record occurrence that might result in a claim - acting on the client’s behalf. </li><li>Advocate on the part of the client during disputes, disagreements, modifications, or change orders. </li><li>Coordinate and oversee scheduling consultant reviews on the project. </li><li>Review and approve final invoices, payment applications, retention payments. </li><li>Oversee and manage the transfer of the building operations to the client including all close out documentation and warranties. </li><li>Collaborative approach, be client facing, able to develop strong relationships, confidently present to clients and stakeholders. </li><li>Be assertive and detail orientated, identify potential issues early and raise them in the appropriate forum for resolution. </li><li>Demonstrable record of accomplishment in the delivery of relevant projects. </li><li>Advanced skills with spreadsheets, report writing and presentations. </li><li>Management experience, with ability to manage and lead team in delivering a commission and general line management. </li><li>Manage revenue, team resources and priorities to ensure that client expectations are met. </li> </ul><h3>Qualificações </h3><ul><li>Fluent in English at a working level to lead meetings, prepare reports and written communication, do presentations and talk to clients and suppliers. </li><li>Solid experience as a project manager in construction. </li><li>Engineering degree, architectural degree or any construction related degree is mandatory </li><li>Construction experience is mandatory. </li><li>PMI or equivalent certification is a plus </li><li>Microsoft Office tools is mandatory </li><li>Availability to work in a hybrid work model, 3x in the office and 2x from home. The office is located in Vila Olímpia in the southern zone of São Paulo. </li> </ul><h3>Informações adicionais </h3><p>A Turner & Townsend is an employer that offers equal opportunities. We celebrate diversity and are committed to creating an inclusive environment for all employees. For more information, visit our site at  </p> </p> #J-18808-Ljbffr",
     "company": "Turner & Townsend",
@@ -555,7 +654,7 @@
     "city": "guarulhos",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769808__1953_95b8a88c9b297e8c3bc8a7ed142c7b94?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Facilities&location=guarulhos&geoID=3612"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769808__1953_28a06b48c280a3d884423a50205fb782?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Facilities&location=guarulhos&geoID=3612"
   },
   {
     "title": "ANALISTA DE DESENVOLVIMENTO DE SISTEMAS PLENO - VIVA SINAF (712)",
@@ -564,7 +663,7 @@
     "city": "rio de janeiro",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769809__1953_773b6577f61d82a77171f19ddb7e5e77?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-DESENVOLVIMENTO&location=rio-de-janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769809__1953_4e9f6c0cd7a0b52699eff4fc8b8a8f5d?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-DESENVOLVIMENTO&location=rio-de-janeiro&geoID=19"
   },
   {
     "title": "Dotnet Developer",
@@ -573,7 +672,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769812__1953_02c3a132803c9576ecd0ddad8f8aea47?utm_source=1953&utm_medium=feed&keyword=Dotnet-Developer&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769812__1953_f5e7257299608448bad071afd4fcf474?utm_source=1953&utm_medium=feed&keyword=Dotnet-Developer&location=são-paulo&geoID=25"
   },
   {
     "title": "Full Stack Software Engineer",
@@ -582,7 +681,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769816__1953_ad75d616fe1cc0f9858f4a918b432afe?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Software&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769816__1953_9bc045a89594c6650b790b1238f9fec1?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Software&location=são-paulo&geoID=25"
   },
   {
     "title": "Engenheiro Civil de Suprimentos",
@@ -591,7 +690,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769831__1953_6c9ca17b787238cdc7f6f300b8d39ae4?utm_source=1953&utm_medium=feed&keyword=Engenheiro-Civil-de&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769831__1953_a6657a8a7a90dd97de81b3600dd30b2b?utm_source=1953&utm_medium=feed&keyword=Engenheiro-Civil-de&location=são-paulo&geoID=25"
   },
   {
     "title": "Desenvolvedor .Net",
@@ -600,7 +699,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769833__1953_c26329aeccef5998b5ba6f6377ec8cf6?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Net&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769833__1953_7f450ef19c1ec5f51760b1a319c067f1?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Net&location=são-paulo&geoID=25"
   },
   {
     "title": "Engenheiro de Instalações",
@@ -609,7 +708,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769839__1953_3b755a0b8db142a6314fd76d5e72dafb?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Instala%C3%A7%C3%B5es&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769839__1953_d4472256c979a4b793072c928f84ab8b?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Instala%C3%A7%C3%B5es&location=são-paulo&geoID=25"
   },
   {
     "title": "Desenvolvedor (Atuação com área Fiscal)",
@@ -618,7 +717,7 @@
     "city": "blumenau",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769847__1953_87b52225d3840789a1b17585f50497c8?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Atua%C3%A7%C3%A3o-com&location=blumenau&geoID=1151"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769847__1953_936e2c04ff9e8fc5c2a361a5f9867df2?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Atua%C3%A7%C3%A3o-com&location=blumenau&geoID=1151"
   },
   {
     "title": "Desenvolvedor(a) Líder de Sistemas",
@@ -627,7 +726,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769854__1953_622a7804622c4f3348bd0546ca3ea8d5?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-L%C3%ADder-de&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769854__1953_2a8aa0cdc5cf05ce4eb56f4dc38cdfe2?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-L%C3%ADder-de&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "VAGA FECHADA – GERENTE DE VAREJO _ Belo Horizonte/MG",
@@ -636,7 +735,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769858__1953_cc59ee743157254bf8f8800b1b17b2c1?utm_source=1953&utm_medium=feed&keyword=VAGA-FECHADA&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769858__1953_abe17bf81cba1b4cfa0720514b579a8a?utm_source=1953&utm_medium=feed&keyword=VAGA-FECHADA&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "VAGA FECHADA | Gerente de Nutrição Animal – Suínos",
@@ -645,7 +744,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769868__1953_0c89a362beb3dc9c2718c3bbb7ad6223?utm_source=1953&utm_medium=feed&keyword=VAGA-FECHADA&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769868__1953_82f62cd5ac62b5fae2cf3b973bee40f1?utm_source=1953&utm_medium=feed&keyword=VAGA-FECHADA&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "Infrastructure Support Analyst",
@@ -654,7 +753,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769908__1953_808686fca3b64e016d076bc2e46493d3?utm_source=1953&utm_medium=feed&keyword=Infrastructure-Support-Analyst&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769908__1953_bde03598096410178734179f6499f7fa?utm_source=1953&utm_medium=feed&keyword=Infrastructure-Support-Analyst&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "Supervisor de Trade Marketing",
@@ -663,7 +762,7 @@
     "city": "florianópolis",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769933__1953_60859962899da5234c0a559429d4ecbd?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Trade&location=florianópolis&geoID=3237"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769933__1953_9249628b652540617e7a5a5966869597?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Trade&location=florianópolis&geoID=3237"
   },
   {
     "title": "Desenvolvedor Front-end Sênior",
@@ -672,7 +771,7 @@
     "city": "campos dos goytacazes",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9769999__1953_58a804bd1b08c110d08b3cd597325332?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Front-end-S%C3%AAnior&location=campos-dos-goytacazes&geoID=38829"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9769999__1953_96db7b504735e5114e049caa5f973cb2?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Front-end-S%C3%AAnior&location=campos-dos-goytacazes&geoID=38829"
   },
   {
     "title": "PROJETISTA DE TUBULAÇÃO - VITÓRIA/ES",
@@ -681,7 +780,7 @@
     "city": "vitória",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9770014__1953_902ffdc0e7007e0c7e0912966a4e687c?utm_source=1953&utm_medium=feed&keyword=PROJETISTA-DE-TUBULA%C3%87%C3%83O&location=vitória&geoID=9692"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9770014__1953_9682d9a2bb02fd90750c4525a412c652?utm_source=1953&utm_medium=feed&keyword=PROJETISTA-DE-TUBULA%C3%87%C3%83O&location=vitória&geoID=9692"
   },
   {
     "title": "Gerente de Negócios - Segmento Top - São José Do Rio Preto / SP",
@@ -690,7 +789,7 @@
     "city": "itu",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9770052__1953_29d2148a26ea3da72fccc69649005227?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=itu&geoID=4297"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9770052__1953_dae1a64a907a5639ea9d6679f052b473?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=itu&geoID=4297"
   },
   {
     "title": "Engenheiro de vendas",
@@ -699,7 +798,7 @@
     "city": "pinhais",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9770647__1953_175d5924af870a3997bd98702cc2a079?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=pinhais&geoID=6622"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9770647__1953_58d3603ae3963a66caed2b79b3cd0943?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=pinhais&geoID=6622"
   },
   {
     "title": "Gerente de Negócios Empresas Pro - Caruaru - PE",
@@ -708,7 +807,7 @@
     "city": "caruaru",
     "state": "pernambuco",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9770774__1953_16579393f7efaa81532b7828393971fa?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=caruaru&geoID=2057"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9770774__1953_80509782e1142bc268ed39126da71fa5?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=caruaru&geoID=2057"
   },
   {
     "title": "Angular Developer - Remote Work",
@@ -717,7 +816,7 @@
     "city": "rio de janeiro",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9770869__1953_04c6fe3e8cca9846de6a237f6055b254?utm_source=1953&utm_medium=feed&keyword=Angular-Developer&location=rio-de-janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9770869__1953_ebfbba2e80e9b8347234e2860fc1347d?utm_source=1953&utm_medium=feed&keyword=Angular-Developer&location=rio-de-janeiro&geoID=19"
   },
   {
     "title": "Finance Director",
@@ -4308,7 +4407,7 @@
     "city": "campinas",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788850__1953_906f5f6435a7c039a6bfd1fd09822071?utm_source=1953&utm_medium=feed&keyword=Analista-de-An%C3%A1lise&location=campinas&geoID=1713"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788850__1953_375c94ab1452ebf488bda506e949db86?utm_source=1953&utm_medium=feed&keyword=Analista-de-An%C3%A1lise&location=campinas&geoID=1713"
   },
   {
     "title": "Microsoft Business Central Developer - Work from home - Talent Connection",
@@ -4317,7 +4416,7 @@
     "city": "região geográfica intermediária de são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788871__1953_d03471c1a8e49c0d4f1f6bb75e100611?utm_source=1953&utm_medium=feed&keyword=Microsoft-Business-Central&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788871__1953_65158ea56a08d5690febb1ae32fbfdde?utm_source=1953&utm_medium=feed&keyword=Microsoft-Business-Central&location=região-geográfica-intermediária-de-são-paulo&geoID=25"
   },
   {
     "title": "Especialista de Clientes - Goiânia (557148)",
@@ -4326,7 +4425,7 @@
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788876__1953_c4c11997c12bc8afcd25f69c73223bb9?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Clientes&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788876__1953_aa34218285b99b573fc101e72e3e8553?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Clientes&location=goiânia&geoID=3432"
   },
   {
     "title": "Sales Executive - Foco em Conversão de Contas | Diagnóstico Laboratorial - Curitiba ou Florianopólis",
@@ -4335,7 +4434,7 @@
     "city": "curitiba",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788878__1953_7fbc60d3d9f5453f5b6195e56f5cea34?utm_source=1953&utm_medium=feed&keyword=Sales-Executive&location=curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788878__1953_c4aec2482dd53ee00565e403bd80959c?utm_source=1953&utm_medium=feed&keyword=Sales-Executive&location=curitiba&geoID=2691"
   },
   {
     "title": "Especialista de Desenvolvimento e Inovação",
@@ -4344,7 +4443,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788879__1953_a1be24c30c88976b73889b95168fda76?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Desenvolvimento&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788879__1953_163937ac9ee162cddacc288b645ad2b4?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Desenvolvimento&location=são-paulo&geoID=25"
   },
   {
     "title": "Desenvolvedor Java Sênior / Backend Engineer",
@@ -4353,7 +4452,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788883__1953_2bb2f46e5860493cb5d2adfe3b66a017?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-S%C3%AAnior&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788883__1953_b878d5f0146f7b78d87097ef8d78b00f?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-S%C3%AAnior&location=são-paulo&geoID=25"
   },
   {
     "title": "ARQUITETO JR - PROJETO",
@@ -4362,7 +4461,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788889__1953_39166e21d4fae25bf569f593f10550fd?utm_source=1953&utm_medium=feed&keyword=ARQUITETO-JR&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788889__1953_980c8e9004206e4b31d1798a034a0f94?utm_source=1953&utm_medium=feed&keyword=ARQUITETO-JR&location=são-paulo&geoID=25"
   },
   {
     "title": "Projetista PL - RP 17644 (17644)",
@@ -4371,7 +4470,7 @@
     "city": "curitiba",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788897__1953_910465a9777fbc272943967125817aac?utm_source=1953&utm_medium=feed&keyword=Projetista-PL&location=curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788897__1953_8b5e1a0ea9760b449d0e2eaf611eb4b8?utm_source=1953&utm_medium=feed&keyword=Projetista-PL&location=curitiba&geoID=2691"
   },
   {
     "title": "Engenheiro de Processos (PGN-PITUBA)",
@@ -4380,7 +4479,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788917__1953_8e2fb6dd4ff50a47eeea8d32ce7c2219?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Processos&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788917__1953_0606d8bfd187c8f60cb17d865dcbfb3b?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Processos&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "Contracting Risk & Independence Senior Manager - US Client",
@@ -4389,7 +4488,7 @@
     "city": "buenos aires",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9788980__1953_cad193fe44c0ed1996b34270e7f19a82?utm_source=1953&utm_medium=feed&keyword=Contracting-Risk&location=buenos-aires&geoID=1425"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9788980__1953_668cc61be83aca8a2d380bd5a73017c4?utm_source=1953&utm_medium=feed&keyword=Contracting-Risk&location=buenos-aires&geoID=1425"
   },
   {
     "title": "Junior Angular Developer - Remote Work | REF#283539",
@@ -4398,7 +4497,7 @@
     "city": "joinville",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9789010__1953_f7f847673dce76ae9f76c8b9f556288a?utm_source=1953&utm_medium=feed&keyword=Junior-Angular-Developer&location=joinville&geoID=4554"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9789010__1953_5f67f476d15bde11fe2d4f89bbae2842?utm_source=1953&utm_medium=feed&keyword=Junior-Angular-Developer&location=joinville&geoID=4554"
   },
   {
     "title": "Engenheiro eletrônico",
@@ -4407,7 +4506,7 @@
     "city": "curitiba",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9789020__1953_3ec295d7a0d960fcf9cce2a124c25630?utm_source=1953&utm_medium=feed&keyword=Engenheiro-eletr%C3%B4nico&location=curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9789020__1953_7af61b97bcbf2d87deba00b821145f98?utm_source=1953&utm_medium=feed&keyword=Engenheiro-eletr%C3%B4nico&location=curitiba&geoID=2691"
   },
   {
     "title": "Gerente de Negócios - Segmento Top - Araraquara / SP",
@@ -4416,7 +4515,7 @@
     "city": "itu",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9789073__1953_1ddbf264c3e09ba5941f0a0b7198d463?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=itu&geoID=4297"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9789073__1953_61a9f88c28d1e8a36dbffb09347ee164?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=itu&geoID=4297"
   },
   {
     "title": "Gerente de Negócios - Segmento Top - Campinas / SP",
@@ -4425,7 +4524,7 @@
     "city": "itu",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9789085__1953_d2fd7b21d5cfbd1cb7c2be556d5c6291?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=itu&geoID=4297"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9789085__1953_8cf99617ecf14552bc4c9795618321b4?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Neg%C3%B3cios&location=itu&geoID=4297"
   },
   {
     "title": "SP Invisível contrata profissional para coordenação administrativa e financeira",
@@ -4434,7 +4533,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9789108__1953_8149faa56f33750482b44593feaeb7e9?utm_source=1953&utm_medium=feed&keyword=SP-Invis%C3%ADvel-contrata&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9789108__1953_a89ff0cecb4e4dddc8c74f0f666a1c96?utm_source=1953&utm_medium=feed&keyword=SP-Invis%C3%ADvel-contrata&location=são-paulo&geoID=25"
   },
   {
     "title": "DESENVOLVEDOR SÊNIOR",
@@ -4443,7 +4542,7 @@
     "city": "criciúma",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9789114__1953_787d4bfdf0f3e8e607898e74c5771179?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-S%C3%8ANIOR&location=criciúma&geoID=2587"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9789114__1953_83c72d94e5ec02c3db76dac51ea72eb7?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-S%C3%8ANIOR&location=criciúma&geoID=2587"
   },
   {
     "title": "Spark Developer Senior",
@@ -4452,7 +4551,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9789126__1953_6bb4767731cba7e041f66d309a734d2b?utm_source=1953&utm_medium=feed&keyword=Spark-Developer-Senior&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9789126__1953_b179931c54f3d1521fbe08a395e051bf?utm_source=1953&utm_medium=feed&keyword=Spark-Developer-Senior&location=são-paulo&geoID=25"
   },
   {
     "title": "PSE/PSI - Desenvolvedor PL. - IA",
@@ -4461,7 +4560,7 @@
     "city": "ponta grossa",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9789147__1953_7bf595d770b0d22ded64fdce034e6c9c?utm_source=1953&utm_medium=feed&keyword=PSE-PSI-Desenvolvedor&location=ponta-grossa&geoID=6819"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9789147__1953_3707795ffe81458cebd883a4112e08de?utm_source=1953&utm_medium=feed&keyword=PSE-PSI-Desenvolvedor&location=ponta-grossa&geoID=6819"
   },
   {
     "title": "Consultor Técnico Especialista - Dentista",
@@ -8565,7 +8664,7 @@
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9806882__1953_22b616c678fd18f1184b73d24bbdabcb?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9806882__1953_5b9d2bc6b3be0139ae49251a22d8b7c4?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=goiânia&geoID=3432"
   },
   {
     "title": "Redator Pleno",
@@ -8574,7 +8673,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9806907__1953_b872cfe9f3d10d184a86bbf203eaac6f?utm_source=1953&utm_medium=feed&keyword=Redator-Pleno&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9806907__1953_0a6191ef63f7271af71b21db4532229d?utm_source=1953&utm_medium=feed&keyword=Redator-Pleno&location=são-paulo&geoID=25"
   },
   {
     "title": "Assistente de Dep. Pessoal - 12/2025",
@@ -8583,7 +8682,7 @@
     "city": "brasília",
     "state": "região centro- este",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9806963__1953_3c7be1c265f6c06dd2422828c8756ea0?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Dep&location=brasília&geoID=1366"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9806963__1953_95da71e6570abf0d5c39d70d7311c462?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Dep&location=brasília&geoID=1366"
   },
   {
     "title": "AJUDANTE DE PRODUÇÃO - Vaga EXCLUSIVA para candidatos do sexo MASCULINO.",
@@ -8592,7 +8691,7 @@
     "city": "montes claros",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9806966__1953_e50550beb5709c4478debac550163aa1?utm_source=1953&utm_medium=feed&keyword=AJUDANTE-DE-PRODU%C3%87%C3%83O&location=montes-claros&geoID=5536"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9806966__1953_67564628066bfe1084e1994abe39898b?utm_source=1953&utm_medium=feed&keyword=AJUDANTE-DE-PRODU%C3%87%C3%83O&location=montes-claros&geoID=5536"
   },
   {
     "title": "Promotor de Demanda - Garanhuns",
@@ -8601,7 +8700,7 @@
     "city": "caruaru",
     "state": "pernambuco",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807008__1953_89f9a93bc05bfef9afea57964f2c0b78?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Demanda&location=caruaru&geoID=2057"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807008__1953_87f43812c684228c9238ff973ed57ce3?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Demanda&location=caruaru&geoID=2057"
   },
   {
     "title": "Mecânico de Manutenção Industrial (Confresa, MT)",
@@ -8610,7 +8709,7 @@
     "city": "confresa",
     "state": "mato grosso",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807009__1953_fbf657cf5c187abce93beed444d849b7?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-Manuten%C3%A7%C3%A3o&location=confresa&geoID=2436"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807009__1953_3a9d769c60625e1cd51045c73c50c41c?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-Manuten%C3%A7%C3%A3o&location=confresa&geoID=2436"
   },
   {
     "title": "Desenvolvimento de Eventos | Espanhol Avançado",
@@ -8619,7 +8718,7 @@
     "city": "curitiba",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807199__1953_5bed0ecf5cdb73d711962ebebfb6cb89?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-de-Eventos&location=curitiba&geoID=2691"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807199__1953_223d0611fc651f82ae4503d07a38b711?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-de-Eventos&location=curitiba&geoID=2691"
   },
   {
     "title": "OFICIAL DE MANUTENÇÃO",
@@ -8628,7 +8727,7 @@
     "city": "porto alegre",
     "state": "rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807200__1953_988734a3735788500cf33d15b47ebd69?utm_source=1953&utm_medium=feed&keyword=OFICIAL-DE-MANUTEN%C3%87%C3%83O&location=porto-alegre&geoID=6880"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807200__1953_5988c38323e51f1abd520f404a334d79?utm_source=1953&utm_medium=feed&keyword=OFICIAL-DE-MANUTEN%C3%87%C3%83O&location=porto-alegre&geoID=6880"
   },
   {
     "title": "Cipauto Veículos - Chevrolet qua, 21/janeiro Auxiliar de Mecânico Ponta Grossa, PR, BR Presencial",
@@ -8637,7 +8736,7 @@
     "city": "ponta grossa",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807216__1953_298f817e929d4065192e3ea296c4e12b?utm_source=1953&utm_medium=feed&keyword=Cipauto-Ve%C3%ADculos&location=ponta-grossa&geoID=6819"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807216__1953_11a0eaacb18d6ff322fb638d45fe7fab?utm_source=1953&utm_medium=feed&keyword=Cipauto-Ve%C3%ADculos&location=ponta-grossa&geoID=6819"
   },
   {
     "title": "Engenheiro de Ciência de Dados (SUB)",
@@ -8646,7 +8745,7 @@
     "city": "macaé",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807235__1953_b9f925a6c0862b644b206269d79b73e2?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Ci%C3%AAncia&location=macaé&geoID=4964"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807235__1953_8ad49d5a03d42966a89b5bcdd11169e8?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Ci%C3%AAncia&location=macaé&geoID=4964"
   },
   {
     "title": "Farmacêutico Substituto (Bairro: Vila Santana / Filial: 281)",
@@ -8655,7 +8754,7 @@
     "city": "santana",
     "state": "bahia",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807278__1953_10c9b46e464f864412dcb7747eff1636?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico-Substituto-Bairro&location=santana&geoID=7805"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807278__1953_eac86d7b4dc1ad660e3e12ee9643147f?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico-Substituto-Bairro&location=santana&geoID=7805"
   },
   {
     "title": "Banco de Talentos - ELETRICISTA DE DISTRIBUIÇÃO I | Cataguases, Leopoldina e Muriaé",
@@ -8664,7 +8763,7 @@
     "city": "cataguases",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807384__1953_82e573b93cb430ee553b8a2bbf4bd3d9?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=cataguases&geoID=2101"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807384__1953_e2d408d20e65d14f5336584301f68b50?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=cataguases&geoID=2101"
   },
   {
     "title": "DIVISÃO COMÉRCIO DO GRUPO ÁGUIA BRANCA qua, 18/fevereiro Auxiliar Mecânico - Ponta Grossa/PR Po[...]",
@@ -8673,7 +8772,7 @@
     "city": "ponta grossa",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807418__1953_bc8e3b40e125449cdf519f6e9442c0eb?utm_source=1953&utm_medium=feed&keyword=DIVIS%C3%83O-COM%C3%89RCIO-DO&location=ponta-grossa&geoID=6819"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807418__1953_07732f39897f39f8b700ad8e53b60f81?utm_source=1953&utm_medium=feed&keyword=DIVIS%C3%83O-COM%C3%89RCIO-DO&location=ponta-grossa&geoID=6819"
   },
   {
     "title": "Projetista Mecânico",
@@ -8682,7 +8781,7 @@
     "city": "itabira",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807484__1953_b7e0084a2cc092779d71b57c4792fbd2?utm_source=1953&utm_medium=feed&keyword=Projetista-Mec%C3%A2nico&location=itabira&geoID=4065"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807484__1953_93398e1e447f412500bcae5c4b902551?utm_source=1953&utm_medium=feed&keyword=Projetista-Mec%C3%A2nico&location=itabira&geoID=4065"
   },
   {
     "title": "ENGENHEIRO DE DADOS SR",
@@ -8691,7 +8790,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807499__1953_43db6c1430bf7b93e93f1827e2e613e7?utm_source=1953&utm_medium=feed&keyword=ENGENHEIRO-DE-DADOS&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807499__1953_5f47cf2a9aa366ea799024fe2b2f2e80?utm_source=1953&utm_medium=feed&keyword=ENGENHEIRO-DE-DADOS&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "TÉCNICO EM EQUIPAMENTOS HOSPITALARES",
@@ -8700,7 +8799,7 @@
     "city": "macaé",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807545__1953_d22eb6424860bd56ebdc649a976b7e8f?utm_source=1953&utm_medium=feed&keyword=T%C3%89CNICO-EM-EQUIPAMENTOS&location=macaé&geoID=4964"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807545__1953_62adddda9376b248c88927b373b0cedd?utm_source=1953&utm_medium=feed&keyword=T%C3%89CNICO-EM-EQUIPAMENTOS&location=macaé&geoID=4964"
   },
   {
     "title": "ENGENHEIRO CIVIL JR - GEOTECNIA",
@@ -8709,7 +8808,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807576__1953_f68bab0be87512cab409796a0a71244b?utm_source=1953&utm_medium=feed&keyword=ENGENHEIRO-CIVIL-JR&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807576__1953_2a4a405c8a44ff5056feecf7267888f2?utm_source=1953&utm_medium=feed&keyword=ENGENHEIRO-CIVIL-JR&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "TÉCNICO DE ENFERMAGEM CCIH - HOSPITAL CASA SÃO BERNARDO - BARRA DA TIJUCA /RJ",
@@ -8718,7 +8817,7 @@
     "city": "rio de janeiro",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807578__1953_41eb9cda615a1af03f45bbdcdf2b366f?utm_source=1953&utm_medium=feed&keyword=T%C3%89CNICO-DE-ENFERMAGEM&location=rio-de-janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807578__1953_c1901429975288d758d96b68ff13cede?utm_source=1953&utm_medium=feed&keyword=T%C3%89CNICO-DE-ENFERMAGEM&location=rio-de-janeiro&geoID=19"
   },
   {
     "title": "Eletricista Serviço de Rede LV II",
@@ -8727,7 +8826,7 @@
     "city": "itapetinga",
     "state": "bahia",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807614__1953_7c522c46e0b8da46ad36962336647b6f?utm_source=1953&utm_medium=feed&keyword=Eletricista-Servi%C3%A7o-de&location=itapetinga&geoID=4205"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807614__1953_270dfdf9ca85b9c553bd05080d662831?utm_source=1953&utm_medium=feed&keyword=Eletricista-Servi%C3%A7o-de&location=itapetinga&geoID=4205"
   },
   {
     "title": "Banco de Talentos - Operador de Máquinas Injetoras",
@@ -8736,7 +8835,7 @@
     "city": "várzea paulista",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9807944__1953_f60fa18e06681f30059699b9083e9e3c?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=várzea-paulista&geoID=9494"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9807944__1953_007a318a082f899d1aa1a74ef6b70889?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=várzea-paulista&geoID=9494"
   },
   {
     "title": "Farmacêutico Substituto Jr. (Bairro: República | Filial: 273)",
@@ -8899,104 +8998,5 @@
     "state": "são paulo",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___70_9810316__1953_5845b7a07116fe37798e0ba12bc0b097?utm_source=1953&utm_medium=feed&keyword=Analista-de-sistemas&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "MECANICO DE REFRIGERAÇÃO",
-    "description": "<h3>Responsabilidades </h3><ul><li>Realizar manutenção preventiva e corretiva em sistemas de refrigeração; </li><li>Diagnosticar falhas e defeitos em equipamentos de refrigeração; </li><li>Executar reparos e trocas de peças em equipamentos de refrigeração; </li><li>Instalar e configurar sistemas de refrigeração; </li><li>Manter registros de serviços realizados. </li> </ul><h3>Requisitos </h3><ul><li>Ensino médio completo; </li><li>Experiência comprovada como mecânico de refrigeração; </li><li>Conhecimento em refrigeração comercial e industrial; </li><li>Domínio de ferramentas e equipamentos utilizados na área; </li><li>Habilitação para conduzir veículo. </li> </ul><h3>Habilidades </h3><ul><li>Capacidade de solucionar problemas; </li><li>Habilidade em leitura e interpretação de diagramas e manuais técnicos; </li><li>Conhecimento em normas de segurança; </li><li>Boa comunicação e relacionamento interpessoal; </li><li>Responsabilidade e organização. </li> </ul> #J-18808-Ljbffr",
-    "company": "INTEGRA RH",
-    "city": "lençóis paulista",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810317__1953_ddb6d0cf80ebb887127834db253c0d02?utm_source=1953&utm_medium=feed&keyword=MECANICO-DE-REFRIGERA%C3%87%C3%83O&location=lençóis-paulista&geoID=4856"
-  },
-  {
-    "title": "Product Designer",
-    "description": "<p>Atuação: Híbrida: 3x na semana presencial na região da Faria Lima. </p> <h3>Descrição da vaga </h3> <p>A FCamara está em busca de uma pessoa para atuar como Product Designer - Sênior, para atuar em parceria com o maior Banco de Investimentos da América Latina, especializado em capital de investimento, de risco, além de gerenciamento de patrimônio e ativos globais. </p> <h3>Responsabilidades e atribuições </h3> <ul> <li>Auxiliar a liderança no desenvolvimento e implementação de estratégias de design de produto, quando necessário. </li> <li>Ser uma referência técnica, orientando designers mais jovens nas tomadas de decisão e contribuindo com conhecimento e desenvolvimento de competências do time. </li> <li>Desenvolver soluções inovadoras e eficazes para a experiência do usuário, conduzindo projetos de alta complexidade com times multidisciplinares. </li> <li>Garantir que as entregas estejam alinhadas com a estratégia de negócios, condições técnicas e com os componentes do design system. </li> <li>Colaborar com insights para o desenvolvimento do nosso design system. </li> <li>Criar protótipos, participar de testes de usabilidade e tomar decisões com base em dados. </li> <li>Aprimorar a experiência dos usuários, definindo métricas, identificando comportamentos e problemas, e propondo soluções. </li> <li>Buscamos profissionais comunicativos, com perfil questionador e proativo. </li> <li>Ter autonomia para conduzir reuniões com stakeholders, compreendendo as principais necessidades e regras do negócio, além de apresentar de forma clara a solução criada. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Experiência comprovada em design de produto, com caso de estudo e portfólio demonstrando seu processo de design e tomada de decisão. </li> <li>Comunicação clara e bom relacionamento com demais equipes. </li> <li>Visão de negócios e conhecimento de tecnologias aplicadas a produtos digitais. </li> <li>Facilidade para atuar de forma ativa em todas as etapas do framework Double Diamond. </li> <li>Conhecimento avançado em arquitetura da informação e padrões de interface. </li> <li>Conhecimento em dados e métricas. </li> <li>Visão abrangente do ecossistema. </li> <li>Proatividade na identificação de oportunidades de melhoria contínua </li> <li>Organização e boa gestão do próprio tempo. </li> <li>Experiência em empresas do segmento financeiro, preferencialmente bancos ou corretoras. </li> <li>Inglês (leitura e escuta). </li> <li>Ter atuado com produtos de Trade </li> <li>Experiência prévia com as ferramentas: Figma - Notion - Maze - Azure Devops - Monday </li> <li>Raciocínio lógico e capacidade analítica; </li> <li>Boa Comunicação; </li> <li>Espírito de equipe e capacidade de resolução de conflitos; </li> <li>Ter capacidade de comunicação com diversos perfis de stakeholders; </li> <li>Habilidade de trabalhar em equipes ágeis e multidisciplinares; </li> <li>Criatividade e Proatividade para imaginar diferentes cenários de uso das aplicações; </li> <li>Organização </li> <li>Perfil astuto, dinâmico e altamente ágil. </li> <li>Experiência na condução de projetos de alta complexidade. </li>  </ul> <h3>Product Designer Sr. - (Consignado e Veículos) </h3> <p>Local: São Paulo, SP, Brasil </p> #J-18808-Ljbffr",
-    "company": "FCamara Consulting & Training",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810320__1953_5ec7b041f927bc601f3d8ec00a16e664?utm_source=1953&utm_medium=feed&keyword=Product-Designer&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Engenheiro de Dados Sênior",
-    "description": "<p>NEORIS é uma aceleradora Digital com mais de 20 anos de experiência, atuando como Parceira Digital de algumas das maiores empresas do mundo. Contamos com uma equipe de mais de 4.000 profissionais em 11 países, promovendo uma cultura de startup multicultural que valoriza inovação e aprendizado contínuo para criar soluções de alto valor para nossos clientes. </p><p>Estamos buscando um <strong>Engenheiro de Dados Sênior </strong> para atuar em uma vaga híbrida no Rio de Janeiro. </p><h3>Principais Responsabilidades: </h3><ul><li>Desenvolver e otimizar pipelines de dados usando Databricks e AWS; </li><li>Implementar e gerenciar estruturas de governança de dados com Unity Catalog; </li><li>Criar soluções escaláveis para ingestão, transformação e armazenamento de dados; </li><li>Colaborar com times de negócio para entender requisitos funcionais e traduzi-los em soluções técnicas; </li><li>Garantir a qualidade, segurança e integridade dos dados; </li><li>Melhorar a eficiência dos processos de ETL/ELT e arquitetura de dados. </li> </ul><h3>Requisitos: </h3><ul><li>Experiência comprovada de no mínimo 4 anos como Engenheiro de Dados, preferencialmente em projetos de grande escala e ambientes complexos; </li><li>Conhecimento avançado em Databricks, Apache Spark, SQL e Python para manipulação e processamento de dados; </li><li>Experiência com Unity Catalog para governança de dados e na criação e otimização de pipelines de dados; </li><li>Capacidade de entender as necessidades do negócio e traduzi-las em requisitos técnicos. </li> </ul><h3>Benefícios: </h3><ul><li>Vale Refeição e Vale Alimentação </li><li>Previdência Privada </li><li>Plano de Saúde </li><li>Seguro de Vida </li><li>Aulas de Inglês/Espanhol </li><li>Wellhub: benefícios e descontos em academias e programas de bem-estar </li><li>Auxílio Creche </li><li>Neoris Global Campus: plataforma de desenvolvimento e oportunidades de crescimento profissional </li> </ul><p>Para mais informações, acesse <a >nosso site </a> ou nossas redes sociais: Facebook, LinkedIn, Twitter, Instagram (@NEORIS). </p><h3>Candidatar-se à vaga </h3><p>Por favor, envie seu currículo nos formatos PDF, DOC, DOCX, TXT ou RTF, juntamente com o URL do seu perfil no LinkedIn, sua pretensão salarial bruta mensal, seu nível de inglês e anos de experiência como Engenheiro de Dados. </p><p>Reside no Rio de Janeiro? Informe sua cidade. </p><p>Você possui experiência prática com Databricks e Apache Spark? Marque a opção correspondente. </p><p>Ao se candidatar, você concorda com o armazenamento e processamento de seus dados pela NEORIS para fins de seleção, conforme descrito na política de privacidade. </p> #J-18808-Ljbffr",
-    "company": "NEORIS",
-    "city": "rio de janeiro",
-    "state": "rio de janeiro",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810324__1953_328feb841bbb4acd2e6aa1f48fabebd0?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=rio-de-janeiro&geoID=19"
-  },
-  {
-    "title": "Promotor de Vendas - DM Card (Estado: SC, Florianópolis)",
-    "description": "<h3>Descrição Geral </h3> <p>Nossa missão é garantir a satisfação dos clientes, proporcionando um atendimento de qualidade, informando sobre os benefícios do <b>cartão de loja </b> e oferecendo produtos adicionais. Buscamos não apenas conquistar novos clientes, mas também manter relações duradouras, trabalhando ativamente na fidelização. </p> <h3>Responsabilidades </h3> <ul> <li>Fazer com que as pessoas queiram adquirir o cartão, atingindo as metas de vendas; </li> <li>Falar sobre as vantagens do cartão; </li> <li>Encontrar oportunidades para mostrar outros produtos de uma maneira que faça sentido para o cliente; </li> <li>Ajudar os clientes na resolução de problemas e dificuldades - quando houver, mantendo sempre um bom atendimento; </li> <li>Habilidade para qualquer situação e mudar conforme as coisas acontecem na loja; </li> <li>Construir boas relações com clientes, colegas e outras pessoas importantes para a loja; </li> <li>Fazer um esforço constante para atingir e superar as bonificações estabelecidas, mantendo um bom trabalho em todas as áreas. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ter experiência prévia em vendas e atendimento ao cliente; </li> <li>Ser maior de idade; </li> <li>Ter concluído o Ensino Médio; </li> <li>Possuir facilidade com digitação em celular e habilidade para usar canais digitais de comunicação; </li> <li>Disponibilidade para trabalhar aos sábados e feriados. </li>  </ul> <h3>Condições de Trabalho </h3> <p>Horário Comercial, incluso os sábados. Escala de trabalho: 6x1. </p> <p>Conheça mais sobre esta incrível empresa, a DM Card: <br/> </p> <p>Estamos ansiosos para conhecer o seu perfil profissional. </p> <p>Dúvidas, fale com nosso time de Talentos Meizon pelo e-mail:   </p> #J-18808-Ljbffr",
-    "company": "Meizon RH - Impulsionamos Talentos, Construímos o futuro",
-    "city": "florianópolis",
-    "state": "santa catarina",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810333__1953_e8a081974062340e01e5c380fd831f72?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=florianópolis&geoID=3237"
-  },
-  {
-    "title": "Fonoaudiólogo",
-    "description": "<p><h3>Diretora na Clínica Motivatea | Psicologia, Análise do Comportamento </h3><p>A Clínica MotivaTEA – Desenvolvimento Infantil está em buscando uma Fonoaudióloga apaixonada pelo que faz para somar ao nosso time multidisciplinar. </p><p>Descrição da vaga </p><ul><li>Horários flexíveis, 30h-40h semanais </li><li>Avaliação e atendimento direto de crianças e adolescentes com transtornos do neurodesenvolvimento </li><li>Elaboração de planos de intervenção em conjunto com a supervisora clínica </li><li>Coleta de dados </li> </ul><p>O que oferecemos: </p><ul><li>Auxílio plano de saúde Vera Cruz </li><li>Ambiente de trabalho colaborativo e acolhedor </li><li>Equipe engajada e alinhada em oferecer o melhor para cada criança </li><li>Graduação completa em Fonoaudiologia </li><li>Desejável: experiência com crianças e adolescentes atípicos e/ou formação em ABA </li> </ul><p>Se você busca uma clínica que valoriza o desenvolvimento humano, acredita em um trabalho em equipe sólido e oferece oportunidade de crescimento, o seu lugar é aqui! </p><p>Mais informações na legenda. </p><p>Campinas, São Paulo, Brazil R$3,756.00-R$3,756.00 1 month ago </p><p>Indaiatuba, São Paulo, Brazil 2 weeks ago </p><h3>Banco de Talentos | Professor(a) Linguagens (Letras, Ed. Física, Artes) </h3><p>Santa Bárbara d'Oeste, São Paulo, Brazil 1 day ago </p><h3>Estágio em Pedagogia - Educação Infantil </h3><h3>Professora de Ensino Infantil e Fundamental I Bilíngue - Valinhos-SP </h3><p>Hortolândia, São Paulo, Brazil R$1,518.00-R$1,518.00 2 days ago </p><p>Hortolândia, São Paulo, Brazil 2 weeks ago </p><h3>Pessoa Instrutora e Mentora para Capacitação IoT </h3><p>Santa Bárbara d'Oeste, São Paulo, Brazil 1 week ago </p><p>Santa Bárbara d'Oeste, São Paulo, Brazil 1 week ago </p><p>Santa Bárbara d'Oeste, São Paulo, Brazil 1 week ago </p><h3>Professora Ensino Fundamental Anos Iniciais </h3><p>Americana, São Paulo, Brazil 10 hours ago </p><p>Valinhos, São Paulo, Brazil R$1,000.00-R$1,000.00 2 months ago </p><h3>Instrutor(a) em Tecnologia - Ênfase em Inteligência Artificial </h3> </p> #J-18808-Ljbffr",
-    "company": "Clínica Motivatea - Desenvolvimento Infantil",
-    "city": "campinas",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810336__1953_28f432d45c19a2a9535b3646da81fa35?utm_source=1953&utm_medium=feed&keyword=Fonoaudi%C3%B3logo&location=campinas&geoID=1713"
-  },
-  {
-    "title": "Mecânico Montador",
-    "description": "<p><h3>Vaga: Torneiro Mecânico – Cachoeirinha – RS </h3> <ul> <li>Realizar a montagem de conjuntos mecânicos e estruturas, seguindo desenhos técnicos, esquemas e procedimentos internos. </li> <li>Operar ferramentas e instrumentos de medição (paquímetro, micrômetro, etc.). </li> <li>Efetuar ajustes e alinhamentos de peças e componentes. </li> <li>Conhecer e aplicar conceitos de pneumática e hidráulica. </li> <li>Realizar manutenção preventiva e corretiva em máquinas e equipamentos. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "An Piovensan",
-    "city": "portão",
-    "state": "rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810337__1953_b2203230a19bda20dd6773fc53e0eada?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-Montador&location=portão&geoID=6868"
-  },
-  {
-    "title": "Montador de Estruturas Metálicas",
-    "description": "<p><strong>Candidate-se rapidamente pelo email:   </strong> </p> <p><strong>Nível: </strong> Operacional </p> <p><strong>Cursos de: </strong> Montagem, Elétrica </p> <p><strong>Escolaridade: </strong> Técnico - Elétrica, Montagem - Completo </p> <p><strong>Tipo de contrato: </strong> CLT </p> <p><strong>Jornada de trabalho: </strong> De segunda a sexta-feira, das 7h55 às 17h55. </p> <p><strong>Benefícios: </strong> Seguro de vida, Participação nos lucros, Vale alimentação, Assistência odontológica </p> <h3>Responsabilidades da Posição </h3> <p><strong>Montador de Estruturas Metálicas </strong> – Trabalhar em projetos de grande porte, focando na montagem, instalação elétrica básica e soldagem de estanho. </p> <h3>Responsabilidades </h3> <ul> <li>Montar estruturas metálicas conforme desenhos técnicos. </li> <li>Executar instalações elétricas básicas e soldar com estanho. </li> <li>Manusear ferramentas elétricas (parafusadeira, furadeira, esmerilhadeira). </li> <li>Garantir qualidade e segurança em todas as etapas. </li>  </ul> <h3>Requisitos Obrigatórios </h3> <p>Experiência na função e curso técnico em montagem ou áreas relacionadas. </p> <p>Localizações: Sertãozinho, São Paulo, Brasil; Ribeirão Preto, São Paulo, Brasil. </p> #J-18808-Ljbffr",
-    "company": "abler Vagas",
-    "city": "sertãozinho",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810345__1953_64d47b14170f42673cdf8859eda837b0?utm_source=1953&utm_medium=feed&keyword=Montador-de-Estruturas&location=sertãozinho&geoID=8755"
-  },
-  {
-    "title": "Captador de Imóveis",
-    "description": "<p><h3>Overview </h3><p>Oportunidade Confidencial – Parceiro Comercial em Captação de Imóveis </p><p>Estamos em busca de pessoas que queiram crescer junto com um projeto inovador no setor imobiliário. Se você tem energia comercial, gosta de desafios e sabe transformar conversas em oportunidades, essa vaga pode ser para você. Nosso time de <b>parceiros comerciais </b> atua diretamente na <b>promoção da nossa marca, buscando também trazer proprietários de imóveis para locação para dentro da nossa plataforma </b>. É um papel estratégico, com alta autonomia, metas claras e estrutura para quem quer gerar impacto e ser reconhecido por performance. </p><h3>Como será sua rotina </h3><ul><li>Atuar na prospecção ativa de imóveis residenciais para locação, por meio de diferentes canais (portais, redes sociais, ruas, indicações); </li><li>Estabelecer relacionamento com proprietários e apresentar, de forma consultiva, os diferenciais da nossa proposta; </li><li>Acompanhar o processo de captação até a ativação do imóvel na plataforma; </li><li>Trabalhar com metas mensais de captação e indicadores de performance; </li><li>Contornar objeções e conduzir negociações com segurança, empatia e foco no fechamento. </li><li>Perfil comercial, resiliente e com alta capacidade de autogerenciamento; </li><li>Excelente comunicação, organização e habilidade em negociação; </li><li>Disposição para abordagem ativa (ligações, mensagens e contato direto com proprietários); </li><li>Familiaridade com ferramentas digitais e sistemas de CRM; </li><li>Experiência anterior com captação de imóveis ou atendimento ao cliente é um diferencial; </li><li>Conhecimento do mercado imobiliário local também é valorizado. </li> </ul><h3>O que oferecemos </h3><ul><li>Contrato como <b>Pessoa Jurídica (PJ) </b>; </li><li><b>Ajuda de custo mensal </b> e <b>bonificações por desempenho </b>; </li><li>Modelo de trabalho com <b>autonomia e flexibilidade de jornada </b>; </li><li><b>Não exigimos CRECI </b> nem veículo próprio; </li><li>Suporte estruturado com Jornada de Conhecimento, ferramentas e acompanhamento contínuo; </li><li>Acesso a um projeto nacional em expansão, com possibilidade real de crescimento. </li> </ul><p>Aqui, valorizamos quem entrega resultado. Você terá espaço para atuar com autonomia, apoio para evoluir e reconhecimento proporcional ao seu desempenho. Se você busca desafios e quer fazer parte da transformação do mercado imobiliário, essa pode ser a sua próxima oportunidade. </p> </p> #J-18808-Ljbffr",
-    "company": "Empresa Confidencial",
-    "city": "belo horizonte",
-    "state": "minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810351__1953_bcd1883bcf9d6bc77da961bbf1d95e18?utm_source=1953&utm_medium=feed&keyword=Captador-de-Im%C3%B3veis&location=belo-horizonte&geoID=1086"
-  },
-  {
-    "title": "Assistente de Engenharia",
-    "description": "<p>A <strong>SYSTRA </strong> é um dos principais grupos de <strong>engenharia e consultoria </strong> do mundo, especializado em transporte público e mobilidade sustentável. Com mais de 11.000 colaboradores, a <strong>missão </strong> da SYSTRA é projetar <strong>soluções de transporte </strong> seguras e sustentáveis para aproximar as pessoas, desenvolver a inclusão social e facilitar o acesso ao emprego, educação e lazer em todo o mundo. </p><p><strong>Há mais de 65 anos </strong>, o Grupo trabalha ao lado de cidades e regiões para contribuir para o seu desenvolvimento, criando, melhorando e modernizando suas infraestruturas e sistemas de transporte, ao longo do ciclo de vida de seus projetos. A empresa fornece todos os seus serviços em <strong>mais de 80 países </strong> em todo o mundo, incluindo o <strong>Brasil </strong> que conta com mais de <strong>800 colaboradores </strong>. </p><p>A <strong>SYSTRA  </strong>acompanha o desenvolvimento das infraestruturas no <strong>Brasil  </strong>desde os anos 60, com estudos para a modernização da <strong>rede ferroviária brasileira </strong> e os <strong>primeiros estudos sobre as redes de metrô do país </strong>. Nas décadas seguintes, foram feitos estudos para a implementação de metrôs, VLTs, BRTs e rodovias. </p><p>Presente no Brasil há mais de 10 anos, a SYSTRA viabiliza soluções diferenciadas em todas as fases do projeto, desde os <strong>estudos, desenvolvimento do projeto, gerenciamento e fiscalização. </strong> </p><p>Com seus novos serviços, a SYSTRA apoia seus clientes e parceiros em sua transição digital, ecológica e energética, a fim de<strong> inovar a mobilidade </strong> de amanhã. </p><p>Para maiores informações acesse  </p><p>O(a) colaborador(a) da <strong>SYSTRA </strong> além de poder contribuir com conhecimento e ideias inovadoras, tem a oportunidade de trabalhar com o nosso <strong>time de referência técnica </strong> e ter contato com diferentes atividades voltadas ao mercado de <strong>mobilidade e infraestrutura de transportes </strong>. </p><p><strong>Principais Atividades: </strong> </p><ul><li>Analisar editais, especificações técnicas e requisitos de clientes para elaboração de propostas; </li><li>Desenvolver orçamentos detalhados para projetos de sistemas ferroviários, considerando materiais, mão de obra, equipamentos e serviços; </li><li>Pesquisar e cotar preços de insumos e serviços junto a fornecedores e parceiros; </li><li>Elaborar documentação técnica e auxiliar na preparação de propostas comerciais; </li><li>Acompanhar atualizações de normas e regulamentos do setor ferroviário; </li><li>Interagir com diferentes áreas da empresa, como engenharia, suprimentos e comercial, para garantir a assertividade das propostas; </li><li>Realizar tratamentos de dados para emissão de relatórios de KPI's da área. </li> </ul><p><strong>Requisitos: </strong> </p><ul><li>Formação superior completa ou cursando em Engenharia (Mecânica, Elétrica, Civil, de Produção ou áreas correlatas); </li><li>Conhecimento em orçamento e análise de custos para projetos de engenharia; </li><li>Familiaridade com sistemas ferroviários e seus componentes técnicos; </li><li>Conhecimento intermediário a avançado em Excel e softwares de orçamentos; </li> </ul><p><strong>Diferenciais: </strong> </p><ul><li>Experiência prévia em orçamentos e propostas para projetos ferroviários; </li><li>Conhecimento em softwares específicos da área, como AutoCAD, Revit, Primavera P6 ou similares; </li><li>Pós-graduação ou cursos em gestão de projetos, infraestrutura ferroviária ou áreas afins; </li><li>Inglês intermediário ou avançado para leitura e interpretação de documentos técnicos; </li><li>Conhecimento em Power BI. </li> </ul><p>Get notified about new Engineering Associate jobs in <strong>São Paulo, São Paulo, Brazil </strong>. </p><p>Santo André, São Paulo, Brazil 2 weeks ago </p><h3>Banco de Engenheiros(as) I Unipar Brasil  ) </h3><h3>Engenheiro (a) de Melhoria Contínua Pleno </h3><h3>Engenheiro(a) Orçamentos e Propostas Sr. </h3><h3>Assistente de Engenharia Jr (Barueri/SP) </h3><h3>Engenheiro Junior - Rodovias e Ferrovias </h3><h3>Engenheiro Civil ou Arquiteto(a) Jr. | Obras </h3><h3>CAIO BOTUCATU - Auxiliar Técnico de Engenharia </h3><p>Embu das Artes, São Paulo, Brazil 1 year ago </p><h3>Engenheiro Civil Trainee (Taboão da Serra) </h3><p>Taboão da Serra, São Paulo, Brazil 8 months ago </p><h3>Analista de Engenharia - Stand de Vendas (São Paulo) </h3><p>Franco da Rocha, São Paulo, Brazil 1 month ago </p> #J-18808-Ljbffr",
-    "company": "SYSTRA Brasil",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810359__1953_e78beb09b769cfba5bbc35cf76ca054c?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Engenharia&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Advogado Pleno | Contencioso Trabalhista",
-    "description": "<p><h3>Advogado Pleno | Contencioso Trabalhista </h3><p>O Advogado Pleno é responsável por liderar casos e atuar diretamente com clientes, desenvolvendo estratégias legais e orientando advogados juniores. Deve demonstrar domínio técnico e capacidade de elaborar documentos de média e alta complexidade, além de utilizar eficientemente tecnologias jurídicas. O cargo exige habilidades de liderança, negociação, postura profissional e controle de prazos e recursos para garantir a condução eficaz dos casos e a satisfação dos clientes. </p><h3>Responsabilidades </h3><ul><li>Gestão de carteira; </li><li>Elaboração de peças processuais de baixa e média complexidade em todas as fases processuais; </li><li>Alimentação de sistema interno e externo; </li><li>Leitura de publicações para agendamento de prazos e providências; </li><li>Elaboração de orientação e condução de audiências; </li><li>Classificação de risco e provisionamento de processos; </li><li>Participação em reuniões com clientes e testemunhas; </li> </ul><h3>Experiências técnicas necessárias </h3><ul><li>Condução de processos em todas as fases (conhecimento, recursal e execução); </li><li>Conhecimentos em análise de cálculos trabalhistas; </li><li>Experiência prévia e comprovada como Advogado trabalhista em escritório de advocacia; </li><li>Conhecimento em classificação de risco e provisionamento de processos; </li><li>Experiência na condução de processos que envolvam empresas atuantes nos segmentos de serviços de manutenção industrial, de edificações, logística e facilities, será um diferencial. </li> </ul><h3>Perfil Pessoal Desejável </h3><ul><li>Excelência em escrita e comunicação; </li><li>Capacidade de organização e observância do fluxo interno; </li><li>Gerenciamento de tempo; </li><li>Inteligência emocional; </li><li>Proatividade e bom relacionamento interpessoal. </li> </ul><p><b>Regime de Atuação: </b> Sócio de Serviços </p> </p> #J-18808-Ljbffr",
-    "company": "Viseu Advogados",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810361__1953_07d846f2c015f7a4457e340ae8dbc180?utm_source=1953&utm_medium=feed&keyword=Advogado-Pleno&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Diesel Fleet Mechanic",
-    "description": "<p>3045 Cedar Bluff Rd, Centre, AL 35960, USA Req #1269 </p><p>Friday, April 11, 2025 </p><p>We are seeking an experienced and skilled Diesel Mechanic to join our team at SRM Concrete. The ideal candidate will be responsible for maintaining and repairing a variety of diesel-powered vehicles and equipment, including trucks, mixers, and other heavy machinery used in the concrete industry. This role is critical to ensuring our fleet operates efficiently, safely, and reliably to meet our project demands and delivery schedules. </p><p><strong>Key Responsibilities: </strong> </p><ul><li>Perform routine maintenance and inspections on diesel engines and equipment, including oil changes, lubrications, and filter replacements. </li><li>Diagnose and repair mechanical issues, electrical systems, and hydraulic problems in diesel engines and equipment. </li><li>Use diagnostic equipment to identify issues and determine the necessary repairs. </li><li>Rebuild, replace, or repair major components of diesel engines, such as heads, blocks, starters, and transmissions. </li><li>Collaborate with the operations team to schedule maintenance and repairs to minimize downtime. </li><li>Ensure compliance with all safety policies and procedures in the workshop and on the job site. - Keep accurate records of maintenance and repair work. </li><li>Stay updated on the latest diesel engine technology and repair techniques. </li> </ul><p><strong>Qualifications: </strong> </p><ul><li>Proven experience as a Diesel Mechanic, preferably in the concrete industry or related fields. </li><li>Strong understanding of diesel engines, hydraulic systems, and electrical systems. </li><li>Ability to use diagnostic tools and equipment. </li><li>Excellent problem-solving skills and attention to detail. </li><li>Ability to work independently and in a team environment. </li><li>Commitment to safety standards and protocols. </li><li>High school diploma or equivalent; vocational or technical certification in diesel engine repair is a plus. </li><li>Valid driver’s license; CDL is preferred. </li><li>Willingness to undergo SRM’s pre-employment screenings. </li> </ul><p><strong><br>About us: </strong>SRM strives to be the largest, most profitable construction material company in the country, while maintaining a best-in-class culture.<br></p><p><strong>SRM’s 5 Principles of Service: </strong>Safety, Quality, Kindness, Cleanliness, Go-Getter </p><p><strong>Why Join Us? </strong> Our commitment to our team includes: </p><ul><li><strong>Growth: </strong> Opportunities for advancement in a rapidly growing company. </li><li><strong>Home Daily: </strong>Enjoy work-life balance with daily home time. </li><li><strong>Competitive Compensation: </strong>Hourly pay with eligibility for bonuses and annual raises. </li><li><strong>Exceptional Benefits: </strong>Comprehensive benefits package including low-cost medical, dental, vision, STD, LTD, and life insurance, paid holidays, PTO and vacation programs, 401k with $100 match/week, family days, and more! </li><li><strong>Overtime Opportunities: </strong>Daily overtime after 8 hours and weekly after 40 hours<br></li> </ul><p>Candidates will be required to undergo a pre-employment drug screen, SRM’s pre-employment physical, and consent to background checks, including Clearinghouse and MVR checks. We are an equal-opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. </p> #J-18808-Ljbffr",
-    "company": "SRM Concrete",
-    "city": "fortaleza",
-    "state": "região nordeste",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810377__1953_2c36d16232abf971d75ccec60a765be0?utm_source=1953&utm_medium=feed&keyword=Diesel-Fleet-Mechanic&location=fortaleza&geoID=3264"
   }
 ]
