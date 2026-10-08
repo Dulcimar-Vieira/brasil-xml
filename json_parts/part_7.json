@@ -1,167 +1,5 @@
 [
   {
-    "title": "Consultor(a) Engenheiro(a) de Dados",
-    "description": "<p><h3>Sobre Nós </h3> <p>O <b>Grupo Houer </b> é uma das maiores empresas do Brasil que atua no segmento em consultoria e serviços empresariais, inovação e projetos de impacto. Atuamos no ramo da infraestrutura que impacta a vida de milhões de pessoas. Estruturamos e viabilizamos projetos de concessões, PPPs e de outras vertentes em diversas áreas de atuação por todas as regiões do Brasil. </p> <p>Entendemos que é preciso pensar no futuro e nos impactos que deixaremos para as próximas gerações. Nossas ações visam, sobretudo, a vontade de contribuir com um mundo melhor e mais desenvolvido. O <b>Time Houer </b> é composto por mais de 550 colaboradores unidos e engajados em um só propósito: transformar o mundo e impactar gerações. Nossa sede está localizada em Belo Horizonte - Minas Gerais. Contamos com escritórios em todas as regiões do Brasil. </p> <p>Somos impulsionados por pessoas e pessoas movem o mundo! <b>Somos GPTW, uma das melhores empresas para se trabalhar. </b> Este reconhecimento é um reflexo do nosso compromisso com o bem-estar dos nossos colaboradores e da nossa busca incessante por excelência e impacto em tudo o que fazemos. </p> <p>Buscamos <b>Engenheiro(a) de Dados </b> para construir, manter e otimizar nosso ecossistema de dados. O papel é crucial na criação de <b>pipelines robustos </b> e, principalmente, na implementação de mecanismos de <b>linhagem e rastreabilidade </b> que suportem o rigoroso processo de <b>certificação de origem de dados </b> exigido pelo nosso Organismo de Inspeção Acreditada (OIA). Esta função garante a <b>integridade, qualidade e auditabilidade </b> de todo o fluxo de Big Data. </p> <h3>Responsabilidades </h3> <ul> <li><b>Pipeline e Big Data: </b> Construir e otimizar pipelines de dados escaláveis (ETL-V) usando <b>Spark </b> e <b>Delta Lake </b>. </li> <li><b>Transformação e Qualidade: </b> Implementar lógica de transformação e modelos analíticos com <b>dbt (Data Build Tool) </b> nas camadas Preparation, Public e Trilhas. </li> <li><b>Orquestração: </b> Projetar e gerenciar fluxos de trabalho resilientes utilizando <b>Apache Airflow </b>. </li> <li><b>Governança e Linhagem: </b> Implementar e manter <b>Open Metadata </b> e <b>Hive </b> para registrar metadados e linhagem de dados fim a fim, vital para a certificação. </li> <li><b>Certificação (OIA): </b> Desenvolver controles de auditoria, testes de consistência (data reconciliation) e documentação técnica para comprovar a origem e integridade dos dados, das fontes ao BI (PostgreSQL/Metabase). </li> <li><b>Infraestrutura Analítica: </b> Otimizar o PostgreSQL para consumo por Business Intelligence, garantindo aderência aos requisitos de negócios. </li>  </ul> <h3>Requisitos Técnicos Mandatórios </h3> <ul> <li>Experiência comprovada como <b>Engenheiro(a) de Dados </b>. </li> <li>Proficiência em <b>Python </b> e <b>SQL avançado </b>. </li> <li>Conhecimento profundo de <b>Apache Spark </b> e <b>Delta Lake </b>. </li> <li>Experiência prática com <b>dbt (Data Build Tool) </b>. </li> <li>Domínio na criação e gestão de DAGs no <b>Apache Airflow </b>. </li> <li>Familiaridade com conceitos e ferramentas de <b>Governança de Dados </b> e <b>Linhagem de Dados </b> (Data Lineage). </li> <li>Formação superior em TI ou área correlata. </li> <li>Conhecimento robusto em arquitetura de sistemas distribuídos e segurança de dados. </li>  </ul> <h3>Diferenciais </h3> <ul> <li>Governança e Big Data: Experiência com Arquitetura Data Lake (Delta Lake, Hudi ou Iceberg) e padrões de arquitetura medallion para garantia da qualidade dos dados. </li> <li>Integração de Sistemas Legados: Conhecimento da arquitetura e comportamento de Sistemas Legados (Silos/Mainframe) para garantir a extração e ingestão correta de dados críticos na camada Raw. </li> <li>Vivência anterior no setor público ou em sistemas de alta complexidade regulatória/auditoria. </li> <li>Controles de Auditoria e Metadados: Vivência em ambientes de alta complexidade regulatória (Setor Público, Financeiro) e uso de ferramentas de Metadados e Linhagem (Open Metadata ou similares) para rastreabilidade e certificação (ISO/IEC 27001). </li> <li>Experiência com <b>Open Metadata </b> ou similares. </li> <li>Infraestrutura Cloud Nativa: Conhecimento prático em ambientes Cloud (AWS, GCP ou Azure) e orquestração de contêineres (Docker/Kubernetes). </li>  </ul> <h3>Perfil Comportamental </h3> <ul> <li><b>Visão Crítica e Analítica: </b> Natureza investigativa para questionar e entender o \\\"porquê\\\" de cada decisão técnica. </li> <li><b>Planejador e Estruturado: </b> Habilidade para estruturar informações, criar <b>documentação clara </b> e planejar ações detalhadamente. </li> <li><b>Senso de Dono e Confiança: </b> Agir com responsabilidade, ética e ser um representante confiável, vital para a relação com o OIA. </li> <li><b>Autonomia e Proatividade: </b> Capacidade de investigar, aprender e aprofundar-se tecnicamente sem necessidade de microgerenciamento. </li> <li><b>Comunicação Excepcional: </b> Habilidade para se comunicar de maneira objetiva e detalhada, traduzindo requisitos complexos e servindo como ponte técnica precisa. </li>  </ul> <h3>PARCERIAS </h3> <ul> <li>Gympass </li> <li>Universidade corporativa </li> <li>Programa de parcerias de desconto (psicólogos, nutricionistas, faculdades, contabilidade e etc.) </li> <li>Cultura humanizada e colaborativa. </li>  </ul> <p>Gostaria de trabalhar em uma grande empresa que seu objetivo é <b>impactar positivamente a vida das pessoas </b>? Então venha com a gente construir novas experiências! </p> <p>Cadastre-se em nossa oportunidade e venha fazer parte do Grupo Houer que tem paixão por inovação e projetos de impacto. </p> </p> #J-18808-Ljbffr",
-    "company": "HOUER CONSULTORIA E CONCESSÕES LTDA",
-    "city": "belo horizonte",
-    "state": "minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810804__1953_2adac0e7145c93a292a23761c44bac29?utm_source=1953&utm_medium=feed&keyword=Consultor-Engenheiro-de&location=belo-horizonte&geoID=1086"
-  },
-  {
-    "title": "Técnico de Enfermagem - RP 18000 (18000)",
-    "description": "<p><p>Sistema Fiep também é sinônimo de Segurança e Saúde. Com mais de 70 anos de experiência, o Sesi no Paraná oferece produtos e serviços com foco na promoção de uma rotina segura e saudável para os trabalhadores. Para você que deseja contribuir com o desenvolvimento da indústria e da sociedade, esta vaga pode ser sua! </p> <p>Esta é a nossa missão: servir e fortalecer a indústria para melhorar a vida das pessoas. </p> <h3>Qual é a posição? </h3> <p>Técnico de Enfermagem - RP 18000 - Sistema Fiep (Fiep, Sesi, Senai e IEL) </p> <h3>Quais são os desafios e as principais responsabilidades? </h3> <ul> <li>Atuar na rotina assistencial e de apoio à equipe médica, garantindo um atendimento humanizado, seguro e eficiente aos colaboradores/pacientes. </li> <li>Responsável por executar atividades de enfermagem conforme as normas e procedimentos da instituição, assegurando a qualidade dos serviços prestados. </li> <li>Realização de In company </li> <li>Subir exames para Liberação de ASO; </li> <li>Atendimento ao Colaborador; </li> <li>Realização de exames; </li> <li>Registrar adequadamente as informações em prontuário e sistemas internos; </li> <li>Apoiar campanhas e ações de promoção à saúde. </li>  </ul> <h3>Requisitos </h3> <h3>Quais são os principais requisitos? </h3> <ul> <li>Curso técnico completo em Enfermagem; </li> <li>COREN PR ativo e regular (sem débitos); </li> <li>Experiência anterior na área assistencial, ambulatorial ou ocupacional; </li> <li>Conhecimento em rotinas de enfermagem, controle de materiais e atendimento humanizado. </li> <li>Carteira de vacinação completa conforme exigências sanitárias vigentes (NR32); </li> <li>CNH B - dentro do prazo de vigência; </li> <li>Para Candidatos Internos, atender aos critérios de elegibilidade PL 0031 (4.2.3). </li>  </ul> <h3>Fique por dentro de alguns detalhes sobre esta oportunidade: </h3> <p>Local de trabalho: SESI - FRANCISCO BELTRAO - MINIGUACU, UNIAO DA VITORIA, 66 </p> <h3>Em caso de Reaproveitamento podemos considerar os demais endereços: </h3> <h3>Horário: </h3> <p>07:30 às 12:00 e 13:30 às 17:00 (Segunda à sexta-feira) - <b>40 horas semanais </b> </p> <p>Em caso de reaproveitamento podemos considerar outros horários de atuação à critério de aceite do candidato aprovado. </p> <h3>Etapas do processo seletivo (todas eliminatórias): </h3> <p>Triagem RH - Triagem Gestor - Solicitação de documentos comprobatórios - Envio de comprovantes de vacinação completa e atualizada - Entrevista RH + Entrevista Validação e Case - Admissão. </p> <h3>Ficou interessado? Candidate-se e boa sorte! </h3> <p>O prazo para inscrição neste processo seletivo é 04/12/2025 à 11/12/2025 </p> <p>Essa vaga também se destina a pessoas com deficiência (PCD) ou reabilitados(as). </p> <p>Este processo seletivo tem validade de 24 meses, podendo ocorrer o aproveitamento de candidatos aprovados em novas oportunidades deste mesmo perfil nas casas do Sistema Fiep (Fiep, Sesi, Senai e IEL) seguindo a ordem de classificação. </p> </p> #J-18808-Ljbffr",
-    "company": "Agenciafiep",
-    "city": "vitória",
-    "state": "espírito santo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810815__1953_e8e73262683b9106de2dd538c6caf3f4?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Enfermagem&location=vitória&geoID=9692"
-  },
-  {
-    "title": "Assistente de laboratorio preparacao de materiais",
-    "description": "<p><h3>Assistente de laboratório preparacao de materiais </h3> <p>A bio meds Brasil está em constante crescimento e procura um(a) Assistente Laboratório para compor nosso time e contribuir com a organização e fluidez dos nossos processos! </p> <p>Se você é uma pessoa atenta aos detalhes, organizada, responsável, com raciocínio lógico e boa comunicação, essa oportunidade é para você! </p> <h3>Principais Atividades </h3> <ul> <li>Realizar a higienização, lavagem, secagem e inspeção de materiais, utensílios e acessórios utilizados na produção de injetáveis, conforme POPs e Boas Práticas de Fabricação (BPF). </li> <li>Efetuar a esterilização de materiais, componentes e utensílios em autoclaves, garantindo a integridade e rastreabilidade de cada ciclo. </li> <li>Registrar e controlar os ciclos de esterilização, realizando o fechamento e liberação dos materiais estéreis para uso na produção. </li> <li>Organizar e manter o inventário de materiais e insumos, assegurando a disponibilidade e a acuracidade dos estoques. </li> <li>Emitir requisições de materiais ao almoxarifado, de acordo com as necessidades da programação de produção. </li> <li>Solicitar compras de reposição quando identificado baixo nível de estoque, acompanhando prazos e entregas em conjunto com o setor de suprimentos. </li> <li>Acompanhar a programação de produção, garantindo que os materiais e componentes necessários estejam prontos e esterilizados dentro dos prazos planejados. </li> <li>Realizar o fechamento dos lotes de esterilização e do ciclo de produção, assegurando a rastreabilidade completa do processo. </li> <li>Apoiar na organização e limpeza das áreas de apoio, mantendo o fluxo adequado de materiais limpos e sujos. </li> <li>Cumprir rigorosamente as normas de segurança, qualidade e meio ambiente, mantendo a conformidade com as exigências regulatórias e internas da empresa. </li>  </ul> <h3>Requisitos </h3> <p>Desejável </p> <ul> <li>Experiência anterior em ambiente farmacêutico, hospitalar ou de esterilização. </li> <li>Conhecimento básico em BPF, operação de autoclaves e controle de estoque será considerado diferencial. </li>  </ul> <h3>Conhecimentos Técnicos Desejáveis </h3> <ul> <li>Noções básicas de autoclave e esterilização de materiais. </li> <li>Conhecimento em limpeza e organização de áreas e utensílios. </li> <li>Noções simples de controle de estoque ou inventário. </li> <li>Experiência anterior em ambiente farmacêutico, hospitalar ou de esterilização será um diferencial. </li>  </ul> <p>Horário: Disponibilidade para atuar no horário de segunda a sexta-feira do 7h00 às 16h48. </p> <p>Local: Santo Antônio de Lisboa - Florianópolis </p> <p><b>Benefícios </b> </p> <ul> <li>Vale Refeição/Alimentação de R$30,00 por dia (Sem desconto de 20%). </li> <li>Auxílio Combustível de R$200,00 por mês ou Vale Transporte (Sem desconto de 6%). </li> <li>Plano de saúde da Unimed, após o sexto mês (Mensalidade paga pela empresa). </li> <li>Cartão SESC (descontos em todos os serviços do SESC, de todo o Brasil). </li> <li>Desconto de 50% no Cine Paradigma (acompanhante também tem o mesmo desconto). </li> <li>Trabalhar no Corporate Park, que é um lugar lindo, planejado e super integrado com a natureza. </li> <li>Vale-presente no cartão Flash para você curtir no seu aniversário. </li> <li>DayOff de aniversário para aproveitar o dia especial. </li> <li>Plano Uniodonto, sem coparticipação e com valor fixo de R$26,00 descontado na folha de pagamento. </li> <li>Programa de Saúde e Bem-Estar (academias, nutricionistas e atendimento psicológico). </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Netvagas",
-    "city": "florianópolis",
-    "state": "santa catarina",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810816__1953_52a4e5733fe981e13b3bab722031f3a6?utm_source=1953&utm_medium=feed&keyword=Assistente-de-laboratorio&location=florianópolis&geoID=3237"
-  },
-  {
-    "title": "Analista de Sistemas - Protheus | Pleno/Sênior",
-    "description": "<p><h3>Analista de Sistemas - Protheus | Pleno/Sênior </h3> <p>O Grupo Emtel atua de forma integrada nos segmentos de transporte, logística e locação, oferecendo soluções inteligentes para otimizar operações e impulsionar resultados em todo o Brasil. Com presença nacional, tecnologia embarcada e foco em performance, somos parceiros estratégicos de empresas que buscam eficiência operacional, segurança e flexibilidade logística. Nosso compromisso vai além da entrega: incorporamos práticas sustentáveis e responsabilidade socioambiental em cada operação, alinhando desempenho ao propósito. Reduzimos tempos, maximizamos recursos e movimentamos o Brasil com responsabilidade e visão de futuro. </p> <p>Cargo: <b>Analista de Sistemas - Protheus </b> </p> <p>Responsabilidades: </p> <ul> <li>Atuar no desenvolvimento e manutenção de rotinas customizadas, relatórios, telas, WebServices/API Rest, e pontos de entrada em linguagem ADVPL. </li> <li>Atuar no desenvolvimento de relatórios em linguagem SQL. </li> <li>Realizar levantamento de requisitos/especificação funcional junto aos usuários do sistema, quando necessário. </li> <li>Realizar atualizações de Builds, Releases e Versões. </li> <li>Acompanhar e monitorar junto a fornecedores/consultorias a solução de problemas e execução de projetos. </li> <li>Prestar suporte aos usuários do sistema para erros e dúvidas técnicas, quando solicitado. </li> <li>Contribuir para a melhoria contínua da equipe e do produto. </li>  </ul> <p>Requisitos: </p> <ul> <li>Curso superior completo em Sistemas de Informação, Ciências da computação, Análise e desenvolvimento de sistemas ou correlatas. </li> <li>Conhecimento e experiência em linguagem ADVPL. </li> <li>Conhecimento e experiência em banco de dados SQL Server e linguagem SQL. </li> <li>Conhecimento em integrações entre sistemas (API REST/WebServices). </li> <li>Conhecimento e experiência em gerenciamento de ambiente Protheus. </li> <li>Conhecimento e experiência nos módulos Ativo, Manutenção de Ativos, TMS e Backoffice. </li>  </ul> <p>Qualificações desejáveis: </p> <ul> <li>Desejável conhecimento em Windows Server/AD. </li> <li>Desejável conhecimento na ferramenta TOTVS Fluig. </li> <li>Desejável conhecimento em metodologias ágeis (Scrum). </li> <li>Vale Alimentação - R$ 30,00/dia </li> <li>Plano de Saúde. </li> <li>Vale Transporte ou Vale Combustível. </li>  </ul> <p>Local: Belo Horizonte, Minas Gerais, Brazil </p> </p> #J-18808-Ljbffr",
-    "company": "Grupo Emtel",
-    "city": "belo horizonte",
-    "state": "minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810820__1953_b607107ca0ecde3e43dd3519c5160f89?utm_source=1953&utm_medium=feed&keyword=Analista-de-Sistemas&location=belo-horizonte&geoID=1086"
-  },
-  {
-    "title": "Técnico de Ensino Jr (Mensalista) (Eletroeletrônica/Automação Industrial) - RP 18318 (18318)",
-    "description": "<p><h3>Overview </h3> <p>Sistema Fiep também é sinônimo de Educação e Capacitação. </p> <p>Unindo formação empreendedora, professores experientes e unidades distribuídas pelo Paraná, o Sistema Fiep prepara crianças, jovens e adultos para os desafios acadêmicos e profissionais. </p> <p>Se você deseja contribuir com o nosso propósito, de transformar o Paraná no melhor lugar para a indústria no Brasil, esta vaga pode ser sua! </p> <h3>Posição </h3> <p><b>Qual é a posição? </b> </p> <p>Técnico de Ensino Jr (Mensalista) (Eletroeletrônica/Automação Industrial) - RP 18318 - Sistema Fiep (Fiep, Sesi, Senai e IEL) </p> <h3>Desafios e responsabilidades principais </h3> <ul> <li>Planejar e ministrar aulas práticas e teóricas em cursos de qualificação, aperfeiçoamento, aprendizagem industrial e técnicos; </li> <li>Aplicar metodologias de ensino voltadas à<b>formação por competências </b>e à prática profissional; </li> <li>Preparar, montar e zelar pelos equipamentos e materiais didáticos utilizados em laboratório e oficina; </li> <li>Avaliar o desempenho dos alunos, orientando-os quanto à melhoria contínua do aprendizado; </li> <li>Elaborar registros acadêmicos e relatórios técnicos conforme normas institucionais; </li> <li>Participar de reuniões pedagógicas, capacitações e ações de atualização técnica e metodológica; </li> <li>Apoiar o desenvolvimento de projetos integradores e atividades práticas relacionadas às demandas industriais locais. </li> <li>Outras atividades pertinentes a função. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ensino Superior completo, desejável em Engenharia Elétrica, Eletrônica, Engenharia de Controle e Automação ou áreas correlatas, e ou/ Curso Técnico Completo nas áreas acima com Ensino Superior Completo em outras áreas; </li> <li>Desejável conhecimento técnico em instalações elétricas industriais,comandos elétricos,automação industrial,CLP (Controladores Lógicos Programáveis)einstrumentação; </li> <li>Experiência prática no setor industrial será considerada um diferencial; </li> <li>Experiência/Vivência na docência será considerado um diferencial; </li> <li>Possuir CNH B Ativa e Regular; </li> <li>Possuir disponibilidade para deslocamentos regionais; </li> <li>Para Candidatos Internos, atender aos critérios de elegibilidade PL 0031 (4.2.3). </li>  </ul> <h3>Detalhes da oportunidade </h3> <p><b>Local de trabalho da vaga: </b> SENAI - Rua Heitor Stockler de França, 161, Maria Luíza, Cascavel - PR </p> <p><b>Em caso de Reaproveitamento podemos considerar os demais endereços: </b> </p> <p>R. Júlio de Castilhos, 3.465 - Vila Industrial, Toledo - PR </p> <p><b>Horário: </b> 08:00 às 12h00 – 13h00 às 17h00 - Segunda à Sexta-Feira - 40h semanais </p> <p>Em caso de reaproveitamento podemos considerar outros horários de atuação à critério de aceite do candidato aprovado. </p> <h3>Etapas do processo seletivo </h3> <p><b>Etapas do processo seletivo (todas eliminatórias): </b> </p> <p>Triagem RH - Triagem do Gestor - Solicitação documentos comprobatórios - Entrevista RH - Entrevista de Validação + Banca - Admissão. </p> <p>Ficou interessado? Candidate-se e boa sorte! </p> <p>O prazo para inscrição neste processo seletivo é do dia 16/12/2025 à 24/12/2025. </p> <p>Essa vaga também se destina a pessoas com deficiência (PCD) ou reabilitados(as). </p> <p>Este processo seletivo tem validade de 24 meses, podendo ocorrer o aproveitamento de candidatos aprovados em novas oportunidades deste mesmo perfil nas casas do Sistema Fiep (Fiep, Sesi, Senai e IEL) seguindo a ordem de classificação. </p> <h3>Benefícios </h3> <ul> <li>Associação Beneficente dos Servidores do Sistema Fiep (ABESSFI) </li> <li>Auxílio Creche </li> <li>Cartão Viva Mais/Odontológico </li> <li>Empréstimo Consignado </li> <li>Plano de Saúde </li> <li>Previdência privada </li> <li>Seguro de Vida </li> <li>Serviços de Educação/ Descontos </li> <li>Vale Refeição/Alimentação </li> <li>Vale Transporte </li>  </ul> <p>Essa descrição está sujeita a alterações conforme necessidade institucional. </p> </p> #J-18808-Ljbffr",
-    "company": "Agenciafiep",
-    "city": "cascavel",
-    "state": "paraná",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810821__1953_f772b33a7e3105deec8a682907220078?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Ensino&location=cascavel&geoID=2075"
-  },
-  {
-    "title": "Kurumá Veículos ter, 16/dezembro Técnico Mecânico - Vitória/ES Vitória, ES, BR Presencial",
-    "description": "<p><p><b>Horário: </b> De segunda à sexta, das 8h às 18h I Sábado de 8h às 12h </p> <p><b>Regime de contratação: </b> Efetivo – CLT </p> <p>Apoiar os mecânicos nas manutenções preventivas e corretivas de veículos; </p> <p>Apoiar na identificação de falhas e no preparo de veículos para serviços; </p> <p>Auxiliar na organização da oficina, ferramentas e equipamentos; </p> <p>Realizar checklists básicos e atividades operacionais sob supervisão; </p> <p>Cumprir normas de segurança, qualidade e procedimentos internos da concessionária. </p> <h3>Requisitos </h3> <p>Estar cursando curso técnico ou profissionalizante na área de Mecânica Automotiva; </p> <p>Interesse em aprender e se desenvolver na área automotiva. </p> <p>Assistência médica Assistência odontológica Comissões Seguro de Vida Vale-alimentação Vale-refeição </p> </p> #J-18808-Ljbffr",
-    "company": "Águia Branca",
-    "city": "vitória",
-    "state": "espírito santo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810823__1953_9117753a9671e6e8cb64a9ff522f7586?utm_source=1953&utm_medium=feed&keyword=Kurum%C3%A1-Ve%C3%ADculos-ter&location=vitória&geoID=9692"
-  },
-  {
-    "title": "Principal Biostatistician",
-    "description": "<p><p>Location: Mexico, Argentina or Brazil (Remote – must be available to work Eastern or Central U.S. time zones) </p> <p>We are seeking an experienced <b>Principal Statistician </b> to join our BIOS team for one of our FSP clients. This advanced-level position requires strong expertise in biostatistics and programming, with a focus on clinical development in the pharmaceutical or biotech industry. </p> <h3>Key Responsibilities </h3> <ul> <li>Author, QC, and implement Statistical Analysis Plans (SAPs) with minimal oversight </li> <li>Develop and validate SAS and/or R programs for tables, listings, and figures (TLFs), including reusable macros </li> <li>Perform QC/peer review and validation of statistical programs </li> <li>Produce statistical study reports and communicate results to clinical and cross-functional teams </li> <li>Review and contribute to statistical sections of study protocols </li> <li>Ensure compliance with CDISC SDTM and ADaM standards </li>  </ul> <h3>Must Have </h3> <ul> <li>Minimum 5 years of experience in biostatistics/statistics, with substantial experience in pharmaceutical or biotech clinical development </li> <li>Strong programming skills in SAS and/or R </li> <li>Expertise in QC and validation processes </li> <li>Solid understanding of clinical trial design and analysis methods </li>  </ul> <h3>Nice to Have </h3> <ul> <li>PhD in Biostatistics or Statistics </li> <li>Experience in CNS therapeutic area </li> <li>Knowledge of adaptive designs and real-world evidence analyses </li> <li>Excellent communication skills </li>  </ul> <h3>Education & Experience </h3> <ul> <li>PhD: Minimum 3 years of relevant experience </li> <li>Master’s: Minimum 5 years of relevant experience </li>  </ul> <p>IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at  </p> </p> #J-18808-Ljbffr",
-    "company": "IQVIA",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810829__1953_b61300cad219dfd59d825d2dbe4e9021?utm_source=1953&utm_medium=feed&keyword=Principal-Biostatistician&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Engenheiro Civil com Especialização em Segurança do Trabalho",
-    "description": "<p><p>Buscamos um(a) Engenheiro Civil com especialização em segurança do trabalho para gerenciar Clinica Ocupacional, assegurando a excelência técnica, inovação e eficiência operacional. </p> <p>Esse profissional será responsável pelo planejamento, execução e controle das atividades de engenharia, alinhando soluções técnicas aos objetivos estratégicos da empresa. </p> <h3><b>Principais Responsabilidades: </b> </h3> <ul> <li>Gerenciar Clinica Ocupacional; </li> <li>Planejar, acompanhar e controlar projetos; </li> <li>Garantir conformidade com normas técnicas, regulatórias e de segurança; </li> <li>Gerenciar orçamento, cronogramas e recursos; </li> <li>Implementar melhorias de processos e inovação tecnológica; </li> <li>Atuar em conjunto com outras áreas estratégicas; </li> <li>Elaborar relatórios técnicos e indicadores de desempenho. </li>  </ul> <h3><b>Requisitos: </b> </h3> <ul> <li>Formação em Engenharia e especialização em segurança do trabalho (registro no CREA ativo); </li> <li>Experiência em gestão comercial, projetos e equipes; </li> <li>Visão estratégica e foco em resultados; </li> <li>Capacidade de tomada de decisão; </li> <li>Boa comunicação e liderança; </li> <li>Conhecimento em ferramentas de gestão e metodologias de engenharia. </li>  </ul> <h3><b>Benefícios: </b> </h3> <ul> <li>Plano de saúde; </li> <li>Plano odontológico; </li> <li>Vale alimentação; </li> <li>Vale transporte. </li>  </ul> <p>Se você se identificou com a vaga entre em contato conosco e venha fazer parte da nossa equipe!!! </p> </p> #J-18808-Ljbffr",
-    "company": "Solucaoocupacional",
-    "city": "divinópolis",
-    "state": "minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810836__1953_87b537e1978c6adb2ce3d73706d46eea?utm_source=1953&utm_medium=feed&keyword=Engenheiro-Civil-com&location=divinópolis&geoID=2804"
-  },
-  {
-    "title": "Técnico de Enfermagem - CTI Adulto | Poços de Caldas - MG",
-    "description": "<p><p><b>Técnico de Enfermagem </b> para atuar no setor <b>CTI Adulto </b>no <b>Hospital Santa Casa de Poços de Caldas, </b> com disponibilidade total em escala de<b>12x36. </b> </p> <p>Profissional responsável por executar atividades técnicas de enfermagem com<b>precisão </b>, <b>ética  </b>e senso de <b>responsabilidade </b>, prestando uma <b>assistência segura  </b>e <b>humanizada  </b>na CTI Adulto. </p> <p>Atuará em diversas áreas clínicas e cirúrgicas, contribuindo para o cuidado integral ao paciente por meio da organização, do <b>cumprimento rigoroso de protocolos </b> e da atuação pautada em <b>planejamento  </b>e <b>controle </b>. É essencial que tenha <b>disciplina </b>, <b>atenção aos detalhes e comprometimento com a qualidade </b>, apoiando ativamente a equipe e garantindo um ambiente assistencial estruturado e eficiente. </p> <h3>Entre suas principais atribuições, destacam-se: </h3> <ul> <li>Prestar assistência de enfermagem sob supervisão do enfermeiro, respeitando os princípios éticos e as diretrizes institucionais. </li> <li>Preparar pacientes para exames, coletas e procedimentos, orientando-os conforme protocolos. </li> <li>Realizar verificação de sinais vitais. </li> <li>Admistrar medicamentos por diferentes vias. </li> <li>Realizar os cuidados de higiene e conforto. </li> <li>Auxiliar nos atendimentos de urgência e emergência, mantendo conduta segura e ágil. </li> <li>Manter organização do setor, controle de materiais e equipamentos, zelando por sua conservação. </li> <li>Executar limpeza, desinfecção e armazenamento adequado de materiais e equipamentos utilizados. </li> <li>Registrar adequadamente todas as ações e intercorrências no prontuário físico ou eletrônico. </li> <li>Controlar validade de medicações, dispositivos e kits utilizados na assistência. </li> <li>Garantir a transferência da assistencia e a continuidade do cuidado. </li> <li>Auxiliar no processo de admissão e alta dos pacientes. </li> <li>Realizar procediemntos de enfermagem inerentes à categoria de técnico de enfermagem. </li> <li>Monitorar condições clínicas e comunicar alterações ao enfermeiro responsável. </li> <li>Assegurar a reposição de materiais e kits. </li> <li>Atentar-se aos protocolos de admissão, preparo e recebimento de pacientes. </li> <li>Colaborar com a organização do setor para o acolhimento dos pacientes e manutenção de um ambiente funcional e seguro. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Santacasapc",
-    "city": "poços de caldas",
-    "state": "minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810837__1953_4050612cc62be2f4023e4233fc6203f9?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Enfermagem&location=poços-de-caldas&geoID=6797"
-  },
-  {
-    "title": "Vitória Motors Jeep ter, 30/dezembro Técnico Mecânico - Cachoeiro de Itapemirim/ES Cachoeiro de[...]",
-    "description": "<p><h3>Técnico Mecânico - Cachoeiro de Itapemirim/ES </h3> <p>Seja um dos primeiros </p> <h3>Descrição e Responsabilidades </h3> <p><b>Horário: </b> De segunda à sexta, das 08h00 às 18h00 com 2h de almoço e aos sábados de 08h00 às 10h00 </p> <ul> <li>Realizar diagnósticos mecânicos, elétricos e eletrônicos em veículos, utilizando ferramentas e equipamentos específicos da montadora; </li> <li>Executar serviços de manutenção preventiva e corretiva, conforme padrões técnicos e procedimentos da concessionária; </li> <li>Efetuar reparos em sistemas de motor, transmissão, suspensão, freios, direção, arrefecimento e injeção eletrônica; </li> <li>Interpretar ordens de serviço, manuais técnicos e boletins da montadora; </li> <li>Garantir a qualidade e segurança dos serviços executados, respeitando prazos e normas estabelecidas; </li> <li>Realizar testes de funcionamento e qualidade após os reparos; </li> <li>Manter o ambiente de trabalho organizado, zelando por ferramentas, equipamentos e EPIs; </li> <li>Apoiar o consultor técnico quando necessário, fornecendo informações técnicas sobre os serviços realizados; </li> <li>Cumprir normas de segurança, meio ambiente e procedimentos internos da concessionária. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Curso Técnico em Mecânica, Mecatrônica ou áreas correlatas; </li> <li>Conhecimentos em manutenção mecânica, elétrica e eletrônica de veículos; </li> <li>Vivência prévia como mecânico automotivo, preferencialmente em concessionária; </li> <li>Capacidade de realizar diagnósticos utilizando equipamentos e ferramentas específicas; </li> <li>Conhecimento em manutenção preventiva e corretiva; </li> <li>Leitura e interpretação de manuais técnicos e ordens de serviço; </li> <li>Organização, atenção aos detalhes e comprometimento com qualidade e segurança; </li> <li>Boa capacidade de trabalho em equipe e comunicação básica para alinhamento técnico; </li> <li>Disponibilidade para treinamentos e atualizações técnicas. </li>  </ul> <h3>Benefícios </h3> <ul> <li>Assistência médica </li> <li>Assistência odontológica </li> <li>Auxílio academia </li> <li>Benefícios internos </li> <li>Comissões </li> <li>Seguro de Vida </li> <li>Vale-transporte </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Águia Branca",
-    "city": "cachoeiro de itapemirim",
-    "state": "espírito santo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810841__1953_c85387a0ba3213074133fd247166a4f6?utm_source=1953&utm_medium=feed&keyword=Vit%C3%B3ria-Motors-Jeep&location=cachoeiro-de-itapemirim&geoID=1541"
-  },
-  {
-    "title": "Balconista de Medicamentos - Alto São João",
-    "description": "<p><p>A Drogaria Minas-Brasil foi fundada em 06 de Maio de 1958 em Montes Claros (MG), e consolidou sua marca com excelência na área farmacêutica, e foi aumentando gradativamente seu mix de produtos e a quantidade de filiais próprias, tornando-se a maior rede de drogarias do Norte de Minas Gerais. Os seus valores são pautados em cima da ética, profissionalismo e paixão em servir. </p> <ul> <li>Experiência com venda e/ou dispensção de medicamentos; <b>obrigatório </b> </li> <li>Ensino médio completo; </li> <li>Proatividade; </li> <li>Boa comunicação; </li> <li>Informática básica; </li> <li>Disponibilidade de horário; </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Drogaria Minas-Brasil",
-    "city": "montes claros",
-    "state": "minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810843__1953_ab0b115834446986f049d0fe29b33a75?utm_source=1953&utm_medium=feed&keyword=Balconista-de-Medicamentos&location=montes-claros&geoID=5536"
-  },
-  {
-    "title": "Sumaré - Atendente de Farmácia",
-    "description": "<p><p>A Drogaria Minas-Brasil foi fundada em 06 de Maio de 1958 em Montes Claros (MG), e consolidou sua marca com excelência na área farmacêutica, e foi aumentando gradativamente seu mix de produtos e a quantidade de filiais próprias, tornando-se a maior rede de drogarias do Norte de Minas Gerais. Os seus valores são pautados em cima da ética, profissionalismo e paixão em servir. </p> <h3>Requisitos: </h3> <ul> <li>Ensino médio completo; </li> <li>Proatividade; </li> <li>Boa comunicação; </li> <li>Informática básica; </li> <li>Disponibilidade de horário. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Drogaria Minas-Brasil",
-    "city": "sumaré",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810845__1953_82405ebbc857082b8fb3d0e351e3a803?utm_source=1953&utm_medium=feed&keyword=Sumar%C3%A9-Atendente&location=sumaré&geoID=8878"
-  },
-  {
-    "title": "11010 - Analista de Infraestrutura",
-    "description": "<p><h3>Overview </h3><p>Estamos buscando um Analista de Infraestrutura com perfil generalista, com conhecimentos em ambientes Windows Server e Linux. O profissional atuará na sustentação, evolução e modernização dos ambientes on-premises e híbridos, garantindo alta disponibilidade, segurança e eficiência operacional. </p><p>Se você tem os requisitos abaixo e disponibilidade para trabalhar presencial no horário das 00h00 às 09h00, essa oportunidade é para você. </p><h3>Principais atividades </h3><ul><li>Administração de servidores Windows Server (AD, DNS, DHCP, GPO, File Server) e Linux (CentOS, Ubuntu, RedHat ou similares) </li><li>Gerenciamento de ambientes virtualizados utilizando VMware, incluindo criação, manutenção e otimização de VMs e hosts </li><li>Gestão de rotinas de backup e restore com Veeam Backup, garantindo integridade e disponibilidade dos dados </li><li>Administração de ambientes de containers com Docker e orquestração utilizando Kubernetes (on-premises ou cloud) </li><li>Suporte à equipe de desenvolvimento e operações na entrega de ambientes e troubleshooting </li><li>Implementação de melhorias de performance, segurança e disponibilidade </li><li>Documentação dos ambientes, procedimentos e arquitetura </li> </ul><h3>Conhecimentos técnicos </h3><ul><li>Experiência sólida em Windows Server (2012, 2016, 2019 ou superior) </li><li>Conhecimentos avançados em Linux (administração, troubleshooting e automação) </li><li>Experiência prática com VMware, ESXi, vCenter </li><li>Gestão de backups com Veeam Backup </li><li>Experiência com Docker: construção, gerenciamento e troubleshooting de containers </li><li>Experiência com Kubernetes: deployments, services, namespaces, ingress, escalabilidade, troubleshooting </li><li>Familiaridade com ambientes híbridos (on-premises e cloud é um diferencial) </li><li>Noções de automação (Bash, PowerShell, ou Ansible são diferenciais) </li><li>Inglês - Nível Intermediário </li> </ul><h3>Contrato </h3><p>Contratação: PJ (caso não possua empresa aberta, será permitida contratação mediante providência paralela de abertura) </p><h3>Benefícios </h3><ul><li>Descanso remunerado de 12 dias </li><li>Day Off – um dia no mês do aniversário </li><li>PLR de 0,5 salário até 2 salários </li><li>Gympass </li> </ul><h3>Trabalho presencial </h3><p>Vila Olímpia / São Paulo - das 00h00 às 09h00 </p> </p> #J-18808-Ljbffr",
-    "company": "Talent Group",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810849__1953_c3a14c1f31713baaa562f6a460c67bc1?utm_source=1953&utm_medium=feed&keyword=11010-Analista&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Engenheiro de Dados Sênior |  Real-Time",
-    "description": "<p><h3>Responsabilidades </h3> <p>Área responsável por acelerar a entrega de soluções digitais no banco, integrando práticas de DevOps, automação de esteiras e engenharia de dados em tempo real. Com foco em confiabilidade, velocidade e governança, a área constrói componentes reutilizáveis, portais de dados e a camada Fast Data, que viabiliza decisões ágeis e seguras em ambientes críticos. </p> <p>O profissional será responsável por desenhar, desenvolver e evoluir soluções de streaming de dados, utilizando tecnologias como Apache Kafka, Flink, Kudu, Iceberg e HBase, integradas à plataforma Cloudera. Atuará na construção de componentes reutilizáveis, garantindo escalabilidade, performance e confiabilidade dos pipelines de dados. </p> <p>Além disso, será responsável pela implementação e manutenção de esteirasojen DevOps promovendo automação, versionarbeit, testes e deploy contínuo de aplicações de dados. Deverá aplicar boas práticas de engenharia de software, com foco em idempotência, observabilidade, segurança e governança de dados, incluindo políticas com Apache Ranger. </p> <p>O especialista atuará de forma colaborativa comliq times de engenharia de dados, arquitetura e segurança, contribuindo para a evolução da plataforma de dados e adoção de boas práticas de desenvolvimento e operação em ambientes distribuídos e escaláveis. </p> <h3>Tecnologias e Competências </h3> <ul> <li>Apache Kafka, Flink, Kudu, Iceberg, HBase, Apache Spark, Apache Ranger, Cloudera Data Platform (CDP), Airflow, Helix, Python, Docker/Kubernetes, Grafana </li> <li>Automação de pipelines, versionamento, testes e deploy contínuo; observabilidade, segurança e governança de dados. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Safra",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810865__1953_4d5f9ce8d2d4d42038da9647c3b13bb6?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Funileiro",
-    "description": "<p><h3>Descrição do Cargo </h3> <p>Estamos em busca de um Funileiro para integrar nossa equipe na Honda Forte Norte, localizada em São Paulo, SP. As responsabilidades do cargo incluem a execução de reparos em chapas metálicas de veículos, alinhamento de estruturas, recuperação de peças danificadas e preparação para pintura. O profissional será responsável por garantir a qualidade e o acabamento dos serviços realizados, cumprindo os prazos estabelecidos. Este é um cargo de tempo integral com atividades presenciais. </p> <h3>Qualificações </h3> <ul> <li>Procedimentos de Funilaria: Conhecimento em técnicas de reparação e alinhamento em chapas metálicas, desmontagem e montagem de peças de veículos. </li> <li>Ferramentas e Equipamentos: Domínio no uso de ferramentas como lixadeiras, martelos de funileiro, solda e outros equipamentos necessários para executar reparos. </li> <li>Qualidade: Habilidade em realizar acabamentos com precisão, garantindo altos padrões de qualidade nos serviços prestados. </li> <li>Diferenciais: Vivência no setor automobilístico, cursos técnicos, experiência em veículos Honda e conhecimento em normas de segurança. </li>  </ul> </p> #J-18808-Ljbffr",
-    "company": "Honda Forte Norte",
-    "city": "são paulo",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9810877__1953_d85b5ead8abc8a85d4e837ff44bbcd01?utm_source=1953&utm_medium=feed&keyword=Funileiro&location=são-paulo&geoID=25"
-  },
-  {
-    "title": "Técnico em manutenção plataforma elevatória",
-    "description": "<p><h3>Técnico em manutenção plataforma elevatória </h3> <p>Contato:   |   </p> <p>Administradora Comercial e Financeiro | Faturamento, Contas a Pagar, Nota fiscal </p> <ul> <li>Experiência mínima de 2 anos em equipamentos pesados </li> <li>Formação profissionalizante/técnica </li> <li>Disponibilidade para viagens </li> <li>CNH B obrigatória </li>  </ul> <p><b>Salário compatível com a função, plano de saúde, VT ou auxílio combustível e VR atrativo. </b> </p> <p>Localização: Alvorada, Rio Grande do Sul, Brazil </p> <p>Salário: R$2,000.00 - R$2,400.00 </p> </p> #J-18808-Ljbffr",
-    "company": "Priority Rental",
-    "city": "gravataí",
-    "state": "rio grande do sul",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9811005__1953_c99e778b0e15eb84c9f01b6b47c994b9?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-em-manuten%C3%A7%C3%A3o&location=gravataí&geoID=3492"
-  },
-  {
-    "title": "Analista de Marketing Digital – Conteúdo e Performance (Sênior)",
-    "description": "<p><h3>Analista de Marketing Digital – Conteúdo e Performance (Sênior) </h3> <p>A PROLUNO é uma startup de ensino à distância, fundada em 2017, que permite aos professores criar conteúdos de qualidade de forma simples, sem sair de casa. Com quase 1.000 professores cadastrados, a empresa acredita que a educação é o maior ativo de um indivíduo e busca gerar oportunidades, eliminando barreiras geográficas e tecnológicas entre professores e alunos. </p> <p><b>Responsabilidades : </b> </p> <ul> <li>Planejar, produzir e revisar conteúdos para redes sociais. </li> <li>Criar roteiros, gravar e editar vídeos (reels, shorts e conteúdos para redes sociais). </li> <li>Desenvolver conteúdos estratégicos alinhados à jornada do cliente e aos objetivos comerciais. </li> <li>Manter consistência de linguagem e identidade da marca em todos os canais. </li> <li>Gerar insights estratégicos para melhorar a performance das campanhas e eficiência dos conteúdos. </li> <li>Criar conteúdos que reforcem o valor dos produtos digitais e melhorem a experiência do usuário. </li> <li>Planejar e gerenciar cronogramas de conteúdo e campanhas. </li> <li>Configurar, analisar e ajustar campanhas com base no comportamento do público e dados de performance. </li> <li>Garantir execução de entregas dentro de prazos, padrões de qualidade e metas estabelecidas. </li>  </ul> <p><b>Requisitos : </b> </p> <ul> <li>Ensino superior em Marketing, Publicidade, Comunicação, Administração ou áreas correlatas (cursando ou concluído). </li> <li>Mínimo de 3 anos em Marketing Digital, com foco em <b>produção de conteúdo e performance </b>. </li> <li>Experiência prática em gravação de vídeo e criação de conteúdos digitais. </li>  </ul> <p><b>Competências comportamentais: </b> </p> <ul> <li>Criatividade e iniciativa para criação de conteúdos atrativos. </li> <li>Excelente comunicação verbal e escrita. </li> <li>Organização, atenção aos detalhes e gestão de tempo. </li> <li>Capacidade de trabalhar de forma autônoma e colaborativa. </li> <li>Proatividade, empatia e foco em resultados. </li>  </ul> <p><b>Competências Técnicas: </b> </p> <ul> <li>Domínio de métricas digitais, analytics e relatórios de performance. </li> <li>Gestão de campanhas pagas e estratégias de marketing de conteúdo. </li> <li>Técnicas de gravação, roteiro e produção audiovisual para redes sociais. </li> <li>Habilidade em planejamento estratégico e análise de resultados. </li>  </ul> <p><b>O que oferecemos : </b> </p> <p>Salário e benefícios a combinar. </p> <p>Gostou do desafio? </p> <p>Candidate-se agora mesmo enviando seu currículo. </p> </p> #J-18808-Ljbffr",
-    "company": "PROLUNO",
-    "city": "barueri",
-    "state": "são paulo",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9811248__1953_4087b6a4a0ad50b6e30c133d62dcc375?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=barueri&geoID=1016"
-  },
-  {
-    "title": "Técnico de Enfermagem do Trabalho",
-    "description": "<p><h3>Descrição da Vaga </h3> <p>Desempenhar atividades técnicas de enfermagem na área de saúde ocupacional, em conformidade com as boas práticas, normas e procedimentos de biossegurança. </p> <p>Tipo da oportunidade: Emprego </p> <p>Cidade: São João del Rei </p> <p>Área de atuação: Enfermagem do Trabalho </p> <h3>Requisitos </h3> <ul> <li><b>VAGA: Técnico de Enfermagem do Trabalho </b> </li> <li>ATIVIDADES: Desempenhar atividades técnicas de enfermagem na área de saúde ocupacional, em conformidade com as boas práticas, normas e procedimentos de biossegurança. </li> <li>REQUISITOS: Formação Técnica em Enfermagem. </li> <li>DESEJÁVEL: Curso de Enfermagem do Trabalho. </li> <li>REMUNERAÇÃO: A combinar. </li> <li>Currículos somente pelo link  </li> <li>Código da vaga: #25046 </li> <li>Outras vagas também no Rede de Vagas. </li>  </ul> <p>Atualmente não existem itens nessa pasta. </p> </p> #J-18808-Ljbffr",
-    "company": "Ifsudestemg",
-    "city": "são joão del-r i",
-    "state": "minas gerais",
-    "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9811254__1953_a9be686e19c49662bb57c8ee5a0ffec3?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-Enfermagem&location=são-joão-del-r-i&geoID=13"
-  },
-  {
     "title": "DIVISÃO COMÉRCIO DO GRUPO ÁGUIA BRANCA ter, 10/fevereiro Auxiliar Mecânico - Rio Verde/GO Rio V[...]",
     "description": "<p><p><b>Horário: </b> De segunda à sexta, das 8h às 18h com 2h de almoço | Sábado das 08h às 12h </p> <p><b>Regime de contratação: </b> Efetivo – CLT </p> <h3>Responsabilidades </h3> <ul> <li>Auxiliar na execução de revisões periódicas, conforme checklist técnico; </li> <li>Auxiliar na inspeção visual e funcional de componentes; </li> <li>Auxiliar na troca de itens de desgaste, como filtros, óleo, correias, entre outros; </li> <li>Identificar e registrar não conformidades; </li> <li>Realizar leitura e interpretação de manuais técnicos; </li> <li>Preencher relatórios e ordens de serviço; </li> <li>Executar alinhamento e balanceamento; </li> <li>Prestar suporte ao técnico mecânico sempre que necessário. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ensino médio completo; </li> <li>Experiência com revisões e manutenção preventiva; </li> <li>Curso técnico na área será considerado um diferencial; </li> <li>Noções básicas de mecânica; </li> <li>Utilização de ferramentas manuais e instrumentos de medição. </li>  </ul> <p>Assistência médica Assistência odontológica Auxílio academia Previdência privada Seguro de Vida Vale-refeição Vale-transporte </p> </p> #J-18808-Ljbffr",
     "company": "Águia Branca",
@@ -4155,7 +3993,7 @@
     "city": "rio de janeiro",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825269__1953_5287bfe2fa202f38101c39cf4b76af24?utm_source=1953&utm_medium=feed&keyword=ASSISTENTE-DE-RELACIONAMENTO&location=rio-de-janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825269__1953_96cf0f4adaae11332490ff1800e946ed?utm_source=1953&utm_medium=feed&keyword=ASSISTENTE-DE-RELACIONAMENTO&location=rio-de-janeiro&geoID=19"
   },
   {
     "title": "Auxiliar de Marketing - Afiliados",
@@ -4164,7 +4002,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825290__1953_18106e56a680b1f30c4608e9cce218b5?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Marketing&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825290__1953_c8aac32f911fe1caa3ef9224cb9097c2?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Marketing&location=são-paulo&geoID=25"
   },
   {
     "title": "[Banco de Talentos] Assistente de Atendimento | Colégio pH Rio de Janeiro Talent pool",
@@ -4173,7 +4011,7 @@
     "city": "rio de janeiro",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825299__1953_e25db3e0dc6ef3702aa4d4ad37396084?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=rio-de-janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825299__1953_c98fe1106a6d534378c8d617b5b5ddb0?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=rio-de-janeiro&geoID=19"
   },
   {
     "title": "Recepcionista - IPATINGA",
@@ -4182,7 +4020,7 @@
     "city": "ipatinga",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825318__1953_53c70ce1cd5188bed96aa6bccf617450?utm_source=1953&utm_medium=feed&keyword=Recepcionista-IPATINGA&location=ipatinga&geoID=3960"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825318__1953_a67ca9668a55c0d639404dacca15602b?utm_source=1953&utm_medium=feed&keyword=Recepcionista-IPATINGA&location=ipatinga&geoID=3960"
   },
   {
     "title": "Promotor de vendas",
@@ -4191,7 +4029,7 @@
     "city": "goiânia",
     "state": "goiás",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825319__1953_f8bac68bcd88c5b3ab910b6756531401?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=goiânia&geoID=3432"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825319__1953_d7a18f60382932b2a744a19c93bbe0ab?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=goiânia&geoID=3432"
   },
   {
     "title": "PROMOTOR(A) DE VENDAS - FREELANCER - BELEM -PA",
@@ -4200,7 +4038,7 @@
     "city": "belém",
     "state": "pará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825324__1953_594331c4f1a518ad80a519d76ad42be1?utm_source=1953&utm_medium=feed&keyword=PROMOTOR-DE-VENDAS&location=belém&geoID=1072"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825324__1953_5208b018dc778f7d72f589a60f26943e?utm_source=1953&utm_medium=feed&keyword=PROMOTOR-DE-VENDAS&location=belém&geoID=1072"
   },
   {
     "title": "Analista de Marketing Pleno (Promocional) - Netshoes",
@@ -4209,7 +4047,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825329__1953_14b6a7324e0024bea95048528df05dd5?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825329__1953_2e332661a50577efbcce00fb3d58f9be?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=são-paulo&geoID=25"
   },
   {
     "title": "Analista de Recursos Humanos",
@@ -4218,7 +4056,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825340__1953_ee6d7bc70e29c6d51c990c995526e880?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recursos&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825340__1953_e0bbe2782bbd4a4713e839fe7dae0b25?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recursos&location=são-paulo&geoID=25"
   },
   {
     "title": "Promotor de Vendas - Região de atuação: Tapajos, Baixo Amazonas e Xingú",
@@ -4227,7 +4065,7 @@
     "city": "altamira",
     "state": "pará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825367__1953_27c8294b199902eac6d1413992c5b974?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=altamira&geoID=252"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825367__1953_2e8d93876de568a396ee2577daf2808e?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=altamira&geoID=252"
   },
   {
     "title": "Recepcionista",
@@ -4236,7 +4074,7 @@
     "city": "são josé do rio preto",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825387__1953_ecaae54c15b1985439db9ec4ab427c5f?utm_source=1953&utm_medium=feed&keyword=Recepcionista&location=são-josé-do-rio-preto&geoID=8311"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825387__1953_74cfd0fd5987bbc036eb6c3d52df27a1?utm_source=1953&utm_medium=feed&keyword=Recepcionista&location=são-josé-do-rio-preto&geoID=8311"
   },
   {
     "title": "Analista de Recrutamento e Seleção Pleno",
@@ -4245,7 +4083,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825393__1953_952d95037bedf487416215eac9f28021?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recrutamento&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825393__1953_2ac1fa428a7683fba9af74006cabe64e?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recrutamento&location=são-paulo&geoID=25"
   },
   {
     "title": "ANALISTA DE RECURSOS HUMANOS",
@@ -4254,7 +4092,7 @@
     "city": "brasília",
     "state": "distrito federal",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825401__1953_f8e558daff105d1a294238423bb5ad61?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-RECURSOS&location=brasília&geoID=1366"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825401__1953_f8d4ef0cd19c3e2e207b79f6c29d0943?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-RECURSOS&location=brasília&geoID=1366"
   },
   {
     "title": "Estágio em Crédito",
@@ -4263,7 +4101,7 @@
     "city": "jundiaí",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825403__1953_4446cad40a1a4adf74984f36e4567bf9?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-Cr%C3%A9dito&location=jundiaí&geoID=4621"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825403__1953_69a384ba7339f703aabda7971dd35866?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-Cr%C3%A9dito&location=jundiaí&geoID=4621"
   },
   {
     "title": "Assistente de Departamento Pessoal",
@@ -4272,7 +4110,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825413__1953_8a6f2dec84c8751df567f4edb311c3f0?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825413__1953_3610a9884b3c12f0cddbd78276951582?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=são-paulo&geoID=25"
   },
   {
     "title": "Analista de Marketing e Comunicação",
@@ -4281,7 +4119,7 @@
     "city": "belo horizonte",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825428__1953_e55f40aa19e59f6f82fe73c07bb629c3?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=belo-horizonte&geoID=1086"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825428__1953_72424f99869c66c54550850c6f125f04?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=belo-horizonte&geoID=1086"
   },
   {
     "title": "Analista de Recrutamento e Seleção SR",
@@ -4290,7 +4128,7 @@
     "city": "rio de janeiro",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825470__1953_092d3094927fe7a12480aa0ea786a3b8?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recrutamento&location=rio-de-janeiro&geoID=19"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825470__1953_52c1f28990208f530a820e3f603e8bb0?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recrutamento&location=rio-de-janeiro&geoID=19"
   },
   {
     "title": "Eletromecânico",
@@ -4299,7 +4137,7 @@
     "city": "medianeira",
     "state": "paraná",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825505__1953_7449af8ab3f132f9ce160ebc84d7fd07?utm_source=1953&utm_medium=feed&keyword=Eletromec%C3%A2nico&location=medianeira&geoID=5312"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825505__1953_98eecbb42864a96281dce8a2dc3f4edb?utm_source=1953&utm_medium=feed&keyword=Eletromec%C3%A2nico&location=medianeira&geoID=5312"
   },
   {
     "title": "Mecânico",
@@ -4308,7 +4146,7 @@
     "city": "tabapuã",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825524__1953_bf5acc39fbc36f347585487ec33da5ae?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico&location=tabapuã&geoID=8900"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825524__1953_ba6164325aae0f8178d4275cf575ae17?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico&location=tabapuã&geoID=8900"
   },
   {
     "title": "Promotor de Vendas Bauru SP",
@@ -4317,7 +4155,7 @@
     "city": "bauru",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9825548__1953_e02dd7bb5b320303268bb9a3bf178ded?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=bauru&geoID=1040"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9825548__1953_21e4d4d9ed9707acbd18b72027dd38d3?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=bauru&geoID=1040"
   },
   {
     "title": "Recepcionista clinica shopping iguatemi campinas",
@@ -8466,7 +8304,7 @@
     "city": "catanduva",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840267__1953_ff6e619c4cc1531626040ac28c7cd17f?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-Eletricista-Diesel&location=catanduva&geoID=2104"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840267__1953_bf708041889c7c33dcbc2c25a3a32709?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-Eletricista-Diesel&location=catanduva&geoID=2104"
   },
   {
     "title": "DOCENTE - MEDICINA VETERINÁRIA",
@@ -8475,7 +8313,7 @@
     "city": "brasília",
     "state": "região centro- este",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840329__1953_e09df7c63bd78130531fa09f83cb5b9d?utm_source=1953&utm_medium=feed&keyword=DOCENTE-MEDICINA&location=brasília&geoID=1366"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840329__1953_de95388173e64e8d922efd5ec9fa1966?utm_source=1953&utm_medium=feed&keyword=DOCENTE-MEDICINA&location=brasília&geoID=1366"
   },
   {
     "title": "AUXILIAR ESTOQUE - PCD",
@@ -8484,7 +8322,7 @@
     "city": "serra",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840331__1953_65d8f7a426a2563c0d9d9b046fd04983?utm_source=1953&utm_medium=feed&keyword=AUXILIAR-ESTOQUE&location=serra&geoID=8678"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840331__1953_94f300b7d08caf9903f24ec82f2dc6a6?utm_source=1953&utm_medium=feed&keyword=AUXILIAR-ESTOQUE&location=serra&geoID=8678"
   },
   {
     "title": "Advogado em Osasco, SP",
@@ -8493,7 +8331,7 @@
     "city": "osasco",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840332__1953_76712225213f42beda0376d8c61951bb?utm_source=1953&utm_medium=feed&keyword=Advogado-em-Osasco&location=osasco&geoID=6050"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840332__1953_b9625440487d9238462f9d8a5f202bb9?utm_source=1953&utm_medium=feed&keyword=Advogado-em-Osasco&location=osasco&geoID=6050"
   },
   {
     "title": "Farmacêutico(a) - Olinda",
@@ -8502,7 +8340,7 @@
     "city": "olinda",
     "state": "pernambuco",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840335__1953_b6ee461b852eac76279ddd14c2e09498?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico-Olinda&location=olinda&geoID=6017"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840335__1953_2ba944c320df8ed91ca4f4e8575aeb3f?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico-Olinda&location=olinda&geoID=6017"
   },
   {
     "title": "Banco De Talentos - Eletricista de Manutenção Industrial Portobello",
@@ -8511,7 +8349,7 @@
     "city": "tijucas",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840379__1953_b4674bda900280ae16e7cdeb55310253?utm_source=1953&utm_medium=feed&keyword=Banco-De-Talentos&location=tijucas&geoID=9116"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840379__1953_320ed0dcb478a760149b6dce32e05db9?utm_source=1953&utm_medium=feed&keyword=Banco-De-Talentos&location=tijucas&geoID=9116"
   },
   {
     "title": "Recepcionista – Clínica Odontológica – Tatuapé – Zona Leste/SP",
@@ -8520,7 +8358,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840562__1953_cfcfe8a73650ddb4fdc2f9d878a1f95c?utm_source=1953&utm_medium=feed&keyword=Recepcionista-Cl%C3%ADnica&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840562__1953_a1640b05ec56a6a733df8f969e59111f?utm_source=1953&utm_medium=feed&keyword=Recepcionista-Cl%C3%ADnica&location=são-paulo&geoID=25"
   },
   {
     "title": "Analista de Marketing Digital JR",
@@ -8529,7 +8367,7 @@
     "city": "vargem grande paulista",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840575__1953_07c9677fad2efe6efef90388c96655bb?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=vargem-grande-paulista&geoID=9467"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840575__1953_56da045a99bc90a5c798cf8a5a7f261f?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=vargem-grande-paulista&geoID=9467"
   },
   {
     "title": "AUXILIAR DE LABORATÓRIO",
@@ -8538,7 +8376,7 @@
     "city": "florianópolis",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840586__1953_5f503141c9c6c5f270a07aa151d1a531?utm_source=1953&utm_medium=feed&keyword=AUXILIAR-DE-LABORAT%C3%93RIO&location=florianópolis&geoID=3237"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840586__1953_3bfda3c2f47e331f1b0b54eaa47a9d70?utm_source=1953&utm_medium=feed&keyword=AUXILIAR-DE-LABORAT%C3%93RIO&location=florianópolis&geoID=3237"
   },
   {
     "title": "Mecânico(a) Ajustador(a)",
@@ -8547,7 +8385,7 @@
     "city": "porto feliz",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840590__1953_e01bae3a69d0e1485cbe15395eedc981?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-Ajustador&location=porto-feliz&geoID=6905"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840590__1953_85e6a8b78ce3fd7c8192692e5d22cf58?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-Ajustador&location=porto-feliz&geoID=6905"
   },
   {
     "title": "Farmacêutico(a) - Arraial do Cabo",
@@ -8556,7 +8394,7 @@
     "city": "arraial do cabo",
     "state": "rio de janeiro",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840606__1953_bec25b435c3d74b27473fe19f4716580?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico-Arraial&location=arraial-do-cabo&geoID=687"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840606__1953_8de6a5cab5e4b36db74f338ac81b4450?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico-Arraial&location=arraial-do-cabo&geoID=687"
   },
   {
     "title": "Supervisor de SAC/presencial/Tianguá (Banco de talentos)",
@@ -8565,7 +8403,7 @@
     "city": "tianguá",
     "state": "ceará",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840610__1953_fd74fefac223fd383f9d0002771e56de?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-SAC-presencial-Tiangu%C3%A1&location=tianguá&geoID=9104"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840610__1953_b1dc1ac7fedbacee726f4fa3a2a85de6?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-SAC-presencial-Tiangu%C3%A1&location=tianguá&geoID=9104"
   },
   {
     "title": "Técnico em Cabeamento e Infraestrutura de Rede",
@@ -8574,7 +8412,7 @@
     "city": "blumenau",
     "state": "santa catarina",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840613__1953_7bbabb2a0b5cbe8267563fbcaabfb99a?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-em-Cabeamento&location=blumenau&geoID=1151"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840613__1953_40e61706d4c8b768a04b0ef012be1500?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-em-Cabeamento&location=blumenau&geoID=1151"
   },
   {
     "title": "Analista de Suporte e Implantação de Sistemas – Licitações/Compras",
@@ -8583,7 +8421,7 @@
     "city": "porto alegre",
     "state": "rio grande do sul",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840619__1953_4b327316def4f22537251243a4cb56f3?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=porto-alegre&geoID=6880"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840619__1953_ddfa4cce4dbfaef7450cd07c8ba903ac?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=porto-alegre&geoID=6880"
   },
   {
     "title": "Analista de Suporte JR | SQL Bancos",
@@ -8592,7 +8430,7 @@
     "city": "são paulo",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840630__1953_6febe350f0e6b544631b692942840b69?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=são-paulo&geoID=25"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840630__1953_046a5fad72e7b83ce9e48717c17ee984?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=são-paulo&geoID=25"
   },
   {
     "title": "Farmacêutico",
@@ -8601,7 +8439,7 @@
     "city": "guarujá",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840633__1953_30425922b6a0f54fd990c2c7455841cf?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico&location=guarujá&geoID=3610"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840633__1953_579537e5849d90b71df04bfdcba2976f?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico&location=guarujá&geoID=3610"
   },
   {
     "title": "DIVISÃO COMÉRCIO DO GRUPO ÁGUIA BRANCA qua, 19/novembro Técnico Mecânico - Ipatinga/MG Ipatinga[...]",
@@ -8610,7 +8448,7 @@
     "city": "ipatinga",
     "state": "minas gerais",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840636__1953_9e3d0565491a638d0e2669f5c9648c0f?utm_source=1953&utm_medium=feed&keyword=DIVIS%C3%83O-COM%C3%89RCIO-DO&location=ipatinga&geoID=3960"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840636__1953_7cc10ce6716aba03ff2b9029f35a761d?utm_source=1953&utm_medium=feed&keyword=DIVIS%C3%83O-COM%C3%89RCIO-DO&location=ipatinga&geoID=3960"
   },
   {
     "title": "Vitória Motors BYD ter, 02/dezembro Técnico Mecânico - Cachoeiro de Itapemirim/ES Cachoeiro de [...]",
@@ -8619,7 +8457,7 @@
     "city": "cachoeiro de itapemirim",
     "state": "espírito santo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840646__1953_4221573f14ca798c6d40df37499c32df?utm_source=1953&utm_medium=feed&keyword=Vit%C3%B3ria-Motors-BYD&location=cachoeiro-de-itapemirim&geoID=1541"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840646__1953_97c9d416380ac604fd492d66ea06a9f2?utm_source=1953&utm_medium=feed&keyword=Vit%C3%B3ria-Motors-BYD&location=cachoeiro-de-itapemirim&geoID=1541"
   },
   {
     "title": "Consultor Comercial - Escritório de Advocacia",
@@ -8628,7 +8466,7 @@
     "city": "brasília",
     "state": "distrito federal",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840691__1953_b343f28695c0c15a81934fd7ac1810db?utm_source=1953&utm_medium=feed&keyword=Consultor-Comercial&location=brasília&geoID=1366"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840691__1953_0766b3aff0785c26fa3fb82e29c0d394?utm_source=1953&utm_medium=feed&keyword=Consultor-Comercial&location=brasília&geoID=1366"
   },
   {
     "title": "Analista de suporte de sistemas",
@@ -8637,7 +8475,7 @@
     "city": "piracicaba",
     "state": "são paulo",
     "tipo": "",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_9840707__1953_5aeca43d180036eb498f8ee19efb5a68?utm_source=1953&utm_medium=feed&keyword=Analista-de-suporte&location=piracicaba&geoID=6672"
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9840707__1953_f8e12d5d0c1f9b28ee9670aeb29a1e1c?utm_source=1953&utm_medium=feed&keyword=Analista-de-suporte&location=piracicaba&geoID=6672"
   },
   {
     "title": "Montador(a) de Instrumentos de Precisão",
@@ -8998,5 +8836,167 @@
     "state": "pará",
     "tipo": "",
     "url": "https://br.whatjobs.com/coopob__cpl___70_9841085__1953_9da310c2a29c07fb18d31658addf2c91?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=marabá&geoID=5105"
+  },
+  {
+    "title": "Analista de Marketing Sênior - Conteúdo Jurídico",
+    "description": "<p><h3>Resumo </h3> <p>Santos e Santana Advogados busca um(a) Analista de Marketing Sênior com experiência em redação de conteúdo jurídico e estratégias de comunicação voltadas para o setor legal. Se você é apaixonado(a) por escrever, tem visão estratégica e deseja atuar em um ambiente dinâmico e inovador, essa vaga é para você! </p> <h3>Responsabilidades </h3> <ul> <li>Criar e revisar conteúdos jurídicos para diferentes canais (site, redes sociais, newsletters, apresentações, artigos e materiais institucionais). </li> <li>Elaborar estratégias de Copywriting voltadas para o setor jurídico, garantindo clareza, persuasão e adequação ao público-alvo. </li> <li>Apoiar na gestão de rankings jurídicos e premiações, incluindo redação de submissões e materiais de posicionamento. </li> <li>Planejar, conjuntamente com a agência de marketing, campanhas de marketing digital com foco em branding e geração de leads. </li> <li>Colaborar com equipes internas para alinhar comunicação e identidade visual. </li> <li>Monitorar métricas de engajamento e propor melhorias contínuas. </li> <li>Garantir conformidade com práticas éticas e regulatórias do setor jurídico. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Formação em Jornalismo, Marketing, Publicidade ou Direito. </li> <li>Experiência comprovada em marketing jurídico ou atuação em escritórios de advocacia. </li> <li>Excelente redação técnica e criativa. </li> <li>Conhecimento em Legal Marketing e Visual Law. </li> <li>Inglês avançado (diferencial). </li>  </ul> <h3>O que oferecemos </h3> <ul> <li>Vale refeição / Vale Alimentação </li> <li>Plano de Saúde e Odontológico </li> <li>Day-off no dia do aniversário </li>  </ul> <h3>Informações adicionais </h3> <ul> <li>Local: Vila Olimpia, São Paulo/SP </li> <li>Remuneração: Compatível com mercado </li>  </ul> <p><strong>Interessados, enviar CV com pretensão salarial para:   </strong> </p> <p><strong>Assunto: Analista de Marketing Sênior - Conteúdo Jurídico </strong> </p> </p> #J-18808-Ljbffr",
+    "company": "Santos e Santana Advogados",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841089__1953_8f1b0025d12ef1ddf06890cce32ad1a8?utm_source=1953&utm_medium=feed&keyword=Analista-de-Marketing&location=são-paulo&geoID=25"
+  },
+  {
+    "title": "CEDUS sex, 09/janeiro ASSISTENTE DE ATENDIMENTO - Recepção / Ultrassom Belo Horizonte, MG, BR P[...]",
+    "description": "<p><h3>ASSISTENTE DE ATENDIMENTO - Recepção / Ultrassom - UNIDADE BARRO PRETO </h3> <ul><li>Belo Horizonte, MG, BR (1 Vaga) </li> </ul> <p>Atualizada recentemente </p> <h3>Descrição e Responsabilidades </h3> <ul> <li>Prestar serviços de atendimento ao paciente na recepção e/ou em sala de exames de ultrassom. </li> <li>Executar corretamente procedimentos de segurança do paciente. </li> <li>Preencher corretamente o TMA. </li> <li>Acolher o paciente e realizar o cadastro no sistema. </li> <li>Solicitar autorização de atendimento nos convênios e preencher corretamente as guias para faturamento. </li> <li>Receber pagamento dos exames particulares, preencher documento de desconto e fechar corretamente o caixa. </li> <li>Disponibilizar Nota Fiscal ao paciente para atendimentos particulares. </li> <li>Realizar marcações, transferências e cancelamentos de exames quando necessário. </li> <li>Checar, antecipadamente, todos os materiais e equipamentos utilizados para atendimentos na sala de exames de US. </li> <li>Posicionar o paciente na maca para realização dos exames. </li> <li>Digitar o laudo conforme orientação médica. </li> <li>Inserir e retirar equipamentos nos exames cardiológicos, importando corretamente os dados para os sistemas. </li> <li>Disponibilizar pesquisa de satisfação ao paciente. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Escolaridade: Ensino Médio completo. </li> <li>Conhecimento e capacidade técnica. </li> <li>Pacote Office Básico (Excel e Word) (teste prático). </li> <li>Experiência com atendimento ao cliente. </li> <li>Experiência em atendimento em serviços de medicina diagnóstica por imagem. </li> <li>Conhecimento do sistema Clinux. </li> <li>Habilidades com digitação e escrita (teste prático). </li>  </ul> <h3>Benefícios </h3> <ul> <li>Assistência médica </li> <li>Assistência odontológica </li> <li>Day Off </li> <li>Vale-transporte </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "CEDUS - Centro Avançado em Diagnósticos",
+    "city": "belo horizonte",
+    "state": "minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841109__1953_c9b13763824ab999bbefa20c1f668e32?utm_source=1953&utm_medium=feed&keyword=CEDUS-sex-09-janeiro&location=belo-horizonte&geoID=1086"
+  },
+  {
+    "title": "Recepcionista",
+    "description": "<p><p>ser o cartão de visitas da empresa, recebendo, orientando e direcionando visitantes e clientes, controlando o fluxo de pessoas, atendendo telefones e gerenciando correspondências, além de realizar tarefas administrativas como agendamentos e organização, sempre com postura profissional, simpatia e eficiência para criar uma ótima primeira impressão </p><h3>Responsabilidades </h3><ul><li>Receber, cumprimentar e direcionar visitantes e clientes para os setores ou pessoas corretas. </li><li>Atender chamadas telefônicas, anotar recados, transmitir mensagens e responder e-mails/WhatsApp. </li><li>Registrar visitantes e telefonemas, fornecer informações básicas sobre a empresa e agendar compromissos/reuniões. </li><li>Manter a área da recepção limpa e organizada, controlar a entrada e saída de pessoas e gerenciar correspondências e documentos. </li><li>Auxiliar em tarefas como arquivamento, cópias, controle de materiais de escritório e organização de eventos/reuniões. </li><li>Gerenciar agendamentos e atender telefones de forma profissional. </li><li>Utilizar sistemas de computador e software de escritório. </li><li>Lidar com múltiplas tarefas, mantendo uma atitude cordial e proativa. </li><li>Comunicar-se de forma eficaz e resolver problemas, mesmo sob pressão. </li> </ul><h3>Competências e Qualificações </h3><ul><li>Boa comunicação e relacionamento interpessoal. </li><li>Organização e gestão de tempo. </li><li>Paciência, calma e inteligência emocional para lidar com diferentes situações. </li><li>Conhecimentos de informática. </li><li>Proatividade e senso de prioridade. </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "LONGITUDE INCORPORACAO & URBANISMO LTDA",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841124__1953_8bed52c871674950e176de951539583c?utm_source=1953&utm_medium=feed&keyword=Recepcionista&location=são-paulo&geoID=25"
+  },
+  {
+    "title": "Supervisor de Vendas - Call Center",
+    "description": "<p><h3>Quem somos? </h3> <p>Responsáveis por conquistas pessoais, crescimentos profissionais e realizações de sonhos a Âncora busca sempre ajudar e inovar, priorizando aquilo que mais prezamos em nossa cultura: ética, evolução e empatia. </p> <h3>Seus desafios: </h3> <ul> <li>Supervisionar e acompanhar o desempenho dos operadores de vendas; </li> <li>Garantir o atingimento de metas individuais e coletivas; </li> <li>Realizar feedbacks constantes (individuais e coletivos); </li> <li>Identificar necessidades de capacitação; </li> <li>Estimular o engajamento e o espírito de equipe; </li> <li>Monitorar indicadores de performance (taxa de conversão, ticket médio, absenteísmo, etc); </li> <li>Analisar dados e propor planos de ação para melhoria de desempenho; </li> <li>Identificar oportunidades de melhoria nos scripts e abordagens de vendas; </li> <li>Garantir o cumprimento das políticas e padrões de qualidade no atendimento; </li> <li>Monitorar ligações e avaliar a postura comercial dos operadores; </li> <li>Corrigir eventuais desvios de conduta, qualidade ou processos; </li> <li>Controlar escalas, pausas, horas extras e ausências; </li> <li>Apoiar na integração de novos colaboradores. </li>  </ul> <h3>O que procuramos? </h3> <ul> <li>Ensino superior ou cursando em Administração, ou áreas relacionadas; </li> <li>Experiência anterior com liderança, supervisão ou gestão de equipe; </li> <li>Domínio de técnicas de vendas/negociação; </li> <li>Noções de indicadores (KPIs); </li> <li>Conhecimento em excel e relatórios de acompanhamento, </li> <li>Liderança, pró atividade e senso de responsabilidade; </li> <li>Boa comunicação e empatia; </li> <li>Capacidade de motivar e desenvolver pessoas; </li> <li>Vaga<b>PRESENCIAL </b> em <b>Franca - SP. </b> </li>  </ul> <h3>O que oferecemos? </h3> <ul> <li>Salário fixo + bonificação; </li> <li>Vale alimentação CAJU + (benefício que inclui apoio psicológico e nutricional para os colaboradores); </li> <li>Vale transporte; </li> <li>Convênio médico; </li> <li>Convênio odontológico; </li> <li>Convênio farmácia; </li> <li>Convênio com faculdades e escolas de inglês; </li> <li>Seguro de vida; </li> <li>Wellhub (Gympass); </li> <li>Day off no aniversário; </li> <li>PLR (participação nos lucros e resultados); </li> <li>Convênio SESC; </li> <li>Projeto Evoluir (ajuda financeira para autodesenvolvimento dos colaboradores); </li> <li>Desconto na aquisição de uma carta de consórcio. </li>  </ul> <p>Faça parte de uma das melhores empresas para se trabalhar! <b>#VenhaSerÂncora </b> </p> </p> #J-18808-Ljbffr",
+    "company": "ANCORA ADMINISTRADORA DE CONSORCIOS S.A.",
+    "city": "franca",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841146__1953_9989413dd6022680fcedf8901b8c41d3?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Vendas&location=franca&geoID=3279"
+  },
+  {
+    "title": "Aprendiz Administrativo",
+    "description": "<p><p>1 posição </p><p>Não informado </p><p>Elegível para PCD </p><p>Com experiência em gestão de negócios, desde 1955, <b>a WLM </b> atua no segmento automotivo e no agronegócio. </p><p>O principal foco dos negócios da WLM é a comercialização de produtos e serviços da marca <b>Scania </b>, como caminhões pesados e extrapesados, chassis para ônibus rodoviários e urbanos, venda de peças genuínas, na prestação de serviços de manutenção corretiva e preventiva e assistência técnica especializada. </p><p>No segmento de <b>concessionárias Scania </b>, a WLM está presente em mais 20 pontos do país, atendendo a 06 estados diferentes, sendo <b>Equipo - RJ, Itaipu - MG, Itaipu Norte - PA, Quinta Roda - SP e Supermac - AM e RR. </b> </p><p>No segmento do <b>agronegócio </b>, por meio de suas controladas <b>Fartura (Sul do Pará) </b> e <b>Itapura (Norte do Mato Grosso, Sul de Minas e região de Campinas/SP) </b>, a WLM atua nas atividades de cria, recria e engorda de bovinos e produção e comercialização de café, soja e milho. Com grande preocupação pela conservação do meio ambiente, as atividades produtivas são executadas visando as melhores práticas de preservação da fauna e flora nativas e cuidados com as águas e o solo. </p><p>Em 2025, a WLM anunciou a aquisição de 60% da <b>CHP Brasil </b>, empresa referência em geração distribuída e eficiência energética. </p><p>Com essa aquisição, a WLM amplia sua presença estratégica, diversifica seu portfólio e dá um passo significativo em direção ao futuro, reforçando seu compromisso com a sustentabilidade e a criação de novas oportunidades de negócio no setor de energia. </p><p>A localização estratégica das unidades permite uma atuação com abrangente cobertura geográfica, garantindo presteza, qualidade e agilidade no atendimento. </p><p>A sua holding está localizada no Rio de Janeiro e possui uma filial corporativa em Minas Gerais, na Cidade de Contagem. </p><p>Confira as atribuições e vantagens da vaga de <b>APRENDIZ ADMINISTRATIVO </b> abaixo e venha fazer parte desse time de sucesso: </p><p><b>Sua missão: </b> </p><p>Auxilia na execução dos serviços administrativos na área técnica; trata de documentos variados, cumprindo os procedimentos necessários. </p><p><b>Requisitos: </b> </p><p>· Ensino médio em andamento ou concluído. </p><p>· Ter idade entre 16 a 18 anos. </p><p><b>Vantagens/Benefícios: </b> </p><ul><li>Alimentação na empresa </li> </ul><p><b>Horário de trabalho: </b> </p><p>· 25 horas semanais - sendo 7 horas teóricas na Instituição parceira e 18 horas práticas na empresa. </p><h3>Localização </h3><p>Rodovia BR-040, Distrito Industrial, Juiz de Fora - MG, Brasil,   </p> </p> #J-18808-Ljbffr",
+    "company": "WLM Scania",
+    "city": "juiz de fora",
+    "state": "minas gerais",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841167__1953_7ce92a5df63d65d59c98c2d1f789ed56?utm_source=1953&utm_medium=feed&keyword=Aprendiz-Administrativo&location=juiz-de-fora&geoID=4608"
+  },
+  {
+    "title": "Analista de marketing sênior",
+    "description": "<p><h3>Analista de Marketing Pleno - o Boticário - MT </h3> <p><b>Responsabilidades: </b> </p> <ul> <li>Planejar, executar e mensurar eventos com foco na experiência do cliente; </li> <li>Atuar no fortalecimento da marca por meio de mídias (offline e online); </li> <li>Idealizar e monitorar campanhas, a fim de aumentar visibilidade de marca e impulsionar vendas; </li> <li>Realizar interface com agência e assessoria de comunicação, desde o briefing até acompanhamento dos resultados; </li> <li>Colaborar, de forma ativa, com o time Comercial para garantir que as necessidades dos clientes sejam atendidas, bem como desenvolver materiais de suporte para promover produtos e serviços; </li> <li>Gerir brindes e materiais de comunicação em geral; </li> <li>Acompanhar as tendências e inovações no campo do marketing. </li>  </ul> <p><b>Requisitos: </b> </p> <ul> <li>Ensino superior em Comunicação Social, Publicidade e Propaganda, Marketing, Administração e/ou áreas afins; </li> <li>Experiência sólida em branding e planejamento de eventos; </li> <li>Vivência e conhecimento do mercado do Agronegócio será um diferencial; </li> <li>CNH categoria B e disponibilidade para viagens; </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "Agro-Sol Sementes",
+    "city": "cuiabá",
+    "state": "mato grosso",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841174__1953_8429c5519c7e9b23764669825ae96aca?utm_source=1953&utm_medium=feed&keyword=Analista-de-marketing&location=cuiabá&geoID=2659"
+  },
+  {
+    "title": "Assistente de Departamento Pessoal",
+    "description": "<p><h3>Requisitos </h3><ul><li>Formação em andamento nos cursos de Ciências Contábeis, Adm, Gestão de RH ou áreas afins; </li><li>Desejável experiência em Rotinas de DP como: Admissão, Rescisão, Férias, Controle de Jornada, benefícios; </li><li>Será um diferencial conhecimento com RM TOTVS, domínio e Tangerino. </li><li>Disponibilidade para início imediato. </li> </ul><h3>Atividades </h3><ul><li>Atendimento a solicitações dos funcionários no que se refere as informações sobre a folha de pagamento e outros assuntos relacionados com o vínculo empregatício; </li><li>Execução do processo de admissão, auxílio na execução: da folha de pagamento, cálculo de décimo terceiro, férias e rescisões; </li><li>Suporte à processo de folha de pagamento mensal; </li><li>Entre outras atividades da função. </li> </ul><h3>Remuneração </h3><ul><li>Salário compatível com a categoria. </li><li>Benefícios: Vale transporte; Vale refeição (R$29,80 por dia trabalhado); Cestá Básica; PLR, Convênio odontológico; Seguro de Vida e Convênio com SEST/SENAT. </li><li>Horários: Segunda à sexta-feira, das 08:00h às 18:00h. </li> </ul> </p> #J-18808-Ljbffr",
+    "company": "ATUAL CARGAS TRANSPORTES LTDA",
+    "city": "americana",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841191__1953_34262f2c3128acafcf8ba2a17397d7ed?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=americana&geoID=375"
+  },
+  {
+    "title": "ANALISTA DE COMUNICAÇÃO JUNIOR",
+    "description": "<p><h3>Sobre a Dynamox: </h3> <p>Somos uma indústria especializada em soluções tecnológicas para a manutenção preditiva em ativos industriais. O objetivo da nossa solução é transformar a indústria, tornando-a mais segura e mais produtiva que ontem. </p> <p>Ao produzirmos os hardwares e softwares da nossa solução, buscamos apresentar aos nossos clientes e parceiros o porquê de sermos referência em soluções eficientes e eficazes para monitoramento, manutenção e performance de ativos. </p> <p>Além disso, temos orgulho em possuir as certificações das ISOs 9001, 27001, 27018, 27701. Por meio delas, buscamos promover a organização e a estrutura de nossos processos, resultando em um ambiente de trabalho mais organizado e eficiente. </p> <p>Conheça mais sobre nós, visite nosso site. </p> <h3>Atividades do cargo: </h3> <ul> <li>Criar conteúdos relevantes para nosso site, materiais internos e externos, garantindo que nossos clientes estejam bem-informados e capacitados; </li> <li>Revisar materiais com atenção aos detalhes, assegurando clareza, coerência e layout adequado; </li> <li>Desenvolver materiais técnicos que traduzam a usabilidade dos nossos produtos em linguagem acessível e prática; </li> <li>Elaborar roteiros e participar do processo de gravação de vídeos de treinamento, tornando o aprendizado mais interativo e envolvente; </li> <li>Acompanhar e contribuir para a evolução da nossa Central de Ajuda, garantindo que seja um espaço intuitivo e agregador; </li> <li>Produzir conteúdos sobre casos de sucesso com clientes, mostrando o impacto real das nossas soluções; </li> <li>Contribuir e disseminar práticas de segurança de informação e privacidade de dados confidenciais e restritos, no que diz respeito às rotinas do departamento e empresa. </li>  </ul> <h3>Requisitos: </h3> <ul> <li>Utiliza ferramentas como o Pacote Adobe (Illustrator, Photoshop, InDesign) para criar, editar e publicar conteúdos informativos, institucionais ou técnicos, com qualidade visual e clareza na comunicação; </li> <li>Redige textos claros, concisos e persuasivos para diferentes canais de comunicação, como e-mails, comunicados, mídias sociais e outros. </li> <li>Desejável Inglês avançado; </li>  </ul> <h3>Formação: </h3> <ul> <li>Ensino superior em andamento ou concluído em Letras, Publicidade e Propaganda, Jornalismo, Cinema, Marketing ou áreas correlatas; </li>  </ul> <h3>Benefícios: </h3> <ul> <li>Transporte: Vale transporte ou auxílio deslocamento sem desconto em folha; </li> <li>Cartão multi-benefícios: Um cartão flexível, facilitando o uso do vale alimentação/refeição flexível, onde você escolhe como e onde utilizar; </li> <li>Seguro de vida: Seguro de vida global; </li> <li>Plano de Saúde e odontológico: Plano de saúde e odontológico custeado pela empresa após o período de experiência; </li> <li>Convênio SESI: Convênios com Farmasesi e OdontoSesi para garantir seu bem-estar; </li> <li>Saúde e bem-estar: Convênio GoGood, que oferece descontos em academias e atendimento com nutricionistas, psicólogos e outros profissionais de saúde; </li> <li>Cuidados com a ergonomia: Atendimento com fisioterapeuta/osteopata na empresa;  </li><li>Desenvolvimento profissional: Incentivos ao seu desenvolvimento, formações e programas de incentivo a certificações; </li> <li>Incentivos: PLR, gratificação por desempenho e formações; </li> <li>Parcerias: EBAC e Influx; </li> <li>Reconhecimento: Gratificação por tempo de casa conclusão de curso; </li> <li>Conforto e alimentação no escritório: Frutas e café à vontade, além de acesso ao Market4u e Dynamarket; </li> <li>Cultura e clima: Confraternização mensal e ambiente descontraído, sem dress code; </li> <li>Localização: Escritório com uma vista incrível! Estamos situados ao lado do Parque Tecnológico de Florianópolis, no bairro Itacorubi. </li>  </ul> <p>VAGA 100% PRESENCIAL - CLT - 44h- APTA PARA CANDIDATURAS DE PCD </p> </p> #J-18808-Ljbffr",
+    "company": "Dynamox",
+    "city": "florianópolis",
+    "state": "santa catarina",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841209__1953_5171d8c7dca66b0699dd3d9146682b87?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-COMUNICA%C3%87%C3%83O&location=florianópolis&geoID=3237"
+  },
+  {
+    "title": "RECEPCIONISTA - VAGA PARA PESSOA COM DEFICIÊNCIA (PCD) - Guararapes/ PE",
+    "description": "<p><h3>DESCRIÇÃO DA VAGA </h3> <p><b>Atividades </b> Receber clientes, fazer o cadastro, explicar os tipos de plano e Descrição das Atividades. Vender os planos, tirar dúvida a respeito do funcionamento da academia, liberação de catraca. </p> <p>Horário: 6 horas por dia. Horário de trabalho: segunda a sexta 16h às 22h00. </p> <p>Escala: 6x1, reveza o final de semana aos sábado das 08h às 17h e aos domingos das 08h00 às 14h00. </p> <h3>REQUISITOS DA VAGA </h3> <p>Minimo Ensino Médio </p> <h3>BENEFÍCIOS DA VAGA </h3> <p>Vale transporte, seguro de vida, academia e convênio médico depois de 1 ano de empresa. </p> <h3>INFORMAÇÕES ADICIONAIS </h3> <p>Contrato: CLT </p> </p> #J-18808-Ljbffr",
+    "company": "Ser Especial - AAIT",
+    "city": "são paulo",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841225__1953_e7a121c6c5b19ef3bf90ac4df961aa0c?utm_source=1953&utm_medium=feed&keyword=RECEPCIONISTA-VAGA&location=são-paulo&geoID=25"
+  },
+  {
+    "title": "ANALISTA DE RECURSOS HUMANOS",
+    "description": "<p><h3>Vaga para Analista de Recursos Humanos </h3> <p>Localização: Fortaleza - CE </p> <p>Tipo de vaga: Integral, CLT, Presencial </p> <p>Descrição: <b>Analista de Treinamento e Desenvolvimento (T&D) </b> para fortalecer nosso time! O(a) profissional será responsável por planejar, executar e acompanhar programas de capacitação e desenvolvimento, contribuindo para o crescimento contínuo dos nossos colaboradores e o fortalecimento da cultura organizacional. </p> <h3>Principais Atribuições </h3> <ul> <li>Desenvolver, implementar e gerir planos de treinamento e desenvolvimento; </li> <li>Acompanhar o desenvolvimento dos colaboradores e avaliar a efetividade dos treinamentos; </li> <li>Criar materiais de comunicação interna (boletins, newsletters, vídeos e apresentações); </li> <li>Organizar eventos internos (aniversários, confraternizações e palestras); </li> <li>Executar outras atividades inerentes ao setor. </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ensino superior cursando ou concluído em Administração, Psicologia, Recursos Humanos ou área afins; </li> <li>Experiência na área de treinamento e desenvolvimento e comunicação interna; </li> <li>Conhecimento em metodologias de aprendizagem e avaliação de desempenho; </li> <li>Boa comunicação, organização, criatividade, trabalho em equipe; </li> <li>Domínio no Canva e Pacote Office; </li> <li>Disponibilidade para trabalhar de segunda a sexta, das 08h às 18h no Campus Reitoria em Messejana. </li>  </ul> <h3>Habilidade Técnica </h3> <ul> <li>Trabalho em equipe - Avançado </li> <li>Boa comunicação - Avançado </li> <li>Agilidade - Avançado </li> <li>Capacidade de análise - Avançado </li> <li>Creatividade e inovação - Avançado </li> <li>Assistência odontológica </li> <li>Auxilio educação </li> <li>Refeitório </li> <li>Vale alimentação </li> <li>Bolsa incentivo aos estudos </li> <li>Plano de Saúde </li> <li>Acesso às clínicas escolas </li>  </ul> <h3>Localização </h3> <p>BR-116, 9955, Campus Reitoria, Messejana, Fortaleza - CE, Brasil,   </p> </p> #J-18808-Ljbffr",
+    "company": "Uniateneu",
+    "city": "fortaleza",
+    "state": "região nordeste",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841227__1953_b1c3bf43cf7ca9e8f1eb1ac55ea2ecde?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-RECURSOS&location=fortaleza&geoID=3264"
+  },
+  {
+    "title": "Assistente de trade marketing",
+    "description": "<p><p>Estamos em busca de alguém para <b>apoiar o atendimento de contas de varejo </b>, garantindo organização, agilidade e atenção aos detalhes no dia a dia. </p> <p>Você será responsável por <b>organizar check-ins de mídia, atualizar apresentações e relatórios </b>, além de <b>dar suporte no controle de contratos e rotinas administrativas </b>. </p> <p>No dia a dia, você vai: </p> <ul> <li>Participar de reuniões de status e alinhamentos, registrando pautas e follow-ups </li> <li>Realizar check-ins de mídia (planos, veiculações, prazos e prints) </li> <li>Atualizar apresentações, relatórios e mídia kits, a partir de modelos existentes </li> <li>Apoiar processos de contratos, pedidos e faturamento, mantendo os controles em dia </li> <li>Ser uma pessoa organizada, comunicativa e atenta aos detalhes </li> <li>Ter experiência com o pacote <b>Google Workspace </b> (Docs, Sheets e Slides) </li> <li>Gostar de trabalhar em equipe e aprender rápido </li>  </ul> <p>São José dos Pinhais, Paraná, Brazil 2 months ago </p> </p> #J-18808-Ljbffr",
+    "company": "MegaMidia Group",
+    "city": "curitiba",
+    "state": "paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841234__1953_dc59d92baefddbbaaf4fade55ef61498?utm_source=1953&utm_medium=feed&keyword=Assistente-de-trade&location=curitiba&geoID=2691"
+  },
+  {
+    "title": "Assistente de Marketing - Renault Du Nort Manaus/ AM",
+    "description": "<p><p>Somos uma empresa paraense com espírito de liderança e forte presença no Norte, Nordeste e Centro‑Oeste do Brasil. Atuamos nos estados do Pará, Tocantins, Rio Grande do Norte, Maranhão, Amazonas, Acre, Roraima, Rondônia, Mato Grosso, Alagoas, Piauí, Bahia e Sergipe. Nos destacamos pela atuação diversificada nos segmentos de distribuição de automóveis, caminhões, motocicletas, máquinas e implementos agrícolas, além da indústria de cimento e agropecuária. </p> <p>Temos uma oportunidade para Assistente de Marketing. Buscamos um/uma profissional proativo(a), comunicativo(a), organizado(a) e com boa postura profissional. É essencial ter atenção aos detalhes e habilidade para lidar com diferentes demandas de forma ágil para gerenciar, monitorar e responder estrategicamente a todos os canais de reputação online. </p> <h3>Principais Atividades: </h3> <p>Garantir a excelência e o alinhamento da presença digital da Du Nort/Geely nos canais de avaliação e busca (Google Meu Negócio e Reclame Aqui), otimizando a reputação online, a satisfação do cliente e impactando diretamente os indicadores de bonificação da montadora. </p> <h3>1. Gestão de Google Meu Negócio (GMB): </h3> <ol> <li>Monitoramento e resposta diária a todas as avaliações (positivas e negativas) e perguntas nos perfis GMB das lojas Renault e Geely. </li> <li>Otimização constante dos perfis (horários, fotos, serviços, informações de contato) para maximizar a visibilidade nas buscas locais. </li> <li>Geração de posts e ofertas nos perfis GMB para direcionar tráfego e interesse. </li> <li>Análise de performance e criação de relatórios de reputação do GMB. </li>  </ol> <h3>2. Gestão do Reclame Aqui (RA): </h3> <ol> <li>Monitoramento e resposta ágil a todas as reclamações registradas nas páginas da Du Nort/Geely. </li> <li>Elaboração de respostas consultivas e estratégicas, visando a solução do problema e a recuperação da satisfação do cliente. </li> <li>Acompanhamento dos KPIs de resposta (tempo de resposta, índice de solução) para manter a Du Nort/Geely em níveis de excelência. </li>  </ol> <h3>3. Suporte à Comunicação: </h3> <ol> <li>Interface direta com os departamentos de Pós‑Venda, Vendas e Qualidade para obtenção de informações precisas para as respostas nos canais digitais. </li> <li>Mapeamento de tendências e insights retirados das avaliações e reclamações para feedback à equipe de Marketing e Comercial. </li>  </ol> <h3>Requisitos Necessários: </h3> <ol> <li>Cursando em Marketing, Comunicação, Relações Públicas, Jornalismo ou áreas correlatas. </li> <li>Experiência prévia com gestão de mídias sociais ou SAC 2.0/Gestão de Reputação. </li> <li>Excelente comunicação escrita e verbal (a gramática impecável é fundamental). </li> <li>Proatividade, senso de urgência e foco na solução de problemas. </li> <li>Conhecimento básico/intermediário em ferramentas de SEO local (Google Meu Negócio). </li>  </ol> <p>Nas EMPRESAS REVEMAR, você terá toda a estrutura necessária para que possa desenvolver suas habilidades e fazer carreira na área de vendas. Oferecemos treinamentos constantes, acompanhamento e suporte para o seu desenvolvimento profissional e crescimento na empresa. </p> <p>Se você atende aos requisitos descrito nessa oferta de emprego, envie seu currículo para as EMPRESAS REVEMAR e junte-se a nós! Juntos, podemos construir uma carreira de sucesso na área de vendas e fazer a diferença na vida das pessoas. </p> <h3>Venha fazer parte da equipe de vendas das EMPRESAS REVEMAR! </h3> </p> #J-18808-Ljbffr",
+    "company": "Cooperflora",
+    "city": "manaus",
+    "state": "amazonas",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841240__1953_303a09a586e98ab25244f4b7279a8a15?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Marketing&location=manaus&geoID=5053"
+  },
+  {
+    "title": "Assistente de Departamento Pessoal",
+    "description": "<p><h3><b>SOBRE NÓS </b> </h3> <p>Junte-se ao Time da <b>New Line </b> e faça parte de uma equipe dedicada a transformar o setor de segurança com inovação e excelência. </p> <p>Com mais de 30 anos de experiência, somos líderes em soluções tecnológicas, como Alarme Monitorado, Portaria Remota, Vigilância Armada, Controle de Acesso, CFTV e Rastreamento de Veículos. </p> <p>Na New Line, acreditamos que cada colaborador é essencial para o bom funcionamento da empresa. Valorizamos o talento e o desenvolvimento profissional em todas as áreas, oferecendo um ambiente de trabalho colaborativo, respeitoso e acolhedor. </p> <h3><b>Por que trabalhar na New Line? </b> </h3> <ol> <li><b>Cuidado e Respeito: </b> valorizamos cada pessoa da nossa equipe e reconhecemos a importância de quem cuida do nosso ambiente de trabalho. </li> <li><b>Ambiente Colaborativo: </b> aqui, todos contribuem para um espaço mais limpo, seguro e organizado. </li> <li><b>Desenvolvimento Contínuo: </b> apoiamos o crescimento pessoal e profissional dos nossos colaboradores. </li> <li><b>Benefícios Competitivos: </b> plano de saúde, vale-refeição, vale-transporte, entre outros. </li> <li><b>Impacto Real: </b> sua dedicação contribui diretamente para o bem-estar de toda a equipe e para a excelência dos nossos serviços. </li>  </ol> <h3><b>Descrição da Vaga </b> </h3> <p>Estamos procurando um(a) <b>Assistente de Departamento Pessoal </b> para integrar nossa equipe! </p> <p>O profissional será responsável por <b>executar e apoiar as rotinas do setor de Departamento Pessoal </b>, garantindo o cumprimento das obrigações trabalhistas, a organização dos processos e o suporte às demandas administrativas relacionadas à gestão de pessoas. </p> <h3><b>Se você é proativo(a), detalhista e busca desenvolvimento profissional em um ambiente dinâmico e colaborativo </b>, essa oportunidade é para você! </h3> <h3><b>Responsabilidades e atribuições </b> </h3> <ol> <li>Apoiar na <b>conferência e processamento da folha de pagamento </b>, férias e rescisões; </li> <li>Realizar <b>lançamentos e controles de ponto </b>, banco de horas e horas extras; </li> <li>Manter atualizados os <b>cadastros e registros de colaboradores </b> nos sistemas internos; </li> <li>Auxiliar no <b>processo de admissão, demissão e movimentações internas </b>; </li> <li>Apoiar na <b>gestão de benefícios </b>, controle de afastamentos e atestados; </li> <li>Auxiliar na <b>emissão de relatórios e apoio às auditorias internas e externas </b>; </li> <li>Garantir a <b>organização dos arquivos e documentos trabalhistas </b>, conforme as normas da empresa; </li> <li>Colaborar com as demais áreas do RH em projetos e ações voltadas à melhoria dos processos e à satisfação dos colaboradores. </li>  </ol> <h3><b>Requisitos e Qualificações </b> </h3> <ol> <li>Experiência anterior na área de Departamento Pessoal; </li> <li>Conhecimento em <b>rotinas trabalhistas, controle de ponto e folha de pagamento </b>; </li> <li>Domínio do pacote Office (especialmente Excel); </li> <li>Organização, responsabilidade e atenção aos detalhes; </li> <li>Boa comunicação e capacidade de trabalho em equipe; </li> <li><b>Ensino médio completo </b> – curso técnico ou <b>superior em andamento em RH, Administração ou áreas correlatas </b> será considerado um diferencial. </li>  </ol> <h3><b>INFORMAÇÕES ADICIONAIS </b> </h3> <p>  Vale alimentação R$ 20,00 </p> <p>🚕 Passe livre ( composto de 8 viagens por dia) ou Auxílio combustível R$ 180,00 </p> <p>🚑 Plano de saúde e odonto </p> <p>🛡️ Seguro de vida </p> <p>  Day off no seu aniversário </p> <p>  Kit bebê para filhos recém nascidos de colaboradores </p> <p>    Auxílio creche </p> <p> ️♀️ Gympass </p> <p> ⚖️ Apoio pass </p> <p>  Plano de bolsa de estudos </p> <p>  Programa viver bem </p> <p>   Plataforma Twygo com cursos gratuitos e certificados </p> <p>  Presente e comemoração de aniversariantes </p> <p>  Plano de carreira </p> </p> #J-18808-Ljbffr",
+    "company": "Cooperflora",
+    "city": "goiânia",
+    "state": "goiás",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841241__1953_4d068fff61f0bd2737963dcd2b47fd77?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=goiânia&geoID=3432"
+  },
+  {
+    "title": "Recepcionista",
+    "description": "<p><h3>Missão da Vaga </h3> <p>Garantir um atendimento humanizado, eficiente e organizado aos pacientes, contribuindo para o bom funcionamento do consultório odontológico. </p> <h3>Responsabilidades </h3> <ul> <li>Recepção e acolhimento de pacientes </li> <li>Agendamento e confirmação de consultas </li> <li>Organização da agenda dos dentistas </li> <li>Atendimento telefônico e via WhatsApp </li> <li>Cadastro e atualização de prontuários eletrônico </li> <li>Controle de pagamentos, recebimentos e emissão de nota fiscal </li> <li>Organização de documentos e arquivos </li> <li>Apoio na gestão de materiais e estoque </li>  </ul> <h3>Requisitos </h3> <ul> <li>Ensino médio completo (desejável curso técnico ou superior em áreas administrativas) </li> <li>Experiência anterior em recepção ou atendimento em clínicas de saúde </li> <li>Boa comunicação verbal e escrita. </li> <li>Organização, proatividade e empatia. </li> <li>Conhecimento básico em informática pacote office (Word, Excel, sistemas de agendamento). </li>  </ul> <h3>Diferenciais </h3> <ul> <li>Experiência em consultório odontológico. </li> <li>Conhecimento em sistemas de gestão odontológica </li>  </ul> </p> #J-18808-Ljbffr",
+    "company": "Smith von Schleicher + Associates",
+    "city": "brasília",
+    "state": "região centro- este",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841264__1953_6d259f1f42b15721f4a1d8e62f731856?utm_source=1953&utm_medium=feed&keyword=Recepcionista&location=brasília&geoID=1366"
+  },
+  {
+    "title": "Analista Monitoramento e Observabilidade Sr (Infraestrutura de TI)",
+    "description": "<h3>Analista Monitoramento e Observabilidade Sr (Infraestrutura de TI) </h3><h3>Psicóloga | Analista de RH | Recrutamento e Seleção </h3><p><strong>Seu futuro merece essa energia! </strong> </p><p>Nós acreditamos que a energia que você dedica à sua carreira merece retorno. </p><p>Por isso, reconhecemos a dedicação das nossas pessoas e estamos sempre em busca de quem deseja fazer a diferença e construir uma trajetória próspera e segura. </p><p>Na CPFL, você encontra um ambiente sólido para crescer com confiança, com segurança para evoluir e espaço para construir um futuro com propósito. </p><p><strong>Analista Monitoramento e Observabilidade Sr (Infraestrutura de TI) </strong> </p><p><strong>Modelo de trabalho:  </strong>Presencial </p><p><strong>Empresa:  </strong>CPFL RGE – Uma empresa do Grupo CPFL Energia. </p><ul><li>Necessário ensino superior completo em Tecnologia da Informação, Engenharia da Computação, Gestão de TI ou áreas correlatas; </li><li>Desejável certificações em ITIL, monitoramento de infraestrutura, observabilidade ou segurança; </li><li>Necessário experiência em monitoramento e observabilidade; </li><li>Atuação prévia em NOC, SOC, command center ou service desk 24x7; </li><li>Gestão de eventos críticos e boas práticas de monitoração proativa; </li><li>Processos de escalonamento de incidentes e acionamento de equipes técnicas; </li><li>Disponibilidade para atuar em Campinas, SP. </li><li>Experiência sólida com plataformas como Datadog, Splunk, Zabbix, Grafana, Dynatrace, New Relic ou similares. </li><li>Processos de escalonamento de incidentes e acionamento de equipes técnicas. </li><li>Gestão de eventos críticos e boas práticas de monitoração proativa. </li> </ul><p><strong>Habilidades comportamentais: </strong> </p><ul><li>Liderança e postura estratégica em momentos de crise, com comunicação clara e assertiva. </li><li>Raciocínio analítico e atenção a detalhes. </li><li>Comunicação objetiva e clara. </li><li>Capacidade analítica e foco em detalhes, especialmente sob pressão. </li> </ul><p><strong>O seu dia a dia: </strong> </p><ul><li>Supervisionar ferramentas de monitoramento e observabilidade, garantindo eficiência e qualidade no acompanhamento de ambientes críticos. </li><li>Atuar no acionamento e coordenação de times técnicos em incidentes, priorizando a rápida mitigação de impactos. </li><li>Conduzir war rooms e follow-ups estruturados em crises, produzindo relatórios e indicadores executivos. </li><li>Promover a melhoria contínua de dashboards, alertas e processos de monitoramento, em parceria com áreas técnicas. </li><li>Atualizar e manter documentação, playbooks e análises post-mortem, assegurando governança e lições aprendidas. </li> </ul><p><strong>O que oferecemos: </strong> </p><ul><li>Vale Refeição; </li><li>Vale Alimentação; </li><li>Assistência Médica; </li><li>Assistência Odontológica; </li><li>Licença maternidade 6 meses e paternidade 20 dias </li><li>Auxílio creche (conforme regras de elegibilidade); </li><li>Programa Fale Comigo (assessoria gratuita e sigilosa via telefone para auxílio psicológico, jurídico, financeiro, social). </li> </ul><p><strong>Conheça um pouco sobre nós: </strong> </p><p>Nós atuamos no segmento de energia elétrica do Brasil e temos uma história sólida, desde 1912, de contribuição para o desenvolvimento das cidades e estados que atendemos por meio de soluções em geração, transmissão, distribuição, comercialização de energia e prestação de serviços. </p><p>Desde 2017, o Grupo faz parte da State Grid, maior empresa de energia elétrica do mundo, fortalecendo a nossa estratégia de crescimento e o protagonismo no setor elétrico brasileiro. </p><p>Através das nossas distribuidoras levamos energia para mais de 10 milhões de endereços, o que corresponde a mais de 22 milhões de pessoas atendidas com a eficiência da nossa rede de atendimento. </p><p>Acreditamos que equipes plurais e um ambiente inclusivo para todas as pessoas são fundamentais para a sustentabilidade de organizações inovadoras e com foco em clientes, por isso, valorizamos a pluralidade e orientamos nossas ações para garantir uma cultura inclusiva e oportunidades a todas as pessoas. </p><p>Quer saber mais sobre o Grupo CPFL? Acesse:  </p><p>Itatiba, São Paulo, Brazil R$2,001 - R$3,000 1 month ago </p><p>Hortolândia, São Paulo, Brazil 3 weeks ago </p><p>Americana, São Paulo, Brazil 4 months ago </p><h3>Analista de Tecnologia da Informação (PMO de T.I) </h3><p>Vinhedo, São Paulo, Brazil R$4,500 - R$4,500 1 week ago </p><p>Campinas, São Paulo, Brazil R$2,500 - R$2,500 2 weeks ago </p><p>Campinas, São Paulo, Brazil 52 minutes ago </p> #J-18808-Ljbffr",
+    "company": "CPFL Energia",
+    "city": "campinas",
+    "state": "são paulo",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841282__1953_91ee9dba4617be3791ad8deceb818f3f?utm_source=1953&utm_medium=feed&keyword=Analista-Monitoramento-e&location=campinas&geoID=1713"
+  },
+  {
+    "title": "PESSOA TÉCNICO DE ENFERMAGEM CENTRO CIRÚRGICO - OFTALMOCASA - BARRA DA TIJUCA - RJ /CLT",
+    "description": "<p><p>Somos a Rede Hospital Casa, um dos maiores operadores médicos hospitalares independentes do estado do Rio de Janeiro. <b>O ACOLHIMENTO COMO NOSSO JEITO DE CUIDAR </b> está entre os nossos principais valores. </p><p>Estamos em busca de um profissional para atuar como <b>TÉCNICO DE ENFERMAGEM CC </b> que seja proativo, cuidadoso, dedicado e que tenha uma atenção e amor com seus processos de trabalho. </p><h3>Suas principais atividades serão: </h3><ul><li>Participar e dar continuidade às atividades determinadas pela Gerência, Coordenação e Supervisão de Enfermagem; </li><li>Exercer a função assistencial, educativa e social em concordância com a Gerência de Enfermagem; auxiliar na identificação dos fatores que favorecem e os que dificultam o processo de enfermagem; </li><li>Zelar pelas condições ambientais de segurança do setor buscando o bem-estar da equipe interdisciplinar; </li><li>Solucionar as intercorrências, visando um bom padrão de assistência ao cliente; </li><li>Prestar assistência aos pacientes, atendendo suas necessidades básicas (higiene e conforto, apoio emocional), zelando pela sua segurança; </li><li>Participar de reuniões com a Gerência, Coordenação e/ou Supervisão de Enfermagem quando solicitado; </li><li>Participar da passagem de plantão dentro da sala operatória, checando organização da mesma, conferindo materiais, incluindo equipamentos necessários ao ato anestésico-cirúrgico e materiais que necessitam de data em dia; </li><li>Fazer cumprir as normas e rotinas já existentes, incluindo as da Comissão de Controle de Infecções Hospitalares (CCIH), de acordo com os Procedimentos Operacionais Padrão (POP); </li><li>Ser assíduo, pontual e disciplinado; </li><li>Manter sua chefia direta informadas sobre intercorrências do serviço, solicitando da mesma, quando necessário, as devidas providências; </li><li>Responsabilizar-se por toda aparelhagem de sua sala operatória, zelando pelo seu uso adequadamente; </li><li>Comunicar ao enfermeiro supervisor qualquer defeito ou anormalidades ocorridas com materiais e equipamentos em sala; </li><li>Avaliar a necessidade de material permanente (Braçadeira de Pressão não invasiva - PNI, cabo de oxímetro e etc) e comunicar a sua chefia direta, para que seja providenciada a sua reposição; </li><li>Avaliar a necessidade de material descartável de consumo (Campos de cobertura cirurgica (LPS), campos de mesa auxiliar e etc) providenciando a sua reposição; </li><li>Realizar reposição dos impressos da sala cirúrgica; </li><li>Usar adequadamente os Equipamentos de Proteção Individual (EPIs), de acordo com ambiente e/ou tipo de trabalho realizado e a Norma Regulamentadora 32 (NR32); </li><li>Preencher no primeiro horário do plantão o check list da sala de cirurgia repondo os materiais faltantes; </li><li>Estar ciente das cirurgias marcadas para a sala sob sua responsabilidade; </li><li>Prover materiais e equipamentos adequados para sala cirúrgica, de acordo com cada tipo de cirurgia e com as necessidades individuais do paciente de acordo com os Procedimentos Operacionais Padrão (POP) de preparo de sala operatória; </li><li>Observar as condições de limpeza da sala cirúrgica no início do dia e se a mesma não estiver em condições satisfatórias, solicitar a equipe de higienização do plantão; </li><li>Checar o funcionamento da régua de gases, aparelhos de anestesia, monitores multi parâmetros, iluminação da sala e focos. Qualquer defeito apresentado comunicar ao enfermeiro supervisor do plantão; </li><li>Solicitar o paciente ao maqueiro, quando delegado pelo enfermeiro; </li><li>Assegurar as conformidades quanto às metas planejadas pelo Núcleo de Segurança do Paciente (NSP); </li><li>Identificar as não conformidades e comunicar o enfermeiro para realizar a Notificação do NSP; </li><li>Realizar admissão do paciente no centro cirúrgico, quando delegado pelo enfermeiro, dando continuidade ao preenchimento de Sistematização de Assistência de Enfermagem Perioperatória (SAEP); </li><li>Cumprir e fazer cumprir o código de ética da enfermagem. </li> </ul><h3>Esperamos que você tenha: </h3><ul><li>Mínimo de 6 meses de experiência na função; </li><li>Experiência em central de material e esterilização; </li><li>Diferencial experiência em centro cirúrgico oftalmológico; </li><li>Coren ativo; </li> </ul><h3>Conheça os benefícios que oferecemos para você: </h3><ul><li>Vale Transporte; </li><li>Refeição no Local; </li><li>Convênio Médico; </li><li>Convênio Odontológico; </li> </ul><h3>Horário de trabalho: </h3><p>Diarista, 8 as 17 hrs </p><p><b>Possui todos os requisitos e se identifica? Venha fazer parte da nossa casa! </b> </p> </p> #J-18808-Ljbffr",
+    "company": "Hospitalcasaevangelico",
+    "city": "rio de janeiro",
+    "state": "rio de janeiro",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841284__1953_53813bf4e5bfa8cc2eec45208d224cfd?utm_source=1953&utm_medium=feed&keyword=PESSOA-T%C3%89CNICO-DE&location=rio-de-janeiro&geoID=19"
+  },
+  {
+    "title": "Farmacêutico Substituto Jr. (Bairro: Jd. Petrópolis - Filial: 026)",
+    "description": "<p><p>A Rede Drogal está em busca de um profissional para atuar como Farmacêutico. </p><p>O Farmacêutico Substituto desempenha um papel crucial na garantia da qualidade e segurança dos serviços farmacêuticos prestados pela drogaria. Ele é responsável por garantir o cumprimento das regulamentações locais e nacionais, oferecer orientações aos clientes sobre medicamentos e cuidados de saúde, além de supervisionar as atividades relacionadas à dispensação de medicamentos. </p><p>Para esta posição é necessário ter CRF ativo e disponibilidade de horário (Tarde/Noite) e escala 6x1. Com a possibilidade de mudar para o horário da manhã conforme a necessidade da loja. </p><b>Drogal, Feita por Pessoas, Feita com o Coração! </b> </p> #J-18808-Ljbffr",
+    "company": "Drogal",
+    "city": "petrópolis",
+    "state": "rio de janeiro",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841288__1953_a1e5fd40685f525e36267008f9c187d6?utm_source=1953&utm_medium=feed&keyword=Farmac%C3%AAutico-Substituto-Jr&location=petrópolis&geoID=6560"
+  },
+  {
+    "title": "Banco de Talentos - Agente de Atendimento I - EXCLUSIVA PCD",
+    "description": "<p><h3>Overview </h3><p>Banco de Talentos - Agente de Atendimento I - EXCLUSIVA PCD </p><p>Nosso banco de talentos busca atrair candidaturas de profissionais PCD da área de atendimento, de todo o Brasil. Com a MICHELIN Connected Fleet indo cada vez mais longe, esperamos encontrar logo com você. </p><p>A inscrição em nosso banco de talentos não garante a contratação, pois dependerá da disponibilidade de vagas e avaliação de currículos e requisitos de cada uma das oportunidades. </p><h3>Benefícios </h3><ul><li>Vale transporte ou reembolso do fretado </li><li>Vale refeição ou alimentação </li><li>Cartão Multibenefícios </li><li>Plano de saúde e odontológico </li><li>Participação de resultados </li><li>Auxílio creche </li><li>Licença parental estendida (6 meses para mulheres e 20 dias para homens) </li><li>Seguro de vida </li><li>Gympass </li><li>Empréstimo consignado </li><li>Plano de aquisição de ações </li><li>Day off aniversário </li><li>Convênios de desconto com empresas parceiras (escola de idiomas, faculdades) </li><li>Descontos na compra de pneus Michelin </li><li>Campanha anual de vacinação contra a gripe </li><li>Programa de promoção da saúde psicológica </li> </ul><p>Esclarecimento: Informamos que não contratamos empresas terceiras que cobrem dos candidatos pela participação em nossos processos. Caso tenha dúvidas, procure nossos canais oficiais ou nossos recrutadores! </p> </p> #J-18808-Ljbffr",
+    "company": "Michelin Reifenwerke AG & Co. KGaA",
+    "city": "curitiba",
+    "state": "paraná",
+    "tipo": "",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_9841292__1953_39188be82d66371132f62cc2a43dc033?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=curitiba&geoID=2691"
   }
 ]
