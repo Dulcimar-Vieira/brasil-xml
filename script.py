@@ -160,10 +160,6 @@ def build_job(elem):
     if not title or not url or not city or not state or not pub_dt:
         return None
 
-    today = datetime.now(TIMEZONE).date()
-    if pub_dt.date() != today:
-        return None
-
     if not job_matches(city, title, description):
         return None
 
@@ -191,25 +187,38 @@ def job_matches(city, title, description):
     return True
 
 def seasonal_score(job):
-    text = normalize_salary_text(f"{job.get('title', '')} {job.get('description', '')} {job.get('company', '')}")
-    strong_terms = (
-        'extra natal', 'temporario natal', 'temporaria natal',
-        'temporario de natal', 'temporaria de natal', 'vagas natalinas',
+    title = normalize_salary_text(job.get('title', ''))
+    description = normalize_salary_text(clean_html(job.get('description', '')))
+    company = normalize_salary_text(job.get('company', ''))
+    text = f'{title} {description} {company}'
+    explicit_terms = (
+        'extra natal', 'extra de natal', 'temporario natal', 'temporaria natal',
+        'temporario de natal', 'temporaria de natal',
+        'temporarios de natal', 'temporarias de natal', 'vagas natalinas',
+        'natalino', 'natalina', 'natalinos', 'natalinas',
         'natal 2026', 'fim de ano', 'final de ano', 'temporada de natal',
-        'black friday', 'black friday 2026',
+        'black friday', 'black friday 2026', 'reforco de natal',
+        'reforco para o natal', 'contratacao de natal', 'vagas para o natal',
+        'temporario de fim de ano', 'temporaria de fim de ano',
     )
-    broad_terms = ('natal', 'papai noel', 'temporario', 'temporaria', 'temporarios', 'temporarias', 'auxiliar de loja', 'vendedor temporario', 'atendente temporario')
-    if any(term in text for term in strong_terms):
+    if any(term in text for term in explicit_terms):
         return 2
-    if any(term in text for term in broad_terms):
+
+    temporary_terms = ('temporario', 'temporaria', 'temporarios', 'temporarias', 'contrato temporario', 'contratacao temporaria')
+    retail_terms = (
+        'estoquista', 'vendedor', 'vendedora', 'atendente',
+        'operador de caixa', 'operadora de caixa', 'repositor', 'repositora',
+        'auxiliar de loja', 'promotor', 'promotora', 'embalador', 'embaladora',
+        'shopping', 'loja', 'vendas',
+    )
+    if any(term in text for term in temporary_terms) and any(term in title for term in retail_terms):
         return 1
     return 0
 
 def main():
     today = datetime.now(TIMEZONE).date().isoformat()
-    print(f"📅 Data de referência: {today}")
-
-    print("📥 Baixando feed nacional do WhatJobs...")
+    print(f"📅 Data de execução: {today}")
+    print("📥 Baixando e analisando o feed nacional do WhatJobs...")
     try:
         response = requests.get(
             FEED_URL,
@@ -230,9 +239,8 @@ def main():
                 candidates[job_key(job)] = job
             elem.clear()
 
-    # Prioriza vagas explícitas de Natal/fim de ano e completa com vagas nacionais.
-    ranked = sorted(
-        candidates.values(),
+    seasonal = [job for job in candidates.values() if seasonal_score(job) > 0]
+    seasonal.sort(
         key=lambda j: (
             seasonal_score(j),
             j.get("data_publicacao", ""),
@@ -240,10 +248,14 @@ def main():
         ),
         reverse=True,
     )
-    jobs = ranked[:MAX_JOBS_PER_RUN]
+    jobs = seasonal[:MAX_JOBS_PER_RUN]
+
+    print(f"🔎 Vagas válidas analisadas no feed nacional: {len(candidates)}")
+    print(f"🎄 Vagas classificadas como Natal/fim de ano: {len(seasonal)}")
+    print(f"📦 Vagas sazonais selecionadas (limite 1.000): {len(jobs)}")
 
     if not jobs:
-        raise SystemExit("❌ Nenhuma vaga válida encontrada; arquivos anteriores preservados.")
+        raise SystemExit("❌ Não foram encontradas vagas sazonais. Os arquivos publicados foram preservados para evitar substituir o feed por um arquivo vazio.")
 
     os.makedirs(OUTPUT_FOLDER, exist_ok=True)
     for filename in os.listdir(OUTPUT_FOLDER):
@@ -254,12 +266,6 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(jobs, f, ensure_ascii=False, indent=2)
 
-    sazonal_total = sum(1 for job in candidates.values() if seasonal_score(job) > 0)
-    natal_forte = sum(1 for job in candidates.values() if seasonal_score(job) == 2)
-    print(f"✅ Vagas válidas encontradas: {len(candidates)}")
-    print(f"🎄 Vagas específicas de Natal/fim de ano: {natal_forte}")
-    print(f"🛍️ Vagas sazonais relacionadas: {sazonal_total}")
-    print(f"📦 Vagas selecionadas (limite 1.000): {len(jobs)}")
-    print(f"📄 Gerado: {output_path}")
+    print(f"✅ Feed sazonal pronto: {output_path}")
 if __name__ == "__main__":
     main()
