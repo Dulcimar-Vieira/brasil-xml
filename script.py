@@ -141,23 +141,40 @@ def gerar_intro(titulo, cidade):
     ]
     return random.choice(intros)
 
+def local_name(tag):
+    # ElementTree inclui {namespace} no nome quando o XML usa namespace.
+    return str(tag).rsplit('}', 1)[-1].split(':')[-1].lower()
+
+def find_node(element, path):
+    current = element
+    for part in path.split('/') if path else []:
+        if current is None:
+            return None
+        wanted = part.lower()
+        current = next((child for child in list(current) if local_name(child.tag) == wanted), None)
+    return current
+
+def text_at(element, path):
+    node = find_node(element, path)
+    if node is None:
+        return ''
+    return ''.join(node.itertext()).strip()
+
 def build_job(elem):
-    title = elem.findtext("title", "").strip()
-    description = elem.findtext("description", "").strip()
-    company = elem.findtext("company/name", "").strip() or "Confidencial"
-    url = elem.findtext("urlDeeplink", "").strip() or elem.findtext("link", "").strip()
-    job_type = elem.findtext("jobType", "").strip()
-    source_salary = elem.findtext("salary", "").strip()
-    location_elem = elem.find("locations/location")
-    city = location_elem.findtext("city", "").strip() if location_elem is not None else elem.findtext("city", "").strip()
-    state = location_elem.findtext("state", "").strip() if location_elem is not None else elem.findtext("state", "").strip()
+    title = text_at(elem, "title")
+    description = text_at(elem, "description")
+    company = text_at(elem, "company/name") or "Confidencial"
+    url = text_at(elem, "urlDeeplink") or text_at(elem, "link")
+    job_type = text_at(elem, "jobType")
+    source_salary = text_at(elem, "salary")
+    location_elem = find_node(elem, "locations/location")
+    city = text_at(location_elem, "city") if location_elem is not None else text_at(elem, "city")
+    state = text_at(location_elem, "state") if location_elem is not None else text_at(elem, "state")
+    pub_raw = text_at(elem, "pubdate") or text_at(elem, "pubDate")
+    updated_raw = text_at(elem, "updated")
+    pub_dt = parse_date(pub_raw) or parse_date(updated_raw)
 
-    pub_raw = elem.findtext("pubdate", "").strip() or elem.findtext("pubDate", "").strip()
-    updated_raw = elem.findtext("updated", "").strip()
-    pub_dt = parse_date(pub_raw)
-    updated_dt = parse_date(updated_raw)
-
-    if not title or not url or not city or not state or not pub_dt:
+    if not title or not url or not city or not state:
         return None
 
     if not job_matches(city, title, description):
@@ -165,9 +182,6 @@ def build_job(elem):
 
     salary = extract_salary(source_salary, description)
     description = clean_html(description)
-    if False:
-        description = gerar_intro(title, city) + "\n\n" + description
-
     return {
         "id": hashlib.md5(f"{title}-{company}-{city}-{url}".encode("utf-8")).hexdigest(),
         "title": title,
@@ -178,8 +192,8 @@ def build_job(elem):
         "state": state,
         "url": url,
         "tipo": job_type,
-        "data_publicacao": pub_dt.date().isoformat(),
-        "data_atualizacao": updated_dt.date().isoformat() if updated_dt else "",
+        "data_publicacao": pub_dt.date().isoformat() if pub_dt else "",
+        "data_atualizacao": updated_dt.date().isoformat() if (updated_dt := parse_date(updated_raw)) else "",
         "origem": "WhatJobs",
     }
 
@@ -230,13 +244,18 @@ def main():
         raise SystemExit(f"❌ Erro ao baixar o feed: {e}")
 
     candidates = {}
+    jobs_seen = 0
+    jobs_rejected = 0
     with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
         for event, elem in ET.iterparse(f, events=("end",)):
-            if elem.tag != "job":
+            if local_name(elem.tag) != "job":
                 continue
+            jobs_seen += 1
             job = build_job(elem)
             if job:
                 candidates[job_key(job)] = job
+            else:
+                jobs_rejected += 1
             elem.clear()
 
     seasonal = [job for job in candidates.values() if seasonal_score(job) > 0]
@@ -250,7 +269,9 @@ def main():
     )
     jobs = seasonal[:MAX_JOBS_PER_RUN]
 
-    print(f"🔎 Vagas válidas analisadas no feed nacional: {len(candidates)}")
+    print(f"🔎 Registros <job> lidos no XML: {jobs_seen}")
+    print(f"✅ Vagas com os campos essenciais: {len(candidates)}")
+    print(f"↩️ Registros descartados por dados obrigatórios: {jobs_rejected}")
     print(f"🎄 Vagas classificadas como Natal/fim de ano: {len(seasonal)}")
     print(f"📦 Vagas sazonais selecionadas (limite 1.000): {len(jobs)}")
 
