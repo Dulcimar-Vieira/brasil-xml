@@ -11,7 +11,6 @@ import re
 import unicodedata
 import xml.etree.ElementTree as ET
 from datetime import datetime
-from collections import Counter
 from zoneinfo import ZoneInfo
 
 import requests
@@ -247,33 +246,11 @@ def main():
     candidates = {}
     jobs_seen = 0
     jobs_rejected = 0
-    jobtype_total = 0
-    jobtype_nonempty = 0
-    jobtype_values = Counter()
-    type_related_tags = Counter()
-    type_related_values = {}
     with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
         for event, elem in ET.iterparse(f, events=("end",)):
             if local_name(elem.tag) != "job":
                 continue
             jobs_seen += 1
-
-            # Diagnóstico do XML original: conta jobType e possíveis campos equivalentes.
-            for node in elem.iter():
-                tag = local_name(node.tag)
-                if any(term in tag for term in ("type", "employment", "contract", "category")):
-                    type_related_tags[tag] += 1
-                    value = " ".join("".join(node.itertext()).split())
-                    if value:
-                        values = type_related_values.setdefault(tag, Counter())
-                        values[value] += 1
-            for node in elem.iter():
-                if local_name(node.tag) == "jobtype":
-                    jobtype_total += 1
-                    value = " ".join("".join(node.itertext()).split())
-                    if value:
-                        jobtype_nonempty += 1
-                        jobtype_values[value] += 1
 
             job = build_job(elem)
             if job:
@@ -296,12 +273,6 @@ def main():
     print(f"🔎 Registros <job> lidos no XML: {jobs_seen}")
     print(f"✅ Vagas com os campos essenciais: {len(candidates)}")
     print(f"↩️ Registros descartados por dados obrigatórios: {jobs_rejected}")
-    print(f"DIAG jobType: nós encontrados={jobtype_total}; preenchidos={jobtype_nonempty}; vazios/ausentes={max(0, jobs_seen-jobtype_nonempty)}")
-    print("DIAG campos relacionados a tipo/contrato/categoria:")
-    for tag, qty in type_related_tags.most_common(25):
-        values = type_related_values.get(tag, Counter())
-        print(f"DIAG campo={tag}; nós={qty}; valores preenchidos={sum(values.values())}; mais comuns={values.most_common(8)}")
-    print(f"DIAG valores jobType mais comuns: {jobtype_values.most_common(20)}")
     print(f"🎄 Vagas classificadas como Natal/fim de ano: {len(seasonal)}")
     print(f"📦 Vagas sazonais selecionadas (limite 1.000): {len(jobs)}")
 
