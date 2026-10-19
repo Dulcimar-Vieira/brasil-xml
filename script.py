@@ -18,7 +18,7 @@ import requests
 FEED_URL = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
 OUTPUT_FOLDER = "json_parts"
 STATE_FILE = "daily_jobs_state.json"
-MAX_JOBS_PER_DAY = 100
+MAX_JOBS_PER_RUN = 1000
 TIMEZONE = ZoneInfo("America/Sao_Paulo")
 
 
@@ -168,9 +168,6 @@ def build_job(elem):
         return None
 
     salary = extract_salary(source_salary, description)
-    if not salary:
-        return None
-
     description = clean_html(description)
     if False:
         description = gerar_intro(title, city) + "\n\n" + description
@@ -193,74 +190,76 @@ def build_job(elem):
 def job_matches(city, title, description):
     return True
 
+def seasonal_score(job):
+    text = normalize_salary_text(f"{job.get('title', '')} {job.get('description', '')} {job.get('company', '')}")
+    strong_terms = (
+        'extra natal', 'temporario natal', 'temporaria natal',
+        'temporario de natal', 'temporaria de natal', 'vagas natalinas',
+        'natal 2026', 'fim de ano', 'final de ano', 'temporada de natal',
+        'black friday', 'black friday 2026',
+    )
+    broad_terms = ('natal', 'papai noel', 'temporario', 'temporaria', 'temporarios', 'temporarias', 'auxiliar de loja', 'vendedor temporario', 'atendente temporario')
+    if any(term in text for term in strong_terms):
+        return 2
+    if any(term in text for term in broad_terms):
+        return 1
+    return 0
+
 def main():
     today = datetime.now(TIMEZONE).date().isoformat()
     print(f"📅 Data de referência: {today}")
 
-    selected = load_state(today)
-    # Não reutilizar registros antigos sem remuneração validada.
-    selected = {key: job for key, job in selected.items() if has_real_salary(job.get("salary", ""))}
-
-    print("📥 Baixando feed do WhatJobs...")
+    print("📥 Baixando feed nacional do WhatJobs...")
     try:
         response = requests.get(
             FEED_URL,
             headers={"User-Agent": "Mozilla/5.0 (compatible; FeedProcessor/1.0)"},
-            timeout=60,
+            timeout=120,
         )
         response.raise_for_status()
     except requests.RequestException as e:
         raise SystemExit(f"❌ Erro ao baixar o feed: {e}")
 
     candidates = {}
-
     with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
         for event, elem in ET.iterparse(f, events=("end",)):
             if elem.tag != "job":
                 continue
             job = build_job(elem)
             if job:
-                key = job_key(job)
-                candidates[key] = job
+                candidates[job_key(job)] = job
             elem.clear()
 
-    # Atualiza o conteúdo dos jobs que já foram selecionados hoje.
-    for key in list(selected):
-        if key in candidates:
-            selected[key] = candidates[key]
+    # Prioriza vagas explícitas de Natal/fim de ano e completa com vagas nacionais.
+    ranked = sorted(
+        candidates.values(),
+        key=lambda j: (
+            seasonal_score(j),
+            j.get("data_publicacao", ""),
+            j.get("data_atualizacao", ""),
+        ),
+        reverse=True,
+    )
+    jobs = ranked[:MAX_JOBS_PER_RUN]
 
-    # Completa a cota diária com as vagas mais novas do dia.
-    novos = [
-        job for key, job in candidates.items()
-        if key not in selected
-    ]
-    novos.sort(key=lambda j: (j.get("data_publicacao", ""), j.get("data_atualizacao", "")), reverse=True)
-
-    for job in novos:
-        if len(selected) >= MAX_JOBS_PER_DAY:
-            break
-        selected[job_key(job)] = job
-
-    jobs = list(selected.values())[:MAX_JOBS_PER_DAY]
     if not jobs:
-        raise SystemExit("ERRO: nenhuma vaga com remuneração válida; os arquivos anteriores serão preservados.")
+        raise SystemExit("❌ Nenhuma vaga válida encontrada; arquivos anteriores preservados.")
 
-    # Um único JSON por execução: no máximo 100 vagas novas por dia,
-    # mantendo as mesmas vagas para atualização a cada 6 horas.
     os.makedirs(OUTPUT_FOLDER, exist_ok=True)
     for filename in os.listdir(OUTPUT_FOLDER):
-        if filename.endswith(".json"):
+        if filename.startswith("part_") and filename.endswith(".json"):
             os.remove(os.path.join(OUTPUT_FOLDER, filename))
 
     output_path = os.path.join(OUTPUT_FOLDER, "part_1.json")
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(jobs, f, ensure_ascii=False, indent=2)
 
-    save_state(today, selected)
-
-    print(f"✅ Vagas encontradas hoje: {len(candidates)}")
-    print(f"✅ Vagas selecionadas na cota do dia: {len(jobs)}")
+    sazonal_total = sum(1 for job in candidates.values() if seasonal_score(job) > 0)
+    natal_forte = sum(1 for job in candidates.values() if seasonal_score(job) == 2)
+    print(f"✅ Vagas válidas encontradas: {len(candidates)}")
+    print(f"🎄 Vagas específicas de Natal/fim de ano: {natal_forte}")
+    print(f"🛍️ Vagas sazonais relacionadas: {sazonal_total}")
+    print(f"📦 Vagas selecionadas (limite 1.000): {len(jobs)}")
     print(f"📄 Gerado: {output_path}")
-
 if __name__ == "__main__":
     main()
