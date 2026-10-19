@@ -2,6 +2,13 @@
 name: Processar Feed XML
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'script.py'
+      - 'merge_json.py'
+      - '.github/workflows/brasilia.yml'
   schedule:
     # A cada 6 horas
     - cron: "0 */6 * * *"
@@ -50,5 +57,5 @@ jobs:
           git add -f json_parts/
           git add -f merged.json
           git add -f daily_jobs_state.json
-          git commit -m "Atualização do feed - 100 vagas/dia" || echo "Nada para commitar"
+          git commit -m "Atualização do feed sazonal - até 1000 vagas" || echo "Nada para commitar"
           git push || echo "Nenhuma alteração para enviar"
