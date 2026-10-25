@@ -246,7 +246,7 @@ def main():
     candidates = {}
     jobs_seen = 0
     jobs_rejected = 0
-    with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
+    with gzip.open(io.BytesIO(response.content), "rb") as f:
         for event, elem in ET.iterparse(f, events=("end",)):
             if local_name(elem.tag) != "job":
                 continue
